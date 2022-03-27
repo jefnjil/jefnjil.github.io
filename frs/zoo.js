@@ -1,0 +1,18 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('3636741','jnjfoorprint.blogspot.com/2009/12/vs','企鵝寶貝');
+jnjRef('3400368','jnjfoorprint.blogspot.com/2009/10/blog-post_6','裕廊鳥園');
+jnjRef('6408038','jnjfoorprint.blogspot.com/2012/05/blog-post_1','侯硐貓村');
+jnjRef('3808368','jnjfoorprint.blogspot.com/2010/02/blog-post','旭山動物園');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('7764141','jnjfoorprint.blogspot.com/2013/06/blog-post_57','關西六福莊');
+jnjRef('202334','jnjfoorprint.blogspot.com/2006/03/blog-post','屏東海生館');
+jnjRef('1280615','jnjfoorprint.blogspot.com/2007/10/blog-post_41','花蓮海洋公園');
+jnjRef('1071199','jnjfoorprint.blogspot.com/2007/07/blog-post_5','加州海洋世界');
+jnjRef('7126037','jnjfoorprint.blogspot.com/2012/12/blog-post_75','哈爾濱極地館');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('3400374','jnjfoorprint.blogspot.com/2009/10/blog-post_12','新加坡動物園');
+jnjRef('3537627','jnjfoorprint.blogspot.com/2009/11/blog-post_27','海生館世界水域');
+jnjRef('3400380','jnjfoorprint.blogspot.com/2009/10/blog-post_80','夜間野生動物園');
+jnjRef('4045737','jnjfoorprint.blogspot.com/2010/05/blog-post_63','大豐蝴蝶生態園區');
+jnjRef('3760574','jnjfoorprint.blogspot.com/2010/02/blog-post_7','加州海獅環球走秀');
+jnjRefList += '</ul></p></td></tr></table>';

@@ -1,0 +1,13 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('6455626','jnjfoorprint.blogspot.com/2012/05/blog-post_32','萬達鉑爾曼飯店');
+jnjRef('20912954','jnjfoorprint.blogspot.com/2015/02/blog-post_15','麗江官房別墅');
+jnjRef('20912954','jnjfoorprint.blogspot.com/2015/02/blog-post_15','香格里拉金沙');
+jnjRef('15129583','jnjfoorprint.blogspot.com/2014/07/blog-post_15','澳門金沙城喜來登');
+jnjRef('9763680','jnjfoorprint.blogspot.com/2013/12/blog-post_20','張家界聖多明歌、萬泰酒店');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('4360434','jnjfoorprint.blogspot.com/2010/08/four-seasons-at-jimbaran-bay','金巴蘭四季戶外篇');
+jnjRef('4385512','jnjfoorprint.blogspot.com/2010/09/four-seasons-at-sayan','山妍四季戶外篇');
+jnjRef('4367965','jnjfoorprint.blogspot.com/2010/08/villa','金巴蘭四季Villa');
+jnjRef('4385716','jnjfoorprint.blogspot.com/2010/09/villa_63','山妍四季Villa');
+jnjRef('7126048','jnjfoorprint.blogspot.com/2012/12/blog-post_11','綠中海渡假村');
+jnjRefList += '</ul></p></td></tr></table>';

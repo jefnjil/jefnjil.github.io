@@ -1,0 +1,12 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('7344000','jnjfoorprint.blogspot.com/2013/02/blog-post_85','雕像篇');
+jnjRef('7343994','jnjfoorprint.blogspot.com/2013/02/blog-post_7','教堂篇');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('8293915','jnjfoorprint.blogspot.com/2013/09/blog-post_1','湖泊篇');
+jnjRef('7343989','jnjfoorprint.blogspot.com/2013/02/blog-post','摩天輪篇');
+jnjRef('8074395','jnjfoorprint.blogspot.com/2013/08/blog-post','正版與山寨');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('16469250','jnjfoorprint.blogspot.com/2014/08/blog-post','旅途中的藝術');
+jnjRef('7344006','jnjfoorprint.blogspot.com/2013/02/blog-post_27','馬年迎新送舊');
+jnjRef('20985449','jnjfoorprint.blogspot.com/2015/02/blog-post_18','羊年迎新懷舊');
+jnjRefList += '</ul></p></td></tr></table>';

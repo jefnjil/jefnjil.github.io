@@ -1,0 +1,16 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('26147772','jnjtalks.blogspot.com/2016/03/blog-post_5','植牙記');
+jnjRef('2241898','jnjtalks.blogspot.com/2008/09/blog-post','治牙蟲');
+jnjRef('1162100','jnjhome.blogspot.com/2007/08/blog-post','禍從天降');
+jnjRef('116146549','jnjfoorprint.blogspot.com/2018/09/blog-post_20','中禪寺湖');
+jnjRef('114770075','jnjfoorprint.blogspot.com/2018/09/blog-post','忍野八海');
+jnjRef('116976015','jnjhome.blogspot.com/2018/10/george','正顎日記');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('119113736','jnjfoorprint.blogspot.com/2018/11/blog-post','雪國之宿高半');
+jnjRef('115011695','jnjdining.blogspot.com/2018/09/blog-post','花酒蔵海鮮吧');
+jnjRef('118824946','jnjfoorprint.blogspot.com/2018/10/blog-post_29','湯澤町諏訪神社');
+jnjRef('115622886','jnjfoorprint.blogspot.com/2018/09/blog-post_13','紀州庵文學森林');
+jnjRef('115756416','jnjfoorprint.blogspot.com/2018/09/blog-post_17','明智平，日光街頭');
+jnjRef('2973506','jnjtalks.blogspot.com/2009/05/blog-post_22','粉刺之王──粉瘤');
+jnjRef('23349915','jnjtalks.blogspot.com/2015/05/blog-post','大腸鏡檢查及息肉切除');
+jnjRefList += '</ul></p></td></tr></table>';

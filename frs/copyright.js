@@ -1,0 +1,12 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('965788','jnjtech.blogspot.com/2007/05/blog-post','網路上的隱私');
+jnjRef('416471','jnjtalks.blogspot.com/2006/08/blog-post','網路發表與出版');
+jnjRef('383701','jnjtalks.blogspot.com/2006/08/blog-post_4','資訊氾濫的時代');
+jnjRef('10136490','jnjtalks.blogspot.com/2013/12/blog-post','霍夫曼黃色小鴨所謂授權');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('22641592','jnjhome.blogspot.com/2015/04/blog-post_29','第一場智財權官司');
+jnjRef('383672','jnjblogbiz.blogspot.com/2006/08/blog','淺談Blog的著作權問題');
+jnjRef('542700','jnjblogbiz.blogspot.com/2006/11/blog-post','美妙音樂的面孔猙獰');
+jnjRef('4392672','jnjblogbiz.blogspot.com/2010/09/youtube','著作權的界限──YouTube背景音樂侵權');
+jnjRef('2949366','jnjtech.blogspot.com/2009/05/blog-post','如何避免令人不快的廣告出現在自己的部落格');
+jnjRefList += '</ul></p></td></tr></table>';

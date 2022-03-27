@@ -1,0 +1,17 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('30940925','jnjfoorprint.blogspot.com/2015/09/blog-post_28','星野渡假村トマム');
+jnjRef('35317320','jnjfoorprint.blogspot.com/2016/05/blog-post_43','札幌文藝復興飯店');
+jnjRef('12257339','jnjfoorprint.blogspot.com/2014/04/blog-post_4','仙台Best Western');
+jnjRef('12234501','jnjfoorprint.blogspot.com/2014/04/blog-post_21','鶯宿溫泉森之風');
+jnjRef('11610365','jnjfoorprint.blogspot.com/2014/03/blog-post_9','駒岳格蘭飯店');
+jnjRef('129232179','jnjfoorprint.blogspot.com/2019/09/sanga-nikko-stay','日光黑山旅館');
+jnjRef('11747622','jnjfoorprint.blogspot.com/2014/03/blog-post_15','安比高原大飯店');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('3808367','jnjfoorprint.blogspot.com/2010/02/blog-post_39','佐呂間湖鶴雅飯店');
+jnjRef('6106561','jnjfoorprint.blogspot.com/2012/02/blog-post_64','別府清風、阿蘇飯店、龜之井');
+jnjRef('4641866','jnjfoorprint.blogspot.com/2010/11/blog-post_81','東橫國際山幸閣');
+jnjRef('2613492','jnjfoorprint.blogspot.com/2009/02/blog-post_3','湯屋和牛帝王蟹');
+jnjRef('129106936','jnjfoorprint.blogspot.com/2019/09/best-western','鶴見Best Western酒店');
+jnjRef('129335785','jnjfoorprint.blogspot.com/2019/09/apartment-sun-bright','品川陽光明媚公寓');
+jnjRef('165444598','jnjhome.blogspot.com/2021/07/blog-post','古早時國外住宿：日本');
+jnjRefList += '</ul></p></td></tr></table>';

@@ -1,0 +1,17 @@
+switch(docID)
+{
+	case "5920197425102400750": 	reg="expo";	uss="620428";	break;
+	case "4837911620855468550": 	uMedia="12774/4675969";	reg="nikko";	uss="579872";	umd="2020.7.3";	break;
+	case "6927681839066953850": 	uMedia="12749/5129975";	reg="hualien";	uss="626222";	umd="2020.12.29";	break;
+	case "1672643516555171750": 	reg="lijiang";	uss="453772";	break;
+	case "9084421966450932950": 	reg="news";	break;
+	case "1875523232182128450": 	reg="tech";	break;
+	case "7601082383874050750": 	reg="award";	break;
+	case "6918396687865469450": 	reg="ahsc";	uss="504792";	udn="2016.6.27";	break;
+	case "3228536437716174250": 	reg="bjsh";	uss="375636";	break;
+	case "3524562653717388350": 	reg="comment";	break;
+	case "6384773968598410350": 	reg="zjj";	uss="426372";	break;
+	case "7947679868932576150": 	reg="jr16";	uss="579877";	udn="2018.4.5";	break;
+	case "3052135168763962450": 	break;
+	case "354579298172403950": 	break;
+}

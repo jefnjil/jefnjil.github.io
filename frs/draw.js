@@ -1,0 +1,17 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>繼續欣賞</b>';
+jnjRef('168993','jnjhome.blogspot.tw/2006/02/blog-post_68','喵咪');
+jnjRef('188724','jnjhome.blogspot.com/2006/02/blog-post','餅乾');
+jnjRef('171146','jnjhome.blogspot.tw/2006/02/blog-post_7','我的家人');
+jnjRef('167743','jnjhome.blogspot.tw/2006/02/blog-post_93','嬰兒爸爸');
+jnjRef('219409','jnjhome.blogspot.com/2006/03/blog-post_28','夏天裡的魚');
+jnjRef('167724','jnjhome.blogspot.com/2006/02/blog-post_3','回歸大海');
+jnjRef('5212366','jnjfoorprint.blogspot.com/2011/05/palazzo-della-signoria','藝文薈萃領主宮');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('169002','jnjhome.blogspot.tw/2006/02/elaine_5','夢遊仙境');
+jnjRef('228113','jnjhome.blogspot.com/2006/04/elaine_5','去買衣服');
+jnjRef('202300','jnjhome.blogspot.com/2006/03/elaine_12','和哥哥聊天');
+jnjRef('188708','jnjhome.blogspot.com/2006/02/elaine','可愛的小Elaine');
+jnjRef('168987','jnjhome.blogspot.tw/2006/02/elaine_65','上學去');
+jnjRef('169080','jnjhome.blogspot.tw/2006/02/blog-post_5','黃星星和白星星一起玩');
+jnjRef('167714','jnjfoorprint.blogspot.com/2006/02/101','101大樓元旦焰火秀');
+jnjRefList += '</ul></p></td></tr></table>';

@@ -1,0 +1,16 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('61818628','jnjfoorprint.blogspot.com/2016/07/crowne-plaza','斯洛伐克 Crowne Plaza');
+jnjRef('56604819','jnjfoorprint.blogspot.com/2016/06/novotel','布達佩斯 Novotel');
+jnjRef('74666773','jnjfoorprint.blogspot.com/2016/12/bellevue','庫倫洛夫 Bellevue');
+jnjRef('74666439','jnjfoorprint.blogspot.com/2017/02/clarion-congress','布拉格嘹亮國會');
+jnjRef('74668943','jnjfoorprint.blogspot.com/2017/06/mercure-salzburg-central','薩爾斯堡中心美居');
+jnjRef('74669195','jnjfoorprint.blogspot.com/2016/11/austria-trend-hotel-doppio','維也納 Trend Doppio');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('4926106','jnjfoorprint.blogspot.com/2011/02/blog-post_9','威尼斯 Bonvecchiati');
+jnjRef('26147302','jnjfoorprint.blogspot.com/2015/07/melia-white-house','倫敦美利亞白宮');
+jnjRef('167746','jnjfoorprint.blogspot.com/2006/02/stratosphere','拉斯維加斯凌霄塔');
+jnjRef('99865784','jnjfoorprint.blogspot.com/2017/05/crowne-plaza-harrahs-qantas','賭城 Harrah’s');
+jnjRef('99865784','jnjfoorprint.blogspot.com/2017/05/crowne-plaza-harrahs-qantas','洛城 Crowne Plaza');
+jnjRef('165634344','jnjhome.blogspot.com/2021/07/blog-post_23','古早時國外住宿：英國');
+jnjRef('165822068','jnjhome.blogspot.com/2021/07/blog-post_28','古早時國外住宿：美國、夏威夷');
+jnjRefList += '</ul></p></td></tr></table>';

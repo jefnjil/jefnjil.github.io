@@ -1,0 +1,11 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('167714','jnjfoorprint.blogspot.com/2006/02/101','101大樓元旦焰火秀');
+jnjRef('154097','jnjfoorprint.blogspot.com/2006/01/blog-post_75','跨年夜糗事');
+jnjRef('3642214','jnjfoorprint.blogspot.com/2009/12/2010101','2010年──沒看到');
+jnjRef('5212366','jnjfoorprint.blogspot.com/2011/05/palazzo-della-signoria','藝文薈萃領主宮');
+jnjRefList += '</ul></p></td><td valign=top><p><ul><b>101跨年煙火秀影片</b>';
+jnjRef('448859','jnjfoorprint.blogspot.com/2006/09/2006101','2006年');
+jnjRef('625647','jnjfoorprint.blogspot.com/2007/01/2007101','2007年');
+jnjRef('1500370','jnjfoorprint.blogspot.com/2008/01/2008101','2008年');
+jnjRef('2524690','jnjfoorprint.blogspot.com/2009/01/2009101','2009年');
+jnjRefList += '</ul></p></td></tr></table>';

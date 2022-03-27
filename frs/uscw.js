@@ -1,0 +1,12 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('6543191','jnjmvtv.blogspot.com/2012/06/hatfields-and-mccoys','血仇');
+jnjRef('4493812','jnjmvtv.blogspot.com/2010/10/310310-to-yuma','決戰3:10');
+jnjRef('8216055','jnjmvtv.blogspot.com/2013/08/hell-on-wheels','地獄之輪');
+jnjRef('30460529','jnjmvtv.blogspot.com/2015/09/hell-on-wheels','華工血淚');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('7627513','jnjmvtv.blogspot.com/2013/05/gettysburg','蓋茨堡戰役');
+jnjRef('639566','jnjmvtv.blogspot.com/2007/01/blog-post','衝出寧靜號、螢火蟲');
+jnjRef('3654343','jnjmvtv.blogspot.com/2010/01/avatar','觀阿凡達有感');
+jnjRef('7471594','jnjmvtv.blogspot.com/2013/04/lincolngods-and-generals','林肯與諸神眾將');
+jnjRef('101778224','jnjmvtv.blogspot.com/2017/06/1960nasacomputer-katherine-coleman','太空競賽幕後英雌');
+jnjRefList += '</ul></p></td></tr></table>';

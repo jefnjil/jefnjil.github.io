@@ -1,0 +1,13 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('7126051','jnjfoorprint.blogspot.com/2012/12/blog-post','吉隆坡雙子星塔');
+jnjRef('7123909','jnjfoorprint.blogspot.com/2012/12/blog-post_10','太子城與舊國家皇宮');
+jnjRef('7126048','jnjfoorprint.blogspot.com/2012/12/blog-post_11','綠中海渡假村');
+jnjRefList += '</ul></p></td><td valign=top><p><ul><b>新加坡</b>';
+jnjRef('3400371','jnjfoorprint.blogspot.com/2009/10/blog-post_48','濱海灣夜遊');
+jnjRef('2611336','jnjfoorprint.blogspot.com/2009/02/blog-post_2','新加坡親子遊');
+jnjRef('3400374','jnjfoorprint.blogspot.com/2009/10/blog-post_12','新加坡動物園');
+jnjRefList += '</ul></p></td><td valign=top><p><ul><b>峇里島</b>';
+jnjRef('4360434','jnjfoorprint.blogspot.com/2010/08/four-seasons-at-jimbaran-bay','金巴蘭四季');
+jnjRef('4385512','jnjfoorprint.blogspot.com/2010/09/four-seasons-at-sayan','山妍四季');
+jnjRef('4368100','jnjfoorprint.blogspot.com/2010/08/laka-leke','躲起來吃髒鴨子');
+jnjRefList += '</ul></p></td></tr></table>';

@@ -1,0 +1,18 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('341142','jnjfoorprint.blogspot.com/2006/07/pearl-harbor','珍珠港');
+jnjRef('326989','jnjfoorprint.blogspot.com/2006/06/hanauma-bay','恐龍灣');
+jnjRef('184884','jnjfoorprint.blogspot.com/2006/02/blog-post','初遊夏威夷');
+jnjRef('331453','jnjfoorprint.blogspot.com/2006/06/hawaii-volcanoes-national-park','火山國家公園');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('325308','jnjfoorprint.blogspot.com/2006/06/blog-post','夏威夷三島遊記');
+jnjRef('329099','jnjfoorprint.blogspot.com/2006/06/blog-post_27','旅遊業服務精神');
+jnjRef('333890','jnjfoorprint.blogspot.com/2006/07/maui','世外桃源茂宜島');
+jnjRef('336082','jnjfoorprint.blogspot.com/2006/07/kualoa-kualoa-ranch','Kualoa牧場與侏儸紀公園');
+jnjRef('338704','jnjfoorprint.blogspot.com/2006/07/polynesian-cultural-center','玻里尼西亞文化中心');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('3636741','jnjfoorprint.blogspot.com/2009/12/vs','企鵝寶貝');
+jnjRef('4360434','jnjfoorprint.blogspot.com/2010/08/four-seasons-at-jimbaran-bay','金巴蘭四季');
+jnjRef('7126048','jnjfoorprint.blogspot.com/2012/12/blog-post_11','綠中海渡假村');
+jnjRef('9763942','jnjfoorprint.blogspot.com/2013/12/blog-post_43','紅色景點苦竹寨');
+jnjRef('23365439','jnjfoorprint.blogspot.com/2015/05/blog-post_20','萬古樓獅子山公園');
+jnjRefList += '</ul></p></td></tr></table>';

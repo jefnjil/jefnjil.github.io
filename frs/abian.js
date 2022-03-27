@@ -1,0 +1,14 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('272484','jnjliterature.blogspot.com/2006/05/blog-post','誌芳哥與忍者龜');
+jnjRef('262756','jnjliterature.blogspot.com/2006/05/blog-post_6','誌芳哥心癢之旅');
+jnjRef('7643149','jnjmvtv.blogspot.com/2013/05/12','十二怒漢大審判');
+jnjRef('399654','jnjtalks.blogspot.com/2006/08/blog-post_15','百萬張發票挺扁大勸募');
+jnjRef('5078784','jnjmvtv.blogspot.com/2011/04/the-borgias','教廷黑幫──博吉亞家族');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('531906','jnjtalks.blogspot.com/2006/11/blog-post_9','莫須有');
+jnjRef('531737','jnjmvtv.blogspot.com/2006/11/battlestar-galactica','鋤奸團');
+jnjRef('893165','jnjtalks.blogspot.com/2007/04/blog-post_13','兩顆子彈');
+jnjRef('974469','jnjtalks.blogspot.com/2007/05/blog-post','八年不夠');
+jnjRef('7643155','jnjmvtv.blogspot.com/2013/05/for-greater-glory','至高榮耀');
+jnjRef('2321751','jnjtalks.blogspot.com/2008/10/blog-post_23','為死神落淚');
+jnjRefList += '</ul></p></td></tr></table>';
