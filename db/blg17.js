@@ -21,5 +21,5 @@ switch(docID)
 	case "2819081977473882717": 	reg="book";	break;
 	case "5356762573374395117": 	reg="buffet";	break;
 	case "3971949588042200717": 	break;
-	case "8725999019257297617" :	reg="ntc1";	ufp="2022.3.25";	break;
+	case "8725999019257297617" :	reg="ntc1";	ufp="2022.3.25";	umd="2022.3.30";	uMedia="12749/6190504";	break;
 }
