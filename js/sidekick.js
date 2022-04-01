@@ -244,6 +244,7 @@ function SidekickMain()
 	eopHtml += ' data-tags="' + ttags + '"></a></div>';
 	// Further Readings
 	eopHtml += '<div id="jnjFurtherReadings"></div>';
+	if ( jref.indexOf('jnjfoundation') > 0 ) eopHtml += '<script src="' + myweb + 'js/asimov.js" type="text/javascript"></script>';
 	keyTag.innerHTML = eopHtml;
 	{	// Moved here to make sure we don't miss jnjFurtherReadings
 	var script = document.createElement('script');
