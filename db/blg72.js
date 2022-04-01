@@ -16,5 +16,5 @@ switch(docID)
 	case "5119534538123661972": 	reg="harbin";	uss="397435";	break;
 	case "618020783741215372": 	reg="twn";	uss="411154";	break;
 	case "1272120740285155772": 	reg="zjj";	uss="426469";	break;
-	case "5814260966432153772": 	break;
+	case "5814260966432153772": 	reg="sf";	break;
 }

@@ -9,5 +9,5 @@ switch(docID)
 	case "104690023593525577": 	reg="mv";	break;
 	case "9064158154250430977": 	reg="comment";	break;
 	case "7987760716378952277": 	reg="buffet";	uss="558520";	udn="2016.11.13";	break;
-	case "6643819893154521377": 	break;
+	case "6643819893154521377": 	reg="sf";	break;
 }

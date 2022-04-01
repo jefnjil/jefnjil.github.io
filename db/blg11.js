@@ -9,7 +9,7 @@ switch(docID)
 	case "3152837330686334011": 	reg="bjsh";	break;
 	case "799042946843868111": 	reg="mv";	udn="2012.6.7";	break;
 	case "725559578344460811": 	reg="vienna";	uss="500618";	break;
-	case "7669228515200756211": 	break;
-	case "3748349486529186111": 	break;
-	case "6270539873229157711": 	break;
+	case "7669228515200756211": 	reg="snack";	break;
+	case "3748349486529186111": 	reg="sf";	break;
+	case "6270539873229157711": 	reg="sf";	break;
 }

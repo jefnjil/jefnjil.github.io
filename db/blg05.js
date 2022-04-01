@@ -18,7 +18,7 @@ switch(docID)
 	case "7219035266812975905": 	reg="twm";	uss="418587";	break;
 	case "6683543177748859605": 	reg="memory";	break;
 	case "7994649019724268205": 	reg="itf";	break;
-	case "7820495916371850005": 	break;
-	case "6604240717696853405": 	break;
-	case "546455954141475805": 	break;
+	case "7820495916371850005": 	reg="sf";	break;
+	case "6604240717696853405": 	reg="sf";	break;
+	case "546455954141475805": 	reg="sf";	break;
 }

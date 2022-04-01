@@ -12,6 +12,6 @@ switch(docID)
 	case "3524562653717388350": 	reg="comment";	break;
 	case "6384773968598410350": 	reg="zjj";	uss="426372";	break;
 	case "7947679868932576150": 	reg="jr16";	uss="579877";	udn="2018.4.5";	break;
-	case "3052135168763962450": 	break;
-	case "354579298172403950": 	break;
+	case "3052135168763962450": 	reg="westfood";	break;
+	case "354579298172403950": 	reg="comment";	break;
 }

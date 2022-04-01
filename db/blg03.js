@@ -17,7 +17,7 @@ switch(docID)
 	case "8371830120849434303": 	reg="ahsc";	uss="504791";	udn="2016.6.17";	ufp="2016.6.15";	break;
 	case "343105852731938403": 	reg="sf";	uss="389752";	break;
 	case "4111084097510204803": 	reg="harbin";	uss="397444";	break;
-	case "8066483535482663503": 	break;
-	case "3864673447809639903": 	break;
-	case "1434440036226450403": 	break;
+	case "8066483535482663503": 	reg="sf";	break;
+	case "3864673447809639903": 	reg="sf";	break;
+	case "1434440036226450403": 	reg="sf";	break;
 }

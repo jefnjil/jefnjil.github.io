@@ -243,8 +243,8 @@ function SidekickMain()
 	eopHtml += ' data-caption="' + caption + '"';
 	eopHtml += ' data-tags="' + ttags + '"></a></div>';
 	// Further Readings
-	eopHtml += '<div id="jnjFurtherReadings"></div>';
 	if ( jref.indexOf('jnjfoundation') > 0 ) eopHtml += '<div id="jnjAsimovReadings"></div>';
+	eopHtml += '<div id="jnjFurtherReadings"></div>';
 	keyTag.innerHTML = eopHtml;
 	{	// Moved here to make sure we don't miss jnjFurtherReadings
 	var script = document.createElement('script');

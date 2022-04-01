@@ -10,6 +10,6 @@ switch(docID)
 	case "3296018891811294670": 	reg="news";	break;
 	case "5910963692962398570": 	reg="itf";	break;
 	case "350920119711742670": 	reg="tpe2";	udn="2007.5.7";	ufp="2007.5.1?";	break;
-	case "4526158640450257470": 	break;
-	case "1886491586420681270": 	break;
+	case "4526158640450257470": 	reg="sf";	break;
+	case "1886491586420681270": 	reg="sf";	break;
 }

@@ -13,5 +13,5 @@ switch(docID)
 	case "4711921971229136821": 	reg="tomamu";	uss="477046";	udn="2016.4.1";	ufp="2016.4.11";	break;
 	case "2312685917795905321": 	reg="blog";	break;
 	case "8436822664678901621": 	reg="zjj";	uss="426219";	break;
-	case "1475763734070495521": 	break;
+	case "1475763734070495521": 	reg="sf";	break;
 }
