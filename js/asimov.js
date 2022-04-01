@@ -39,5 +39,5 @@ aArticle('2021/09/apple-tv-foundation', '「基地（Foundation）」影集初�
 aArticle('2021/10/foundation', '「基地 Foundation」影集與「騾」' );
 AsimovList += '</ul></p></td></tr></table></center>';
 
-document.write(AsimovList);
+//document.write(AsimovList);
 }

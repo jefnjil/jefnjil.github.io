@@ -244,16 +244,22 @@ function SidekickMain()
 	eopHtml += ' data-tags="' + ttags + '"></a></div>';
 	// Further Readings
 	eopHtml += '<div id="jnjFurtherReadings"></div>';
-	if ( jref.indexOf('jnjfoundation') > 0 ) 
-	{
-		eopHtml += '<script src="' + myweb + 'js/asimov.js" type="text/javascript"></script>';
-		alert(eopHtml);
-	}
+	if ( jref.indexOf('jnjfoundation') > 0 ) eopHtml += '<div id="jnjAsimovReadings"></div>';
 	keyTag.innerHTML = eopHtml;
 	{	// Moved here to make sure we don't miss jnjFurtherReadings
 	var script = document.createElement('script');
 	script.onload = DBJSLoaded;
 	script.src = myweb + "db/" + ( isUDN ? "udn" : "blg" ) + docID.substring(docID.length-2) + ".js";
+	document.head.appendChild(script); //or something of the likes
+	}
+	if ( jref.indexOf('jnjfoundation') > 0 ) 
+	{
+	var script = document.createElement('script');
+	script.onload = function () {
+		var ar = document.getElementById("jnjAsimovReadings");
+		ar.innerHTML = '<hr><p>' + AsimovList + '</p>';
+	};
+	script.src = myweb + 'js/asimov.js';
 	document.head.appendChild(script); //or something of the likes
 	}
 	LoadJS("line-js","https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js");
