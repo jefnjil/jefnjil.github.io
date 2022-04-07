@@ -83,7 +83,7 @@ function getMyImage()
 		for(var i=imgs.length-1; i>=0; i--)
 		{
 			var	s = imgs[ i].src.toLowerCase();
-			if ( s!= null )
+			if ( s!= null && s.indexOf('.gif') < 0 )
 				for ( var j = 0; j < ImgArray.length; j++ )
 					if ( s.indexOf( ImgArray[ j] ) > 0 )
 					{
