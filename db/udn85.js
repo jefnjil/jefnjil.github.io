@@ -11,4 +11,5 @@ switch(docID)
 	case "289685": 	reg="uk";	uss="450554";	break;
 	case "3971685": 	reg="book";	break;
 	case "9066685": 	reg="itf";	break;
+	case "173112985" :	reg="buffet1";	break;
 }

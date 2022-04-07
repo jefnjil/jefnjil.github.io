@@ -15,4 +15,5 @@ switch(docID)
 	case "6859580715970797743": 	reg="mv";	break;
 	case "8877734837510369843": 	reg="3C";	break;
 	case "9204556796615894443": 	reg="us16";	uss="565395";	ufp="2020.8.16";	break;
+	case "8634523491229135943" :	reg="buffet1";	break;
 }
