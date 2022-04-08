@@ -12,7 +12,7 @@ switch(docID)
 	case "157020483": 	uMedia="12749/5323310";	reg="tpe1";	udn="2021.6.14";	umd="2021.3.17";	break;
 	case "170912483": 	reg="mv1";	break;
 	case "171238183": 	reg="comment1";	break;
-	case "172001883" :	reg="ntc";	umd="2022.3.25";	uMedia="12749/6180291";	break;
+	case "172001883" :	reg="ntc";	rss="632719";	umd="2022.3.25";	uMedia="12749/6180291";	break;
 	case "184883": 	reg="us";	uss="65325";	break;
 	case "22161783": 	reg="lijiang";	uss="455516";	break;
 	case "4048583": 	reg="hotel_twe";	uss="255054";	break;
