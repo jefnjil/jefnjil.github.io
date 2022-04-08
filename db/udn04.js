@@ -9,7 +9,7 @@ switch(docID)
 	case "132032704": 	uMedia="12774/4481196";	reg="tokyo19";	uss="621604";	umd="2020.4.10";	break;
 	case "15129704": 	reg="macau";	uss="444718";	break;
 	case "1603004": 	reg="tws";	uss="98922";	break;
-	case "169049804": 	reg="changhua";	uss="620080";	break;
+	case "169049804" :	reg="changhua";	rss="620080";	break;
 	case "21086004": 	reg="mv";	break;
 	case "289604": 	reg="uk";	uss="450554";	break;
 	case "3042404": 	reg="tpe";	uss="194073";	udn="2009.6.24";	break;

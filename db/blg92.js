@@ -3,7 +3,7 @@ switch(docID)
 	case "5910770821363952592": 	reg="ahsc";	uss="587307";	udn="2017.7.31";	break;
 	case "7479533049761946992": 	reg="tws";	uss="604309";	break;
 	case "5252194602460698692": 	reg="buffet";	uss="611081";	udn="2019.7.11";	break;
-	case "1937297457512423192": 	reg="changhua";	uss="620080";	break;
+	case "1937297457512423192" :	reg="changhua";	rss="620080";	break;
 	case "7668387178483456092": 	reg="history1";	break;
 	case "4640619018253745692": 	reg="tws";	uss="12807";	break;
 	case "7679688531345572092": 	reg="draw";	break;

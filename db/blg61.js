@@ -3,7 +3,7 @@ switch(docID)
 	case "7562700436462636661": 	reg="tpe1";	uss="589623";	udn="2017.10.8";	break;
 	case "8811226189243401861": 	reg="japfood";	uss="592595";	break;
 	case "8187001247159088061": 	reg="thriller";	break;
-	case "6172111691673339661": 	reg="taoyuan";	break;
+	case "6172111691673339661" :	reg="taoyuan";	rss="632727";	break;
 	case "7701248058382907461": 	reg="art";	break;
 	case "1607759556248925861": 	reg="tokyo";	uss="159898";	break;
 	case "2337481198563946261": 	reg="mice";	break;
