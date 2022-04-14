@@ -235,8 +235,8 @@ function SidekickMain()
 	eopHtml += '<a href="https://www.plurk.com/jefnjil?status=' + encodeURIComponent(plurk) + '&amp=&qualifier=shares" target="_blank" border=0><img src="' + myweb + 'img/plurk.png"></a>　';
 	// Line
 	//eopHtml += '<div class="line-it-button" data-lang="zh_Hant" data-type="like" data-url="' + jref + '" data-share="true" style="display: none;"></div>　';
-	eopHtml += 'Line<div class="line-it-button" data-lang="zh_Hant" data-type="share-a" data-env="REAL" data-url="' + jref;
-	eopHtml += '" data-color="default" data-size="large" data-count="true" data-ver="3" style="display: none;"></div>　eniL';
+	eopHtml += '<div class="line-it-button" data-lang="zh_Hant" data-type="share-a" data-env="REAL" data-url="' + jref;
+	eopHtml += '" data-color="default" data-size="large" data-count="true" data-ver="3" style="display: none;"></div>　';
 	//eopHtml += '<script src="https://www.line-website.com/social-plugins/js/thirdparty/loader.min.js" async="async" defer="defer"></script>';
 	// Tumblr
 	var caption='<b>' + getMetaContent("og:title") + '</b> - '+getMetaContent("og:description") + '(<a href=\'' + jref + '\'>全文</a>)';
