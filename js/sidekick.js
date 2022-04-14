@@ -234,10 +234,8 @@ function SidekickMain()
 	// Plurk
 	eopHtml += '<a href="https://www.plurk.com/jefnjil?status=' + encodeURIComponent(plurk) + '&amp=&qualifier=shares" target="_blank" border=0><img src="' + myweb + 'img/plurk.png"></a>　';
 	// Line
-	//eopHtml += '<div class="line-it-button" data-lang="zh_Hant" data-type="like" data-url="' + jref + '" data-share="true" style="display: none;"></div>　';
 	eopHtml += '<div class="line-it-button" data-lang="zh_Hant" data-type="share-a" data-env="REAL" data-url="' + jref;
 	eopHtml += '" data-color="default" data-size="large" data-count="true" data-ver="3" style="display: none;"></div>　';
-	//eopHtml += '<script src="https://www.line-website.com/social-plugins/js/thirdparty/loader.min.js" async="async" defer="defer"></script>';
 	// Tumblr
 	var caption='<b>' + getMetaContent("og:title") + '</b> - '+getMetaContent("og:description") + '(<a href=\'' + jref + '\'>全文</a>)';
 	var ttags = getMyTags() + 'tumblr 中文,Jeff & Jill';
@@ -265,7 +263,6 @@ function SidekickMain()
 	script.src = myweb + 'js/asimov.js';
 	document.head.appendChild(script); //or something of the likes
 	}
-	//LoadJS("line-js","https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js");	// old version
 	LoadJS("line-js","https://www.line-website.com/social-plugins/js/thirdparty/loader.min.js");	// new version
 	LoadJS("tumblr-js","https://assets.tumblr.com/share-button.js");
 }
