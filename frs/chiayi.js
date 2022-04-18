@@ -9,7 +9,7 @@ jnjRef('5670016','jnjfoorprint.blogspot.com/2011/09/blog-post','阿里山夜未�
 jnjRef('8469872','jnjfoorprint.blogspot.com/2013/09/blog-post_31','沼平公園空中步道');
 jnjRef('8469853','jnjfoorprint.blogspot.com/2013/09/blog-post_0','神木車站、巨木群棧道');
 jnjRef('8469741','jnjfoorprint.blogspot.com/2013/09/blog-post_92','奮起湖車站老街');
-jnjRef('3978552','jnjliterature.blogspot.com/2010/04/f','進出溪頭');
+jnjRef('173410304','jnjfoorprint.blogspot.com/2022/04/blog-post_18','嘉義環市自行車道');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('107491957','jnjfoorprint.blogspot.com/2017/09/blog-post_57','故宮南院景觀園區');
 jnjRef('105066090','jnjexpo.blogspot.com/2017/07/blog-post','故宮南院博物館');
