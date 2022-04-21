@@ -11,4 +11,5 @@ switch(docID)
 	case "508075": 	reg="memory";	break;
 	case "8606175": 	reg="memory";	break;
 	case "8633075": 	reg="twm";	uss="418586";	udn="2015.4.4";	break;
+	case "173485075" :	reg="changhua";	break;
 }

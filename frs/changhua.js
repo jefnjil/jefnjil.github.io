@@ -4,6 +4,7 @@ jnjRef('140370713','jnjfoorprint.blogspot.com/2020/06/blog-post','鹿港天后�
 jnjRef('142146230','jnjfoorprint.blogspot.com/2020/07/blog-post','鹿港老街');
 jnjRef('143076646','jnjfoorprint.blogspot.com/2020/07/blog-post_15','鹿港龍山寺');
 jnjRef('169049804','jnjfoorprint.blogspot.com/2021/10/blog-post','鹿港拜拜兼早餐');
+jnjRef('173485075','jnjfoorprint.blogspot.com/2022/04/blog-post_21','鹿港丁家大宅');
 jnjRefList += '</ul></p><p><ul><b>雲林</b>';
 jnjRef('8469883','jnjfoorprint.blogspot.com/2013/09/blog-post_97','劍湖山王子飯店');
 jnjRef('111082860','jnjfoorprint.blogspot.com/2018/03/blog-post_91','北港朝天宮');
