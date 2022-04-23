@@ -5,7 +5,7 @@ switch(docID)
 	case "3970069742934499855": 	reg="italy";	break;
 	case "5835072923347369855": 	reg="hotel_asia";	uss="444713";	break;
 	case "4057308119101855755": 	uMedia="12749/5164368";	reg="tpe";	uss="625946";	umd="2021.01.11";	ufp="2021.1.12";	break;
-	case "3600540387944390855": 	uMedia="12760/5385453";	reg="crime";	ufp="2021.4.14;12760/5385453";	break;
+	case "3600540387944390855": 	uMedia="12760/5385453";	reg="crime";	umd="2021.4.14";	break;
 	case "7111876924786001055": 	reg="lijiang";	uss="453783";	break;
 	case "7876074695032588255": 	reg="lang";	break;
 	case "2410677990974190755": 	reg="memory";	break;
