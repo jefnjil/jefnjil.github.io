@@ -1,4 +1,3 @@
-
 {
 // AdSense In Text 22
 var ad='<script async  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2950260745318461"     crossorigin="anonymous"></script>';
@@ -10,10 +9,8 @@ if ( adTextDiv == null )
 	document.write( ad );
 else
 	adTextDiv.innerHTML = ad;
-}
 
-alert(location.href);
-if ( location.href.contains('blog.udn'))
+if ( location.href.indexOf('blog.udn') > 0 )
 {
 	// Get Clicky
 	document.write( '<script async src="//static.getclicky.com/26491.js"></script>' );
@@ -24,4 +21,5 @@ if ( location.href.contains('blog.udn'))
 	document.write( ga );
 	
 	alert(ga);
+}
 }
