@@ -9,6 +9,7 @@ if ( adTextDiv == null )
 	document.write( ad );
 else
 	adTextDiv.innerHTML = ad;
+}
 
 if ( location.href.indexOf('blog.udn') > 0 )
 {
@@ -19,7 +20,4 @@ if ( location.href.indexOf('blog.udn') > 0 )
 	var ga='<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3719778-1"></script>';
 	ga += '<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag("js", new Date()); gtag("config", "UA-3719778-1"); </script>';
 	document.write( ga );
-	
-	alert(ga);
-}
 }
