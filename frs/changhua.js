@@ -5,9 +5,7 @@ jnjRef('142146230','jnjfoorprint.blogspot.com/2020/07/blog-post','鹿港老街')
 jnjRef('143076646','jnjfoorprint.blogspot.com/2020/07/blog-post_15','鹿港龍山寺');
 jnjRef('169049804','jnjfoorprint.blogspot.com/2021/10/blog-post','鹿港拜拜兼早餐');
 jnjRef('173485075','jnjfoorprint.blogspot.com/2022/04/blog-post_21','鹿港丁家大宅');
-jnjRefList += '</ul></p><p><ul><b>雲林</b>';
-jnjRef('8469883','jnjfoorprint.blogspot.com/2013/09/blog-post_97','劍湖山王子飯店');
-jnjRef('111082860','jnjfoorprint.blogspot.com/2018/03/blog-post_91','北港朝天宮');
+jnjRef('173560190','jnjfoorprint.blogspot.com/2022/04/blog-post_25','臺灣玻璃館、玻璃媽祖廟');
 jnjRefList += '</ul></p></td><td valign=top><p><ul><b>南投</b>';
 jnjRef('2853590','jnjhome.blogspot.com/2009/04/blog-post','畢業旅行');
 jnjRef('17453598','jnjfoorprint.blogspot.com/2014/09/blog-post_20','向山遊客中心');
