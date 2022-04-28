@@ -20,4 +20,5 @@ jnjRef('3055816','jnjmvtv.blogspot.com/2009/06/wallander','渥蘭德三部曲（
 jnjRef('4287816','jnjmvtv.blogspot.com/2010/08/blog-post_3','龍紋身的女孩──千禧年三部曲');
 jnjRef('3613011','jnjmvtv.blogspot.com/2009/12/blog-post','西部槍手附體．惡棍特工復仇');
 jnjRef('171689749','jnjmvtv.blogspot.com/2022/01/ice-road','地表最強老爸──疾凍救援');
+jnjRef('173604533','jnjmvtv.blogspot.com/2022/04/slow-horses','腐肉屋的一群慢馬');
 jnjRefList += '</ul></p></td></tr></table>';

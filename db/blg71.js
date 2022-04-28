@@ -9,4 +9,5 @@ switch(docID)
 	case "2996118783576262371": 	reg="memory";	break;
 	case "1188868685211504171": 	reg="nagoya";	uss="291235";	break;
 	case "4764371731434890671": 	reg="blog";	break;
+	case "7821017074701711171" :	reg="action";	break;
 }
