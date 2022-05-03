@@ -12,4 +12,5 @@ switch(docID)
 	case "74666612": 	reg="prague";	uss="500617";	udn="2017.4.10";	break;
 	case "8257712": 	reg="book";	break;
 	case "99867912": 	reg="jr16";	uss="575951";	break;
+	case "173886712" :	reg="wind";	break;
 }
