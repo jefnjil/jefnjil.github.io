@@ -160,7 +160,7 @@ function DBJSLoaded()
 	if ( uss != null ) 
 	{
 		var ua = document.getElementById("jnjUdnAlbum");
-		ua.innerHTML = '<a target="_blank" href="http://album.udn.com/photo/photo_slider.jsp?uid=jefnjil&f_BOOK_ID=' + uss + '"><img src="' + myweb + 'img/play.png" title="相簿自動播放" /></a>';
+		ua.outerHTML = '<a target="_blank" href="http://album.udn.com/photo/photo_slider.jsp?uid=jefnjil&f_BOOK_ID=' + uss + '"><img src="' + myweb + 'img/play.png" title="相簿自動播放" /></a>';
 	}
 
 	// Further Readings
