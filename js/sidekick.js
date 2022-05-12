@@ -160,7 +160,7 @@ function DBJSLoaded()
 	if ( uss != null ) 
 	{
 		var ua = document.getElementById("jnjUdnAlbum");
-		ua.outerHTML = '<a target="_blank" href="http://album.udn.com/photo/photo_slider.jsp?uid=jefnjil&f_BOOK_ID=' + uss + '"><img src="' + myweb + 'img/play.png" title="相簿自動播放" /></a>';
+		ua.outerHTML = '<a target="_blank" href="http://album.udn.com/photo/photo_slider.jsp?uid=jefnjil&f_BOOK_ID=' + uss + '">　<img src="' + myweb + 'img/play.png" title="相簿自動播放" />　</a>';
 	}
 
 	// Further Readings
@@ -234,23 +234,21 @@ function SidekickMain()
 	tweet=myTitle+'\n\n'+tweet.substring(0,60)+'...\n';
 
 	// Tweet
-	var eopHtml = '<table><tr>';
-	eopHtml += '<td><div align=center><a href="https://twitter.com/intent/tweet?url=' + encodeURIComponent(jref) + '&text=' + encodeURIComponent(tweet) + '" target="_blank" border=0><img src="' + myweb + 'img/bird_blue_48.png"></a>　</td>';
+	var eopHtml = '<div align=center><a href="https://twitter.com/intent/tweet?url=' + encodeURIComponent(jref) + '&text=' + encodeURIComponent(tweet) + '" target="_blank" border=0><img src="' + myweb + 'img/bird_blue_48.png"></a>　';
 	// Plurk
-	eopHtml += '<td><a href="https://www.plurk.com/jefnjil?status=' + encodeURIComponent(plurk) + '&amp=&qualifier=shares" target="_blank" border=0><img src="' + myweb + 'img/plurk.png"></a>　</td>';
+	eopHtml += '<a href="https://www.plurk.com/jefnjil?status=' + encodeURIComponent(plurk) + '&amp=&qualifier=shares" target="_blank" border=0><img src="' + myweb + 'img/plurk.png"></a>　';
 	// Album
-	eopHtml += '<td><div id="jnjUdnAlbum"></div>　</td>';
+	eopHtml += '<div id="jnjUdnAlbum"></div>';
 	// Line
-	eopHtml += '<td><div class="line-it-button" data-lang="zh_Hant" data-type="share-a" data-env="REAL" data-url="' + jref;
-	eopHtml += '" data-color="default" data-size="large" data-count="true" data-ver="3" style="display: none;"></div>　</td>';
+	eopHtml += '<div class="line-it-button" data-lang="zh_Hant" data-type="share-a" data-env="REAL" data-url="' + jref;
+	eopHtml += '" data-color="default" data-size="large" data-count="true" data-ver="3" style="display: none;"></div>　';
 	// Tumblr
-	var caption='<td><b>' + getMetaContent("og:title") + '</b> - '+getMetaContent("og:description") + '(<a href=\'' + jref + '\'>全文</a>)';
+	var caption='<b>' + getMetaContent("og:title") + '</b> - '+getMetaContent("og:description") + '(<a href=\'' + jref + '\'>全文</a>)';
 	var ttags = getMyTags() + 'tumblr 中文,Jeff & Jill';
 	eopHtml += '<a class="tumblr-share-button" href="https://embed.tumblr.com/share" data-color="blue" data-notes="right" data-posttype="photo" data-locale="zh_TW"';
 	eopHtml += ' data-content="' + ogimage + '"';
 	eopHtml += ' data-caption="' + caption + '"';
-	eopHtml += ' data-tags="' + ttags + '"></a></div></td>';
-	eopHtml += '</tr></table>';
+	eopHtml += ' data-tags="' + ttags + '"></a></div>';
 	// Further Readings
 	if ( jref.indexOf('jnjfoundation') > 0 ) eopHtml += '<div id="jnjAsimovReadings"></div>';
 	eopHtml += '<div id="jnjFurtherReadings"></div>';
