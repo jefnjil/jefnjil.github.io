@@ -8,7 +8,7 @@ jnjRef('127274853','jnjfoorprint.blogspot.com/2019/06/blog-post_10','滬尾礮�
 jnjRef('127577192','jnjexpo.blogspot.com/2019/06/blog-post','板橋‧地景花海');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('44959340','jnjfoorprint.blogspot.com/2016/07/blog-post_4','十三行博物館');
-jnjRef('107494739','jnjfoorprint.blogspot.com/2018/02/blog-post_64','海洋科技博物館');
+jnjRef('6408038','jnjfoorprint.blogspot.com/2012/05/blog-post_1','侯硐群貓懶洋洋');
 jnjRef('113747892','jnjfoorprint.blogspot.com/2018/08/outlet','林口三井Outlet');
 jnjRef('130184984','jnjfoorprint.blogspot.com/2019/10/blog-post_21','八里左岸沙雕');
 jnjRef('149555706','jnjfoorprint.blogspot.com/2020/08/blog-post_31','淡水‧真理大學');
@@ -16,7 +16,6 @@ jnjRef('149555491','jnjfoorprint.blogspot.com/2020/08/blog-post_27','淡水紅�
 jnjRef('149555876','jnjfoorprint.blogspot.com/2020/09/blog-post_7','淡水小白宮');
 jnjRef('157425717','jnjfoorprint.blogspot.com/2021/03/blog-post_11','雙溪老街');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
-jnjRef('6408038','jnjfoorprint.blogspot.com/2012/05/blog-post_1','侯硐群貓懶洋洋');
 jnjRef('31318271','jnjfoorprint.blogspot.com/2015/09/blog-post_25','淡水天元宮、大屯花卉農場');
 jnjRef('108724011','jnjfoorprint.blogspot.com/2018/02/435','新月橋、435藝文特區');
 jnjRef('127003300','jnjfoorprint.blogspot.com/2019/05/blog-post_30','雲門劇場、星巴克');
@@ -24,4 +23,5 @@ jnjRef('132831609','jnjfoorprint.blogspot.com/2020/04/blog-post_27','三峽白�
 jnjRef('132897688','jnjfoorprint.blogspot.com/2020/04/blog-post_30','三鶯之心空間藝術特區');
 jnjRef('156480408','jnjfoorprint.blogspot.com/2021/02/blog-post_18','石碇‧鱷魚島觀景平台');
 jnjRef('172087786','jnjexpo.blogspot.com/2022/03/blog-post','十三行博物館考古公園');
+jnjRef('174153598','jnjfoorprint.blogspot.com/2022/05/blog-post_12','和平公園‧一滴水紀念館');
 jnjRefList += '</ul></p></td></tr></table>';
