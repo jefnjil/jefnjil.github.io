@@ -5,7 +5,7 @@ switch(docID)
 	case "8170167407642012401": 	uMedia="12774/4638423";	reg="nikko";	uss="579877";	umd="2020.6.16";	break;
 	case "1641318940175700901": 	reg="expo";	uss="620079";	break;
 	case "194112824995938001": 	reg="elaine";	break;
-	case "5204040861270131801": 	uMedia="12749/5965872";	reg="tpe2";	udn="2021.12.23";	umd="2021.12.17";	break;
+	case "5204040861270131801" :	reg="tpe2";	rss="633191";	udn="2021.12.23";	umd="2021.12.17";	uMedia="12749/5965872";	break;
 	case "206463864156874601": 	reg="uk";	uss="450554";	udn="2006.5.20";	break;
 	case "3193131127490479601": 	reg="uk";	uss="450554";	break;
 	case "6522541797431828401": 	reg="sf";	break;
@@ -19,5 +19,5 @@ switch(docID)
 	case "3319106985821068101": 	reg="zjj";	uss="426303";	break;
 	case "3930756376545109001": 	reg="jr16";	uss="579872";	udn="2018.3.10";	ufp="2018.3.7";	break;
 	case "3573096890257395101" :	reg="snack";	rss="632720";	umd="2022.4.8";	uMedia="12751/6206018";	break;
-	case "3282878545400608501" :	reg="changhua";	break;
+	case "3282878545400608501" :	reg="changhua";	rss="633196";	break;
 }

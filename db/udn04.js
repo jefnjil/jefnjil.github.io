@@ -22,5 +22,5 @@ switch(docID)
 	case "6660504": 	reg="bjsh";	uss="382587";	udn="2012.7.27";	break;
 	case "9119604": 	reg="itf";	uss="澳門夢工場";	break;
 	case "99869604": 	reg="jr16";	uss="571606";	udn="2017.11.17";	break;
-	case "173410304" :	reg="chiayi";	break;
+	case "173410304" :	reg="chiayi";	rss="633198";	break;
 }

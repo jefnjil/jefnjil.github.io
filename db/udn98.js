@@ -21,5 +21,5 @@ switch(docID)
 	case "839898": 	reg="lang";	break;
 	case "8839698": 	reg="chnfood";	uss="420463";	break;
 	case "965798": 	reg="lang";	break;
-	case "174153598" :	reg="ntc1";	break;
+	case "174153598" :	reg="ntc1";	rss="633200";	break;
 }
