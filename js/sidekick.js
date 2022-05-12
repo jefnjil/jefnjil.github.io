@@ -157,7 +157,11 @@ function DBJSLoaded()
 	{
 		umd = '<a href="https://udn.com/umedia/story/' + uMedia + '" target="_blank"><img src="' + myweb + 'img/umedia.png" title="前往U值媒" border="0"></a><br>' + umd + '刊出';
 	}
-	if ( uss != null ) uss = '　<b><font size=+1><a target="_blank" href="http://album.udn.com/photo/photo_slider.jsp?uid=jefnjil&f_BOOK_ID=' + uss + '"><img valign=middle src="' + myweb + 'img/play.png"/>  自動播放相簿</a></font></b>　';
+	if ( uss != null ) 
+	{
+		var ua = document.getElementById("jnjUdnAlbum");
+		ua.innerHTML = '　<b><font size=+1><a target="_blank" href="http://album.udn.com/photo/photo_slider.jsp?uid=jefnjil&f_BOOK_ID=' + uss + '"><img valign=middle src="' + myweb + 'img/play.png"/>  自動播放相簿</a></font></b>　';
+	}
 
 	// Further Readings
 	if ( reg == null ) reg='mv1';
@@ -233,6 +237,8 @@ function SidekickMain()
 	var eopHtml = '<div align=center><a href="https://twitter.com/intent/tweet?url=' + encodeURIComponent(jref) + '&text=' + encodeURIComponent(tweet) + '" target="_blank" border=0><img src="' + myweb + 'img/bird_blue_48.png"></a>　';
 	// Plurk
 	eopHtml += '<a href="https://www.plurk.com/jefnjil?status=' + encodeURIComponent(plurk) + '&amp=&qualifier=shares" target="_blank" border=0><img src="' + myweb + 'img/plurk.png"></a>　';
+	// Album
+	eopHtml += '<div id="jnjUdnAlbum"></div>';
 	// Line
 	eopHtml += '<div class="line-it-button" data-lang="zh_Hant" data-type="share-a" data-env="REAL" data-url="' + jref;
 	eopHtml += '" data-color="default" data-size="large" data-count="true" data-ver="3" style="display: none;"></div>　';
