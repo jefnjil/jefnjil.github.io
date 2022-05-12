@@ -160,7 +160,7 @@ function DBJSLoaded()
 	if ( uss != null ) 
 	{
 		var ua = document.getElementById("jnjUdnAlbum");
-		ua.innerHTML = '　<a target="_blank" href="http://album.udn.com/photo/photo_slider.jsp?uid=jefnjil&f_BOOK_ID=' + uss + '"><img src="' + myweb + 'img/play.png" title="相簿自動播放" /></a>　';
+		ua.innerHTML = '<a target="_blank" href="http://album.udn.com/photo/photo_slider.jsp?uid=jefnjil&f_BOOK_ID=' + uss + '"><img src="' + myweb + 'img/play.png" title="相簿自動播放" /></a>';
 	}
 
 	// Further Readings
@@ -238,7 +238,7 @@ function SidekickMain()
 	// Plurk
 	eopHtml += '<a href="https://www.plurk.com/jefnjil?status=' + encodeURIComponent(plurk) + '&amp=&qualifier=shares" target="_blank" border=0><img src="' + myweb + 'img/plurk.png"></a>　';
 	// Album
-	eopHtml += '<div id="jnjUdnAlbum"></div>';
+	eopHtml += '<div id="jnjUdnAlbum"></div>　';
 	// Line
 	eopHtml += '<div class="line-it-button" data-lang="zh_Hant" data-type="share-a" data-env="REAL" data-url="' + jref;
 	eopHtml += '" data-color="default" data-size="large" data-count="true" data-ver="3" style="display: none;"></div>　';
