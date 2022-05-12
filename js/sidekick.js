@@ -234,21 +234,23 @@ function SidekickMain()
 	tweet=myTitle+'\n\n'+tweet.substring(0,60)+'...\n';
 
 	// Tweet
-	var eopHtml = '<div align=center><a href="https://twitter.com/intent/tweet?url=' + encodeURIComponent(jref) + '&text=' + encodeURIComponent(tweet) + '" target="_blank" border=0><img src="' + myweb + 'img/bird_blue_48.png"></a>　';
+	var eopHtml = '<div align=center><table><tr>';
+	eopHtml += '<td><a href="https://twitter.com/intent/tweet?url=' + encodeURIComponent(jref) + '&text=' + encodeURIComponent(tweet) + '" target="_blank" border=0><img src="' + myweb + 'img/bird_blue_48.png"></a>　</td>';
 	// Plurk
-	eopHtml += '<a href="https://www.plurk.com/jefnjil?status=' + encodeURIComponent(plurk) + '&amp=&qualifier=shares" target="_blank" border=0><img src="' + myweb + 'img/plurk.png"></a>　';
+	eopHtml += '<td><a href="https://www.plurk.com/jefnjil?status=' + encodeURIComponent(plurk) + '&amp=&qualifier=shares" target="_blank" border=0><img src="' + myweb + 'img/plurk.png"></a>　</td>';
 	// Album
-	eopHtml += '<div id="jnjUdnAlbum"></div>';
+	eopHtml += '<td><div id="jnjUdnAlbum"></div></td>';
 	// Line
-	eopHtml += '<div class="line-it-button" data-lang="zh_Hant" data-type="share-a" data-env="REAL" data-url="' + jref;
-	eopHtml += '" data-color="default" data-size="large" data-count="true" data-ver="3" style="display: none;"></div>　';
+	eopHtml += '<td><div class="line-it-button" data-lang="zh_Hant" data-type="share-a" data-env="REAL" data-url="' + jref;
+	eopHtml += '" data-color="default" data-size="large" data-count="true" data-ver="3" style="display: none;"></div>　</td>';
 	// Tumblr
 	var caption='<b>' + getMetaContent("og:title") + '</b> - '+getMetaContent("og:description") + '(<a href=\'' + jref + '\'>全文</a>)';
 	var ttags = getMyTags() + 'tumblr 中文,Jeff & Jill';
-	eopHtml += '<a class="tumblr-share-button" href="https://embed.tumblr.com/share" data-color="blue" data-notes="right" data-posttype="photo" data-locale="zh_TW"';
+	eopHtml += '<td><a class="tumblr-share-button" href="https://embed.tumblr.com/share" data-color="blue" data-notes="right" data-posttype="photo" data-locale="zh_TW"';
 	eopHtml += ' data-content="' + ogimage + '"';
 	eopHtml += ' data-caption="' + caption + '"';
-	eopHtml += ' data-tags="' + ttags + '"></a></div>';
+	eopHtml += ' data-tags="' + ttags + '"></a></td>';
+	eopHtml += '</tr></table></div>';
 	// Further Readings
 	if ( jref.indexOf('jnjfoundation') > 0 ) eopHtml += '<div id="jnjAsimovReadings"></div>';
 	eopHtml += '<div id="jnjFurtherReadings"></div>';
