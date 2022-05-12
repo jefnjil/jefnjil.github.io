@@ -7,7 +7,7 @@ switch(docID)
 	case "154097": 	reg="101";	break;
 	case "154597": 	reg="george";	break;
 	case "1602997": 	reg="tws";	uss="98922";	udn="2008.2.18";	break;
-	case "167382197" :	reg="taoyuan";	rss="632727";	break;
+	case "167382197" :	reg="taoyuan";	uss="632727";	break;
 	case "168397": 	reg="las";	uss="New York";	udn="465124";	break;
 	case "17067497": 	reg="expo";	break;
 	case "19897897": 	reg="buffet";	uss="456972";	break;
@@ -21,5 +21,5 @@ switch(docID)
 	case "6507697": 	reg="mv";	udn="2012.6.7";	break;
 	case "66107497": 	reg="vienna";	uss="521621";	udn="2016.7.25";	break;
 	case "92714497": 	reg="japfood";	uss="577189";	ufp="2017.3.14";	break;
-	case "173211697" :	reg="expo1";	rss="633194";	umd="2022.4.26";	uMedia="12749/6258496";	break;
+	case "173211697" :	reg="expo1";	uss="633194";	umd="2022.4.26";	uMedia="12749/6258496";	break;
 }

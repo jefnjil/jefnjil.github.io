@@ -13,7 +13,7 @@ switch(docID)
 	case "8383803826156267925": 	reg="crime";	break;
 	case "4287837351208740725": 	uMedia="12749/4913373";	reg="tws";	umd="2020.10.6";	break;
 	case "7589275156850568925": 	uMedia="12751/4966638";	reg="buffet";	umd="2020.10.27";	break;
-	case "9002902084174600925" :	reg="ntc";	rss="621734";	umd="2021.5.17";	break;
+	case "9002902084174600925" :	reg="ntc";	uss="621734";	umd="2021.5.17";	break;
 	case "2006853878976050325": 	reg="news";	break;
 	case "1314971926999650625": 	reg="hotel_asia";	uss="453703";	break;
 	case "7161871694705306725": 	reg="george";	break;

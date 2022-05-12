@@ -4,7 +4,7 @@ switch(docID)
 	case "7911462998051731018": 	reg="ntc";	uss="611077";	break;
 	case "1797042980564057118": 	uMedia="12749/4896721";	reg="tainan";	uss="592596";	umd="2020.9.29";	break;
 	case "9203988425437919118": 	reg="las";	uss="467897";	break;
-	case "1999354322850827118" :	reg="hotel_tww";	rss="633189";	break;
+	case "1999354322850827118" :	reg="hotel_tww";	uss="633189";	break;
 	case "466707771778149218": 	reg="lijiang";	uss="453784";	break;
 	case "3058636105487673818": 	reg="lijiang";	uss="454953";	udn="2015.5.6";	break;
 	case "1633675868153918018": 	reg="tech";	break;

@@ -8,7 +8,7 @@ switch(docID)
 	case "14568263": 	reg="buffet";	uss="441455";	udn="2014.7.18";	break;
 	case "15129763": 	reg="macau";	uss="444721";	break;
 	case "1547663": 	reg="campus";	break;
-	case "169469663" :	reg="taichung";	rss="632728";	umd="2021.11.17";	uMedia="12749/5894297";	break;
+	case "169469663" :	reg="taichung";	uss="632728";	umd="2021.11.17";	uMedia="12749/5894297";	break;
 	case "18367863": 	reg="tpe2";	uss="451277";	break;
 	case "21001863": 	reg="twm";	uss="460576";	break;
 	case "28023163": 	reg="tpe";	uss="472789";	break;

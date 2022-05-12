@@ -3,7 +3,7 @@ switch(docID)
 	case "12234501": 	reg="tohoku";	uss="431821";	break;
 	case "154601": 	reg="elaine";	break;
 	case "167701": 	reg="las";	uss="467898";	udn="2006.3.1";	break;
-	case "169974101" :	reg="hotel_tww";	rss="633189";	break;
+	case "169974101" :	reg="hotel_tww";	uss="633189";	break;
 	case "23910701": 	reg="twn";	uss="466603";	break;
 	case "28511901": 	reg="expo";	break;
 	case "289701": 	reg="uk";	uss="450554";	break;

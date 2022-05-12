@@ -5,7 +5,7 @@ switch(docID)
 	case "12234466": 	reg="tohoku";	uss="431815";	break;
 	case "137462666": 	uMedia="12774/4654335";	reg="nikko";	uss="578694";	umd="2020.6.23";	break;
 	case "15569166": 	reg="tpe";	uss="446673";	break;
-	case "162711866" :	reg="tpe1";	rss="632725";	umd="2021.5.11";	uMedia="12749/5448278";	break;
+	case "162711866" :	reg="tpe1";	uss="632725";	umd="2021.5.11";	uMedia="12749/5448278";	break;
 	case "19994166": 	reg="westfood";	uss="457343";	break;
 	case "202266": 	reg="tws";	uss="12807";	break;
 	case "2738166": 	reg="mice";	break;

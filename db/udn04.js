@@ -9,7 +9,7 @@ switch(docID)
 	case "132032704": 	uMedia="12774/4481196";	reg="tokyo19";	uss="621604";	umd="2020.4.10";	break;
 	case "15129704": 	reg="macau";	uss="444718";	break;
 	case "1603004": 	reg="tws";	uss="98922";	break;
-	case "169049804" :	reg="changhua";	rss="620080";	break;
+	case "169049804" :	reg="changhua";	uss="620080";	break;
 	case "21086004": 	reg="mv";	break;
 	case "289604": 	reg="uk";	uss="450554";	break;
 	case "3042404": 	reg="tpe";	uss="194073";	udn="2009.6.24";	break;
@@ -22,5 +22,5 @@ switch(docID)
 	case "6660504": 	reg="bjsh";	uss="382587";	udn="2012.7.27";	break;
 	case "9119604": 	reg="itf";	uss="澳門夢工場";	break;
 	case "99869604": 	reg="jr16";	uss="571606";	udn="2017.11.17";	break;
-	case "173410304" :	reg="chiayi";	rss="633198";	break;
+	case "173410304" :	reg="chiayi";	uss="633198";	break;
 }
