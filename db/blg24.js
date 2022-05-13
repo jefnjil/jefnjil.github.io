@@ -7,8 +7,8 @@ switch(docID)
 	case "3583430022743976924": 	uMedia="12751/4542665";	reg="chnfood";	uss="622103";	umd="2020.5.6";	break;
 	case "427989882608272924": 	reg="macau";	uss="444728";	break;
 	case "3796794101216228924": 	reg="taitung";	uss="626211";	break;
-	case "7640566229406115024": 	reg="history1";	uss="死亡醫生";	break;
-	case "4242643030376414324": 	reg="las";	uss="New York";	udn="465124";	break;
+	case "7640566229406115024": 	reg="history1";	break;
+	case "4242643030376414324": 	reg="las";	udn="465124";	break;
 	case "7623347839129343024": 	reg="tokyo";	uss="122897";	udn="2008.7.16";	break;
 	case "6416435381856819224": 	reg="lijiang";	uss="456999";	break;
 	case "2109723691310509224": 	reg="uk";	udn="2006.5.23";	break;

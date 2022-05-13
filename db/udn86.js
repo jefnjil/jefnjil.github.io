@@ -3,7 +3,7 @@ switch(docID)
 	case "104388986": 	reg="tpe2";	uss="583945";	ufp="2017.10.26";	break;
 	case "112185286": 	reg="tpe";	uss="591519";	break;
 	case "115622886": 	reg="tpe";	uss="600194";	break;
-	case "146993186": 	uMedia="12751/5221338";	reg="japfood";	ufp="2021.2.1;12751/5221338";	umd="2021.2.1";	break;
+	case "146993186": 	uMedia="12751/5221338";	reg="japfood";	ufp="2021.2.1";	umd="2021.2.1";	break;
 	case "155057986": 	uMedia="12749/5164368";	reg="tpe";	uss="625946";	umd="2021.01.11";	ufp="2021.1.12";	break;
 	case "171865086": 	reg="mice";	break;
 	case "206686": 	reg="tech";	break;

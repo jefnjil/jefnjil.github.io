@@ -4,7 +4,7 @@ switch(docID)
 	case "132360191": 	reg="crime";	break;
 	case "132459491": 	reg="thriller";	break;
 	case "138124791": 	uMedia="12751/4674201";	reg="westfood";	uss="622109";	umd="2020.7.5";	break;
-	case "149555491": 	uMedia="12749/4946213";	reg="ntc";	uss="611075";	break;
+	case "149555491": 	uMedia="12749/4946213";	reg="ntc";	uss="611075";	umd="2020.10.19";	break;
 	case "15129491": 	reg="macau";	break;
 	case "1602991": 	reg="tws";	uss="462836";	udn="2008.2.13";	break;
 	case "1864891": 	reg="twn";	uss="113378";	udn="2008.5.14";	break;

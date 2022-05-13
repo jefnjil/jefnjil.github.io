@@ -20,7 +20,7 @@ switch(docID)
 	case "5283704": 	reg="italy";	uss="316089";	break;
 	case "5835404": 	reg="wind";	uss="338175";	break;
 	case "6660504": 	reg="bjsh";	uss="382587";	udn="2012.7.27";	break;
-	case "9119604": 	reg="itf";	uss="澳門夢工場";	break;
+	case "9119604": 	reg="itf";	break;
 	case "99869604": 	reg="jr16";	uss="571606";	udn="2017.11.17";	break;
 	case "173410304" :	reg="chiayi";	uss="633198";	break;
 }

@@ -2,7 +2,7 @@ switch(docID)
 {
 	case "101490295": 	reg="buffet";	uss="581622";	break;
 	case "115011695": 	reg="japfood";	uss="600195";	break;
-	case "154902295": 	uMedia="12749/5339510";	reg="hualien";	uss="626221";	break;
+	case "154902295": 	uMedia="12749/5339510";	reg="hualien";	uss="626221";	umd="2021.3.24";	break;
 	case "164395": 	reg="george";	break;
 	case "164654395": 	reg="wind";	break;
 	case "35259395": 	reg="shinkansen";	uss="473036";	break;

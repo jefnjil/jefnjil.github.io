@@ -3,7 +3,7 @@ switch(docID)
 	case "107017723": 	reg="expo";	uss="588272";	break;
 	case "137145923": 	reg="expo";	uss="620079";	break;
 	case "14568223": 	reg="ntc";	uss="440838";	break;
-	case "166451623": 	reg="history1";	uss="死亡醫生";	break;
+	case "166451623": 	reg="history1";	break;
 	case "171712023": 	uMedia="12751/6112585";	reg="snack";	umd="2022.2.27";	break;
 	case "21664423": 	reg="sf";	udn="2015.4.9";	break;
 	case "2723223": 	reg="lang";	break;

@@ -1,7 +1,7 @@
 switch(docID)
 {
 	case "8985253973433936776": 	uMedia="12749/5029963";	reg="taitung";	uss="626211";	umd="2020.11.20";	break;
-	case "12193118307112976": 	uMedia="12749/5339510";	reg="hualien";	uss="626221";	break;
+	case "12193118307112976": 	uMedia="12749/5339510";	reg="hualien";	uss="626221";	umd="2021.3.24";	break;
 	case "7670090927136807576": 	uMedia="12749/5230373";	reg="hotel_tww";	uss="625945";	umd="2021.2.4";	break;
 	case "9182603018041115476": 	reg="tech";	break;
 	case "3931385223495130376": 	reg="elaine";	break;

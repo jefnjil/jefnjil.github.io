@@ -8,12 +8,12 @@ switch(docID)
 	case "8927978491690202125": 	reg="3C";	break;
 	case "7090835168903534225": 	reg="expo";	uss="438226";	udn="2014.5.9";	break;
 	case "714662775974158525": 	uMedia="12774/4411192";	reg="nikko";	uss="621733";	umd="2020.3.13";	break;
-	case "5908916608178685925": 	uMedia="12760/4478331";	reg="mv";	break;
+	case "5908916608178685925": 	uMedia="12760/4478331";	reg="mv";	umd="2020.4.9";	break;
 	case "4831851328275104525": 	reg="ntc";	uss="440837";	break;
 	case "8383803826156267925": 	reg="crime";	break;
 	case "4287837351208740725": 	uMedia="12749/4913373";	reg="tws";	umd="2020.10.6";	break;
 	case "7589275156850568925": 	uMedia="12751/4966638";	reg="buffet";	umd="2020.10.27";	break;
-	case "9002902084174600925" :	reg="ntc";	uss="621734";	umd="2021.5.17";	break;
+	case "9002902084174600925" :	reg="ntc";	uss="621734";	uMedia="12749/5463085";	umd="2021.5.17";	break;
 	case "2006853878976050325": 	reg="news";	break;
 	case "1314971926999650625": 	reg="hotel_asia";	uss="453703";	break;
 	case "7161871694705306725": 	reg="george";	break;

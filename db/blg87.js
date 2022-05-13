@@ -20,7 +20,7 @@ switch(docID)
 	case "4522785542408314287": 	reg="elaine";	break;
 	case "8426601395339389387": 	reg="thriller";	break;
 	case "7401828470873683087": 	reg="jr16";	uss="569423";	break;
-	case "3486939760903537287": 	reg="itf";	uss="澳門夢工場";	break;
+	case "3486939760903537287": 	reg="itf";	break;
 	case "823069230094245787": 	reg="campus";	break;
 	case "2064195712676160187": 	reg="jr16";	uss="575930";	break;
 }

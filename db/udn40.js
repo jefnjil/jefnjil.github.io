@@ -11,7 +11,7 @@ switch(docID)
 	case "335340": 	reg="history";	break;
 	case "35197340": 	reg="itf";	uss="479563";	break;
 	case "44959340": 	reg="ntc";	uss="494714";	break;
-	case "6361940": 	reg="mv";	uss="2012）";	break;
+	case "6361940": 	reg="mv";	break;
 	case "8114840": 	reg="book";	udn="2013.8.13";	break;
 	case "829940": 	reg="comment";	break;
 }
