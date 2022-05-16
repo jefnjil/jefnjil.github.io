@@ -26,4 +26,5 @@ jnjRef('165444598','jnjhome.blogspot.com/2021/07/blog-post','古早時國外住�
 jnjRef('165634344','jnjhome.blogspot.com/2021/07/blog-post_23','古早時國外住宿：英國');
 jnjRef('165822068','jnjhome.blogspot.com/2021/07/blog-post_28','古早時國外住宿：美國、夏威夷');
 jnjRef('166891129','jnjfoorprint.blogspot.com/2021/08/80-african-safari','80年代的九州自然動物園');
+jnjRef('174191585','jnjhome.blogspot.com/2022/05/wordle-1a2b','Wordle 和 1A2B 猜數字遊戲');
 jnjRefList += '</ul></p></td></tr></table>';
