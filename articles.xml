@@ -27,7 +27,7 @@
   <Article id="167761" bURL="jnjfoorprint.blogspot.com/2006/02/mgm-grand" Title="拉斯維加斯大道 － MGM Grand" reg="las" bID="778412790599903049" uss="465125" udn="2006.3.13" />
   <Article id="168376" bURL="jnjfoorprint.blogspot.com/2006/02/mirage" Title="拉斯維加斯大道 － Mirage" reg="las" bID="1493931534227477291" uss="465123" udn="2006.3.15" />
   <Article id="168387" bURL="jnjfoorprint.blogspot.com/2006/02/luxor" Title="拉斯維加斯大道 － Luxor" reg="las" bID="4163999668975316723" uss="465122" udn="2006.3.17" />
-  <Article id="168397" bURL="jnjfoorprint.blogspot.com/2006/02/new-york-new-york" Title="拉斯維加斯大道 － New York, New York" reg="las" bID="4242643030376414324" uss="New York" udn="465124" />
+  <Article id="168397" bURL="jnjfoorprint.blogspot.com/2006/02/new-york-new-york" Title="拉斯維加斯大道 － New York, New York" reg="las" bID="4242643030376414324" udn="465124" />
   <Article id="168406" bURL="jnjfoorprint.blogspot.com/2006/02/paris" Title="拉斯維加斯大道 － Paris" reg="las" bID="5959880104666777100" uss="465125" udn="2006.3.22" />
   <Article id="168417" bURL="jnjfoorprint.blogspot.com/2006/02/caesars-palace" Title="拉斯維加斯大道 － Caesars Palace" reg="las" bID="9203988425437919118" uss="467897" />
   <Article id="168420" bURL="jnjfoorprint.blogspot.com/2006/02/end" Title="拉斯維加斯大道 － The End" reg="las" bID="8525173198088114460" uss="465122" udn="2006.3.27" />
@@ -575,7 +575,7 @@
   <Article id="6274894" bURL="jnjtalks.blogspot.com/2012/03/blog-post" Title="由美國釘子戶看文林苑案及都市更新" reg="news" bID="8501658890950686848" udn="2012.3.30" />
   <Article id="6313033" bURL="jnjtalks.blogspot.com/2012/04/blog-post" Title="從「人類基因樹」到「我們流著不同的血液」" reg="lang" bID="4173926442983865372" />
   <Article id="6325660" bURL="jnjmvtv.blogspot.com/2012/04/rome-after-spartacus" Title="斯巴達克斯後的羅馬（Rome after Spartacus）" reg="rome" bID="7325966605155695404" />
-  <Article id="6361940" bURL="jnjmvtv.blogspot.com/2012/04/titanic-2012" Title="鐵達尼號（Titanic, 2012）" reg="mv" bID="5378657191116104640" uss="2012）" />
+  <Article id="6361940" bURL="jnjmvtv.blogspot.com/2012/04/titanic-2012" Title="鐵達尼號（Titanic, 2012）" reg="mv" bID="5378657191116104640" />
   <Article id="6395707" bURL="jnjfoorprint.blogspot.com/2012/04/blog-post" Title="北京城門九丈九" reg="bjsh" bID="4101187828210191618" uss="373555" />
   <Article id="6395716" bURL="jnjmvtv.blogspot.com/2012/04/rome-season-1" Title="凱撒的羅馬（Rome, Season 1）" reg="rome" bID="5232410511262456361" />
   <Article id="6408038" bURL="jnjfoorprint.blogspot.com/2012/05/blog-post_1" Title="侯硐群貓懶洋洋" reg="ntc" bID="7737106667390488476" uss="374339" udn="2012.5.2" />
@@ -724,7 +724,7 @@
   <Article id="9066685" bURL="jnjexpo.blogspot.com/2013/10/2013-itf_24" Title="2013 ITF台北國際旅展（一）展前記者會" reg="itf" bID="6219978751338116291" />
   <Article id="9092690" bURL="jnjexpo.blogspot.com/2013/10/2013-itf_61" Title="韓國 美笑 塗鴉秀 ─ 2013 ITF台北國際旅展（二）" reg="itf" bID="9177362362958405444" />
   <Article id="9114918" bURL="jnjexpo.blogspot.com/2013/10/2013-itf_57" Title="馬來西亞、蒙古傳統民俗 ＋ 台灣美食、泡湯 ─ 2013 ITF台北國際旅展（三）" reg="itf" bID="3449773072396247837" />
-  <Article id="9119604" bURL="jnjexpo.blogspot.com/2013/10/lamigirls-2013-itf_22" Title="Lamigirls, 澳門夢工場 ＋ 國內住宿 ─ 2013 ITF台北國際旅展（四）" reg="itf" bID="3486939760903537287" uss="澳門夢工場" />
+  <Article id="9119604" bURL="jnjexpo.blogspot.com/2013/10/lamigirls-2013-itf_22" Title="Lamigirls, 澳門夢工場 ＋ 國內住宿 ─ 2013 ITF台北國際旅展（四）" reg="itf" bID="3486939760903537287" />
   <Article id="9119695" bURL="jnjexpo.blogspot.com/2013/10/2013-itf_50" Title="沖繩太鼓、日本演歌 ＋ 國內遊樂園 ─ 2013 ITF台北國際旅展（五）" reg="itf" bID="5065289761297128357" />
   <Article id="9119746" bURL="jnjexpo.blogspot.com/2013/10/2013-itf_67" Title="關島、夏威夷 ＋ 台灣好行，高鐵假期 ─ 2013 ITF台北國際旅展（六）" reg="itf" bID="7994649019724268205" />
   <Article id="9119789" bURL="jnjexpo.blogspot.com/2013/10/blog-post_8" Title="救國團今昔 ＋ 旅展塗鴉秀影片" reg="itf" bID="5910963692962398570" />
@@ -1478,8 +1478,8 @@
   <Article id="160920844" bURL="jnjfoorprint.blogspot.com/2021/04/blog-post_14" Title="石門水庫大壩健行" uMedia="12749/5398708" reg="taoyuan" bID="2720123544461353846" udn="2021.8.27" umd="2021.4.21" />
   <Article id="161562316" bURL="jnjmvtv.blogspot.com/2021/04/1996" Title="「攀登」「聖母峰」，1996山難至今" reg="mountain" bID="1923269323861783454" />
   <Article id="161876680" bURL="jnjexpo.blogspot.com/2021/04/blog-post" Title="奇美博物館 ─ 兵器廳" reg="museum" bID="2536801542576759778" uss="543875" />
-  <Article id="162289551" bURL="jnjfoorprint.blogspot.com/2021/05/blog-post" Title="三峽行修宮後山步道" reg="ntc" bID="9002902084174600925" uss="621734" umd="2021.5.17" rss="621734" />
-  <Article id="162711866" bURL="jnjfoorprint.blogspot.com/2021/05/blog-post_10" Title="瓶蓋工廠台北製造所" uMedia="12749/5448278" reg="tpe1" bID="2916147758992147469" umd="2021.5.11" rss="632725" />
+  <Article id="162289551" bURL="jnjfoorprint.blogspot.com/2021/05/blog-post" Title="三峽行修宮後山步道" reg="ntc" bID="9002902084174600925" umd="2021.5.17" uss="621734" />
+  <Article id="162711866" bURL="jnjfoorprint.blogspot.com/2021/05/blog-post_10" Title="瓶蓋工廠台北製造所" uMedia="12749/5448278" reg="tpe1" bID="2916147758992147469" umd="2021.5.11" uss="632725" />
   <Article id="162891532" bURL="jnjtalks.blogspot.com/2021/05/app" Title="「社交距離APP」如何消弭資安疑慮、保障個資？" reg="news" bID="7989808641476348687" />
   <Article id="163060618" bURL="jnjhome.blogspot.com/2021/05/blog-post" Title="居家上班第一週記‧南港公園" reg="comment" bID="8488132564080355835" />
   <Article id="163222485" bURL="jnjmvtv.blogspot.com/2021/05/dig-ammonite-mare-of-easttown" Title="古寶 (The Dig) 默愛 (Ammonite) 與東城奇案 (Mare of Easttown)" reg="mv1" bID="6092822090938976587" />
@@ -1491,29 +1491,29 @@
   <Article id="164344280" bURL="jnjmvtv.blogspot.com/2021/06/american-traitor-trial-of-axis-sally" Title="審判美奸軸心莎莉 (American Traitor: The Trial of Axis Sally)" reg="history1" bID="2038233174215236752" />
   <Article id="164498059" bURL="jnjmvtv.blogspot.com/2021/07/shadow-in-cloud" Title="致命天際線 (Shadow in the Cloud)" reg="thriller1" bID="2997524806980009283" />
   <Article id="164654395" bURL="jnjliterature.blogspot.com/2021/07/les-miserables-252012" Title="悲慘世界 (Les Misérables) 音樂劇十週年、25週年暨2012電影版" reg="wind" bID="7796300717302865756" />
-  <Article id="165138167" bURL="jnjdining.blogspot.com/2021/07/blog-post" Title="點水樓下午茶吃到飽" uMedia="12751/5637533" reg="snack" bID="3192632769352759988" umd="2021.7.30" rss="632726" />
+  <Article id="165138167" bURL="jnjdining.blogspot.com/2021/07/blog-post" Title="點水樓下午茶吃到飽" uMedia="12751/5637533" reg="snack" bID="3192632769352759988" umd="2021.7.30" uss="632726" />
   <Article id="165444598" bURL="jnjhome.blogspot.com/2021/07/blog-post" Title="古早時國外住宿：日本" reg="hotel_jp" bID="2943116797451954700" />
   <Article id="165634344" bURL="jnjhome.blogspot.com/2021/07/blog-post_23" Title="古早時國外住宿：英國" reg="hotel_euam" bID="7145005512176969554" />
   <Article id="165822068" bURL="jnjhome.blogspot.com/2021/07/blog-post_28" Title="古早時國外住宿：美國、夏威夷" reg="hotel_euam" bID="514188323030031320" />
   <Article id="165979567" bURL="jnjtech.blogspot.com/2021/07/line" Title="解鎖舊版 Line 聊天室備份" reg="tech" bID="3811639634688176462" />
   <Article id="166089493" bURL="jnjmvtv.blogspot.com/2021/08/tehran-vs" Title="德黑蘭 (Tehran) ─ 以色列 vs. 伊朗的諜報戰" reg="thriller1" bID="2554485683217815053" />
   <Article id="166281852" bURL="jnjmvtv.blogspot.com/2021/08/plot-against-america" Title="美國外史 (The Plot Against America) ─ 假如種族仇恨蔓延......" reg="sf1" bID="2970351221833121500" udn="2021.8.13" />
-  <Article id="166451623" bURL="jnjmvtv.blogspot.com/2021/08/dr-death" Title="要命醫生 (Dr. Death, 死亡醫生) ─ 你絕不想在手術房遇上的大夫" reg="history1" bID="7640566229406115024" uss="死亡醫生" />
+  <Article id="166451623" bURL="jnjmvtv.blogspot.com/2021/08/dr-death" Title="要命醫生 (Dr. Death, 死亡醫生) ─ 你絕不想在手術房遇上的大夫" reg="history1" bID="7640566229406115024" />
   <Article id="166716251" bURL="jnjblogbiz.blogspot.com/2021/08/1500" Title="漢來海港聞香 ─ 文1500篇紀念兼穴居三月記" reg="blog" bID="1172592741719937123" />
   <Article id="166891129" bURL="jnjfoorprint.blogspot.com/2021/08/80-african-safari" Title="80年代的九州自然動物園 (アフリカンサファリ，African Safari)" reg="memory" bID="4010055147085491112" />
-  <Article id="167382197" bURL="jnjfoorprint.blogspot.com/2021/09/blog-post" Title="桃蘆坑農場同學會" reg="taoyuan" bID="6172111691673339661" rss="632727" />
+  <Article id="167382197" bURL="jnjfoorprint.blogspot.com/2021/09/blog-post" Title="桃蘆坑農場同學會" reg="taoyuan" bID="6172111691673339661" uss="632727" />
   <Article id="167548892" bURL="jnjfoundation.blogspot.com/2020/12/blog-post" Title="艾西莫夫基地三部曲與我的緣份" reg="book" bID="3028127036144581998" />
   <Article id="168078590" bURL="jnjtech.blogspot.com/2021/09/ok-ktv" Title="穴居人以現成設備，拼湊卡啦OK (KTV) 歡唱環境" reg="tech" bID="7168179250081965115" />
   <Article id="168464909" bURL="jnjfoundation.blogspot.com/2021/09/apple-tv-foundation" Title="Apple TV+ 新作：「基地（Foundation）」影集初評" uMedia="12760/6049485" reg="sf1" bID="906172955090669712" umd="2022.2.7" />
-  <Article id="169049804" bURL="jnjfoorprint.blogspot.com/2021/10/blog-post" Title="鹿港拜拜兼早餐（天后宮、第一市場）" reg="changhua" bID="1937297457512423192" uss="620080" rss="620080" />
+  <Article id="169049804" bURL="jnjfoorprint.blogspot.com/2021/10/blog-post" Title="鹿港拜拜兼早餐（天后宮、第一市場）" reg="changhua" bID="1937297457512423192" uss="620080" />
   <Article id="169316572" bURL="jnjfoundation.blogspot.com/2021/10/foundation" Title="閒聊「基地 Foundation」影集與「騾」" reg="sf1" bID="6470902183652123393" />
-  <Article id="169469663" bURL="jnjfoorprint.blogspot.com/2021/10/outlet" Title="台中港三井Outlet" uMedia="12749/5894297" reg="taichung" bID="3447733784334871856" umd="2021.11.17" rss="632728" />
-  <Article id="169829985" bURL="jnjfoorprint.blogspot.com/2021/10/blog-post_25" Title="台中潭雅神綠園道" uMedia="12749/5892225" reg="taichung" bID="5529370055305672208" umd="2021.11.16" ufp="2021.11.9" rss="633190" />
-  <Article id="169974101" bURL="jnjfoorprint.blogspot.com/2021/11/blog-post" Title="台中兆品酒店" reg="hotel_tww" bID="1999354322850827118" rss="633189" />
+  <Article id="169469663" bURL="jnjfoorprint.blogspot.com/2021/10/outlet" Title="台中港三井Outlet" uMedia="12749/5894297" reg="taichung" bID="3447733784334871856" umd="2021.11.17" uss="632728" />
+  <Article id="169829985" bURL="jnjfoorprint.blogspot.com/2021/10/blog-post_25" Title="台中潭雅神綠園道" uMedia="12749/5892225" reg="taichung" bID="5529370055305672208" umd="2021.11.16" ufp="2021.11.9" uss="633190" />
+  <Article id="169974101" bURL="jnjfoorprint.blogspot.com/2021/11/blog-post" Title="台中兆品酒店" reg="hotel_tww" bID="1999354322850827118" uss="633189" />
   <Article id="170256251" bURL="jnjhome.blogspot.com/2021/11/80" Title="80年代京都金閣寺、二条城和清水寺" reg="memory" bID="1349009022533220054" />
-  <Article id="170474065" bURL="jnjdining.blogspot.com/2021/11/double-cheese" Title="台南美食 ─ Double Cheese、彩虹、品常、陽光食園" uMedia="12751/5929896" reg="snack" bID="7793094091841987542" uss="2021.12.9" umd="2021.12.2" />
-  <Article id="170539360" bURL="jnjfoorprint.blogspot.com/2021/11/4k" Title="「花現三層崎」擬富良野花田，三軸穩定器試拍4K影片" uMedia="12749/5965872" reg="tpe2" bID="5204040861270131801" udn="2021.12.23" umd="2021.12.17" rss="633191" />
-  <Article id="170634525" bURL="jnjfoorprint.blogspot.com/2021/11/blog-post_29" Title="關渡秘境花海" uMedia="12749/6011401" reg="tpe2" bID="92072507992223680" umd="2022.1.6" rss="633192" />
+  <Article id="170474065" bURL="jnjdining.blogspot.com/2021/11/double-cheese" Title="台南美食 ─ Double Cheese、彩虹、品常、陽光食園" uMedia="12751/5929896" reg="snack" bID="7793094091841987542" umd="2021.12.2" />
+  <Article id="170539360" bURL="jnjfoorprint.blogspot.com/2021/11/4k" Title="「花現三層崎」擬富良野花田，三軸穩定器試拍4K影片" uMedia="12749/5965872" reg="tpe2" bID="5204040861270131801" udn="2021.12.23" umd="2021.12.17" uss="633191" />
+  <Article id="170634525" bURL="jnjfoorprint.blogspot.com/2021/11/blog-post_29" Title="關渡秘境花海" uMedia="12749/6011401" reg="tpe2" bID="92072507992223680" umd="2022.1.6" uss="633192" />
   <Article id="170818641" bURL="jnjtech.blogspot.com/2021/12/blog-post" Title="評「華碩主管羞辱人？台大生面試遭冷嘲熱諷」" reg="comment1" bID="4467627032366617804" udn="2021.12.23" />
   <Article id="170912483" bURL="jnjmvtv.blogspot.com/2021/12/the-long-call" Title="遙遠的召喚（The Long Call）" reg="mv1" bID="2269111072724591154" />
   <Article id="171004743" bURL="jnjmvtv.blogspot.com/2021/12/ragdoll" Title="屍偶（Ragdoll, 破布娃娃）" reg="crime" bID="4340541758790195985" />
@@ -1525,26 +1525,26 @@
   <Article id="171647351" bURL="jnjhome.blogspot.com/2022/02/blog-post" Title="致命漩渦──意想不到的捕鼠裝置" reg="mice" bID="7990462460934525195" />
   <Article id="171689749" bURL="jnjmvtv.blogspot.com/2022/01/ice-road" Title="地表最強老爸動作片- 疾凍救援（The Ice Road）及其他" reg="action" bID="7393139994714701408" />
   <Article id="171712023" bURL="jnjdining.blogspot.com/2022/02/blog-post" Title="俗擱大碗的內湖永宝餐廳" uMedia="12751/6112585" reg="snack" bID="4527653315250374260" umd="2022.2.27" />
-  <Article id="171720189" bURL="jnjfoorprint.blogspot.com/2022/02/blog-post" Title="陽明山前山公園" uMedia="12749/6148457" reg="tpe2" bID="800932465616428198" umd="2022.3.9" ufp="2022.3.4" rss="632722" />
+  <Article id="171720189" bURL="jnjfoorprint.blogspot.com/2022/02/blog-post" Title="陽明山前山公園" uMedia="12749/6148457" reg="tpe2" bID="800932465616428198" umd="2022.3.9" ufp="2022.3.4" uss="632722" />
   <Article id="171785376" bURL="jnjdining.blogspot.com/2022/02/blog-post_24" Title="燈々庵自然流日本料理" uMedia="12751/6163727" reg="japfood1" bID="6462594855549609681" umd="2022.3.15" />
-  <Article id="171848470" bURL="jnjfoorprint.blogspot.com/2022/03/blog-post" Title="陽明山小油坑、竹子湖" uMedia="12749/6169407" reg="tpe2" bID="1872896938607920562" umd="2022.3.18" rss="632722" />
+  <Article id="171848470" bURL="jnjfoorprint.blogspot.com/2022/03/blog-post" Title="陽明山小油坑、竹子湖" uMedia="12749/6169407" reg="tpe2" bID="1872896938607920562" umd="2022.3.18" uss="632722" />
   <Article id="171865086" bURL="jnjhome.blogspot.com/2022/03/blog-post" Title="抗鼠戰紀［有鼠慎入］" reg="mice" bID="3276780604542677711" />
-  <Article id="171896067" bURL="jnjdining.blogspot.com/2022/03/inparadise" Title="饗饗 Inparadise 下午餐" reg="buffet1" bID="6810997525387395310" uMedia="12751/6180214" umd="2022.3.22" ufp="2022.3.17" rss="611081" />
+  <Article id="171896067" bURL="jnjdining.blogspot.com/2022/03/inparadise" Title="饗饗 Inparadise 下午餐" reg="buffet1" bID="6810997525387395310" uMedia="12751/6180214" umd="2022.3.22" ufp="2022.3.17" uss="611081" />
   <Article id="171960898" bURL="jnjtech.blogspot.com/2022/03/gcp-infinityfree-drivetoweb" Title="免費網頁空間應用筆記（GCP, InfinityFree, DriveToWeb）" reg="tech" bID="6425438931143494820" />
-  <Article id="172001883" bURL="jnjfoorprint.blogspot.com/2022/03/blog-post_14" Title="三峽祖師廟、老街" reg="ntc" bID="5007470060931265378" uMedia="12749/6180291" umd="2022.3.25" rss="632719" />
-  <Article id="172035205" bURL="jnjdining.blogspot.com/2022/03/blog-post" Title="台北喜來登請客樓［米其林二星］" reg="chnfood" bID="1024281115249172478" uMedia="12751/6180287" umd="2022.3.24" rss="632721" />
-  <Article id="172087786" Title="十三行博物館面具特展、考古公園" bURL="jnjexpo.blogspot.com/2022/03/blog-post" uMedia="12749/6190504" bID="8725999019257297617" reg="ntc1" ufp="2022.3.25" umd="2022.3.30" rss="632723" />
-  <Article id="172264427" Title="川湯溫泉養生餐廳" bURL="jnjdining.blogspot.com/2022/03/blog-post_24" bID="3573096890257395101" reg="snack" rss="632720" uMedia="12751/6206018" umd="2022.4.8" />
+  <Article id="172001883" bURL="jnjfoorprint.blogspot.com/2022/03/blog-post_14" Title="三峽祖師廟、老街" reg="ntc" bID="5007470060931265378" uMedia="12749/6180291" umd="2022.3.25" uss="632719" />
+  <Article id="172035205" bURL="jnjdining.blogspot.com/2022/03/blog-post" Title="台北喜來登請客樓［米其林二星］" reg="chnfood" bID="1024281115249172478" uMedia="12751/6180287" umd="2022.3.24" uss="632721" />
+  <Article id="172087786" Title="十三行博物館面具特展、考古公園" bURL="jnjexpo.blogspot.com/2022/03/blog-post" uMedia="12749/6190504" bID="8725999019257297617" reg="ntc1" ufp="2022.3.25" umd="2022.3.30" uss="632723" />
+  <Article id="172264427" Title="川湯溫泉養生餐廳" bURL="jnjdining.blogspot.com/2022/03/blog-post_24" bID="3573096890257395101" reg="snack" uss="632720" uMedia="12751/6206018" umd="2022.4.8" />
   <Article id="172651889" Title="免費網頁空間 GitHub Pages" bURL="jnjblogbiz.blogspot.com/2022/03/github-pages" uMedia="" bID="6963556778511091289" reg="blog" />
-  <Article id="173112985" Title="君悅凱菲屋下午茶小聚" bURL="jnjdining.blogspot.com/2022/04/blog-post" uMedia="12751/6247923" reg="buffet1" bID="8634523491229135943" rss="618697" umd="2022.4.20" />
-  <Article id="173211697" Title="鹽水‧月津港燈節 2022" bURL="jnjexpo.blogspot.com/2022/04/2022" uMedia="12749/6258496" bID="175447034455128205" reg="expo1" umd="2022.4.26" rss="633194" />
-  <Article id="173289027" Title="仁義湖岸大酒店‧仁義潭水庫壩堤" bURL="jnjfoorprint.blogspot.com/2022/04/blog-post" uMedia="12749/6258520" bID="3248834352990969010" reg="hotel_tww" umd="2022.4.27" rss="633195" />
-  <Article id="173410304" Title="嘉義環市自行車道‧世賢路段" bURL="jnjfoorprint.blogspot.com/2022/04/blog-post_18" uMedia="" bID="6120162135547036995" reg="chiayi" rss="633198" />
-  <Article id="173485075" Title="鹿港丁家大宅" bURL="jnjfoorprint.blogspot.com/2022/04/blog-post_21" uMedia="" bID="3282878545400608501" reg="changhua" rss="633196" />
-  <Article id="173560190" Title="臺灣玻璃館、玻璃媽祖廟" bURL="jnjfoorprint.blogspot.com/2022/04/blog-post_25" uMedia="" bID="8592879904346083205" reg="changhua" ufp="2022.5.4" rss="633199" />
+  <Article id="173112985" Title="君悅凱菲屋下午茶小聚" bURL="jnjdining.blogspot.com/2022/04/blog-post" uMedia="12751/6247923" reg="buffet1" bID="8634523491229135943" uss="618697" umd="2022.4.20" />
+  <Article id="173211697" Title="鹽水‧月津港燈節 2022" bURL="jnjexpo.blogspot.com/2022/04/2022" uMedia="12749/6258496" bID="175447034455128205" reg="expo1" umd="2022.4.26" uss="633194" />
+  <Article id="173289027" Title="仁義湖岸大酒店‧仁義潭水庫壩堤" bURL="jnjfoorprint.blogspot.com/2022/04/blog-post" uMedia="12749/6258520" bID="3248834352990969010" reg="hotel_tww" umd="2022.4.27" uss="633195" />
+  <Article id="173410304" Title="嘉義環市自行車道‧世賢路段" bURL="jnjfoorprint.blogspot.com/2022/04/blog-post_18" uMedia="12749/6302341" bID="6120162135547036995" reg="chiayi" umd="2022.5.18" uss="633198" />
+  <Article id="173485075" Title="鹿港丁家大宅" bURL="jnjfoorprint.blogspot.com/2022/04/blog-post_21" uMedia="" bID="3282878545400608501" reg="changhua" uss="633196" />
+  <Article id="173560190" Title="臺灣玻璃館、玻璃媽祖廟" bURL="jnjfoorprint.blogspot.com/2022/04/blog-post_25" uMedia="" bID="8592879904346083205" reg="changhua" ufp="2022.5.4" uss="633199" />
   <Article id="173604533" Title="腐肉屋的一群慢馬（Slow Horses）" bURL="jnjmvtv.blogspot.com/2022/04/slow-horses" uMedia="" bID="7821017074701711171" reg="action" />
   <Article id="173886712" Title="Io Ti Penso Amore（想你，吾愛） ─ 魔鬼的小提琴家（The Devil's Violinist）" bURL="jnjliterature.blogspot.com/2022/05/io-ti-penso-amore-devils-violinist" uMedia="" bID="4427316976871956546" reg="wind" />
-  <Article id="174000314" Title="鹿港民俗文物館 ─ 辜氏故居" bURL="jnjfoorprint.blogspot.com/2022/05/blog-post" uMedia="" bID="2537463443377586346" reg="changhua" rss="633197" />
-  <Article id="174153598" Title="淡水散策 ─ 和平公園‧一滴水紀念館" bURL="jnjfoorprint.blogspot.com/2022/05/blog-post_12" uMedia="" bID="7451062928914831460" reg="ntc1" rss="633200" />
+  <Article id="174000314" Title="鹿港民俗文物館 ─ 辜氏故居" bURL="jnjfoorprint.blogspot.com/2022/05/blog-post" uMedia="" bID="2537463443377586346" reg="changhua" uss="633197" />
+  <Article id="174153598" Title="淡水散策 ─ 和平公園‧一滴水紀念館" bURL="jnjfoorprint.blogspot.com/2022/05/blog-post_12" uMedia="" bID="7451062928914831460" reg="ntc1" uss="633200" />
   <Article id="174191585" Title="Wordle 和學生時代寫的 1A2B 猜數字遊戲程式" bURL="jnjhome.blogspot.com/2022/05/wordle-1a2b" uMedia="" bID="605279615259033154" reg="memory" />
 </Articles>
