@@ -18,5 +18,5 @@ switch(docID)
 	case "5890414": 	reg="westfood";	uss="338638";	udn="2011.12.12";	break;
 	case "61917614": 	reg="prague";	uss="537061";	udn="2016.7.20";	break;
 	case "6536614": 	reg="blog";	break;
-	case "174000314" :	reg="changhua";	uss="633197";	umd="2022.5.23";	uMedia="12749/6319366";	break;
+	case "174000314" :	reg="changhua";	uss="633197";	ufp="2022.5.24";	umd="2022.5.23";	uMedia="12749/6319366";	break;
 }
