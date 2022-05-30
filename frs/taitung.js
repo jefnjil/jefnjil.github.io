@@ -19,6 +19,7 @@ jnjRef('153800246','jnjfoorprint.blogspot.com/2020/11/blog-post_30','台東山�
 jnjRef('154230460','jnjfoorprint.blogspot.com/2020/12/blog-post','小野柳');
 jnjRef('154389782','jnjfoorprint.blogspot.com/2020/12/blog-post_7','三仙台八拱橋');
 jnjRef('174474634','jnjfoorprint.blogspot.com/2022/05/toro','小子遊綠島');
+jnjRef('174675432','jnjfoorprint.blogspot.com/2022/05/blog-post_30','綠島潮間帶');
 jnjRefList += '</ul></p></td><td valign=top><p><ul><b>花蓮</b>';
 jnjRef('151332568','jnjfoorprint.blogspot.com/2020/10/blog-post','蘇花改、蘇澳服務區');
 jnjRef('151446746','jnjfoorprint.blogspot.com/2020/10/daka','台泥DAKA園區');
