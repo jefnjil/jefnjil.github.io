@@ -21,4 +21,5 @@ jnjRef('124700880','jnjdining.blogspot.com/2019/02/a11','欣葉信義新天地')
 jnjRef('137770394','jnjdining.blogspot.com/2020/06/blog-post','十二廚包肥早餐');
 jnjRef('151078807','jnjdining.blogspot.com/2020/10/blog-post','十二廚包肥午餐');
 jnjRef('173112985','jnjdining.blogspot.com/2022/04/blog-post','君悅凱菲屋下午茶小聚');
+jnjRef('174972704','jnjdining.blogspot.com/2022/06/blog-post','漢來海港天母店午餐');
 jnjRefList += '</ul></p></td></tr></table>';
