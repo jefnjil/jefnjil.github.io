@@ -36,4 +36,5 @@ jnjRef('43223539','jnjblogbiz.blogspot.com/2016/01/3mblogspot','文章點閱破3
 jnjRef('112508848','jnjblogbiz.blogspot.com/2018/06/4m3c','慶點閱破4M，賞香車美人閒聊3C');
 jnjRef('150888539','jnjblogbiz.blogspot.com/2020/09/adsense','AdSense 莎喲娜啦，談談ｕ值媒');
 jnjRef('166716251','jnjblogbiz.blogspot.com/2021/08/1500','文1500篇紀念兼穴居三月記');
+jnjRef('175185696','jnjblogbiz.blogspot.com/2022/06/blog-post','疫期便當與餐廳 ─ 慶點閱破六百萬');
 jnjRefList += '</ul></p></td></tr></table>';
