@@ -19,4 +19,5 @@ switch(docID)
 	case "6283256102646869148": 	reg="history";	udn="2013.10.17";	break;
 	case "362182100444322048": 		reg="snack";	break;
 	case "3552191808414872148": 	reg="sf";	break;
+	case "1284292302020565048" :	reg="taitung";	break;
 }
