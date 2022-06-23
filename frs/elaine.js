@@ -24,6 +24,7 @@ jnjRef('252092','jnjhome.blogspot.com/2006/04/elaine','第一次看牙');
 jnjRef('3089697','jnjhome.blogspot.com/2009/06/blog-post','麋鹿的獎盃');
 jnjRef('26396447','jnjhome.blogspot.com/2015/07/elaine','國中生涯全記錄');
 jnjRef('112041115','jnjhome.blogspot.com/2018/05/elaine','慶Elaine上大學');
+jnjRef('175252430','jnjhome.blogspot.com/2022/06/blog-post','大學畢業，升學碩士班');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('1023559','jnjhome.blogspot.com/2007/06/blog-post_13','營養不夠');
 jnjRef('153639','jnjhome.blogspot.com/2006/01/blog-post_76','水蛇與蛋');

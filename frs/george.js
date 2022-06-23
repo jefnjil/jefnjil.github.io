@@ -4,6 +4,7 @@ jnjRef('3091732','jnjhome.blogspot.com/2009/06/blog-post_28','「樂在心中」
 jnjRef('1989299','jnjhome.blogspot.com/2008/06/blog-post','「回首‧揚帆」音樂會');
 jnjRef('22489925','jnjhome.blogspot.com/2015/04/blog-post_24','交通大學校內聯合分發是什麼');
 jnjRef('22472041','jnjhome.blogspot.com/2015/04/blog-post','大學個人申請陪考記');
+jnjRef('175252430','jnjhome.blogspot.com/2022/06/blog-post','大學畢業，升學碩士班');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('329267','jnjhome.blogspot.com/2006/06/george','扯鈴班結訓');
 jnjRef('6514255','jnjfoorprint.blogspot.com/2012/06/blog-post_27','天安門廣場週邊');
