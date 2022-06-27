@@ -24,6 +24,7 @@ jnjRef('174675432','jnjfoorprint.blogspot.com/2022/05/blog-post_30','綠島潮�
 jnjRef('174847367','jnjfoorprint.blogspot.com/2022/06/blog-post','藍洞、彎弓洞、觀音洞');
 jnjRef('175115548','jnjfoorprint.blogspot.com/2022/06/blog-post_13','朝日溫泉、觀海步道、小長城');
 jnjRef('175205703','jnjfoorprint.blogspot.com/2022/06/blog-post_20','綠島監獄、燈塔、派吃所');
+jnjRef('175319718','jnjfoorprint.blogspot.com/2022/06/blog-post_27','白色恐怖綠島紀念園區');
 jnjRefList += '</ul></p><p><ul><b>屏東</b>';
 jnjRef('153109799','jnjfoorprint.blogspot.com/2020/11/blog-post_16','雙流森林遊樂區');
 jnjRefList += '</ul></p></td></tr></table>';
