@@ -27,4 +27,5 @@ jnjRef('1398959','jnjtech.blogspot.com/2007/11/blog-post','方寸間環球漫步
 jnjRef('206686','jnjtech.blogspot.com/2006/03/blog-post','天空旅行家');
 jnjRef('28511901','jnjfoorprint.blogspot.com/2015/08/blog-post_23','漫談車拍與修片');
 jnjRef('168078590','jnjtech.blogspot.com/2021/09/ok-ktv','現成設備拼湊卡啦OK歡唱環境');
+jnjRef('175416349','jnjtech.blogspot.com/2022/06/gmail','刪除 Gmail 無用附檔以釋出空間的方法');
 jnjRefList += '</ul></p></td></tr></table>';
