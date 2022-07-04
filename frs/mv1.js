@@ -18,7 +18,6 @@ jnjRef('7643149','jnjmvtv.blogspot.com/2013/05/12','十二怒漢大審判');
 jnjRef('126884760','jnjmvtv.blogspot.com/2019/05/game-of-thrones','權力遊戲（GoT）');
 jnjRef('170912483','jnjmvtv.blogspot.com/2021/12/the-long-call','遙遠的召喚');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
-jnjRef('21086004','jnjmvtv.blogspot.com/2015/02/the-leftovers-and-resurrection','末世餘生亡者再臨');
 jnjRef('5132316','jnjmvtv.blogspot.com/2011/04/merchant-of-venice-2004','威尼斯商人‧嘆息橋');
 jnjRef('4955021','jnjmvtv.blogspot.com/2011/03/get-low','請來參加我的告別式');
 jnjRef('1418282','jnjmvtv.blogspot.com/2007/12/hannibal-lecter','我看Hannibal Lecter');
@@ -27,4 +26,5 @@ jnjRef('6507697','jnjmvtv.blogspot.com/2012/06/hit-miss','小姐與殺手（Hit 
 jnjRef('132360359','jnjmvtv.blogspot.com/2020/04/unorthodox','出走布魯克林 (Unorthodox');
 jnjRef('163222485','jnjmvtv.blogspot.com/2021/05/dig-ammonite-mare-of-easttown','古寶、默愛與東城奇案');
 jnjRef('171085510','jnjmvtv.blogspot.com/2022/01/holy-motors','花都魅影（Holy Motors）');
+jnjRef('175460531','jnjmvtv.blogspot.com/2022/07/angelyne','看板女王 ─ 安潔琳（Angelyne）');
 jnjRefList += '</ul></p></td></tr></table>';
