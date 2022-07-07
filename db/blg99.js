@@ -16,4 +16,5 @@ switch(docID)
 	case "2462340623475241199": 	reg="book";	break;
 	case "4567093695092172899": 	reg="3C";	break;
 	case "1271133300005485199": 	reg="sf";	break;
+	case "5902708997496422899" :	reg="tech1";	break;
 }

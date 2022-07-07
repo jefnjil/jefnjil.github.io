@@ -1,0 +1,15 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('720189','jnjtech.blogspot.com/2007/02/google','Google的支票好不好拿？');
+jnjRef('29343691','jnjtech.blogspot.com/2015/09/ice','全景畫自動拼接（ICE）');
+jnjRef('113920232','jnjtech.blogspot.com/2018/08/windows-ce-steps-to-setup-ce-device','CE裝置除錯環境設定');
+jnjRef('165979567','jnjtech.blogspot.com/2021/07/line','解鎖舊版 Line 聊天室備份');
+jnjRef('171960898','jnjtech.blogspot.com/2022/03/gcp-infinityfree-drivetoweb','免費網頁空間應用筆記');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('1694840','jnjtech.blogspot.com/2008/03/blog-post','如何搶救毀損的影片檔');
+jnjRef('1398959','jnjtech.blogspot.com/2007/11/blog-post','方寸間環球漫步');
+jnjRef('206686','jnjtech.blogspot.com/2006/03/blog-post','天空旅行家');
+jnjRef('28511901','jnjfoorprint.blogspot.com/2015/08/blog-post_23','漫談車拍與修片');
+jnjRef('168078590','jnjtech.blogspot.com/2021/09/ok-ktv','現成設備拼湊卡啦OK歡唱環境');
+jnjRef('175416349','jnjtech.blogspot.com/2022/06/gmail','刪除 Gmail 無用附檔以釋出空間的方法');
+jnjRef('175572342','jnjtech.blogspot.com/2022/07/imovie-ken-burns','iMovie 剪輯 ─ Ken Burns，直立影片');
+jnjRefList += '</ul></p></td></tr></table>';
