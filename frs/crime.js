@@ -16,6 +16,7 @@ jnjRef('1816632','jnjmvtv.blogspot.com/2008/04/live','Live殺人網站');
 jnjRef('125041796','jnjmvtv.blogspot.com/2019/03/true-detective','無間警探（真探）');
 jnjRef('147930588','jnjmvtv.blogspot.com/2020/08/blog-post','誰是被害者');
 jnjRef('157791837','jnjmvtv.blogspot.com/2021/03/the-vanishing-at-cecil-hotel','還原藍可兒事件');
+jnjRef('175631913','jnjmvtv.blogspot.com/2022/07/under-banner-of-heaven','天堂的旗幟下');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('4939192','jnjmvtv.blogspot.com/2011/03/the-touristtaken','色遇‧即刻救援');
 jnjRef('4242349','jnjmvtv.blogspot.com/2010/07/blog-post','嫌疑犯Ｘ的獻身');
