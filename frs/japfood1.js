@@ -10,6 +10,7 @@ jnjRef('86405670','jnjdining.blogspot.com/2017/01/2016','牡丹園握壽司');
 jnjRef('121732272','jnjdining.blogspot.com/2018/12/blog-post_20','福勝亭日式豬排');
 jnjRef('9439754','jnjdining.blogspot.com/2013/11/blog-post_12','三太養生鐵板燒');
 jnjRef('10294069','jnjdining.blogspot.com/2014/01/blog-post','三井料理美術館');
+jnjRef('176693624','jnjdining.blogspot.com/2022/08/blog-post_10','澄江日本料理');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('146993186','jnjdining.blogspot.com/2020/08/blog-post','笑居樂食居酒屋');
 jnjRef('11747622','jnjfoorprint.blogspot.com/2014/03/blog-post_15','雪窯洞牛奶海鮮鍋');

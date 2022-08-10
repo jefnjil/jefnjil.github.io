@@ -15,4 +15,5 @@ switch(docID)
 	case "92694924": 	reg="tpe1";	uss="565663";	break;
 	case "978224": 	reg="uk";	udn="2007.5.2?";	break;
 	case "99866824": 	reg="us16";	uss="568924";	udn="2018.1.15";	break;
+	case "176693624" :	reg="japfood1";	break;
 }
