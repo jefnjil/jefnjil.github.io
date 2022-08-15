@@ -18,4 +18,5 @@ jnjRef('67209758','jnjmvtv.blogspot.com/2016/07/monsters-dark-continent','異獸
 jnjRef('131338342','jnjmvtv.blogspot.com/2019/12/for-all-mankind','太空使命 For All Mankind');
 jnjRef('152043687','jnjmvtv.blogspot.com/2020/10/the-old-guardlovecraft-country','不死軍團、逃出絕命村');
 jnjRef('168464909','jnjfoundation.blogspot.com/2021/09/apple-tv-foundation','基地（Foundation）');
+jnjRef('176815559','jnjmvtv.blogspot.com/2022/08/prey','終極戰士：獸獵者');
 jnjRefList += '</ul></p></td></tr></table>';
