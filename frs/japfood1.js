@@ -17,4 +17,5 @@ jnjRef('11747622','jnjfoorprint.blogspot.com/2014/03/blog-post_15','雪窯洞牛
 jnjRef('48735568','jnjdining.blogspot.com/2016/05/blog-post','濱松屋生鮮鰻魚飯');
 jnjRef('108683149','jnjdining.blogspot.com/2017/11/blog-post','靜岡勝政日式豬排');
 jnjRef('110070257','jnjdining.blogspot.com/2018/02/blog-post_28','勝博殿日式炸豬排');
+jnjRef('177006758','jnjdining.blogspot.com/2022/09/blog-post','彌生軒日式定食');
 jnjRefList += '</ul></p></td></tr></table>';
