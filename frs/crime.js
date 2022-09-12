@@ -7,6 +7,7 @@ jnjRef('2012909','jnjmvtv.blogspot.com/2008/07/vantage-point','刺殺據點');
 jnjRef('3871863','jnjmvtv.blogspot.com/2010/03/law-abiding-citizen','重案對決');
 jnjRef('20999915','jnjmvtv.blogspot.com/2015/02/breaking-bad','絕命毒師');
 jnjRef('171004743','jnjmvtv.blogspot.com/2021/12/ragdoll','屍偶 Ragdoll');
+jnjRef('177124463','jnjmvtv.blogspot.com/2022/09/black-bird','黑鳥（Black Bird）');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('3978552','jnjliterature.blogspot.com/2010/04/f','全部成為F');
 jnjRef('2452191','jnjmvtv.blogspot.com/2008/12/ii-messiah-ii','彌賽亞 II');
