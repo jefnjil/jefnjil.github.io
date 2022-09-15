@@ -22,4 +22,5 @@ jnjRef('33223829','jnjtech.blogspot.com/2016/05/yamaha-mdr-5','YAMAHA MDR-5 電�
 jnjRef('92139852','jnjfoorprint.blogspot.com/2017/03/ces','CES 五十週年懷舊展');
 jnjRef('112508848','jnjblogbiz.blogspot.com/2018/06/4m3c','慶點閱破4M，賞香車美人閒聊3C');
 jnjRef('128395790','jnjtech.blogspot.com/2019/08/apple-watch-suica','Apple Watch 應用日本 Suica 經驗談');
+jnjRef('177159373','jnjtech.blogspot.com/2022/08/blog-post','舊卡帶救星，挽回學生時代吉他錄音三首');
 jnjRefList += '</ul></p></td></tr></table>';
