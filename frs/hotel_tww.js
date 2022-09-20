@@ -12,6 +12,7 @@ jnjRef('3537625','jnjfoorprint.blogspot.com/2009/11/blog-post','墾丁夏都‧�
 jnjRef('1602997','jnjfoorprint.blogspot.com/2008/02/blog-post_25','墾丁虹彩駅');
 jnjRef('7764141','jnjfoorprint.blogspot.com/2013/06/blog-post_57','關西六福莊');
 jnjRef('155692537','jnjfoorprint.blogspot.com/2021/01/blog-post_28','台南首相大飯店');
+jnjRef('177180886','jnjfoorprint.blogspot.com/2022/09/2300','煙波新竹湖濱館');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('3923844','jnjfoorprint.blogspot.com/2010/04/blog-post','山光水色涵碧樓');
 jnjRef('3122361','jnjfoorprint.blogspot.com/2009/07/blog-post_99','埔里酒廠八方民宿');

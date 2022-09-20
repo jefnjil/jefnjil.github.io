@@ -20,4 +20,5 @@ switch(docID)
 	case "9175003429012758092": 	reg="tpe";	uss="414621";	break;
 	case "1960663947108168092": 	reg="us16";	uss="558713";	break;
 	case "5090318722636103292": 	reg="campus";	break;
+	case "3923445786911106892" :	reg="hotel_tww";	break;
 }
