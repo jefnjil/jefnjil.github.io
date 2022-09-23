@@ -16,4 +16,5 @@ switch(docID)
 	case "669837027266525682": 	reg="prague";	uss="537065";	udn="2017.6.5";	break;
 	case "183815039749246182": 	reg="vienna";	uss="504794";	break;
 	case "4683828006141844982": 	reg="history";	break;
+	case "4935001369479364782" :	reg="westfood1";	break;
 }
