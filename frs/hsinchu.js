@@ -3,6 +3,7 @@ jnjRef('111664814','jnjhome.blogspot.com/2018/04/blog-post','水木清華‧思�
 jnjRef('7756826','jnjfoorprint.blogspot.com/2013/06/blog-post_13','六福村水陸雙樂園');
 jnjRef('7764141','jnjfoorprint.blogspot.com/2013/06/blog-post_57','關西六福莊');
 jnjRef('934107','jnjfoorprint.blogspot.com/2007/05/blog-post','煙波湖畔雨瀟瀟');
+jnjRef('177210782','jnjfoorprint.blogspot.com/2022/09/blog-post','青草湖、于飛島');
 jnjRefList += '</ul></p><p><ul><b>苗栗</b>';
 jnjRef('3775756','jnjfoorprint.blogspot.com/2010/02/blog-post_26','獅山賞櫻迎新春');
 jnjRef('28023268','jnjfoorprint.blogspot.com/2015/08/blog-post_90','苗栗客家文化園區');
@@ -14,9 +15,6 @@ jnjRef('7764133','jnjfoorprint.blogspot.com/2013/06/blog-post_34','慈湖陵寢�
 jnjRef('7764139','jnjfoorprint.blogspot.com/2013/06/blog-post','秘境後慈湖');
 jnjRef('24273371','jnjfoorprint.blogspot.com/2015/06/blog-post_10','溪口吊橋');
 jnjRef('23910701','jnjfoorprint.blogspot.com/2015/06/blog-post_2','角板山雕塑公園');
-jnjRef('24273299','jnjfoorprint.blogspot.com/2015/06/blog-post','角板山行館、戰備隧道');
-jnjRef('1864891','jnjfoorprint.blogspot.com/2008/05/blog-post','奔襲拉拉山');
-jnjRef('125251349','jnjfoorprint.blogspot.com/2019/03/blog-post_28','長庚養生文化村');
 jnjRef('129416804','jnjexpo.blogspot.com/2019/09/blog-post','大湳森林公園');
 jnjRef('130367182','jnjexpo.blogspot.com/2019/10/blog-post_28','桃園農業博覽會');
 jnjRefList += '</ul></p></td></tr></table>';
