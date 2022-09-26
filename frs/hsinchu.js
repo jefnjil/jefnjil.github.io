@@ -4,7 +4,7 @@ jnjRef('7756826','jnjfoorprint.blogspot.com/2013/06/blog-post_13','六福村水�
 jnjRef('7764141','jnjfoorprint.blogspot.com/2013/06/blog-post_57','關西六福莊');
 jnjRef('934107','jnjfoorprint.blogspot.com/2007/05/blog-post','煙波湖畔雨瀟瀟');
 jnjRef('177210782','jnjfoorprint.blogspot.com/2022/09/blog-post','青草湖、于飛島');
-jnjRefList += '</ul></p><p><ul><b>苗栗</b>';
+jnjRefList += '</ul></p></td><td valign=top><p><ul><b>苗栗</b>';
 jnjRef('3775756','jnjfoorprint.blogspot.com/2010/02/blog-post_26','獅山賞櫻迎新春');
 jnjRef('28023268','jnjfoorprint.blogspot.com/2015/08/blog-post_90','苗栗客家文化園區');
 jnjRef('1509474','jnjhome.blogspot.com/2008/01/blog-post_4','軍歌比賽就在今夜');
