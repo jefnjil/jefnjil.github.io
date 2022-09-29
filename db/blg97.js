@@ -17,5 +17,5 @@ switch(docID)
 	case "1653439266436181097": 	reg="twn";	uss="573379";	break;
 	case "7582338152612615997": 	reg="buffet";	uss="421114";	break;
 	case "186768189164646397": 	reg="tpe1";	uss="423099";	break;
-	case "4476621146147005097" :	reg="snack1";	break;
+	case "4476621146147005097" :	reg="snack1";	uss="635038";	break;
 }
