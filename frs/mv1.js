@@ -7,6 +7,7 @@ jnjRef('5608395','jnjmvtv.blogspot.com/2011/09/blog-post','十三刺客');
 jnjRef('4493812','jnjmvtv.blogspot.com/2010/10/310310-to-yuma','決戰3:10');
 jnjRef('104339479','jnjmvtv.blogspot.com/2017/07/blog-post','漫漫回家路');
 jnjRef('171306329','jnjmvtv.blogspot.com/2022/01/stillwater','靜水城');
+jnjRef('177229108','jnjmvtv.blogspot.com/2022/10/where-crawdads-sing','沼澤謀殺案');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('1881787','jnjmvtv.blogspot.com/2008/05/blog-post','異形世代');
 jnjRef('6032853','jnjmvtv.blogspot.com/2012/01/the-last-enemy','最後的敵人');
