@@ -13,4 +13,5 @@ jnjRef('13474979','jnjexpo.blogspot.com/2014/05/k-pop_20','韓國當代藝術展
 jnjRef('7344006','jnjfoorprint.blogspot.com/2013/02/blog-post_27','馬年賞公共藝術');
 jnjRef('13083802','jnjfoorprint.blogspot.com/2014/05/blog-post_93','敦化通廊公共藝術');
 jnjRef('15129683','jnjfoorprint.blogspot.com/2014/07/blog-post_34','美高梅獅子雙年展');
+jnjRef('177274660','jnjfoorprint.blogspot.com/2022/10/blog-post_12','劉墉－畫我童年');
 jnjRefList += '</ul></p></td></tr></table>';

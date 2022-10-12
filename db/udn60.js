@@ -20,4 +20,5 @@ switch(docID)
 	case "6695260": 	reg="family";	udn="2012.8.12";	break;
 	case "9763660": 	reg="zjj";	uss="426303";	break;
 	case "9763960": 	reg="zjj";	uss="426388";	break;
+	case "177274660" :	reg="tpe3";	break;
 }
