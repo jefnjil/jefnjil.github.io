@@ -24,4 +24,5 @@ jnjRef('13745842','jnjmvtv.blogspot.com/2014/05/hannibalbates-motel','雙面人�
 jnjRef('1418282','jnjmvtv.blogspot.com/2007/12/hannibal-lecter','我看Hannibal Lecter');
 jnjRef('126418781','jnjmvtv.blogspot.com/2019/05/the-victim','受害者與惡的距離');
 jnjRef('166089493','jnjmvtv.blogspot.com/2021/08/tehran-vs','德黑蘭─以伊諜報戰');
+jnjRef('177295802','jnjmvtv.blogspot.com/2022/10/fall-ledge','高處不勝寒 ─ 墜、極限逃殺');
 jnjRefList += '</ul></p></td></tr></table>';
