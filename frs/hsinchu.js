@@ -8,6 +8,7 @@ jnjRef('177180886','jnjfoorprint.blogspot.com/2022/09/2300','煙波新竹湖濱�
 jnjRef('177210782','jnjfoorprint.blogspot.com/2022/09/blog-post','青草湖、于飛島');
 jnjRef('177253651','jnjfoorprint.blogspot.com/2022/10/blog-post','北埔老街、鄧南光影像紀念館');
 jnjRef('177303472','jnjfoorprint.blogspot.com/2022/10/blog-post_20','所謂愛情 ─ 合興車站景觀公園');
+jnjRef('177324606','jnjfoorprint.blogspot.com/2022/10/blog-post_24','內灣老街．內灣茶堂客家菜');
 jnjRefList += '</ul></p></td><td valign=top><p><ul><b>苗栗</b>';
 jnjRef('3775756','jnjfoorprint.blogspot.com/2010/02/blog-post_26','獅山賞櫻迎新春');
 jnjRef('28023268','jnjfoorprint.blogspot.com/2015/08/blog-post_90','苗栗客家文化園區');
