@@ -13,5 +13,6 @@ switch(docID)
 	case "939424768598007112": 	reg="crm";	break;
 	case "5115157075755330212": 	reg="bjsh";	uss="377967";	break;
 	case "3701338115486897812" :	reg="george";	break;
-	case "7673863917748641012" :	reg="taitung";	uss="633728";	udn="2022.7.10";	ufp="2022.7.10";	umd="2022.7.7";	uMedia="12749/6427434";	break;
+	case "7673863917748641012" :	reg="taitung";	uss="633728";	udn="2022.7.10";	ufp="2022.7.20";	umd="2022.7.7";	uMedia="12749/6427434";	break;
+	case "2042144078825365912" :	reg="taoyuan";	uss="635049";	break;
 }
