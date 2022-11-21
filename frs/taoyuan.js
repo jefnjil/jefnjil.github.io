@@ -20,4 +20,5 @@ jnjRef('113191716','jnjfoorprint.blogspot.com/2018/07/blog-post_12','桃園農�
 jnjRef('130367182','jnjexpo.blogspot.com/2019/10/blog-post_28','桃園農業博覽會');
 jnjRef('160920844','jnjfoorprint.blogspot.com/2021/04/blog-post_14','石門水庫大壩健行');
 jnjRef('177399151','jnjfoorprint.blogspot.com/2022/11/blog-post','龍潭棒球名人堂');
+jnjRef('177530096','jnjfoorprint.blogspot.com/2022/11/xpark','XPark 福爾摩沙水族箱');
 jnjRefList += '</ul></p></td></tr></table>';
