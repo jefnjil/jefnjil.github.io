@@ -16,4 +16,5 @@ switch(docID)
 	case "2058904110702332930": 	reg="gsf";	uss="386217";	udn="2012.9.10";	ufp="2012.9.12";	break;
 	case "6706440653201020030": 	reg="expo";	uss="552196";	break;
 	case "8693749579166284830": 	reg="abian";	break;
+	case "5526821077207169030" :	reg="taoyuan";	uss="635464";	break;
 }

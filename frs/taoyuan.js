@@ -12,14 +12,15 @@ jnjRef('167382197','jnjfoorprint.blogspot.com/2021/09/blog-post','桃蘆坑農�
 jnjRef('23910701','jnjfoorprint.blogspot.com/2015/06/blog-post_2','角板山雕塑公園');
 jnjRef('24273299','jnjfoorprint.blogspot.com/2015/06/blog-post','角板山行館、戰備隧道');
 jnjRef('25431197','jnjfoorprint.blogspot.com/2015/07/blog-post','角板山樟腦收納所');
+jnjRef('24273371','jnjfoorprint.blogspot.com/2015/06/blog-post_10','復興青年活動中心');
 jnjRef('177421771','jnjfoorprint.blogspot.com/2022/11/blog-post_10','龍潭兄弟棒球場');
 jnjRef('177399151','jnjfoorprint.blogspot.com/2022/11/blog-post','龍潭棒球名人堂');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
-jnjRef('24273371','jnjfoorprint.blogspot.com/2015/06/blog-post_10','復興青年活動中心');
 jnjRef('7764133','jnjfoorprint.blogspot.com/2013/06/blog-post_34','慈湖陵寢‧雕塑公園');
 jnjRef('113191716','jnjfoorprint.blogspot.com/2018/07/blog-post_12','桃園農業博覽會');
 jnjRef('130367182','jnjexpo.blogspot.com/2019/10/blog-post_28','桃園農業博覽會');
 jnjRef('160920844','jnjfoorprint.blogspot.com/2021/04/blog-post_14','石門水庫大壩健行');
 jnjRef('177530096','jnjfoorprint.blogspot.com/2022/11/xpark','XPark 福爾摩沙水族箱');
 jnjRef('177599803','jnjfoorprint.blogspot.com/2022/11/xpark_01204325003','XPark 水母與企鵝');
+jnjRef('177653438','jnjfoorprint.blogspot.com/2022/12/xpark','XPark 珊瑚、雨林及其他');
 jnjRefList += '</ul></p></td></tr></table>';
