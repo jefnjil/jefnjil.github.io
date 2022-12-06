@@ -16,5 +16,5 @@ switch(docID)
 	case "1769965303738869331": 	reg="kyushu";	uss="341678";	udn="2011.12.30";	break;
 	case "9100201513330399631": 	reg="sf";	uss="390383";	break;
 	case "5928061093689517531": 	reg="harbin";	uss="395464";	udn="2013.1.4";	break;
-	case "4952714653989955331" :	reg="taoyuan";	uss="635049";	umd="2022.11.17";	uMedia="12749/6746060";	break;
+	case "4952714653989955331" :	reg="taoyuan";	uss="635049";	ufp="2022.12.6";	umd="2022.11.17";	uMedia="12749/6746060";	break;
 }
