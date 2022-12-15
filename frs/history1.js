@@ -23,4 +23,5 @@ jnjRef('4158932','jnjmvtv.blogspot.com/2010/06/the-tudors','都鐸王朝的亨�
 jnjRef('29604992','jnjmvtv.blogspot.com/2015/09/blog-post','白王后與塔中小王子疑案');
 jnjRef('110253050','jnjmvtv.blogspot.com/2018/02/tyrant','暴君 ─ 邁向獨裁之路');
 jnjRef('166451623','jnjmvtv.blogspot.com/2021/08/dr-death','Dr. Death');
+jnjRef('177747434','jnjmvtv.blogspot.com/2022/12/1883','1883 ─ 西部開拓路上血跡斑斑');
 jnjRefList += '</ul></p></td></tr></table>';
