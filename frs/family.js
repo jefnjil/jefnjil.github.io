@@ -11,4 +11,5 @@ jnjRef('6622046','jnjhome.blogspot.com/2012/07/blog-post','那些年 ─ 以校�
 jnjRef('2904556','jnjhome.blogspot.com/2009/05/blog-post_1','遊九曲洞遭落石砸傷');
 jnjRef('3347550','jnjhome.blogspot.com/2009/09/blog-post','搬家蛻一層皮');
 jnjRef('6695260','jnjtalks.blogspot.com/2012/08/blog-post','都是奧運惹的禍');
+jnjRef('178026135','jnjfoorprint.blogspot.com/2023/01/blog-post','大安森林公園 ─ 新年新希望');
 jnjRefList += '</ul></p></td></tr></table>';
