@@ -12,12 +12,13 @@ jnjRef('129263060','jnjmvtv.blogspot.com/2019/09/carnival-row','嘉年華大街'
 jnjRef('111589957','jnjmvtv.blogspot.com/2018/04/annihilationthe-titan','泰坦、滅絕');
 jnjRef('166281852','jnjmvtv.blogspot.com/2021/08/plot-against-america','美國外史');
 jnjRef('168464909','jnjfoundation.blogspot.com/2021/09/apple-tv-foundation','基地（Foundation）');
-jnjRef('176815559','jnjmvtv.blogspot.com/2022/08/prey','終極戰士：獸獵者');
+jnjRef('178053318','jnjmvtv.blogspot.com/2023/01/andor','安道爾（Andor）');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('15868637','jnjmvtv.blogspot.com/2014/08/in-flesh','復生 In the Flesh');
 jnjRef('52269707','jnjmvtv.blogspot.com/2016/05/humans-humns','從人工智慧到真實人類');
 jnjRef('67209758','jnjmvtv.blogspot.com/2016/07/monsters-dark-continent','異獸禁區與黑暗大陸');
 jnjRef('131338342','jnjmvtv.blogspot.com/2019/12/for-all-mankind','太空使命 For All Mankind');
 jnjRef('152043687','jnjmvtv.blogspot.com/2020/10/the-old-guardlovecraft-country','不死軍團、逃出絕命村');
+jnjRef('176815559','jnjmvtv.blogspot.com/2022/08/prey','終極戰士：獸獵者');
 jnjRef('176902899','jnjmvtv.blogspot.com/2022/08/blog-post','太空使命 ─ 登陸火星');
 jnjRefList += '</ul></p></td></tr></table>';
