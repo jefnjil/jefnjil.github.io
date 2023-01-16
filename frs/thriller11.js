@@ -9,6 +9,7 @@ jnjRef('132459491','jnjmvtv.blogspot.com/2020/04/baghdad-central','巴格達總�
 jnjRef('3055816','jnjmvtv.blogspot.com/2009/06/wallander','渥蘭德三部曲');
 jnjRef('4287816','jnjmvtv.blogspot.com/2010/08/blog-post_3','龍紋身的女孩');
 jnjRef('164498059','jnjmvtv.blogspot.com/2021/07/shadow-in-cloud','致命天際線');
+jnjRef('178078685','jnjmvtv.blogspot.com/2023/01/woman-of-dead','賢妻復仇記');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('126077911','jnjmvtv.blogspot.com/2019/04/the-widow','寡婦 ─ 黑土疑雲');
 jnjRef('126418781','jnjmvtv.blogspot.com/2019/05/the-victim','受害者與惡的距離');
