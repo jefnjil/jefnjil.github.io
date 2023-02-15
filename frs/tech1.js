@@ -4,6 +4,7 @@ jnjRef('29343691','jnjtech.blogspot.com/2015/09/ice','全景畫自動拼接（IC
 jnjRef('113920232','jnjtech.blogspot.com/2018/08/windows-ce-steps-to-setup-ce-device','CE裝置除錯環境設定');
 jnjRef('165979567','jnjtech.blogspot.com/2021/07/line','解鎖舊版 Line 聊天室備份');
 jnjRef('171960898','jnjtech.blogspot.com/2022/03/gcp-infinityfree-drivetoweb','免費網頁空間應用筆記');
+jnjRef('178380686','jnjtech.blogspot.com/2023/02/ai','也來曬曬──順便談談所謂AI繪圖');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('1694840','jnjtech.blogspot.com/2008/03/blog-post','如何搶救毀損的影片檔');
 jnjRef('1398959','jnjtech.blogspot.com/2007/11/blog-post','方寸間環球漫步');
