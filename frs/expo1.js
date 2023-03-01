@@ -23,4 +23,5 @@ jnjRef('130367182','jnjexpo.blogspot.com/2019/10/blog-post_28','桃園農業博�
 jnjRef('125144379','jnjexpo.blogspot.com/2019/03/blog-post','鹽水月津港燈節');
 jnjRef('131767028','jnjexpo.blogspot.com/2020/02/2020','月津港燈節2020');
 jnjRef('173211697','jnjexpo.blogspot.com/2022/04/2022','鹽水‧月津港燈節 2022');
+jnjRef('178493138','jnjexpo.blogspot.com/2023/03/2023','鹽水‧月津港燈節 2023');
 jnjRefList += '</ul></p></td></tr></table>';
