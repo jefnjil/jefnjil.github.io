@@ -14,6 +14,7 @@ jnjRef('157694236','jnjdining.blogspot.com/2021/03/blog-post','故宮晶華');
 jnjRef('130055590','jnjdining.blogspot.com/2019/10/blog-post','君悅凱菲屋下午茶');
 jnjRef('132109809','jnjfoorprint.blogspot.com/2020/03/blog-post_19','台南煙波隱糧');
 jnjRef('154665345','jnjdining.blogspot.com/2020/12/mola-mola','花蓮煙波慕拉MOLA');
+jnjRef('178558537','jnjdining.blogspot.com/2023/03/blog-post','旭集和食集錦');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('31235853','jnjfoorprint.blogspot.com/2016/05/hal','北海道星野HAL餐廳');
 jnjRef('80766920','jnjdining.blogspot.com/2016/12/food','典華豐FOOD海陸百匯');
