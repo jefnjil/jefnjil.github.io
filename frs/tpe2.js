@@ -24,5 +24,5 @@ jnjRef('934108','jnjfoorprint.blogspot.com/2007/05/blog-post_2','夢幻湖');
 jnjRef('61814149','jnjfoorprint.blogspot.com/2016/07/blog-post_74','陽明山走春');
 jnjRef('171720189','jnjfoorprint.blogspot.com/2022/02/blog-post','前山公園');
 jnjRef('171848470','jnjfoorprint.blogspot.com/2022/03/blog-post','小油坑、竹子湖');
-jnjRef('9119803','jnjfoorprint.blogspot.com/2013/10/blog-post_22','圓山大飯店‧五百完人塚');
+jnjRef('178716191','jnjfoorprint.blogspot.com/2023/03/40','40砲陣地、杜鵑茶花園');
 jnjRefList += '</ul></p></td></tr></table>';
