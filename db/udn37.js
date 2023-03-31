@@ -23,5 +23,5 @@ switch(docID)
 	case "888037": 	reg="book";	break;
 	case "175903837" :	reg="memory1";	break;
 	case "176210837" :	reg="snack1";	uss="635038";	break;
-	case "178558537" :	reg="buffet1";	break;
+	case "178558537" :	reg="buffet1";	uss="637423";	break;
 }

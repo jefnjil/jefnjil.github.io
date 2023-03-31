@@ -15,4 +15,5 @@ jnjRef('67209758','jnjmvtv.blogspot.com/2016/07/monsters-dark-continent','異獸
 jnjRef('152043687','jnjmvtv.blogspot.com/2020/10/the-old-guardlovecraft-country','不死軍團、逃出絕命村');
 jnjRef('177955072','jnjliterature.blogspot.com/2022/12/wednesday-paint-it-black','Wednesday 的 Paint It Black');
 jnjRef('178034639','jnjmvtv.blogspot.com/2023/01/blog-post','獵魔士：血緣與政治正確');
+jnjRef('178732540','jnjmvtv.blogspot.com/2023/03/blog-post','洛克靈異偵探社');
 jnjRefList += '</ul></p></td></tr></table>';
