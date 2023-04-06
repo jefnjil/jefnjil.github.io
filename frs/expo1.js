@@ -18,9 +18,8 @@ jnjRef('138415221','jnjexpo.blogspot.com/2020/06/blog-post','故宮南院佛陀�
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('131829187','jnjexpo.blogspot.com/2020/02/blog-post','台灣燈會快閃');
 jnjRef('178612402','jnjexpo.blogspot.com/2023/03/2023_15','台灣燈會光源展區');
-jnjRef('126439880','jnjexpo.blogspot.com/2019/05/blog-post','新店‧碧潭水舞');
+jnjRef('178640825','jnjexpo.blogspot.com/2023/04/2023','台灣燈會中央展區');
 jnjRef('124616572','jnjexpo.blogspot.com/2019/02/luminarie','Luminarie光雕展');
-jnjRef('130367182','jnjexpo.blogspot.com/2019/10/blog-post_28','桃園農業博覽會');
 jnjRef('125144379','jnjexpo.blogspot.com/2019/03/blog-post','鹽水月津港燈節');
 jnjRef('131767028','jnjexpo.blogspot.com/2020/02/2020','月津港燈節2020');
 jnjRef('173211697','jnjexpo.blogspot.com/2022/04/2022','鹽水‧月津港燈節 2022');
