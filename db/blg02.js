@@ -12,4 +12,5 @@ switch(docID)
 	case "5521767237680748502": 	reg="jr16";	uss="571742";	break;
 	case "4819801442956047802": 	reg="zjj";	break;
 	case "5788541832979969402" :	reg="thriller11";	break;
+	case "1188664149282188402" :	reg="museum1";	break;
 }
