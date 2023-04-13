@@ -18,4 +18,5 @@ jnjRef('125128356','jnjdining.blogspot.com/2019/03/blog-post_14','鳥以花香�
 jnjRef('133773142','jnjdining.blogspot.com/2020/05/blog-post','鳥以花香新春圍爐');
 jnjRef('156661015','jnjdining.blogspot.com/2021/02/blog-post_22','君品酒店「亮」廳');
 jnjRef('178454300','jnjdining.blogspot.com/2023/02/blog-post','豪鼎中興時尚婚宴會館');
+jnjRef('178897360','jnjdining.blogspot.com/2023/04/blog-post','三義美食‧吉祥樓餐廳');
 jnjRefList += '</ul></p></td></tr></table>';
