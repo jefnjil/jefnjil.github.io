@@ -4,6 +4,7 @@ jnjRef('44959683','jnjdining.blogspot.com/2016/01/blog-post','蘇杭餐廳');
 jnjRef('123758751','jnjdining.blogspot.com/2019/01/blog-post','頤品大飯店');
 jnjRef('127437341','jnjdining.blogspot.com/2019/06/blog-post','蘇杭酒筵');
 jnjRef('154493306','jnjdining.blogspot.com/2020/12/blog-post','煙波花蓮館');
+jnjRef('178934446','jnjdining.blogspot.com/2023/04/blog-post_17','敦南會館');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('128030840','jnjdining.blogspot.com/2019/07/blog-post','彭園會館');
 jnjRef('131433528','jnjdining.blogspot.com/2020/01/blog-post','雙饗彭園會館');
