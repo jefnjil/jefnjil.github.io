@@ -1,14 +1,10 @@
 jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
 jnjRef('7764145','jnjfoorprint.blogspot.com/2013/06/blog-post_60','十分瀑布快閃');
-jnjRef('7764142','jnjfoorprint.blogspot.com/2013/06/blog-post_15','烏來瀑布公園');
 jnjRef('12408931','jnjfoorprint.blogspot.com/2014/04/blog-post','新北投地熱谷');
-jnjRef('126439880','jnjexpo.blogspot.com/2019/05/blog-post','新店碧潭水舞');
 jnjRef('127274853','jnjfoorprint.blogspot.com/2019/06/blog-post_10','滬尾礮臺');
 jnjRef('127577192','jnjexpo.blogspot.com/2019/06/blog-post','板橋‧地景花海');
 jnjRef('178429420','jnjfoorprint.blogspot.com/2023/02/blog-post_21','新北大都會公園');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
-jnjRef('44959340','jnjfoorprint.blogspot.com/2016/07/blog-post_4','十三行博物館');
-jnjRef('113747892','jnjfoorprint.blogspot.com/2018/08/outlet','林口三井Outlet');
 jnjRef('126709350','jnjfoorprint.blogspot.com/2019/05/blog-post_16','淡水漁人碼頭');
 jnjRef('130184984','jnjfoorprint.blogspot.com/2019/10/blog-post_21','八里左岸沙雕');
 jnjRef('149555706','jnjfoorprint.blogspot.com/2020/08/blog-post_31','淡水‧真理大學');
@@ -16,12 +12,11 @@ jnjRef('149555491','jnjfoorprint.blogspot.com/2020/08/blog-post_27','淡水紅�
 jnjRef('149555876','jnjfoorprint.blogspot.com/2020/09/blog-post_7','淡水小白宮');
 jnjRef('157425717','jnjfoorprint.blogspot.com/2021/03/blog-post_11','雙溪老街');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
-jnjRef('31318271','jnjfoorprint.blogspot.com/2015/09/blog-post_25','淡水天元宮、大屯花卉農場');
 jnjRef('61814491','jnjdining.blogspot.com/2016/07/blog-post','大板根森林渡假村');
-jnjRef('108724011','jnjfoorprint.blogspot.com/2018/02/435','新月橋、435藝文特區');
 jnjRef('127003300','jnjfoorprint.blogspot.com/2019/05/blog-post_30','雲門劇場、星巴克');
 jnjRef('132831609','jnjfoorprint.blogspot.com/2020/04/blog-post_27','三峽白雞行修宮');
 jnjRef('162289551','jnjfoorprint.blogspot.com/2021/05/blog-post','行修宮後山步道');
 jnjRef('132897688','jnjfoorprint.blogspot.com/2020/04/blog-post_30','三鶯之心空間藝術特區');
 jnjRef('156480408','jnjfoorprint.blogspot.com/2021/02/blog-post_18','石碇‧鱷魚島觀景平台');
+jnjRef('179017419','jnjfoorprint.blogspot.com/2023/04/blog-post_24','滿月圓森林遊樂區');
 jnjRefList += '</ul></p></td></tr></table>';
