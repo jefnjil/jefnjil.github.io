@@ -17,4 +17,5 @@ jnjRef('166089493','jnjmvtv.blogspot.com/2021/08/tehran-vs','德黑蘭─以伊�
 jnjRef('177295802','jnjmvtv.blogspot.com/2022/10/fall-ledge','高處不勝寒 ─ 墜、極限逃殺');
 jnjRef('177683516','jnjmvtv.blogspot.com/2022/12/english','英格蘭人 (The English)');
 jnjRef('178590580','jnjmvtv.blogspot.com/2023/03/let-right-one-me-in','血色入侵 / 噬血童話');
+jnjRef('179046344','jnjmvtv.blogspot.com/2023/04/diplomat','外交官和頭號外交官');
 jnjRefList += '</ul></p></td></tr></table>';
