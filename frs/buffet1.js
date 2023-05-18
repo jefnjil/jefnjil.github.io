@@ -6,6 +6,7 @@ jnjRef('171896067','jnjdining.blogspot.com/2022/03/inparadise','饗饗下午餐'
 jnjRef('138370740','jnjdining.blogspot.com/2020/07/blog-post','欣葉健康店');
 jnjRef('124700880','jnjdining.blogspot.com/2019/02/a11','欣葉信義新天地');
 jnjRef('177224914','jnjdining.blogspot.com/2022/09/blog-post_30','莫內西餐廳早餐');
+jnjRef('179205518','jnjdining.blogspot.com/2023/05/blog-post_18','萬國美食百匯');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('110787353','jnjdining.blogspot.com/2018/03/blog-post_58','福容田園自助餐');
 jnjRef('121152468','jnjdining.blogspot.com/2018/12/blog-post_13','漢來海港下午茶');
