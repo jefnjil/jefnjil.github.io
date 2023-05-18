@@ -14,5 +14,5 @@ switch(docID)
 	case "6361940": 	reg="mv";	break;
 	case "8114840": 	reg="book";	udn="2013.8.13";	break;
 	case "829940": 	reg="comment";	break;
-	case "178732540" :	reg="action1";	break;
+	case "178732540" :	reg="action1";	umd="2023.5.17";	uMedia="12760/7108986";	break;
 }
