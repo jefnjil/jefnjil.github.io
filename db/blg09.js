@@ -18,4 +18,5 @@ switch(docID)
 	case "1462068472819638409": 	reg="harbin";	uss="394336";	break;
 	case "6693256983090782909": 	reg="vienna";	break;
 	case "2413085581236449109": 	reg="las17";	uss="580627";	break;
+	case "8894195718851700609" :	reg="chiayi";	uss="637473";	break;
 }

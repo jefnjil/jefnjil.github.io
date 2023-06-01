@@ -15,6 +15,7 @@ jnjRef('5670016','jnjfoorprint.blogspot.com/2011/09/blog-post','阿里山夜未�
 jnjRef('8469853','jnjfoorprint.blogspot.com/2013/09/blog-post_0','神木車站、巨木群棧道');
 jnjRef('128590300','jnjfoorprint.blogspot.com/2019/08/blog-post_19','阿里山森林鐵路');
 jnjRef('128836935','jnjfoorprint.blogspot.com/2019/08/blog-post_26','阿里山森林遊樂區');
+jnjRef('179273956','jnjfoorprint.blogspot.com/2023/06/blog-post','阿里山森鐵車庫園區');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('132206919','jnjexpo.blogspot.com/2020/03/blog-post','故宮南院面具展');
 jnjRef('141534820','jnjexpo.blogspot.com/2020/07/blog-post','故宮南院多寶格');

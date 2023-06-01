@@ -18,4 +18,5 @@ switch(docID)
 	case "4641856": 	reg="nagoya";	uss="290080";	break;
 	case "6032856": 	reg="history";	break;
 	case "810456": 	reg="thriller";	break;
+	case "179273956" :	reg="chiayi";	uss="637473";	break;
 }
