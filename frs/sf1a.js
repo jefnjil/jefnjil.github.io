@@ -22,4 +22,5 @@ jnjRef('131338342','jnjmvtv.blogspot.com/2019/12/for-all-mankind','太空使命 
 jnjRef('152043687','jnjmvtv.blogspot.com/2020/10/the-old-guardlovecraft-country','不死軍團、逃出絕命村');
 jnjRef('176815559','jnjmvtv.blogspot.com/2022/08/prey','終極戰士：獸獵者');
 jnjRef('176902899','jnjmvtv.blogspot.com/2022/08/blog-post','太空使命 ─ 登陸火星');
+jnjRef('179311361','jnjmvtv.blogspot.com/2023/06/the-thing','極地詭變/突變第三型');
 jnjRefList += '</ul></p></td></tr></table>';

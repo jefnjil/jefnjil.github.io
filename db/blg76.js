@@ -15,4 +15,5 @@ switch(docID)
 	case "32260351416534076": 	reg="sf";	break;
 	case "78932690735034376" :	reg="ntc2";	uss="635466";	break;
 	case "6746031651894497176" :	reg="ntc2";	uss="637431";	ufp="2023.5.16";	break;
+	case "5651120558527041276" :	reg="sf1a";	break;
 }

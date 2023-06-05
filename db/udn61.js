@@ -16,4 +16,5 @@ switch(docID)
 	case "56603661": 	reg="ahsc";	uss="504637";	udn="2016.6.3";	ufp="2016.5.30";	break;
 	case "6106561": 	reg="kyushu";	uss="346654";	udn="2012.4.23";	ufp="2012.4.23";	break;
 	case "7343961": 	reg="bjsh";	break;
+	case "179311361" :	reg="sf1a";	break;
 }
