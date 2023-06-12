@@ -7,7 +7,9 @@ jnjRef('169049804','jnjfoorprint.blogspot.com/2021/10/blog-post','鹿港拜拜�
 jnjRef('173485075','jnjfoorprint.blogspot.com/2022/04/blog-post_21','鹿港丁家大宅');
 jnjRef('173560190','jnjfoorprint.blogspot.com/2022/04/blog-post_25','臺灣玻璃館、玻璃媽祖廟');
 jnjRef('174000314','jnjfoorprint.blogspot.com/2022/05/blog-post','鹿港民俗文物館─辜氏故居');
-jnjRefList += '</ul></p></td><td valign=top><p><ul><b>南投</b>';
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('179369397','jnjfoorprint.blogspot.com/2023/06/blog-post_12','八卦山大佛風景區');
+jnjRefList += '</ul><ul><b>南投</b>';
 jnjRef('2853590','jnjhome.blogspot.com/2009/04/blog-post','畢業旅行');
 jnjRef('17453598','jnjfoorprint.blogspot.com/2014/09/blog-post_20','向山遊客中心');
 jnjRef('17453515','jnjfoorprint.blogspot.com/2014/09/blog-post_21','日月潭自行車道');
