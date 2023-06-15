@@ -14,4 +14,5 @@ switch(docID)
 	case "9230813": 	reg="expo";	uss="422796";	break;
 	case "175631913" :	reg="crime";	break;
 	case "178401113" :	reg="blog1";	break;
+	case "179395413" :	reg="snack11";	break;
 }

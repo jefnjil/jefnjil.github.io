@@ -3,6 +3,7 @@ jnjRef('170474065','jnjdining.blogspot.com/2021/11/double-cheese','台南美食'
 jnjRef('171712023','jnjdining.blogspot.com/2022/02/blog-post','永宝餐廳');
 jnjRef('175873979','jnjdining.blogspot.com/2022/07/blog-post','這一小鍋');
 jnjRef('177809311','jnjdining.blogspot.com/2022/12/blog-post','四海一家');
+jnjRef('179395413','jnjdining.blogspot.com/2023/06/blog-post','誠品信義美食街');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('155262228','jnjdining.blogspot.com/2021/01/blog-post','金品茶樓江浙料理');
 jnjRef('132003858','jnjdining.blogspot.com/2020/03/blog-post_12','鴻富麵食館');
