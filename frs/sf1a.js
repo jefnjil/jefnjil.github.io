@@ -14,6 +14,7 @@ jnjRef('111589957','jnjmvtv.blogspot.com/2018/04/annihilationthe-titan','泰坦�
 jnjRef('166281852','jnjmvtv.blogspot.com/2021/08/plot-against-america','美國外史');
 jnjRef('168464909','jnjfoundation.blogspot.com/2021/09/apple-tv-foundation','基地（Foundation）');
 jnjRef('178053318','jnjmvtv.blogspot.com/2023/01/andor','安道爾（Andor）');
+jnjRef('179425604','jnjtech.blogspot.com/2023/06/loch-henry','由「黑鏡：亨利湖」談起');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('15868637','jnjmvtv.blogspot.com/2014/08/in-flesh','復生 In the Flesh');
 jnjRef('52269707','jnjmvtv.blogspot.com/2016/05/humans-humns','從人工智慧到真實人類');

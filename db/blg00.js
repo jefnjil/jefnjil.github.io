@@ -20,4 +20,5 @@ switch(docID)
 	case "1740596044863174400": 	reg="harbin";	uss="397440";	break;
 	case "7080072875000764300": 	reg="chnfood";	break;
 	case "7602993269985401900": 	reg="chnfood";	break;
+	case "7530287069460639200" :	reg="3C";	break;
 }
