@@ -13,4 +13,5 @@ jnjRef('2904556','jnjhome.blogspot.com/2009/05/blog-post_1','遊九曲洞遭落�
 jnjRef('6695260','jnjtalks.blogspot.com/2012/08/blog-post','都是奧運惹的禍');
 jnjRef('178026135','jnjfoorprint.blogspot.com/2023/01/blog-post','大安森林公園 ─ 新年新希望');
 jnjRef('178330232','jnjfoorprint.blogspot.com/2023/02/blog-post','父後三日走四獸山步道');
+jnjRef('179417384','jnjhome.blogspot.com/2023/06/blog-post','國外家屬死亡登記（上）國外篇');
 jnjRefList += '</ul></p></td></tr></table>';
