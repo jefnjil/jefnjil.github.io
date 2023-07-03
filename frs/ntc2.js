@@ -4,6 +4,7 @@ jnjRef('12408931','jnjfoorprint.blogspot.com/2014/04/blog-post','新北投地熱
 jnjRef('127274853','jnjfoorprint.blogspot.com/2019/06/blog-post_10','滬尾礮臺');
 jnjRef('127577192','jnjexpo.blogspot.com/2019/06/blog-post','板橋‧地景花海');
 jnjRef('178429420','jnjfoorprint.blogspot.com/2023/02/blog-post_21','新北大都會公園');
+jnjRef('179526234','jnjfoorprint.blogspot.com/2023/07/blog-post','老梅海灘綠石槽');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('126709350','jnjfoorprint.blogspot.com/2019/05/blog-post_16','淡水漁人碼頭');
 jnjRef('130184984','jnjfoorprint.blogspot.com/2019/10/blog-post_21','八里左岸沙雕');
