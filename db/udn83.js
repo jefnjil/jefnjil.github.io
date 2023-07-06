@@ -24,4 +24,5 @@ switch(docID)
 	case "8469883": 	reg="hotel";	uss="418608";	break;
 	case "9763983": 	reg="zjj";	uss="426382";	break;
 	case "99869983": 	reg="jr16";	uss="579876";	udn="2018.2.26";	break;
+	case "179531583" :	reg="memory1";	break;
 }

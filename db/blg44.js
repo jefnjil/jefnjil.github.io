@@ -14,4 +14,5 @@ switch(docID)
 	case "4761574755246938544": 	reg="news";	break;
 	case "9177362362958405444": 	reg="itf";	break;
 	case "1070755970488106944": 	reg="sf";	break;
+	case "344991187846620944" :	reg="memory1";	break;
 }
