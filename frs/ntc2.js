@@ -1,11 +1,12 @@
 jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
 jnjRef('7764145','jnjfoorprint.blogspot.com/2013/06/blog-post_60','十分瀑布快閃');
 jnjRef('12408931','jnjfoorprint.blogspot.com/2014/04/blog-post','新北投地熱谷');
-jnjRef('127274853','jnjfoorprint.blogspot.com/2019/06/blog-post_10','滬尾礮臺');
 jnjRef('127577192','jnjexpo.blogspot.com/2019/06/blog-post','板橋‧地景花海');
 jnjRef('178429420','jnjfoorprint.blogspot.com/2023/02/blog-post_21','新北大都會公園');
 jnjRef('179526234','jnjfoorprint.blogspot.com/2023/07/blog-post','老梅海灘綠石槽');
+jnjRef('179602174','jnjfoorprint.blogspot.com/2023/07/blog-post_17','富貴角燈塔、老梅迷宮、風剪樹');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('127274853','jnjfoorprint.blogspot.com/2019/06/blog-post_10','滬尾礮臺');
 jnjRef('126709350','jnjfoorprint.blogspot.com/2019/05/blog-post_16','淡水漁人碼頭');
 jnjRef('130184984','jnjfoorprint.blogspot.com/2019/10/blog-post_21','八里左岸沙雕');
 jnjRef('149555706','jnjfoorprint.blogspot.com/2020/08/blog-post_31','淡水‧真理大學');
