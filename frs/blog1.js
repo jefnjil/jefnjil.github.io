@@ -6,6 +6,7 @@ jnjRef('72185124','jnjblogbiz.blogspot.com/2016/09/show-girls','慶點閱人氣�
 jnjRef('92694924','jnjfoorprint.blogspot.com/2017/04/blog-post','慶點閱人氣兩千萬');
 jnjRef('105330220','jnjfoorprint.blogspot.com/2017/08/blog-post','慶點閱人氣三千萬');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('179574349','jnjblogbiz.blogspot.com/2023/07/blog-post','再見，Ｕ值媒');
 jnjRef('131433528','jnjdining.blogspot.com/2020/01/blog-post','2020新年回顧展望');
 jnjRef('172651889','jnjblogbiz.blogspot.com/2022/03/github-pages','免費網頁空間 GitHub Pages');
 jnjRef('2301114','jnjblogbiz.blogspot.com/2008/10/impossible-is-nothing_15','Impossible Is Nothing');

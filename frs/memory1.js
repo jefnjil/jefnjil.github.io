@@ -4,7 +4,7 @@ jnjRef('170256251','jnjhome.blogspot.com/2021/11/80','80年代京都');
 jnjRef('1833064','jnjtalks.blogspot.com/2008/05/blog-post_2','正職與兼差');
 jnjRef('3222388','jnjhome.blogspot.com/2009/08/blog-post','五十音與我');
 jnjRef('1112394','jnjhome.blogspot.com/2007/07/blog-post','聯考英文想當年');
-jnjRef('153808047','jnjtech.blogspot.com/2020/11/blog-post','程式匠雜談一二');
+jnjRef('179531583','jnjliterature.blogspot.com/2023/07/blog-post','迷濛昏闇之間');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('165444598','jnjhome.blogspot.com/2021/07/blog-post','古早時國外住宿：日本');
 jnjRef('165634344','jnjhome.blogspot.com/2021/07/blog-post_23','古早時國外住宿：英國');
@@ -12,6 +12,7 @@ jnjRef('165822068','jnjhome.blogspot.com/2021/07/blog-post_28','古早時國外�
 jnjRef('166891129','jnjfoorprint.blogspot.com/2021/08/80-african-safari','80年代的九州自然動物園');
 jnjRef('22641592','jnjhome.blogspot.com/2015/04/blog-post_29','第一場智財權官司');
 jnjRef('44963709','jnjhome.blogspot.com/2016/06/blog-post','第一次美國法庭作證');
+jnjRef('153808047','jnjtech.blogspot.com/2020/11/blog-post','程式匠雜談一二');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('24368610','jnjhome.blogspot.com/2015/06/blog-post','幹嘛懂三角函數或機率？');
 jnjRef('43742601','jnjhome.blogspot.com/2016/01/blog-post','兩蔣父子與老爸的一面之緣');
