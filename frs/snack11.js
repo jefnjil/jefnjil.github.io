@@ -16,4 +16,5 @@ jnjRef('172264427','jnjdining.blogspot.com/2022/03/blog-post_24','川湯溫泉�
 jnjRef('175185696','jnjblogbiz.blogspot.com/2022/06/blog-post','疫期便當與餐廳漏網之魚');
 jnjRef('176210837','jnjdining.blogspot.com/2022/08/blog-post','神旺「潮品集」港式飲茶');
 jnjRef('179166609','jnjdining.blogspot.com/2023/05/blog-post','嘉義東石．明華海產食堂');
+jnjRef('179628969','jnjdining.blogspot.com/2023/07/blog-post','金山大碗‧芋圓王‧拔絲地瓜');
 jnjRefList += '</ul></p></td></tr></table>';
