@@ -20,4 +20,5 @@ jnjRef('131338342','jnjmvtv.blogspot.com/2019/12/for-all-mankind','太空使命 
 jnjRef('152043687','jnjmvtv.blogspot.com/2020/10/the-old-guardlovecraft-country','不死軍團、逃出絕命村');
 jnjRef('168464909','jnjfoundation.blogspot.com/2021/09/apple-tv-foundation','基地（Foundation）');
 jnjRef('169316572','jnjfoundation.blogspot.com/2021/10/foundation','基地 Foundation 與騾');
+jnjRef('179654159','jnjfoundation.blogspot.com/2023/07/foundation','「基地」第二季初隨筆');
 jnjRefList += '</ul></p></td></tr></table>';

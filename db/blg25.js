@@ -24,4 +24,5 @@ switch(docID)
 	case "2228437827417421825": 	reg="my";	uss="394274";	udn="2013.1.7";	break;
 	case "1855850620544814625": 	reg="vienna";	uss="514787";	break;
 	case "7498271438832713325": 	reg="hotel_euam";	uss="500618";	break;
+	case "7574536586852641225" :	reg="sf1";	break;
 }
