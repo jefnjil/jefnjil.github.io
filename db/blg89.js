@@ -19,4 +19,5 @@ switch(docID)
 	case "5805358199544635489": 	reg="chnfood";	uss="561141";	break;
 	case "6963556778511091289" :	reg="blog";	break;
 	case "249896166162908689" :	reg="family";	break;
+	case "4010773544744751589" :	reg="crime1";	break;
 }
