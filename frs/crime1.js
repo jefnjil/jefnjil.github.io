@@ -17,4 +17,5 @@ jnjRef('1418282','jnjmvtv.blogspot.com/2007/12/hannibal-lecter','我看Hannibal 
 jnjRef('126418781','jnjmvtv.blogspot.com/2019/05/the-victim','受害者（The Victim）與惡的距離');
 jnjRef('132360191','jnjmvtv.blogspot.com/2020/04/zerozerozero','零零零 ─ 毒販毒梟與他們的產地');
 jnjRef('174294119','jnjmvtv.blogspot.com/2022/05/why-didnt-they-ask-evans','克莉絲蒂「懸崖下謀殺案」');
+jnjRef('179708467','jnjmvtv.blogspot.com/2023/08/blacklist','諜海黑名單 (The Blacklist) ');
 jnjRefList += '</ul></p></td></tr></table>';
