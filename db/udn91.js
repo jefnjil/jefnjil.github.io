@@ -25,4 +25,5 @@ switch(docID)
 	case "61814491": 	reg="buffet";	uss="540387";	break;
 	case "6543191": 	reg="history";	break;
 	case "178716191" :	reg="tpe2";	uss="637427";	umd="2023.5.13";	break;
+	case "179724391" :	reg="thriller11";	break;
 }
