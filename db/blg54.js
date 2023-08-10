@@ -24,4 +24,5 @@ switch(docID)
 	case "605279615259033154" :	reg="memory";	break;
 	case "5311657301926177054" :	reg="hsinchu";	uss="635044";	umd="2022.10.6";	uMedia="12749/6658450";	break;
 	case "8840733977952221854" :	reg="hsinchu";	uss="635047";	umd="2022.10.19";	uMedia="12749/6686944";	break;
+	case "4584929135214365154" :	reg="blog1";	break;
 }

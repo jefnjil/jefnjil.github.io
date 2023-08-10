@@ -10,9 +10,9 @@ jnjRef('179574349','jnjblogbiz.blogspot.com/2023/07/blog-post','再見，Ｕ值�
 jnjRef('131433528','jnjdining.blogspot.com/2020/01/blog-post','2020新年回顧展望');
 jnjRef('172651889','jnjblogbiz.blogspot.com/2022/03/github-pages','免費網頁空間 GitHub Pages');
 jnjRef('2301114','jnjblogbiz.blogspot.com/2008/10/impossible-is-nothing_15','Impossible Is Nothing');
-jnjRef('4392672','jnjblogbiz.blogspot.com/2010/09/youtube','著作權的界限──YouTube背景音樂侵權');
 jnjRef('150888539','jnjblogbiz.blogspot.com/2020/09/adsense','AdSense 莎喲娜啦，談談ｕ值媒');
 jnjRef('8009688','jnjblogbiz.blogspot.com/2013/07/blog-post','新版部落格圖文重整大功告成');
+jnjRef('179741563','jnjblogbiz.blogspot.com/2023/08/udn','關於臉書私訊，兼談UDN部落格現況');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('43223539','jnjblogbiz.blogspot.com/2016/01/3mblogspot','文章點閱破3M，暨BlogSpot分站開張');
 jnjRef('112508848','jnjblogbiz.blogspot.com/2018/06/4m3c','慶點閱破4M，賞香車美人閒聊3C');
