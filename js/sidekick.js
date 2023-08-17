@@ -9,6 +9,7 @@ var ctb = null;
 var ufp = null;
 var umd = null;
 var uMedia = null;
+var woman = null;
 var keyTag = null;
 var docID='';
 var jnjRefList='';
@@ -157,6 +158,10 @@ function DBJSLoaded()
 	{
 		umd = '<a href="https://udn.com/umedia/story/' + uMedia + '" target="_blank"><img src="' + myweb + 'img/umedia.png" title="前往U值媒" border="0"></a><br>' + umd + '刊出';
 	}
+	if ( woman != null )
+	{
+		woman = '<a href="https://woman.udn.com/woman/story/' + woman + '" target="_blank"><img src="' + myweb + 'img/woman.png" title="前往女子漾" border="0"></a>';
+	}
 	if ( uss != null ) 
 	{
 		var ua = document.getElementById("jnjUdnAlbum");
@@ -178,13 +183,14 @@ function DBJSLoaded()
 	
 	// Process badges
 	var badges='';
-	if (udn!=null || ctb!=null || ufp!=null  || umd!=null ) 
+	if (udn!=null || ctb!=null || ufp!=null || umd!=null || woman!=null  ) 
 	{
 	badges+='<tr><table border=0><tr>';
 	if (udn!=null) badges+='<td>'+udn+'</td>';
 	if (umd!=null) badges+='<td>'+umd+'</td>';
 	if (ctb!=null) badges+='<td>'+ctb+'</td>';
 	if (ufp!=null) badges+='<td>'+ufp+'</td>';
+	if (woman!=null) badges+='<td>'+woman+'</td>';
 	badges+='</tr></table></tr>';
 	}
 
