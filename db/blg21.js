@@ -1,6 +1,6 @@
 switch(docID)
 {
-	case "3661861214373417721": 	uMedia="12774/4689289";	reg="jr17";	uss="592113";	udn="2017.11.11";	umd="2020.7.9";	break;
+	case "3661861214373417721" :	reg="jr17";	uss="592113";	udn="2017.11.11";	umd="2020.7.9";	uMedia="12774/4689289";	break;
 	case "6781171971490944121": 	reg="jr17";	uss="595601";	break;
 	case "8273124881745116021": 	reg="thriller";	break;
 	case "7896415977317350621": 	reg="twm";	uss="620080";	break;

@@ -18,5 +18,5 @@ switch(docID)
 	case "1272120740285155772": 	reg="zjj";	uss="426469";	break;
 	case "5814260966432153772": 	reg="sf";	break;
 	case "7660344063488255272" :	reg="history2";	break;
-	case "8766819561799246372" :	reg="thriller11";	break;
+	case "8766819561799246372" :	reg="thriller11";	woman="123164/7380080";	break;
 }
