@@ -18,5 +18,5 @@ switch(docID)
 	case "74668808": 	reg="vienna";	uss="500618";	break;
 	case "8019708": 	reg="3C";	break;
 	case "934108": 	reg="tpe2";	udn="2007.5.7";	ufp="2007.5.1?";	break;
-	case "177229108" :	reg="mv1";	break;
+	case "177229108" :	reg="mv1";	woman="123164/7394096";	break;
 }

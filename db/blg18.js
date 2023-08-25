@@ -17,6 +17,6 @@ switch(docID)
 	case "7028904054773112718": 	reg="mv";	break;
 	case "1226963415323918218": 	reg="comment";	break;
 	case "6511323444461892518" :	reg="japfood1";	uss="635040";	break;
-	case "6247874399909384918" :	reg="mv1";	break;
+	case "6247874399909384918" :	reg="mv1";	woman="123164/7394096";	break;
 	case "6495393692946765318" :	reg="family";	break;
 }
