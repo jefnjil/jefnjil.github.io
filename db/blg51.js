@@ -2,7 +2,7 @@ switch(docID)
 {
 	case "6371930951970340851": 	reg="tohoku";	uss="431815";	break;
 	case "1945797714724206351": 	uMedia="12751/5109014";	reg="buffet";	uss="626220";	umd="2020.12.21";	break;
-	case "5782668863451290551": 	reg="thriller1";	break;
+	case "5782668863451290551" :	reg="thriller1";	woman="123164/7404408";	break;
 	case "8974390930285840051": 	reg="news";	break;
 	case "6760339921464060351": 	reg="tokyo";	uss="159919";	udn="2009.2.16";	break;
 	case "7963851396608863451": 	reg="shikoku";	uss="200030";	break;

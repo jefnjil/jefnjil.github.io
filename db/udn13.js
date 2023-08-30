@@ -3,7 +3,7 @@ switch(docID)
 	case "112277513": 	reg="tpe2";	uss="598220";	break;
 	case "138010213": 	reg="italy";	break;
 	case "140370713": 	reg="twm";	uss="620080";	udn="2020.7.22";	break;
-	case "163662513": 	reg="thriller1";	break;
+	case "163662513" :	reg="thriller1";	woman="123164/7404408";	break;
 	case "21361513": 	reg="action";	udn="2015.4.2";	break;
 	case "228113": 	reg="draw";	break;
 	case "28023213": 	reg="chnfood";	uss="478107";	break;
