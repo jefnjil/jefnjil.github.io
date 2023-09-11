@@ -5,6 +5,7 @@ jnjRef('1509474','jnjhome.blogspot.com/2008/01/blog-post_4','軍歌比賽就在�
 jnjRef('5432367','jnjfoorprint.blogspot.com/2011/07/blog-post','雪見遊憩區');
 jnjRef('5592005','jnjfoorprint.blogspot.com/2011/08/blog-post','二本松‧丸田砲台');
 jnjRef('179106446','jnjfoorprint.blogspot.com/2023/05/blog-post','薑麻園─雲海之鄉');
+jnjRef('179857115','jnjfoorprint.blogspot.com/2023/09/blog-post.html','觀霧森林遊樂區');
 jnjRefList += '</ul></p><p><ul><b>新竹</b>';
 jnjRef('111664814','jnjhome.blogspot.com/2018/04/blog-post','水木清華‧思竹交通');
 jnjRef('7756826','jnjfoorprint.blogspot.com/2013/06/blog-post_13','六福村水陸雙樂園');
