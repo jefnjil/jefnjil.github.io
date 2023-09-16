@@ -7,7 +7,7 @@ jnjRef('112332617','jnjfoorprint.blogspot.com/2018/06/blog-post_11','奧入瀨�
 jnjRef('153109799','jnjfoorprint.blogspot.com/2020/11/blog-post_16','雙流森林遊樂區');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('3978552','jnjliterature.blogspot.com/2010/04/f','進出溪頭');
-jjnjRef('179166555','jnjfoorprint.blogspot.com/2023/05/blog-post_08','溪頭 ─ 大學池、大學坑和探索區');
+jnjRef('179166555','jnjfoorprint.blogspot.com/2023/05/blog-post_08','溪頭 ─ 大學池、大學坑和探索區');
 jnjRef('5432367','jnjfoorprint.blogspot.com/2011/07/blog-post','雪見遊憩區');
 jnjRef('5592005','jnjfoorprint.blogspot.com/2011/08/blog-post','二本松‧丸田砲台');
 jnjRef('179857115','jnjfoorprint.blogspot.com/2023/09/blog-post.html','檜山巨木群步道');
