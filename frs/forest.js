@@ -2,7 +2,7 @@ jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱
 jnjRef('128836935','jnjfoorprint.blogspot.com/2019/08/blog-post_26','阿里山森林遊樂區');
 jnjRef('8633075','jnjfoorprint.blogspot.com/2013/09/blog-post_21','香林神木');
 jnjRef('8633051','jnjfoorprint.blogspot.com/2013/09/blog-post','阿里山姊妹潭');
-njRef('8469853','jnjfoorprint.blogspot.com/2013/09/blog-post_0','神木車站、巨木群棧道');
+jnjRef('8469853','jnjfoorprint.blogspot.com/2013/09/blog-post_0','神木車站、巨木群棧道');
 jnjRef('112332617','jnjfoorprint.blogspot.com/2018/06/blog-post_11','奧入瀨溪流');
 jnjRef('153109799','jnjfoorprint.blogspot.com/2020/11/blog-post_16','雙流森林遊樂區');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
