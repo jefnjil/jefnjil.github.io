@@ -18,4 +18,5 @@ switch(docID)
 	case "4755971588893253081": 	reg="zjj";	uss="426385";	udn="2014.4.12";	break;
 	case "6055971712231792581": 	reg="jr16";	uss="575951";	break;
 	case "3923569280435983381" :	reg="crime";	break;
+	case "195174658224874481" :	reg="ntc2";	break;
 }
