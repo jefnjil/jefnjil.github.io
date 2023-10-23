@@ -10,6 +10,7 @@ jnjRef('132003858','jnjdining.blogspot.com/2020/03/blog-post_12','鴻富麵食�
 jnjRef('160017918','jnjdining.blogspot.com/2021/04/blog-post','十里安手麵');
 jnjRef('157865062','jnjdining.blogspot.com/2021/03/blog-post_25','雲滇雲南過橋米線');
 jnjRef('151631561','jnjfoorprint.blogspot.com/2020/10/blog-post_19','滿妹豬腳‧悟饕便當');
+jnjRef('179992315','jnjfoorprint.blogspot.com/2023/10/blog-post_23.html','米詩堤、廟口跩跩什錦麵');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('165138167','jnjdining.blogspot.com/2021/07/blog-post','點水樓下午茶吃到飽');
 jnjRef('172264427','jnjdining.blogspot.com/2022/03/blog-post_24','川湯溫泉養生餐廳');

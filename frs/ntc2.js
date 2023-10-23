@@ -5,6 +5,7 @@ jnjRef('179526234','jnjfoorprint.blogspot.com/2023/07/blog-post','老梅海灘�
 jnjRef('179602174','jnjfoorprint.blogspot.com/2023/07/blog-post_17','富貴角燈塔、老梅迷宮、風剪樹');
 jnjRef('157425717','jnjfoorprint.blogspot.com/2021/03/blog-post_11','雙溪老街');
 jnjRef('179956019','jnjfoorprint.blogspot.com/2023/10/blog-post.html','瑞猴自行車道．猴硐貓村');
+jnjRef('179992315','jnjfoorprint.blogspot.com/2023/10/blog-post_23.html','瑞芳老街、華記龍鳳腿');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('127274853','jnjfoorprint.blogspot.com/2019/06/blog-post_10','滬尾礮臺');
 jnjRef('126709350','jnjfoorprint.blogspot.com/2019/05/blog-post_16','淡水漁人碼頭');
