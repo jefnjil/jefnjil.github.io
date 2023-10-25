@@ -20,5 +20,5 @@ switch(docID)
 	case "362182100444322048": 		reg="snack";	break;
 	case "3552191808414872148": 	reg="sf";	break;
 	case "1284292302020565048" :	reg="taitung";	uss="633725";	ufp="2022.7.5";	umd="2022.7.4";	uMedia="12749/6427357";	break;
-	case "3727981705067600548" :	reg="snack11";	break;
+	case "3727981705067600548" :	reg="snack11";	woman="123162/7529852";	break;
 }
