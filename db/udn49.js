@@ -26,4 +26,5 @@ switch(docID)
 	case "7643149": 	reg="mv";	break;
 	case "175416349" :	reg="tech";	break;
 	case "179574349" :	reg="blog1";	break;
+	case "180042549" :	reg="snack11";	break;
 }
