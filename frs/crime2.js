@@ -17,4 +17,5 @@ jnjRef('132360191','jnjmvtv.blogspot.com/2020/04/zerozerozero','零零零 ─ �
 jnjRef('174294119','jnjmvtv.blogspot.com/2022/05/why-didnt-they-ask-evans','克莉絲蒂「懸崖下謀殺案」');
 jnjRef('179708467','jnjmvtv.blogspot.com/2023/08/blacklist','諜海黑名單 (The Blacklist) ');
 jnjRef('180031660','jnjmvtv.blogspot.com/2023/11/the-burialthe-girl-in-fog.html','埋葬 The Burial');
+jnjRef('180058132','jnjmvtv.blogspot.com/2023/11/haunting-in-venice.html','威尼斯魅影謀殺案');
 jnjRefList += '</ul></p></td></tr></table>';
