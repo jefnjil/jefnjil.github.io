@@ -20,4 +20,5 @@ jnjRef('162289551','jnjfoorprint.blogspot.com/2021/05/blog-post','行修宮後�
 jnjRef('132897688','jnjfoorprint.blogspot.com/2020/04/blog-post_30','三鶯之心空間藝術特區');
 jnjRef('156480408','jnjfoorprint.blogspot.com/2021/02/blog-post_18','石碇‧鱷魚島觀景平台');
 jnjRef('179017419','jnjfoorprint.blogspot.com/2023/04/blog-post_24','滿月圓森林遊樂區');
+jnjRef('180090369','jnjfoorprint.blogspot.com/2023/11/blog-post.html','新店誠品裕隆城');
 jnjRefList += '</ul></p></td></tr></table>';
