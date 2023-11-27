@@ -8,6 +8,7 @@ jnjRef('126884760','jnjmvtv.blogspot.com/2019/05/game-of-thrones','權力遊戲�
 jnjRef('170912483','jnjmvtv.blogspot.com/2021/12/the-long-call','遙遠的召喚');
 jnjRef('1418282','jnjmvtv.blogspot.com/2007/12/hannibal-lecter','我看Hannibal Lecter');
 jnjRef('6507697','jnjmvtv.blogspot.com/2012/06/hit-miss','小姐與殺手（Hit & Miss）');
+jnjRef('180101142','jnjmvtv.blogspot.com/2023/11/blog-post_27.html','唐山大地震');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('132360359','jnjmvtv.blogspot.com/2020/04/unorthodox','出走布魯克林 (Unorthodox');
 jnjRef('163222485','jnjmvtv.blogspot.com/2021/05/dig-ammonite-mare-of-easttown','古寶、默愛與東城奇案');
