@@ -1,0 +1,18 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('171004743','jnjmvtv.blogspot.com/2021/12/ragdoll','屍偶 Ragdoll');
+jnjRef('177124463','jnjmvtv.blogspot.com/2022/09/black-bird','黑鳥（Black Bird）');
+jnjRef('101','jnjmvtv.blogspot.com/2021/12/clarice.html','勿下錯招');
+jnjRef('174294119','jnjmvtv.blogspot.com/2022/05/why-didnt-they-ask-evans','克莉絲蒂「懸崖下謀殺案」');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('3055816','jnjmvtv.blogspot.com/2009/06/wallander','渥蘭德三部曲');
+jnjRef('101','jnjmvtv.blogspot.com/2021/12/clarice.html','青年神探維蘭德');
+jnjRef('125041796','jnjmvtv.blogspot.com/2019/03/true-detective','無間警探（真探）');
+jnjRef('147930588','jnjmvtv.blogspot.com/2020/08/blog-post','誰是被害者');
+jnjRef('175631913','jnjmvtv.blogspot.com/2022/07/under-banner-of-heaven','天堂的旗幟下');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('101','jnjmvtv.blogspot.com/2021/12/clarice.html','黑羅蘋');
+jnjRef('4430777','jnjmvtv.blogspot.com/2010/09/21sherlock','21世紀的夏洛克‧福爾摩斯');
+jnjRef('1418282','jnjmvtv.blogspot.com/2007/12/hannibal-lecter','我看Hannibal Lecter');
+jnjRef('101','jnjmvtv.blogspot.com/2021/12/clarice.html','Clarice');
+jnjRef('101','jnjmvtv.blogspot.com/2021/12/clarice.html','破綻');
+jnjRefList += '</ul></p></td></tr></table>';
