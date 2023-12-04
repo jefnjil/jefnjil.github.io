@@ -13,4 +13,5 @@ switch(docID)
 	case "4501081415426043895": 	reg="expo";	uss="410344";	break;
 	case "6120162135547036995" :	reg="chiayi";	uss="633198";	umd="2022.5.18";	uMedia="12749/6302341";	break;
 	case "8651773682161628695" :	reg="feast1";	uss="637425";	umd="2023.3.27";	uMedia="12751/7016742";	break;
+	case "3215404094664547395" :	reg="thriller11";	break;
 }

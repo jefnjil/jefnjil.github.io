@@ -16,4 +16,5 @@ switch(docID)
 	case "8961086047460120866": 	reg="comment";	break;
 	case "5522343475821317466": 	reg="us16";	uss="565069";	udn="2017.12.15";	ufp="2017.12.28";	break;
 	case "5545077724732818466": 	reg="3C";	uss="552288";	break;
+	case "5966542031234465166" :	reg="fantacy2";	break;
 }
