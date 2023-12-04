@@ -8,4 +8,6 @@ switch(docID)
 	case "7419423538409949629": 	reg="sf";	udn="2016.4.20";	break;
 	case "4556922972605957729": 	reg="uk";	udn="2007.5.2?";	break;
 	case "6263371219164669329": 	reg="sf";	break;
+	case "2253989570940011529" :	reg="crime3";	break;
+	case "6983124398109782729" :	reg="music";	break;
 }
