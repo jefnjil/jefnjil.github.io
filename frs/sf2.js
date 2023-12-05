@@ -19,5 +19,5 @@ jnjRef('152043687','jnjmvtv.blogspot.com/2020/10/the-old-guardlovecraft-country'
 jnjRef('168464909','jnjfoundation.blogspot.com/2021/09/apple-tv-foundation','基地（Foundation）');
 jnjRef('169316572','jnjfoundation.blogspot.com/2021/10/foundation','基地 Foundation 與騾');
 jnjRef('179654159','jnjfoundation.blogspot.com/2023/07/foundation','「基地」第二季初隨筆');
-jnjRef('179876951','jnjfoundation.blogspot.com/2023/09/foundation.html','「基地（Foundation）」第二季結語');
+jnjRef('179876951','jnjfoundation.blogspot.com/2023/09/foundation','「基地（Foundation）」第二季結語');
 jnjRefList += '</ul></p></td></tr></table>';

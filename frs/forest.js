@@ -10,7 +10,7 @@ jnjRef('3978552','jnjliterature.blogspot.com/2010/04/f','進出溪頭');
 jnjRef('179166555','jnjfoorprint.blogspot.com/2023/05/blog-post_08','溪頭 ─ 大學池、大學坑和探索區');
 jnjRef('5432367','jnjfoorprint.blogspot.com/2011/07/blog-post','雪見遊憩區');
 jnjRef('5592005','jnjfoorprint.blogspot.com/2011/08/blog-post','二本松‧丸田砲台');
-jnjRef('179857115','jnjfoorprint.blogspot.com/2023/09/blog-post.html','檜山巨木群步道');
+jnjRef('179857115','jnjfoorprint.blogspot.com/2023/09/blog-post','檜山巨木群步道');
 jnjRef('21253776','jnjfoorprint.blogspot.com/2015/03/blog-post','武陵櫻花季一日遊');
 jnjRef('22471987','jnjfoorprint.blogspot.com/2015/04/blog-post','七家灣溪觀魚台');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';

@@ -4,7 +4,7 @@ jnjRef('20999915','jnjmvtv.blogspot.com/2015/02/breaking-bad','絕命毒師');
 jnjRef('171004743','jnjmvtv.blogspot.com/2021/12/ragdoll','屍偶 Ragdoll');
 jnjRef('177124463','jnjmvtv.blogspot.com/2022/09/black-bird','黑鳥（Black Bird）');
 jnjRef('177348628','jnjmvtv.blogspot.com/2022/10/dahmer-monster-devil-in-ohio','食人魔達默');
-jnjRef('179903620','jnjmvtv.blogspot.com/2023/09/hijack.html','劫機七小時 (Hijack)');
+jnjRef('179903620','jnjmvtv.blogspot.com/2023/09/hijack','劫機七小時 (Hijack)');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('125041796','jnjmvtv.blogspot.com/2019/03/true-detective','無間警探（真探）');
 jnjRef('147930588','jnjmvtv.blogspot.com/2020/08/blog-post','誰是被害者');
