@@ -142,7 +142,7 @@ function getMyTags()
 
 function jnjRef(idx,bUrl,sbj) 
 {
-	if (isUDN)
+	if (isUDN && idx.length >= 6)	// 100~99999 = Blogger only
 		jnjRefList += '<li><a target="_blank" href="https://blog.udn.com/jefnjil/'+idx +'">'+sbj+'</a>';
 	else
 		jnjRefList += '<li><a target="_blank" href="https://' + bUrl +'.html">'+sbj+'</a>';
