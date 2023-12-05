@@ -7,6 +7,7 @@ jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('36206796','jnjmvtv.blogspot.com/2015/11/007spectre','007 Spectre 惡魔四伏');
 jnjRef('4939192','jnjmvtv.blogspot.com/2011/03/the-touristtaken','即刻救援（Taken）');
 jnjRef('173604533','jnjmvtv.blogspot.com/2022/04/slow-horses','腐肉屋的一群慢馬');
+jnjRef('107','jnjmvtv.blogspot.com/2023/07/assassin-club4.html','堡壘');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('6815820','jnjmvtv.blogspot.com/2012/09/jack-bauer','反恐英雄傑克鮑爾');
 jnjRef('13745512','jnjmvtv.blogspot.com/2014/05/the-following','殺手信徒與特殊受害者');

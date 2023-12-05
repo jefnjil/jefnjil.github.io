@@ -5,6 +5,7 @@ jnjRef('177124463','jnjmvtv.blogspot.com/2022/09/black-bird','黑鳥（Black Bir
 jnjRef('177348628','jnjmvtv.blogspot.com/2022/10/dahmer-monster-devil-in-ohio','食人魔達默');
 jnjRef('179903620','jnjmvtv.blogspot.com/2023/09/hijack.html','劫機七小時 (Hijack)');
 jnjRef('180081716','jnjmvtv.blogspot.com/2023/11/blog-post.html','第八個嫌疑人');
+jnjRef('109','jnjmvtv.blogspot.com/2023/07/rabbit-holepoker-face.html','Rabbit Hole');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('147930588','jnjmvtv.blogspot.com/2020/08/blog-post','誰是被害者');
 jnjRef('157791837','jnjmvtv.blogspot.com/2021/03/the-vanishing-at-cecil-hotel','還原藍可兒事件');

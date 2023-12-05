@@ -6,6 +6,7 @@ jnjRef('163662513','jnjmvtv.blogspot.com/2021/06/promising-young-woman','花漾�
 jnjRef('178078685','jnjmvtv.blogspot.com/2023/01/woman-of-dead','賢妻復仇記');
 jnjRef('179724391','jnjmvtv.blogspot.com/2023/08/crowded-room','擁擠的房間');
 jnjRef('104','jnjmvtv.blogspot.com/2020/12/2020.html','捍衛雅各');
+jnjRef('112','jnjmvtv.blogspot.com/2023/10/23q3-2x.html','奪魂鋸X');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('114040611','jnjmvtv.blogspot.com/2018/08/the-handmaids-tale','侍女的故事');
 jnjRef('132459491','jnjmvtv.blogspot.com/2020/04/baghdad-central','巴格達總局');

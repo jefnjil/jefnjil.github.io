@@ -4,6 +4,7 @@ jnjRef('171306329','jnjmvtv.blogspot.com/2022/01/stillwater','靜水城');
 jnjRef('177229108','jnjmvtv.blogspot.com/2022/10/where-crawdads-sing','沼澤謀殺案');
 jnjRef('171085510','jnjmvtv.blogspot.com/2022/01/holy-motors','花都魅影（Holy Motors）');
 jnjRef('106','jnjmvtv.blogspot.com/2023/06/blog-post.html','游牧人生');
+jnjRef('112','jnjmvtv.blogspot.com/2023/10/23q3-2x.html','千萬里之外');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('126884760','jnjmvtv.blogspot.com/2019/05/game-of-thrones','權力遊戲（GoT）');
 jnjRef('170912483','jnjmvtv.blogspot.com/2021/12/the-long-call','遙遠的召喚');

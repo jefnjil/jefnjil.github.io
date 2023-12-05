@@ -1,8 +1,10 @@
 jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('180129159','jnjmvtv.blogspot.com/2023/12/u-571-300-2012.html','2012');
 jnjRef('6891455','jnjmvtv.blogspot.com/2012/09/prometheus','普羅米修斯');
 jnjRef('106578709','jnjmvtv.blogspot.com/2017/08/alien-covenant','異形：聖約');
 jnjRef('129263060','jnjmvtv.blogspot.com/2019/09/carnival-row','Carnival Row');
 jnjRef('131391167','jnjmvtv.blogspot.com/2019/12/see','末日光明（See）');
+jnjRef('110','jnjmvtv.blogspot.com/2023/07/blog-post.html','鑽油平台危機');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('111589957','jnjmvtv.blogspot.com/2018/04/annihilationthe-titan','泰坦（The Titan）');
 jnjRef('67209758','jnjmvtv.blogspot.com/2016/07/monsters-dark-continent','異獸禁區與黑暗大陸');
@@ -15,5 +17,5 @@ jnjRef('103','jnjmvtv.blogspot.com/2021/12/ii.html','噤界II');
 jnjRef('103','jnjmvtv.blogspot.com/2021/12/ii.html','瑕疵小隊');
 jnjRef('103','jnjmvtv.blogspot.com/2021/12/ii.html','自殺突擊隊集結');
 jnjRef('103','jnjmvtv.blogspot.com/2021/12/ii.html','駭客任務復活');
-jnjRefList += '</ul>';
+jnjRef('106','jnjmvtv.blogspot.com/2023/06/blog-post.html','無穹迴役');
 jnjRefList += '</ul></p></td></tr></table>';

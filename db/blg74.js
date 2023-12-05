@@ -17,4 +17,5 @@ switch(docID)
 	case "8953462327824473274": 	reg="3C";	uss="552288";	break;
 	case "9203169956997884874": 	reg="chnfood";	uss="420463";	break;
 	case "8101612686851235074" :	reg="action2";	break;
+	case "1424276672219768274" :	reg="wars";	break;
 }
