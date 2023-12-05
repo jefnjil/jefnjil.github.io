@@ -5,8 +5,8 @@ jnjRef('20999915','jnjmvtv.blogspot.com/2015/02/breaking-bad','絕命毒師');
 jnjRef('163662513','jnjmvtv.blogspot.com/2021/06/promising-young-woman','花漾女子');
 jnjRef('178078685','jnjmvtv.blogspot.com/2023/01/woman-of-dead','賢妻復仇記');
 jnjRef('179724391','jnjmvtv.blogspot.com/2023/08/crowded-room','擁擠的房間');
-jnjRef('104','jnjmvtv.blogspot.com/2020/12/2020.html','捍衛雅各');
-jnjRef('112','jnjmvtv.blogspot.com/2023/10/23q3-2x.html','奪魂鋸X');
+jnjRef('104','jnjmvtv.blogspot.com/2020/12/2020','捍衛雅各');
+jnjRef('112','jnjmvtv.blogspot.com/2023/10/23q3-2x','奪魂鋸X');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('114040611','jnjmvtv.blogspot.com/2018/08/the-handmaids-tale','侍女的故事');
 jnjRef('132459491','jnjmvtv.blogspot.com/2020/04/baghdad-central','巴格達總局');
@@ -14,7 +14,7 @@ jnjRef('4287816','jnjmvtv.blogspot.com/2010/08/blog-post_3','龍紋身的女孩'
 jnjRef('126077911','jnjmvtv.blogspot.com/2019/04/the-widow','寡婦 ─ 黑土疑雲');
 jnjRef('164498059','jnjmvtv.blogspot.com/2021/07/shadow-in-cloud','致命天際線');
 jnjRef('178732540','jnjmvtv.blogspot.com/2023/03/blog-post','洛克靈異偵探社');
-jnjRef('104','jnjmvtv.blogspot.com/2020/12/2020.html','法國大革命之謎');
+jnjRef('104','jnjmvtv.blogspot.com/2020/12/2020','法國大革命之謎');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('126418781','jnjmvtv.blogspot.com/2019/05/the-victim','受害者與惡的距離');
 jnjRef('166089493','jnjmvtv.blogspot.com/2021/08/tehran-vs','德黑蘭─以伊諜報戰');
@@ -22,5 +22,5 @@ jnjRef('177295802','jnjmvtv.blogspot.com/2022/10/fall-ledge','高處不勝寒 �
 jnjRef('177683516','jnjmvtv.blogspot.com/2022/12/english','英格蘭人 (The English)');
 jnjRef('178590580','jnjmvtv.blogspot.com/2023/03/let-right-one-me-in','血色入侵 / 噬血童話');
 jnjRef('179046344','jnjmvtv.blogspot.com/2023/04/diplomat','外交官和頭號外交官');
-jnjRef('109','jnjmvtv.blogspot.com/2023/07/rabbit-holepoker-face.html','殘句線索');
+jnjRef('109','jnjmvtv.blogspot.com/2023/07/rabbit-holepoker-face','殘句線索');
 jnjRefList += '</ul></p></td></tr></table>';

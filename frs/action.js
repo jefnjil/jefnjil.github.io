@@ -5,7 +5,7 @@ jnjRef('772792','jnjmvtv.blogspot.com/2007/02/departed','神鬼無間');
 jnjRef('3871863','jnjmvtv.blogspot.com/2010/03/law-abiding-citizen','重案對決');
 jnjRef('21361513','jnjmvtv.blogspot.com/2015/03/3the-equalizer-john-wick-taken-3','私刑教育');
 jnjRef('69394538','jnjmvtv.blogspot.com/2016/09/sicario','怒火邊界');
-jnjRef('107','jnjmvtv.blogspot.com/2023/07/assassin-club4.html','捍衛任務4');
+jnjRef('107','jnjmvtv.blogspot.com/2023/07/assassin-club4','捍衛任務4');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('4939192','jnjmvtv.blogspot.com/2011/03/the-touristtaken','即刻救援（Taken）');
 jnjRef('7343874','jnjmvtv.blogspot.com/2013/02/blog-post','即刻救援２');
