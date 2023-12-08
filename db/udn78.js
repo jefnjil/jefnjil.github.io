@@ -10,4 +10,5 @@ switch(docID)
 	case "21358878": 	reg="lijiang";	uss="454952";	break;
 	case "2613478": 	reg="tokyo";	uss="159912";	break;
 	case "39716578": 	reg="sf";	break;
+	case "180135478" :	reg="music";	break;
 }
