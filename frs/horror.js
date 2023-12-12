@@ -1,0 +1,11 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('121','jnjmvtv.blogspot.com/2022/12/2022','惡靈古堡首部曲：拉昆市');
+jnjRef('112','jnjmvtv.blogspot.com/2023/10/23q3-2x','奪魂鋸X');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('120','jnjmvtv.blogspot.com/2022/12/seal-team','美國恐怖故事');
+jnjRef('105','jnjmvtv.blogspot.com/2023/06/yellowjacketsfrom','梵蒂岡驅魔士');
+jnjRef('178732540','jnjmvtv.blogspot.com/2023/03/blog-post','洛克靈異偵探社');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('120','jnjmvtv.blogspot.com/2022/12/seal-team','陰屍路');
+jnjRef('1881787','jnjmvtv.blogspot.com/2008/05/blog-post','異形世代');
+jnjRefList += '</ul></p></td></tr></table>';

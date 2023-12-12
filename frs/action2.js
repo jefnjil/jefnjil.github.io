@@ -4,6 +4,7 @@ jnjRef('100','jnjmvtv.blogspot.com/2021/12/blog-post','惡夜性追緝');
 jnjRef('100','jnjmvtv.blogspot.com/2021/12/blog-post','尬電殺手');
 jnjRef('106','jnjmvtv.blogspot.com/2023/06/blog-post','無名弒');
 jnjRef('107','jnjmvtv.blogspot.com/2023/07/assassin-club4','Assassin Club');
+jnjRef('120','jnjmvtv.blogspot.com/2022/12/seal-team','海豹突擊隊');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('21361513','jnjmvtv.blogspot.com/2015/03/3the-equalizer-john-wick-taken-3','捍衛任務');
 jnjRef('6815820','jnjmvtv.blogspot.com/2012/09/jack-bauer','反恐英雄傑克鮑爾');
