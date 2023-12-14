@@ -18,4 +18,6 @@ jnjRef('175460531','jnjmvtv.blogspot.com/2022/07/angelyne','看板女王 ─ 安
 jnjRef('178981276','jnjmvtv.blogspot.com/2023/04/blog-post','「超難搞先生」開「經典老爺車」');
 jnjRef('106','jnjmvtv.blogspot.com/2023/06/blog-post','讀報人');
 jnjRef('106','jnjmvtv.blogspot.com/2023/06/blog-post','極地守護犬');
+jnjRef('122','jnjmvtv.blogspot.com/2022/12/tinder','扬名立万、村裡來了個暴走女外科、艾塞克斯之蛇、Tinder大騙徒');
+jnjRef('122','jnjmvtv.blogspot.com/2022/12/tinder','扬名立万、村裡來了個暴走女外科、艾塞克斯之蛇、Tinder大騙徒');
 jnjRefList += '</ul></p></td></tr></table>';

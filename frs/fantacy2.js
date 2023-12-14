@@ -1,10 +1,11 @@
 jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
 jnjRef('129263060','jnjmvtv.blogspot.com/2019/09/carnival-row','Carnival Row');
 jnjRef('110','jnjmvtv.blogspot.com/2023/07/blog-post','嘉年華大街');
-jnjRef('105','jnjmvtv.blogspot.com/2023/06/yellowjacketsfrom','Yellowjackets');
 jnjRef('102','jnjmvtv.blogspot.com/2021/12/2','惡靈偵探');
 jnjRef('105','jnjmvtv.blogspot.com/2023/06/yellowjacketsfrom','梵蒂岡驅魔士');
 jnjRef('112','jnjmvtv.blogspot.com/2023/10/23q3-2x','巨齒鯊2');
+jnjRef('110','jnjmvtv.blogspot.com/2023/07/blog-post','不朽者');
+jnjRef('123','jnjmvtv.blogspot.com/2022/12/11','怪奇物語');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('16762422','jnjmvtv.blogspot.com/2014/08/lucy','盧貝松的露西 Lucy');
 jnjRef('15868637','jnjmvtv.blogspot.com/2014/08/in-flesh','復生 In the Flesh');
@@ -18,5 +19,5 @@ jnjRef('152043687','jnjmvtv.blogspot.com/2020/10/the-old-guardlovecraft-country'
 jnjRef('177955072','jnjliterature.blogspot.com/2022/12/wednesday-paint-it-black','Wednesday 的 Paint It Black');
 jnjRef('178034639','jnjmvtv.blogspot.com/2023/01/blog-post','獵魔士：血緣與政治正確');
 jnjRef('178732540','jnjmvtv.blogspot.com/2023/03/blog-post','洛克靈異偵探社');
-jnjRef('110','jnjmvtv.blogspot.com/2023/07/blog-post','不朽者');
+jnjRef('105','jnjmvtv.blogspot.com/2023/06/yellowjacketsfrom','Yellowjackets');
 jnjRefList += '</ul></p></td></tr></table>';

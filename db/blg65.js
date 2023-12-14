@@ -14,4 +14,5 @@ switch(docID)
 	case "8175104091819101365": 	reg="italy";	uss="316290";	udn="2011.8.17";	break;
 	case "1179366367106225165": 	reg="george";	uss="381527";	break;
 	case "525027349864431765": 	reg="sf";	break;
+	case "99691193508649665" :	reg="fantacy2";	break;
 }
