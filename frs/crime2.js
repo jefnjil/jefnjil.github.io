@@ -12,6 +12,8 @@ jnjRef('157791837','jnjmvtv.blogspot.com/2021/03/the-vanishing-at-cecil-hotel','
 jnjRef('175631913','jnjmvtv.blogspot.com/2022/07/under-banner-of-heaven','天堂的旗幟下');
 jnjRef('177348628','jnjmvtv.blogspot.com/2022/10/dahmer-monster-devil-in-ohio','俄亥俄的魔鬼');
 jnjRef('179690628','jnjmvtv.blogspot.com/2023/07/blog-post_31','八尺門的辯護人');
+jnjRef('122','jnjmvtv.blogspot.com/2022/12/tinder','扬名立万');
+jnjRef('125','jnjmvtv.blogspot.com/2023/12/blog-post','芭蕾復仇曲');
 jnjRef('180031660','jnjmvtv.blogspot.com/2023/11/the-burialthe-girl-in-fog','霧中的女孩');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('126418781','jnjmvtv.blogspot.com/2019/05/the-victim','受害者（The Victim）與惡的距離');

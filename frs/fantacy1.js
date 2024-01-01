@@ -2,11 +2,12 @@ jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱
 jnjRef('129263060','jnjmvtv.blogspot.com/2019/09/carnival-row','Carnival Row');
 jnjRef('105','jnjmvtv.blogspot.com/2023/06/yellowjacketsfrom','Yellowjackets');
 jnjRef('102','jnjmvtv.blogspot.com/2021/12/2','黑魔女2');
+jnjRef('102','jnjmvtv.blogspot.com/2021/12/2','雅信傳');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('15868637','jnjmvtv.blogspot.com/2014/08/in-flesh','復生 In the Flesh');
 jnjRef('4054845','jnjmvtv.blogspot.com/2010/05/lost-end','迷失到了盡頭');
 jnjRef('105','jnjmvtv.blogspot.com/2023/06/yellowjacketsfrom','From');
-jnjRef('102','jnjmvtv.blogspot.com/2021/12/2','雅信傳');
+jnjRef('123','jnjmvtv.blogspot.com/2022/12/11','失控多重宇宙');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('67209758','jnjmvtv.blogspot.com/2016/07/monsters-dark-continent','異獸禁區與黑暗大陸');
 jnjRef('152043687','jnjmvtv.blogspot.com/2020/10/the-old-guardlovecraft-country','不死軍團、逃出絕命村');

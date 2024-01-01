@@ -4,6 +4,8 @@ jnjRef('177124463','jnjmvtv.blogspot.com/2022/09/black-bird','黑鳥（Black Bir
 jnjRef('101','jnjmvtv.blogspot.com/2021/12/clarice','勿下錯招');
 jnjRef('174294119','jnjmvtv.blogspot.com/2022/05/why-didnt-they-ask-evans','克莉絲蒂「懸崖下謀殺案」');
 jnjRef('113','jnjmvtv.blogspot.com/2023/10/23q3-233','牆裡的女人');
+jnjRef('122','jnjmvtv.blogspot.com/2022/12/tinder','Tinder大騙徒');
+jnjRef('125','jnjmvtv.blogspot.com/2023/12/blog-post','假面女郎');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('113','jnjmvtv.blogspot.com/2023/10/23q3-233','失落航班2/3');
 jnjRef('113','jnjmvtv.blogspot.com/2023/10/23q3-233','冷血動物');

@@ -1,4 +1,5 @@
 jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('121','jnjmvtv.blogspot.com/2022/12/2022','惡靈古堡：無盡闇黑集');
 jnjRef('102','jnjmvtv.blogspot.com/2021/12/2','雅信傳');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('120','jnjmvtv.blogspot.com/2022/12/seal-team','美國恐怖故事');

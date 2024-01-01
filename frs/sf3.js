@@ -1,16 +1,17 @@
 jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
 jnjRef('180129159','jnjmvtv.blogspot.com/2023/12/u-571-300-2012','2012');
-jnjRef('6891455','jnjmvtv.blogspot.com/2012/09/prometheus','普羅米修斯');
 jnjRef('106578709','jnjmvtv.blogspot.com/2017/08/alien-covenant','異形：聖約');
 jnjRef('129263060','jnjmvtv.blogspot.com/2019/09/carnival-row','Carnival Row');
 jnjRef('131391167','jnjmvtv.blogspot.com/2019/12/see','末日光明（See）');
 jnjRef('110','jnjmvtv.blogspot.com/2023/07/blog-post','鑽油平台危機');
+jnjRef('121','jnjmvtv.blogspot.com/2022/12/2022','惡靈古堡2022影集');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('111589957','jnjmvtv.blogspot.com/2018/04/annihilationthe-titan','泰坦（The Titan）');
 jnjRef('67209758','jnjmvtv.blogspot.com/2016/07/monsters-dark-continent','異獸禁區與黑暗大陸');
 jnjRef('111589957','jnjmvtv.blogspot.com/2018/04/annihilationthe-titan','滅絕（Annihilation）');
 jnjRef('131338342','jnjmvtv.blogspot.com/2019/12/for-all-mankind','太空使命 For All Mankind');
 jnjRef('152043687','jnjmvtv.blogspot.com/2020/10/the-old-guardlovecraft-country','不死軍團、逃出絕命村');
+jnjRef('120','jnjmvtv.blogspot.com/2022/12/seal-team','西方極樂園');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('21664423','jnjmvtv.blogspot.com/2015/03/predestination','超時空攔截');
 jnjRef('103','jnjmvtv.blogspot.com/2021/12/ii','噤界II');

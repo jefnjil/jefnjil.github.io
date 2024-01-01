@@ -19,4 +19,5 @@ jnjRef('171689749','jnjmvtv.blogspot.com/2022/01/ice-road','地表最強老爸�
 jnjRef('100','jnjmvtv.blogspot.com/2021/12/blog-post','迴路追殺令');
 jnjRef('106','jnjmvtv.blogspot.com/2023/06/blog-post','玩命鈔劫');
 jnjRef('111','jnjmvtv.blogspot.com/2023/10/23q3','致命清算');
+jnjRef('125','jnjmvtv.blogspot.com/2023/12/blog-post','爆復');
 jnjRefList += '</ul></p></td></tr></table>';

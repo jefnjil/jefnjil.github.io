@@ -3,8 +3,8 @@ jnjRef('2182214','jnjmvtv.blogspot.com/2008/09/3-mummy-tomb-of-dragon-emperor','
 jnjRef('7343874','jnjmvtv.blogspot.com/2013/02/blog-post','惡靈古堡５');
 jnjRef('129263060','jnjmvtv.blogspot.com/2019/09/carnival-row','Carnival Row');
 jnjRef('224445','jnjfoorprint.blogspot.com/2006/04/imax','深海異形');
-jnjRef('102','jnjmvtv.blogspot.com/2021/12/2','血色天劫');
 jnjRef('105','jnjmvtv.blogspot.com/2023/06/yellowjacketsfrom','新風雲際會');
+jnjRef('123','jnjmvtv.blogspot.com/2022/12/11','媽的多重宇宙');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('16762422','jnjmvtv.blogspot.com/2014/08/lucy','盧貝松的露西 Lucy');
 jnjRef('15868637','jnjmvtv.blogspot.com/2014/08/in-flesh','復生 In the Flesh');

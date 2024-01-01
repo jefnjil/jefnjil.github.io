@@ -13,4 +13,5 @@ jnjRef('6815820','jnjmvtv.blogspot.com/2012/09/jack-bauer','反恐英雄傑克�
 jnjRef('13745512','jnjmvtv.blogspot.com/2014/05/the-following','殺手信徒與特殊受害者');
 jnjRef('171689749','jnjmvtv.blogspot.com/2022/01/ice-road','地表最強老爸──疾凍救援');
 jnjRef('178732540','jnjmvtv.blogspot.com/2023/03/blog-post','國家寶藏：歷史揭秘');
+jnjRef('125','jnjmvtv.blogspot.com/2023/12/blog-post','刺客旅館');
 jnjRefList += '</ul></p></td></tr></table>';
