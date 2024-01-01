@@ -21,4 +21,5 @@ jnjRef('175185696','jnjblogbiz.blogspot.com/2022/06/blog-post','疫期便當與�
 jnjRef('166716251','jnjblogbiz.blogspot.com/2021/08/1500','文1500篇紀念兼穴居三月記');
 jnjRef('175753614','jnjblogbiz.blogspot.com/2022/07/blog-post','詭異里程碑 ─ 第一篇點閱逾九萬格文');
 jnjRef('178401113','jnjblogbiz.blogspot.com/2023/02/1600','點閱人氣四千萬暨發文1600篇紀念');
+jnjRef('180208462','jnjhome.blogspot.com/2024/01/blog-post','花博公園閒逛──新年快樂兼聊聊近況');
 jnjRefList += '</ul></p></td></tr></table>';
