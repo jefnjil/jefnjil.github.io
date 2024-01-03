@@ -22,4 +22,5 @@ jnjRef('1418282','jnjmvtv.blogspot.com/2007/12/hannibal-lecter','我看Hannibal 
 jnjRef('101','jnjmvtv.blogspot.com/2021/12/clarice','Clarice');
 jnjRef('101','jnjmvtv.blogspot.com/2021/12/clarice','破綻');
 jnjRef('109','jnjmvtv.blogspot.com/2023/07/rabbit-holepoker-face','Poker Face');
+jnjRef('128','jnjmvtv.blogspot.com/2024/01/blog-post','芽籠');
 jnjRefList += '</ul></p></td></tr></table>';

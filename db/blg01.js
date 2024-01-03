@@ -22,4 +22,5 @@ switch(docID)
 	case "3282878545400608501" :	reg="changhua";	uss="633196";	break;
 	case "3099646376505093401" :	reg="blog1";	break;
 	case "2508628997850609601" :	reg="action";	break;
+	case "5158048854313118501" :	reg="mv3";	break;
 }
