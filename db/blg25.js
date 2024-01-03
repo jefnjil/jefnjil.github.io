@@ -25,4 +25,5 @@ switch(docID)
 	case "1855850620544814625": 	reg="vienna";	uss="514787";	break;
 	case "7498271438832713325": 	reg="hotel_euam";	uss="500618";	break;
 	case "7574536586852641225" :	reg="sf1";	break;
+	case "5565936667538603125" :	reg="western";	break;
 }
