@@ -14,6 +14,7 @@ jnjRef('10522178','jnjtalks.blogspot.com/2014/01/etag','該不該把eTag斷開�
 jnjRef('2301114','jnjblogbiz.blogspot.com/2008/10/impossible-is-nothing_15','Impossible Is Nothing');
 jnjRef('386735','jnjtalks.blogspot.com/2006/08/blog-post_7','以色列你不是受害者了');
 jnjRef('4269598','jnjtalks.blogspot.com/2010/07/blog-post','對蘋果、戴爾購物網站標錯價事件之管見');
+jnjRef('180213768','jnjtalks.blogspot.com/2024/01/blog-post','民調封關談總統大選');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('6274894','jnjtalks.blogspot.com/2012/03/blog-post','由美國釘子戶看文林苑案及都市更新');
 jnjRef('10145807','jnjmvtv.blogspot.com/2013/12/ripper-street','由開膛街（Ripper Street）看多元成家');
