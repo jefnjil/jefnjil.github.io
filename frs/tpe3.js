@@ -20,4 +20,5 @@ jnjRef('112185286','jnjfoorprint.blogspot.com/2018/05/blog-post_31','美堤河�
 jnjRef('131220429','jnjfoorprint.blogspot.com/2019/12/blog-post_12','信義商圈之夜');
 jnjRef('154785603','jnjfoorprint.blogspot.com/2020/12/blog-post_21','逸仙公園史蹟紀念館');
 jnjRef('155057986','jnjfoorprint.blogspot.com/2021/01/blog-post','鐵道部園區 ─ 廳舍');
+jnjRef('180210734','jnjfoorprint.blogspot.com/2024/01/blog-post','信義商圈過耶誕');
 jnjRefList += '</ul></p></td></tr></table>';
