@@ -19,4 +19,5 @@ switch(docID)
 	case "1482204950425172541" :	reg="taoyuan";	uss="635464";	ufp="2022.12.19";	umd="2022.12.6";	uMedia="12749/6800975";	break;
 	case "4172962869292445841" :	reg="sf1a";	udn="2023.3.9";	umd="2023.2.3";	uMedia="12760/6900204";	break;
 	case "7312387882689362941" :	reg="music";	break;
+	case "8490140895803314441" :	reg="history2";	break;
 }
