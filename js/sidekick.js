@@ -205,12 +205,7 @@ function DBJSLoaded()
 
 	if ( badges.length > 0 ) 
 	{
-		var _hd = getJBlogDesc() ;
-		if (_hd!=null) _hd.innerHTML = _hd.innerHTML + '　|||||<a href="#jnjbadges">\u2B73</a>|||||';
-		
-		if (!isUDN) alert(_hd.innerHTML);
-
-		badges ='<p id="jnjbadges" align=center><table border=0>' + badges + '</table></p>';
+		badges ='<p align=center><table border=0>' + badges + '</table></p>';
 
 		var mb=document.getElementById(isUDN ? 'article_show_content' : ('post-body-' + docID));
 		if (mb==null) mb = keyTag;
@@ -254,7 +249,7 @@ function SidekickMain()
 	tweet=myTitle+'\n\n'+tweet.substring(0,60)+'...\n';
 
 	// Tweet
-	var eopHtml = '<div align=center><table><tr>';
+	var eopHtml = '<div id="jnjSocial" align=center><table><tr>';
 	eopHtml += '<td><a href="https://twitter.com/intent/tweet?url=' + encodeURIComponent(jref) + '&text=' + encodeURIComponent(tweet) + '" target="_blank" border=0><img src="' + myweb + 'img/bird_blue_48.png"></a>　</td>';
 	// Plurk
 	eopHtml += '<td><a href="https://www.plurk.com/jefnjil?status=' + encodeURIComponent(plurk) + '&amp=&qualifier=shares" target="_blank" border=0><img src="' + myweb + 'img/plurk.png"></a>　</td>';
@@ -293,6 +288,9 @@ function SidekickMain()
 	}
 	LoadJS("line-js","https://www.line-website.com/social-plugins/js/thirdparty/loader.min.js");	// new version
 	LoadJS("tumblr-js","https://assets.tumblr.com/share-button.js");
+	
+	var _hd = getJBlogDesc() ;
+	if (_hd!=null) _hd.innerHTML = _hd.innerHTML + '　<a href="#jnjSocial">[\u2B73]</a>';
 }
 	
 function onLoadComplete() 
