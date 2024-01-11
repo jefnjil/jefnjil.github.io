@@ -206,7 +206,7 @@ function DBJSLoaded()
 	if ( badges.length > 0 ) 
 	{
 		var _hd = getDescriptionDiv() ;
-		if (_hd!=null) _hd.innerHTML = _hd.innerHTML + '　|||||<a href="#jnjbadges">⭳</a>|||||';
+		if (_hd!=null) _hd.innerHTML = _hd.innerHTML + '　|||||<a href="#jnjbadges">\u2B73</a>|||||';
 
 		badges ='<p id="jnjbadges" align=center><table border=0>' + badges + '</table></p>';
 
