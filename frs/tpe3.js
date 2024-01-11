@@ -5,6 +5,7 @@ jnjRef('65529117','jnjfoorprint.blogspot.com/2016/07/blog-post','植物園荷花
 jnjRef('8504735','jnjfoorprint.blogspot.com/2013/09/2013','水晶貓纜之眼');
 jnjRef('1194143','jnjfoorprint.blogspot.com/2007/08/blog-post','自來水園區');
 jnjRef('177274660','jnjfoorprint.blogspot.com/2022/10/blog-post_12','大院子（水交社/帝大官舍）');
+jnjRef('180221968','jnjfoorprint.blogspot.com/2024/01/blog-post_10','大巨蛋測試賽那天路過');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('44958753','jnjexpo.blogspot.com/2016/01/blog-post_27','華山文創1914');
 jnjRef('104388772','jnjfoorprint.blogspot.com/2017/08/blog-post_5','南門町三二三');

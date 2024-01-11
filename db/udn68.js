@@ -16,4 +16,5 @@ switch(docID)
 	case "887968": 	reg="book";	break;
 	case "180015968" :	reg="japfood1";	woman="123162/7629404";	break;
 	case "180213768" :	reg="comment1";	break;
+	case "180221968" :	reg="tpe2";	break;
 }
