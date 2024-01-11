@@ -206,8 +206,8 @@ function DBJSLoaded()
 		//mb.parentNode.insertBefore(dv, mb);
 		mb.insertBefore(dv, mb.childNodes[0]);
 
-		var hd = document.getElementById("header_description");
-		if (hd!=null) hd.innerHTML = hd.innerHTML + '　|||||<a href="#jnjbadges">⭳</a>|||||';
+		var _hd = document.getElementById("header_description");
+		_hd.innerHTML = _hd.innerHTML + '　|||||<a href="#jnjbadges">⭳</a>|||||';
 	}
 }
 
