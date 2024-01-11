@@ -7,7 +7,7 @@ jnjRef('106578709','jnjmvtv.blogspot.com/2017/08/alien-covenant','異形：聖�
 jnjRef('131391167','jnjmvtv.blogspot.com/2019/12/see','末日光明（See）');
 jnjRef('179231895','jnjmvtv.blogspot.com/2023/05/65','65：恐怖行星');
 jnjRef('110','jnjmvtv.blogspot.com/2023/07/blog-post','窒友梅根');
-jnjRef('130','jnjmvtv.blogspot.com/2023/12/moving-57','君主計畫');
+jnjRef('180221995','jnjmvtv.blogspot.com/2023/12/moving-57','君主計畫');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('164074605','jnjmvtv.blogspot.com/2021/06/blog-post_21','一句話科幻');
 jnjRef('21664423','jnjmvtv.blogspot.com/2015/03/predestination','超時空攔截');

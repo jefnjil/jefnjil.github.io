@@ -5,7 +5,7 @@ jnjRef('129263060','jnjmvtv.blogspot.com/2019/09/carnival-row','Carnival Row');
 jnjRef('131391167','jnjmvtv.blogspot.com/2019/12/see','末日光明（See）');
 jnjRef('110','jnjmvtv.blogspot.com/2023/07/blog-post','鑽油平台危機');
 jnjRef('121','jnjmvtv.blogspot.com/2022/12/2022','惡靈古堡2022影集');
-jnjRef('130','jnjmvtv.blogspot.com/2023/12/moving-57','火之女');
+jnjRef('180221995','jnjmvtv.blogspot.com/2023/12/moving-57','火之女');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('111589957','jnjmvtv.blogspot.com/2018/04/annihilationthe-titan','泰坦（The Titan）');
 jnjRef('67209758','jnjmvtv.blogspot.com/2016/07/monsters-dark-continent','異獸禁區與黑暗大陸');

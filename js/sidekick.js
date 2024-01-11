@@ -290,7 +290,7 @@ function SidekickMain()
 	LoadJS("tumblr-js","https://assets.tumblr.com/share-button.js");
 	
 	var _hd = getJBlogDesc() ;
-	if (_hd!=null) _hd.innerHTML = _hd.innerHTML + '　<a href="#jnjSocial">[\u2B73]</a>';
+	if (_hd!=null) _hd.innerHTML = _hd.innerHTML + '<a href="#jnjSocial">　[\u2B73]</a>';
 }
 	
 function onLoadComplete() 
