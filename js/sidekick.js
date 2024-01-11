@@ -72,7 +72,7 @@ function getArticleBody()
 	return null;
 }
 
-function getDescriptionDiv() 
+function getJBlogDesc() 
 {
 	if ( isUDN )
 		return document.getElementById('header_description');
@@ -205,10 +205,10 @@ function DBJSLoaded()
 
 	if ( badges.length > 0 ) 
 	{
-		var _hd = getDescriptionDiv() ;
+		var _hd = getJBlogDesc() ;
 		if (_hd!=null) _hd.innerHTML = _hd.innerHTML + '　|||||<a href="#jnjbadges">\u2B73</a>|||||';
 
-		badges ='<p id="jnjbadges" align=center><table border=0>' + badges + '</table></p>' + '　|||||<a href="#jnjbadges">\u2B73</a>|||||';
+		badges ='<p id="jnjbadges" align=center><table border=0>' + badges + '</table></p>';
 
 		var mb=document.getElementById(isUDN ? 'article_show_content' : ('post-body-' + docID));
 		if (mb==null) mb = keyTag;
