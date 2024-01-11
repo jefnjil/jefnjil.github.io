@@ -196,7 +196,7 @@ function DBJSLoaded()
 
 	if ( badges.length > 0 ) 
 	{
-		badges ='<p align=center><table border=0>' + badges + '</table></p>';
+		badges ='<p id="jnjbadges" align=center><table border=0>' + badges + '</table></p>';
 
 		var mb=document.getElementById(isUDN ? 'article_show_content' : ('post-body-' + docID));
 		if (mb==null) mb = keyTag;
@@ -205,6 +205,9 @@ function DBJSLoaded()
 		dv.innerHTML= badges;
 		//mb.parentNode.insertBefore(dv, mb);
 		mb.insertBefore(dv, mb.childNodes[0]);
+
+		var hd = document.getElementById("header_description");
+		if (hd!=null) hd.innerHTML = hd.innerHTML + '　<a href="#jnjbadges">⭳</a>';
 	}
 }
 
