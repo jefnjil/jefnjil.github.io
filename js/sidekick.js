@@ -207,6 +207,8 @@ function DBJSLoaded()
 	{
 		var _hd = getJBlogDesc() ;
 		if (_hd!=null) _hd.innerHTML = _hd.innerHTML + '　|||||<a href="#jnjbadges">\u2B73</a>|||||';
+		
+		if (!isUDN) alert(_hd.innerHTML);
 
 		badges ='<p id="jnjbadges" align=center><table border=0>' + badges + '</table></p>';
 
