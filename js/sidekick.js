@@ -207,7 +207,7 @@ function DBJSLoaded()
 		mb.insertBefore(dv, mb.childNodes[0]);
 
 		var hd = document.getElementById("header_description");
-		if (hd!=null) hd.innerHTML = hd.innerHTML + '　<a href="#jnjbadges">⭳</a>';
+		if (hd!=null) hd.innerHTML = hd.innerHTML + '　|||||<a href="#jnjbadges">⭳</a>|||||';
 	}
 }
 
