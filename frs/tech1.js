@@ -13,4 +13,5 @@ jnjRef('28511901','jnjfoorprint.blogspot.com/2015/08/blog-post_23','漫談車拍
 jnjRef('168078590','jnjtech.blogspot.com/2021/09/ok-ktv','現成設備拼湊卡啦OK歡唱環境');
 jnjRef('175416349','jnjtech.blogspot.com/2022/06/gmail','刪除 Gmail 無用附檔以釋出空間的方法');
 jnjRef('175572342','jnjtech.blogspot.com/2022/07/imovie-ken-burns','iMovie 剪輯 ─ Ken Burns，直立影片');
+jnjRef('180250389','jnjtech.blogspot.com/2024/01/c-webview2-webbrowser','C# 以 WebView2 代替 WebBrowser 的簡單筆記');
 jnjRefList += '</ul></p></td></tr></table>';
