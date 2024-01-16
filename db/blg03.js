@@ -21,4 +21,5 @@ switch(docID)
 	case "3864673447809639903": 	reg="sf";	break;
 	case "1434440036226450403": 	reg="sf";	break;
 	case "687477638667288403" :	reg="tpe3";	break;
+	case "5402775989475571203" :	reg="tpe4";	break;
 }

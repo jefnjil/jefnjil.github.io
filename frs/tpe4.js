@@ -1,0 +1,15 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('19512470','jnjfoorprint.blogspot.com/2014/12/blog-post_0','總統府');
+jnjRef('8180005','jnjfoorprint.blogspot.com/2013/08/cks-memorial-hall','中正紀念堂');
+jnjRef('180243881','jnjfoorprint.blogspot.com/2024/01/blog-post_17','西門紅樓');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('9204127','jnjfoorprint.blogspot.com/2013/10/blog-post_25','北市228紀念碑');
+jnjRef('44958753','jnjexpo.blogspot.com/2016/01/blog-post_27','華山文創1914');
+jnjRef('65529117','jnjfoorprint.blogspot.com/2016/07/blog-post','植物園荷花池');
+jnjRef('104388772','jnjfoorprint.blogspot.com/2017/08/blog-post_5','南門町三二三');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('154785603','jnjfoorprint.blogspot.com/2020/12/blog-post_21','逸仙公園史蹟紀念館');
+jnjRef('155057986','jnjfoorprint.blogspot.com/2021/01/blog-post','鐵道部園區 ─ 廳舍');
+jnjRef('19512360','jnjfoorprint.blogspot.com/2014/12/blog-post_6','台北賓館官邸篇');
+jnjRef('19512410','jnjfoorprint.blogspot.com/2014/12/blog-post','台北賓館庭園篇');
+jnjRefList += '</ul></p></td></tr></table>';

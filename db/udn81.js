@@ -8,4 +8,5 @@ switch(docID)
 	case "4892881": 	reg="italy";	uss="304578";	udn="2011.2.25";	break;
 	case "5212281": 	reg="italy";	uss="316089";	udn="2011.5.30";	break;
 	case "622381": 	reg="sf";	ctb="2007.6.20";	break;
+	case "180243881" :	reg="tpe4";	break;
 }
