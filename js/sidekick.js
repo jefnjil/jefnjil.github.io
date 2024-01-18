@@ -57,10 +57,15 @@ function getMetaElement(prop)
     return null;
 }
 
+function htmlEntities(str) 
+{
+    return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
 function getMetaContent(prop) 
 { 
     var ele = getMetaElement(prop);
-    return ( ele == null ) ? "" : ele.getAttribute('content'); 
+    return ( ele == null ) ? "" : htmlEntities(ele.getAttribute('content')); 
 }
 
 function getArticleBody() 
