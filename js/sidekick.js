@@ -65,7 +65,7 @@ function htmlEntities(str)
 function getMetaContent(prop) 
 { 
     var ele = getMetaElement(prop);
-    return ( ele == null ) ? "" : htmlEntities(ele.getAttribute('content')); 
+    return ( ele == null ) ? "" : ele.getAttribute('content'); 
 }
 
 function getArticleBody() 
@@ -280,7 +280,7 @@ function SidekickMain()
 	eopHtml += '<td><a class="tumblr-share-button" href="https://embed.tumblr.com/share" data-color="blue" data-notes="right"';
 	eopHtml += ' data-posttype="'+posttype+'" data-locale="zh_TW"';
 	eopHtml += ' data-content="' + ogimage + '"';
-	eopHtml += ' data-caption="' + caption + '"';
+	eopHtml += ' data-caption="' + htmlEntities(caption) + '"';
 	eopHtml += ' data-tags="' + ttags + '"></a></td>';
 	eopHtml += '</tr></table></div>';
 	// Further Readings
