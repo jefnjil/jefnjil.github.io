@@ -101,6 +101,16 @@ function getMyImage()
 						break;
 					}
 		}
+		var yts = ac.getElementsByTagName("iframe");
+		for(var i=yts.length-1; i>=0; i--)
+		{
+			var	s = yts[ i].src;
+			if ( s!= null && s.indexOf('youtube') > 0 )
+			{
+				picked.push(yts[ i].src);
+				break;
+			}
+		}
 		if ( picked.length > 0 )
 			return picked[ Math.floor(Math.random()*picked.length)];
 	}
