@@ -270,8 +270,10 @@ function SidekickMain()
 	eopHtml += '" data-color="default" data-size="large" data-count="true" data-ver="3" style="display: none;"></div>　</td>';
 	// Tumblr
 	var caption='<b>' + getMetaContent("og:title") + '</b> - '+getMetaContent("og:description") + '(<a href=\'' + jref + '\'>全文</a>)';
+	var posttype=(ogimage.indexOf('youtube') > 0 ) ? 'video' : 'photo';
 	var ttags = getMyTags() + 'tumblr 中文,Jeff & Jill';
-	eopHtml += '<td><a class="tumblr-share-button" href="https://embed.tumblr.com/share" data-color="blue" data-notes="right" data-posttype="photo" data-locale="zh_TW"';
+	eopHtml += '<td><a class="tumblr-share-button" href="https://embed.tumblr.com/share" data-color="blue" data-notes="right"';
+	eopHtml += ' data-posttype="'+posttype+'" data-locale="zh_TW"';
 	eopHtml += ' data-content="' + ogimage + '"';
 	eopHtml += ' data-caption="' + caption + '"';
 	eopHtml += ' data-tags="' + ttags + '"></a></td>';
