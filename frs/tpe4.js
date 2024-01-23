@@ -2,6 +2,7 @@ jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱
 jnjRef('19512470','jnjfoorprint.blogspot.com/2014/12/blog-post_0','總統府');
 jnjRef('8180005','jnjfoorprint.blogspot.com/2013/08/cks-memorial-hall','中正紀念堂');
 jnjRef('180243881','jnjfoorprint.blogspot.com/2024/01/blog-post_17','西門紅樓');
+jnjRef('180281345','jnjfoorprint.blogspot.com/2024/01/blog-post_24','西本願寺');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('9204127','jnjfoorprint.blogspot.com/2013/10/blog-post_25','北市228紀念碑');
 jnjRef('44958753','jnjexpo.blogspot.com/2016/01/blog-post_27','華山文創1914');
