@@ -20,4 +20,5 @@ jnjRef('131810311','jnjtech.blogspot.com/2020/02/blog-post','我的微小貢獻�
 jnjRef('132574603','jnjhome.blogspot.com/2020/04/blog-post','印章、日本、往日滄桑');
 jnjRef('174191585','jnjhome.blogspot.com/2022/05/wordle-1a2b','Wordle 和 1A2B 猜數字遊戲');
 jnjRef('175903837','jnjtalks.blogspot.com/2022/07/blog-post','程式碼虛胖暴肥，保護與破解想當年');
+jnjRef('180302467','jnjhome.blogspot.com/2024/01/blog-post_29','老筆電退休，兼憶兩樁舊案');
 jnjRefList += '</ul></p></td></tr></table>';
