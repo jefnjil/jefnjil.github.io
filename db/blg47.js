@@ -19,4 +19,6 @@ switch(docID)
 	case "735269002687256047" :	reg="crime1";	break;
 	case "8486838408939591047" :	reg="fantacy";	umd="2023.1.17";	uMedia="12760/6899586";	break;
 	case "5295182081998911647" :	reg="sf2";	woman="123164/7445539";	break;
+	case "7019748721442219047" :	reg="news1";	break;
+	case "2256529815812768647" :	reg="news2";	break;
 }

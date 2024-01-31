@@ -1,0 +1,18 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('124312456','jnjtalks.blogspot.com/2019/01/blog-post','異哉「不能讓主人虧本」');
+jnjRef('144','jnjtalks.blogspot.com/2020/10/blog-post','人氣店用餐不想等…使出這招');
+jnjRef('162891532','jnjtalks.blogspot.com/2021/05/app','「社交距離APP」如何消弭資安疑慮？');
+jnjRef('177373760','jnjtalks.blogspot.com/2022/11/blog-post','莫以為梨泰院事故不會發生在台灣');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('147','jnjtalks.blogspot.com/2016/09/blog-post',' 臺灣人是地球所有人類的共同祖先?');
+jnjRef('148','jnjtalks.blogspot.com/2015/12/blog-post','「日據」還是「日治」？');
+jnjRef('142','jnjtalks.blogspot.com/2020/12/blog-post','東岸鐵路是日本人蓋的');
+jnjRef('149','jnjtalks.blogspot.com/2022/01/blog-post','台灣員工忠誠度不如日本');
+jnjRef('140','jnjtalks.blogspot.com/2024/01/blog-post_18','柯文哲否認民調作假');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('141','jnjtalks.blogspot.com/2023/07/blog-post_12','教授要求把活金魚打成汁');
+jnjRef('143','jnjtalks.blogspot.com/2020/12/blog-post_31','振興三倍券和那堆花花券');
+jnjRef('131725887','jnjtalks.blogspot.com/2020/02/blog-post','也來說說「口罩怪政策」');
+jnjRef('145','jnjtalks.blogspot.com/2020/05/blog-post_5','連木瓜都能確診？');
+jnjRef('146','jnjtalks.blogspot.com/2020/04/p4','有關武漢P4實驗室');
+jnjRefList += '</ul></p></td></tr></table>';

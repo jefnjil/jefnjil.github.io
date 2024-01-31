@@ -15,4 +15,5 @@ jnjRef('175460531','jnjmvtv.blogspot.com/2022/07/angelyne','看板女王 ─ 安
 jnjRef('178981276','jnjmvtv.blogspot.com/2023/04/blog-post','「超難搞先生」開「經典老爺車」');
 jnjRef('122','jnjmvtv.blogspot.com/2022/12/tinder','村裡來了個暴走女外科');
 jnjRef('131','jnjmvtv.blogspot.com/2023/12/blog-post_31','入境時分');
+jnjRef('138','jnjhome.blogspot.com/2013/09/blog-post_8','「龍貓」與「神隱少女」');
 jnjRefList += '</ul></p></td></tr></table>';

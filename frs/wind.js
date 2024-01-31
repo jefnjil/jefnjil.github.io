@@ -5,6 +5,7 @@ jnjRef('7359398','jnjhome.blogspot.com/2013/03/blog-post','情熱大陸');
 jnjRef('458690','jnjhome.blogspot.com/2006/09/george-and-mayor-of-taipei-city','台北馬市長');
 jnjRef('1238258','jnjhome.blogspot.com/2007/09/76','林柏格與76支長號');
 jnjRef('5835404','jnjhome.blogspot.com/2011/11/blog-post','北市東區第一名');
+jnjRef('139','jnjhome.blogspot.com/2012/07/blog-post_31',' 管樂團活動');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('317893','jnjhome.blogspot.com/2006/06/blog-post','博愛國小管樂團');
 jnjRef('1989299','jnjhome.blogspot.com/2008/06/blog-post','回首揚帆音樂會');

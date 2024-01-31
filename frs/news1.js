@@ -10,6 +10,7 @@ jnjRef('131725887','jnjtalks.blogspot.com/2020/02/blog-post','也來說說「口
 jnjRef('31066137','jnjtalks.blogspot.com/2015/09/blog-post','日本自助旅行前必讀慘案');
 jnjRef('33152449','jnjtalks.blogspot.com/2015/10/blog-post','市長有必要親自頒獎、合照嗎？');
 jnjRef('86616042','jnjtalks.blogspot.com/2017/01/blog-post','如何從納粹變裝事件得到教訓');
+jnjRef('140','jnjtalks.blogspot.com/2024/01/blog-post_18','柯文哲否認民調作假');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('6274894','jnjtalks.blogspot.com/2012/03/blog-post','由美國釘子戶看文林苑案及都市更新');
 jnjRef('3871319','jnjtalks.blogspot.com/2010/03/blog-post','在外國海關出狀況的一點經驗分享');
@@ -17,4 +18,5 @@ jnjRef('37014176','jnjliterature.blogspot.com/2015/11/blog-post','「不像樣�
 jnjRef('102642578','jnjtalks.blogspot.com/2017/06/blog-post','考生家長看「爾虞我詐的升學制度」');
 jnjRef('162891532','jnjtalks.blogspot.com/2021/05/app','「社交距離APP」如何消弭資安疑慮？');
 jnjRef('177373760','jnjtalks.blogspot.com/2022/11/blog-post','莫以為梨泰院事故不會發生在台灣');
+jnjRef('141','jnjtalks.blogspot.com/2023/07/blog-post_12','教授要求把活金魚打成汁');
 jnjRefList += '</ul></p></td></tr></table>';

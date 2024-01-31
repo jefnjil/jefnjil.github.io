@@ -20,4 +20,5 @@ switch(docID)
 	case "8970026733209755198": 	reg="jr16";	uss="575716";	udn="2017.10.2";	ufp="2017.11.5";	break;
 	case "1701827662529728298": 	reg="sf";	break;
 	case "3896793600015355298" :	reg="mv1";	break;
+	case "845739691892029198" :	reg="music";	break;
 }

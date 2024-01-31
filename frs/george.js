@@ -12,6 +12,7 @@ jnjRef('236721','jnjhome.blogspot.com/2006/04/blog-post_13','兩小遠征大直�
 jnjRef('3144384','jnjhome.blogspot.com/2009/07/george','小學生涯全記錄');
 jnjRef('6616137','jnjhome.blogspot.com/2012/07/george','國中生涯全記錄');
 jnjRef('26396392','jnjhome.blogspot.com/2015/07/george','高中生涯全記錄');
+jnjRef('135','jnjhome.blogspot.com/2020/01/blog-post','五月天跨年演唱會');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('252332','jnjhome.blogspot.com/2006/04/blog-post','父子連心');
 jnjRef('337598','jnjhome.blogspot.com/2006/07/george','看世足賽');
