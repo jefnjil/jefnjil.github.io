@@ -16,4 +16,5 @@ switch(docID)
 	case "910753732087426063": 	reg="tpe1";	uss="565663";	break;
 	case "2554678565789577963": 	reg="lang";	break;
 	case "3044501044752075663" :	reg="feast1";	woman="123162/7411450";	break;
+	case "3930760951540741163" :	reg="tech1";	break;
 }
