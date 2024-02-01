@@ -2,6 +2,7 @@ jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱
 jnjRef('154493306','jnjdining.blogspot.com/2020/12/blog-post','煙波花蓮館');
 jnjRef('178934446','jnjdining.blogspot.com/2023/04/blog-post_17','敦南會館');
 jnjRef('131552608','jnjdining.blogspot.com/2020/01/blog-post_16','真的好海鮮餐廳');
+jnjRef('180308233','jnjdining.blogspot.com/2024/02/blog-post','艾麗酒店');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('155976756','jnjdining.blogspot.com/2021/02/blog-post','彭園會館聚餐');
 jnjRef('180210742','jnjdining.blogspot.com/2024/01/blog-post','彭園會館小尾牙');
