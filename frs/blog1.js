@@ -5,6 +5,7 @@ jnjRef('109044320','jnjblogbiz.blogspot.com/2017/12/blog-post','新情勢以及�
 jnjRef('72185124','jnjblogbiz.blogspot.com/2016/09/show-girls','慶點閱人氣千萬');
 jnjRef('92694924','jnjfoorprint.blogspot.com/2017/04/blog-post','慶點閱人氣兩千萬');
 jnjRef('105330220','jnjfoorprint.blogspot.com/2017/08/blog-post','慶點閱人氣三千萬');
+jnjRef('180315328','jnjblogbiz.blogspot.com/2024/02/blog-post','留言集成編年史');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('179574349','jnjblogbiz.blogspot.com/2023/07/blog-post','再見，Ｕ值媒');
 jnjRef('131433528','jnjdining.blogspot.com/2020/01/blog-post','2020新年回顧展望');

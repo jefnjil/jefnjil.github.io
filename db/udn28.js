@@ -12,4 +12,5 @@ switch(docID)
 	case "177348628" :	reg="crime1";	break;
 	case "178641428" :	reg="museum1";	uss="635469";	umd="2023.5.7";	uMedia="12749/7108877";	break;
 	case "179690628" :	reg="crime1";	woman="123164/7375100";	break;
+	case "180315328" :	reg="blog1";	break;
 }
