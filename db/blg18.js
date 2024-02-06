@@ -20,4 +20,5 @@ switch(docID)
 	case "6247874399909384918" :	reg="mv1";	woman="123164/7394096";	break;
 	case "6495393692946765318" :	reg="family";	break;
 	case "5224530891771747818" :	reg="tpe2";	break;
+	case "6818816634943153518" :	reg="mv4";	break;
 }
