@@ -18,4 +18,5 @@ jnjRef('180135478','jnjliterature.blogspot.com/2018/12/2013-frozenvs-1983-yentl'
 jnjRef('180196446','jnjliterature.blogspot.com/2022/01/father-je-crois-entendre-encore','「父親」中的詠嘆調「我想我仍然聽到 」');
 jnjRef('180113296','jnjliterature.blogspot.com/2023/11/patricia-janeckova','歌壇新星隕落 ─ Patricia Janečková');
 jnjRef('134','jnjhome.blogspot.com/2022/06/blog-post_1','類比時代的音樂圖書館在台灣');
+jnjRef('180316824','jnjliterature.blogspot.com/2020/05/blog-post','Memory，尼貝龍指環，天鵝湖');
 jnjRefList += '</ul></p></td></tr></table>';
