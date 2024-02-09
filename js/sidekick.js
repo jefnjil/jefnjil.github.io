@@ -193,7 +193,7 @@ function DBJSLoaded()
 	}
 
 	// Further Readings
-	if ( reg == null ) reg='mv1';
+	if ( reg == null ) reg='default';
 	{
 		var script = document.createElement('script');
 		script.onload = function () {

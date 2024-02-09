@@ -14,7 +14,7 @@ jnjRef('157632237','jnjfoorprint.blogspot.com/2021/03/blog-post_15','樂器廳�
 jnjRef('158268438','jnjfoorprint.blogspot.com/2021/03/blog-post_29','藝術廳');
 jnjRef('161876680','jnjexpo.blogspot.com/2021/04/blog-post','兵器廳');
 jnjRef('178641428','jnjfoorprint.blogspot.com/2023/03/blog-post','朱銘美術館運動表演區');
-jnjRef('178853486','jnjfoorprint.blogspot.com/2023/04/blog-post','　太極、人間廣場，科學園區');
+jnjRef('178853486','jnjfoorprint.blogspot.com/2023/04/blog-post','太極、人間廣場，科學園區');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('80284810','jnjfoorprint.blogspot.com/2016/12/gw-bush-presidential-library-and-museum','小布希總統博物館');
 jnjRef('80284362','jnjfoorprint.blogspot.com/2016/12/perot-museum-of-nature-and-science','佩羅自然科學博物館');
