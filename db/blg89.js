@@ -21,4 +21,5 @@ switch(docID)
 	case "249896166162908689" :	reg="family";	break;
 	case "4010773544744751589" :	reg="crime1";	woman="123164/7375100";	break;
 	case "8874149434064093689" :	reg="feast2";	break;
+	case "6510403155671602789" :	reg="news2";	break;
 }
