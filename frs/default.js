@@ -30,7 +30,7 @@ jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('179690628','jnjmvtv.blogspot.com/2023/07/blog-post_31','八尺門的辯護人');
 jnjRef('180315328','jnjblogbiz.blogspot.com/2024/02/blog-post','留言集成編年史');
 jnjRef('179992315','jnjfoorprint.blogspot.com/2023/10/blog-post_23','廟口跩跩什錦麵');
-jnjRef('179876951','jnjfoundation.blogspot.com/2023/09/foundation','「基地第二季結語');
+jnjRef('179876951','jnjfoundation.blogspot.com/2023/09/foundation','基地第二季結語');
 jnjRef('180090369','jnjfoorprint.blogspot.com/2023/11/blog-post','新店誠品裕隆城');
 jnjRef('179328958','jnjfoorprint.blogspot.com/2023/06/blog-post_08','阿里山森鐵北門站');
 jnjRef('179369397','jnjfoorprint.blogspot.com/2023/06/blog-post_12','八卦山大佛風景區');
