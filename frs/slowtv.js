@@ -11,4 +11,5 @@ jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('105331433','jnjfoorprint.blogspot.com/2017/09/salzkammergut','奧地利鄉間湖景');
 jnjRef('28511901','jnjfoorprint.blogspot.com/2015/08/blog-post_23','漫談車拍與修片');
 jnjRef('125888582','jnjfoorprint.blogspot.com/2019/04/blog-post_22','南迴線‧高雄至台東');
+jnjRef('180325966','jnjfoorprint.blogspot.com/2020/02/slow-tv','日本中部賞楓');
 jnjRefList += '</ul></p></td></tr></table>';

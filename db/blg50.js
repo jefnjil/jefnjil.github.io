@@ -15,4 +15,5 @@ switch(docID)
 	case "3052135168763962450": 	reg="westfood";	break;
 	case "354579298172403950": 	reg="comment";	break;
 	case "441444353343589950" :	reg="buffet1";	uss="635045";	umd="2022.10.13";	uMedia="12751/6669463";	break;
+	case "9054478596610246150" :	reg="slowtv";	break;
 }
