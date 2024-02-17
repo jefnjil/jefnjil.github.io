@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Articles PseudoUID="263">
+<Articles PseudoUID="270">
   <Article id="100" Title="惡夜性追緝、尬電殺手、生死交戰、明日戰爭、迴路追殺令、綠騎士" bURL="jnjmvtv.blogspot.com/2021/12/blog-post.html" woman="" bID="1761265318904937491" reg="action2" />
   <Article id="101" Title="黑羅蘋、Clarice、勿下錯招、青年神探維蘭德、破綻" bURL="jnjmvtv.blogspot.com/2021/12/clarice.html" woman="" bID="1998837180476543073" reg="crime3" />
   <Article id="102" Title="黑魔女2、太陽召喚、雅信傳、血色天劫、莉西的人生異旅、惡靈偵探" bURL="jnjmvtv.blogspot.com/2021/12/2.html" woman="" bID="4150961033916267771" reg="fantacy1" />
@@ -154,6 +154,13 @@
   <Article id="260" Title="Re: 莫大 什麼台文寫作" bURL="jnjtalks.blogspot.com/2011/05/re" woman="" bID="6204294506482953483" reg="aitaiwan" />
   <Article id="261" Title="回應：蔣為文事件與Long Stay的使用" bURL="jnjtalks.blogspot.com/2011/06/long-stay" woman="" bID="7963113497904484279" reg="aitaiwan" />
   <Article id="262" Title="回應：黃春明事件的分析" bURL="jnjtalks.blogspot.com/2012/04/blog-post_5" woman="" bID="2745343822745163116" reg="aitaiwan" />
+  <Article id="263" Title="回應：他批南美館殭屍展2缺點像詐騙" bURL="jnjtalks.blogspot.com/2022/06/2" woman="" bID="1067011042956687341" reg="fraud" />
+  <Article id="264" Title="詐騙集團易科罰金" bURL="jnjtalks.blogspot.com/2016/05/blog-post" woman="" bID="2083705034142036373" reg="fraud" />
+  <Article id="265" Title="《新聞》關於肯亞被捕台詐欺犯移送中國" bURL="jnjtalks.blogspot.com/2016/04/blog-post_14" woman="" bID="1880579449980572459" reg="fraud" />
+  <Article id="266" Title="國術無用論" bURL="jnjtalks.blogspot.com/2021/07/blog-post_26" woman="" bID="3601837308636047383" reg="fraud" />
+  <Article id="267" Title="《新聞》撒錢解華航罷工 林揆讚何煖軒「救援成功」" bURL="jnjtalks.blogspot.com/2016/06/blog-post_28" woman="" bID="4519783131662876145" reg="fraud" />
+  <Article id="268" Title="回應：ETC的怪異現象：小心被騙辦卡" bURL="jnjtalks.blogspot.com/2012/08/etc" woman="" bID="1642471058999720721" reg="fraud" />
+  <Article id="269" Title="回應：也談網路虛擬》書寫即騙局" bURL="jnjtalks.blogspot.com/2007/11/blog-post" woman="" bID="1893984469314571067" reg="fraud" />
   <Article id="152999" bURL="jnjhome.blogspot.com/2006/01/elaine" Title="Elaine的聖誕老公公" reg="elaine" bID="8374307011099297544" />
   <Article id="153006" bURL="jnjfoorprint.blogspot.com/2006/01/blog-post_17" Title="溫尼格機場狂奔" reg="crm" bID="2327424913350910448" udn="2006.2.6" />
   <Article id="153639" bURL="jnjhome.blogspot.com/2006/01/blog-post_76" Title="水蛇與蛋" reg="elaine" bID="4652883769753736804" />
@@ -489,7 +496,7 @@
   <Article id="2715990" bURL="jnjmvtv.blogspot.com/2009/03/battlestar-galactica" Title="最後塞隆大揭秘（星際大爭霸、Battlestar Galactica）" reg="sf" bID="7769556182486178576" />
   <Article id="2723223" bURL="jnjtalks.blogspot.com/2009/03/blog-post_8" Title="我就是自己的根" reg="mothertongue" bID="7876074695032588255" />
   <Article id="2738166" bURL="jnjhome.blogspot.com/2009/03/blog-post" Title="戰碩鼠" reg="mice" bID="2337481198563946261" />
-  <Article id="2738422" bURL="jnjtalks.blogspot.com/2009/03/blog-post" Title="兩光馬戲團疑似落跑！" reg="news" bID="18864516148426368" />
+  <Article id="2738422" bURL="jnjtalks.blogspot.com/2009/03/blog-post" Title="兩光馬戲團疑似落跑！" reg="fraud" bID="18864516148426368" />
   <Article id="2738431" bURL="jnjliterature.blogspot.com/2009/03/blog-post" Title="閒談推理小說" reg="book" bID="5633919589247999743" udn="2009.4.15" />
   <Article id="2853590" bURL="jnjhome.blogspot.com/2009/04/blog-post" Title="畢業旅行" reg="memory" bID="8322890433287398272" uss="71745" />
   <Article id="2904556" bURL="jnjhome.blogspot.com/2009/05/blog-post_1" Title="新聞：遊九曲洞遭落石砸傷" reg="twe" bID="2218011169996923604" uss="71745" />

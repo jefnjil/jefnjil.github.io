@@ -1,0 +1,14 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('241','jnjtalks.blogspot.com/2022/08/blog-post','顏擇雅：台大與中華有沒詐騙之嫌');
+jnjRef('145','jnjtalks.blogspot.com/2020/05/blog-post_5','連木瓜都能確診？');
+jnjRef('2738422','jnjtalks.blogspot.com/2009/03/blog-post','兩光馬戲團疑似落跑！');
+jnjRef('266','jnjtalks.blogspot.com/2021/07/blog-post_26','國術無用論');
+jnjRef('269','jnjtalks.blogspot.com/2007/11/blog-post','書寫即騙局');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('263','jnjtalks.blogspot.com/2022/06/2','南美館殭屍展2缺點像詐騙');
+jnjRef('264','jnjtalks.blogspot.com/2016/05/blog-post','詐騙集團易科罰金');
+jnjRef('265','jnjtalks.blogspot.com/2016/04/blog-post_14','肯亞被捕台詐欺犯移送中國');
+jnjRef('267','jnjtalks.blogspot.com/2016/06/blog-post_28','撒錢解華航罷工「救援成功」');
+jnjRef('268','jnjtalks.blogspot.com/2012/08/etc','ETC怪象：小心被騙辦卡');
+jnjRef('102642578','jnjtalks.blogspot.com/2017/06/blog-post','爾虞我詐的升學制度');
+jnjRefList += '</ul></p></td></tr></table>';

@@ -8,7 +8,7 @@ switch(docID)
 	case "4753373513056478568": 	reg="museum";	uss="543875";	break;
 	case "5651645528838312068": 	reg="tws";	uss="462836";	udn="2008.2.13";	break;
 	case "6755035204979321968": 	reg="sf";	break;
-	case "18864516148426368": 	reg="news";	break;
+	case "18864516148426368" :	reg="fraud";	break;
 	case "5669452257559215168": 	reg="3C";	break;
 	case "5198194171958983468": 	reg="twe";	uss="255062";	udn="2010.5.26";	break;
 	case "6400463672571140168": 	reg="crm";	uss="19073";	udn="2006.10.11";	break;

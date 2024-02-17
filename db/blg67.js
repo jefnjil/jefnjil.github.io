@@ -10,4 +10,5 @@ switch(docID)
 	case "8324181068085656267": 	reg="las17";	uss="580936";	udn="2017.9.18";	break;
 	case "1745551304759898567" :	reg="mothertongue";	break;
 	case "6627432980946306567" :	reg="mothertongue";	break;
+	case "1893984469314571067" :	reg="fraud";	break;
 }
