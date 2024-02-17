@@ -18,4 +18,5 @@ switch(docID)
 	case "5545077724732818466": 	reg="3C";	uss="552288";	break;
 	case "5966542031234465166" :	reg="fantacy2";	break;
 	case "8519028113487148666" :	reg="book";	break;
+	case "2888887405526464266" :	reg="aitaiwan";	break;
 }

@@ -12,7 +12,7 @@ switch(docID)
 	case "5061925664113317531": 	reg="3C";	uss="494813";	break;
 	case "644381383921120531": 	reg="hokkaido";	uss="239764";	udn="2010.3.24";	break;
 	case "7014983399853720031": 	reg="bali";	uss="271074";	break;
-	case "4361030153718575431": 	reg="lang";	break;
+	case "4361030153718575431" :	reg="aitaiwan";	break;
 	case "1769965303738869331": 	reg="kyushu";	uss="341678";	udn="2011.12.30";	break;
 	case "9100201513330399631": 	reg="sf";	uss="390383";	break;
 	case "5928061093689517531": 	reg="harbin";	uss="395464";	udn="2013.1.4";	break;

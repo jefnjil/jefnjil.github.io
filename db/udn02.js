@@ -7,7 +7,7 @@ switch(docID)
 	case "164402": 	reg="george";	break;
 	case "169002": 	reg="draw";	break;
 	case "26147302": 	reg="hotel_euam";	uss="470752";	break;
-	case "2984902": 	reg="comment";	break;
+	case "2984902" :	reg="aitaiwan";	break;
 	case "3122402": 	reg="twm";	uss="197058";	break;
 	case "3527702": 	reg="sf";	break;
 	case "453902": 	reg="news";	break;

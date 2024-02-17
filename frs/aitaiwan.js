@@ -1,0 +1,17 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('255','jnjtalks.blogspot.com/2017/10/blog-post_9',' 百分牌樓');
+jnjRef('260','jnjtalks.blogspot.com/2011/05/re','什麼台文寫作');
+jnjRef('256','jnjtalks.blogspot.com/2017/03/blog-post','我這樣轉型，行嗎？');
+jnjRef('254','jnjtalks.blogspot.com/2017/10/re','活在謊話中的一群人');
+jnjRef('259','jnjtalks.blogspot.com/2012/05/blog-post_27','樓下愛台灣的人');
+jnjRef('2984902','jnjtalks.blogspot.com/2009/05/blog-post','別再「愛」台灣');
+jnjRef('262','jnjtalks.blogspot.com/2012/04/blog-post_5','黃春明事件的分析');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('251','jnjtalks.blogspot.com/2016/05/blog-post_11','談在地認同與路名改正');
+jnjRef('5271093','jnjtalks.blogspot.com/2011/05/blog-post','由行銷觀點看蔣為文事件');
+jnjRef('261','jnjtalks.blogspot.com/2011/06/long-stay','蔣為文事件與Long Stay的使用');
+jnjRef('252','jnjtalks.blogspot.com/2022/02/blog-post_10','店員不知宋朝學者嘆：去中後遺症');
+jnjRef('253','jnjtalks.blogspot.com/2022/01/blog-post_11','「偽出國」下消逝的文史');
+jnjRef('257','jnjtalks.blogspot.com/2016/03/blog-post_25','「台灣國」貼紙遭拒入境');
+jnjRef('258','jnjtalks.blogspot.com/2016/01/blog-post_19',' 「中國台灣」這頂大帽子');
+jnjRefList += '</ul></p></td></tr></table>';

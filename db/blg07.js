@@ -15,4 +15,5 @@ switch(docID)
 	case "5572696359949803207": 	reg="sf";	break;
 	case "8168879711063886307" :	reg="memory1";	break;
 	case "9199748152896558507" :	reg="lookforjob";	break;
+	case "4825111592458956707" :	reg="aitaiwan";	break;
 }

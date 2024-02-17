@@ -10,7 +10,7 @@ switch(docID)
 	case "317893": 	reg="wind";	break;
 	case "405193": 	reg="israel";	break;
 	case "5212293": 	reg="italy";	uss="316290";	break;
-	case "5271093": 	reg="lang";	break;
+	case "5271093" :	reg="aitaiwan";	break;
 	case "7135593": 	reg="harbin";	uss="395464";	udn="2013.1.4";	break;
 	case "9277693": 	reg="3C";	break;
 	case "177194393" :	reg="westfood1";	uss="635042";	umd="2022.10.4";	uMedia="12751/6658010";	break;

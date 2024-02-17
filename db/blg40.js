@@ -14,4 +14,5 @@ switch(docID)
 	case "8293724603576929140" :	reg="changhua";	uss="637472";	break;
 	case "7294815009262192940" :	reg="copyright";	break;
 	case "8759572869067499440" :	reg="copyright";	break;
+	case "5194816394962617340" :	reg="aitaiwan";	break;
 }

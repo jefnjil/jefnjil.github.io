@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Articles PseudoUID="251">
+<Articles PseudoUID="263">
   <Article id="100" Title="惡夜性追緝、尬電殺手、生死交戰、明日戰爭、迴路追殺令、綠騎士" bURL="jnjmvtv.blogspot.com/2021/12/blog-post.html" woman="" bID="1761265318904937491" reg="action2" />
   <Article id="101" Title="黑羅蘋、Clarice、勿下錯招、青年神探維蘭德、破綻" bURL="jnjmvtv.blogspot.com/2021/12/clarice.html" woman="" bID="1998837180476543073" reg="crime3" />
   <Article id="102" Title="黑魔女2、太陽召喚、雅信傳、血色天劫、莉西的人生異旅、惡靈偵探" bURL="jnjmvtv.blogspot.com/2021/12/2.html" woman="" bID="4150961033916267771" reg="fantacy1" />
@@ -142,6 +142,18 @@
   <Article id="248" Title="回應：台灣學生比較有國際觀??" bURL="jnjtalks.blogspot.com/2008/01/blog-post_1" woman="" bID="6216307083014847747" reg="lookforjob" />
   <Article id="249" Title="多研究如何抓住面試者的心，而不是眼球" bURL="jnjtalks.blogspot.com/2007/10/1" woman="" bID="5758263405117375586" reg="lookforjob" />
   <Article id="250" Title="《訪客簿》致珊瑚蟲" bURL="jnjtalks.blogspot.com/2007/03/blog-post_30" woman="" bID="2273063496083197961" reg="humanrights" />
+  <Article id="251" Title="《回應》台灣不是他方！談在地認同與路名改正" bURL="jnjtalks.blogspot.com/2016/05/blog-post_11" woman="" bID="8242235047444204313" reg="aitaiwan" />
+  <Article id="252" Title="《回應》店員不知宋朝學者嘆：去中後遺症" bURL="jnjtalks.blogspot.com/2022/02/blog-post_10" woman="" bID="4916681727018866939" reg="aitaiwan" />
+  <Article id="253" Title="《新聞》「偽出國」下消逝的文史" bURL="jnjtalks.blogspot.com/2022/01/blog-post_11" woman="" bID="2891863960912191178" reg="aitaiwan" />
+  <Article id="254" Title="《回應》活在謊話中的一群人" bURL="jnjtalks.blogspot.com/2017/10/re" woman="" bID="3433709946149656238" reg="aitaiwan" />
+  <Article id="255" Title="《臉書》 百分牌樓" bURL="jnjtalks.blogspot.com/2017/10/blog-post_9" woman="" bID="4825111592458956707" reg="aitaiwan" />
+  <Article id="256" Title="《回應》我這樣轉型，行嗎？" bURL="jnjtalks.blogspot.com/2017/03/blog-post" woman="" bID="2888887405526464266" reg="aitaiwan" />
+  <Article id="257" Title="《新聞》「台灣國」貼紙遭拒入境" bURL="jnjtalks.blogspot.com/2016/03/blog-post_25" woman="" bID="2399257186146185392" reg="aitaiwan" />
+  <Article id="258" Title=" 「中國台灣」這頂大帽子" bURL="jnjtalks.blogspot.com/2016/01/blog-post_19" woman="" bID="244041133776864527" reg="aitaiwan" />
+  <Article id="259" Title="《回應》樓下愛台灣的人" bURL="jnjtalks.blogspot.com/2012/05/blog-post_27" woman="" bID="5194816394962617340" reg="aitaiwan" />
+  <Article id="260" Title="Re: 莫大 什麼台文寫作" bURL="jnjtalks.blogspot.com/2011/05/re" woman="" bID="6204294506482953483" reg="aitaiwan" />
+  <Article id="261" Title="回應：蔣為文事件與Long Stay的使用" bURL="jnjtalks.blogspot.com/2011/06/long-stay" woman="" bID="7963113497904484279" reg="aitaiwan" />
+  <Article id="262" Title="回應：黃春明事件的分析" bURL="jnjtalks.blogspot.com/2012/04/blog-post_5" woman="" bID="2745343822745163116" reg="aitaiwan" />
   <Article id="152999" bURL="jnjhome.blogspot.com/2006/01/elaine" Title="Elaine的聖誕老公公" reg="elaine" bID="8374307011099297544" />
   <Article id="153006" bURL="jnjfoorprint.blogspot.com/2006/01/blog-post_17" Title="溫尼格機場狂奔" reg="crm" bID="2327424913350910448" udn="2006.2.6" />
   <Article id="153639" bURL="jnjhome.blogspot.com/2006/01/blog-post_76" Title="水蛇與蛋" reg="elaine" bID="4652883769753736804" />
@@ -485,7 +497,7 @@
   <Article id="2940427" bURL="jnjfoorprint.blogspot.com/2009/05/blog-post" Title="娃娃谷信賢瀑布" reg="ntc" bID="2587716805091848590" uss="184437" />
   <Article id="2949366" bURL="jnjtech.blogspot.com/2009/05/blog-post" Title="如何避免令人不快的廣告出現在自己的部落格" reg="tech" bID="6461800998008479776" />
   <Article id="2973506" bURL="jnjtalks.blogspot.com/2009/05/blog-post_22" Title="粉刺之王──粉瘤" reg="health" bID="4679561337716975099" />
-  <Article id="2984902" bURL="jnjtalks.blogspot.com/2009/05/blog-post" Title="別再「愛」台灣" reg="comment" bID="7281897220408874489" />
+  <Article id="2984902" bURL="jnjtalks.blogspot.com/2009/05/blog-post" Title="別再「愛」台灣" reg="aitaiwan" bID="7281897220408874489" />
   <Article id="3024516" bURL="jnjfoorprint.blogspot.com/2009/06/blog-post_8" Title="野柳" reg="ntc" bID="1451759227270231732" uss="191205" />
   <Article id="3036409" bURL="jnjtech.blogspot.com/2009/06/windows-7" Title="裝上Windows 7玩一玩" reg="tech" bID="3201413743679012026" />
   <Article id="3042404" bURL="jnjfoorprint.blogspot.com/2009/06/blog-post" Title="象肩虎背行" reg="tpe" bID="2414893120481269566" uss="194073" udn="2009.6.24" />
@@ -663,7 +675,7 @@
   <Article id="5212366" bURL="jnjfoorprint.blogspot.com/2011/05/palazzo-della-signoria" Title="藝文薈萃領主宮（Palazzo della Signoria）" reg="italy" bID="393444998558706363" uss="316089" />
   <Article id="5214298" bURL="jnjfoorprint.blogspot.com/2011/05/porta-del-paradiso" Title="天堂之門聖若望 (Porta del Paradiso)" reg="italy" bID="2682515741724475554" uss="316089" udn="2011.5.25" />
   <Article id="5253314" bURL="jnjblogbiz.blogspot.com/2011/05/blog-post" Title="「第六屆全球華文部落格大獎」初審入圍" reg="elite100" bID="2708790535291881090" />
-  <Article id="5271093" bURL="jnjtalks.blogspot.com/2011/05/blog-post" Title="由行銷觀點看蔣為文事件" reg="lang" bID="4361030153718575431" />
+  <Article id="5271093" bURL="jnjtalks.blogspot.com/2011/05/blog-post" Title="由行銷觀點看蔣為文事件" reg="aitaiwan" bID="4361030153718575431" />
   <Article id="5283704" bURL="jnjfoorprint.blogspot.com/2011/06/loggia-della-signoria" Title="傭兵涼廊鳴鼙鼓（Loggia della Signoria）" reg="italy" bID="4620446621462372003" uss="316089" />
   <Article id="5307672" bURL="jnjblogbiz.blogspot.com/2011/06/blog-post" Title="華文部落格大獎提前畢業 暨 臉書專頁開張" reg="award" bID="7601082383874050750" />
   <Article id="5362229" bURL="jnjfoorprint.blogspot.com/2011/06/vittoriano" Title="國王躍馬忠烈祠（Vittoriano）" reg="italy" bID="6601436877526328800" uss="316290" />

@@ -10,7 +10,7 @@ switch(docID)
 	case "2504020884738318489": 	reg="memory";	break;
 	case "9216396735730912889": 	reg="tokyo";	uss="159909";	udn="2009.2.4";	break;
 	case "5676718868084178089": 	reg="lhr";	uss="470760";	break;
-	case "7281897220408874489": 	reg="comment";	break;
+	case "7281897220408874489" :	reg="aitaiwan";	break;
 	case "5926420970382811689": 	reg="shinkansen";	uss="473029";	break;
 	case "692084234246991089": 	reg="twe";	uss="255057";	udn="2010.6.4";	break;
 	case "8093783115363998689": 	reg="italy";	uss="316290";	break;
