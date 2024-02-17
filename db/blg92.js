@@ -26,4 +26,5 @@ switch(docID)
 	case "6204219578412457792" :	reg="thriller11";	break;
 	case "6817116163816443592" :	reg="horror";	break;
 	case "9156445337324674892" :	reg="news2";	break;
+	case "910552332993503592" :	reg="covid19";	break;
 }

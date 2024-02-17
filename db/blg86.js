@@ -15,6 +15,6 @@ switch(docID)
 	case "8752980544203940586": 	reg="zjj";	uss="426363";	break;
 	case "7845816965797971186": 	reg="sf";	break;
 	case "3633932510457947886" :	reg="blog1";	break;
-	case "7007251013329253086" :	reg="news2";	break;
+	case "7007251013329253086" :	reg="covid19";	break;
 	case "5758263405117375586" :	reg="lookforjob";	break;
 }

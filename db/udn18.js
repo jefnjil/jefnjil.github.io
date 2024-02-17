@@ -4,7 +4,7 @@ switch(docID)
 	case "150453518": 	reg="tpe1";	break;
 	case "155110418": 	uMedia="12749/5170155";	reg="museum";	uss="625946";	umd="2021.1.14";	ufp="2021.1.12";	break;
 	case "160017918": 	uMedia="12751/5384286";	reg="snack";	umd="2021.4.14";	break;
-	case "163060618": 	reg="comment";	break;
+	case "163060618" :	reg="covid19";	break;
 	case "18614818": 	reg="itf";	break;
 	case "20807518": 	reg="lijiang";	uss="453768";	break;
 	case "21001818": 	reg="twm";	uss="460577";	break;

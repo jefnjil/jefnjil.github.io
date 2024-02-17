@@ -10,7 +10,7 @@ switch(docID)
 	case "7619099148884321535": 	reg="ntc";	uss="611074";	udn="2020.11.11";	break;
 	case "1445080929081708335": 	uMedia="12749/5002918";	reg="hualien";	uss="625972";	umd="2020.11.10";	break;
 	case "4026433280484061135": 	reg="taitung";	uss="626219";	break;
-	case "8488132564080355835": 	reg="comment";	break;
+	case "8488132564080355835" :	reg="covid19";	break;
 	case "8871319683496985135": 	reg="tech";	break;
 	case "2374510686998693335": 	reg="news";	break;
 	case "6932112914548141335": 	reg="tech";	break;
@@ -28,5 +28,5 @@ switch(docID)
 	case "1670418373115178535": 	reg="sf";	break;
 	case "625943763398362835" :	reg="tpe2";	uss="637427";	umd="2023.5.13";	break;
 	case "3214258349728683235" :	reg="george";	break;
-	case "6778709646254930435" :	reg="news2";	break;
+	case "6778709646254930435" :	reg="covid19";	break;
 }

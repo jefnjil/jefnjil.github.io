@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Articles PseudoUID="235">
+<Articles PseudoUID="251">
   <Article id="100" Title="惡夜性追緝、尬電殺手、生死交戰、明日戰爭、迴路追殺令、綠騎士" bURL="jnjmvtv.blogspot.com/2021/12/blog-post.html" woman="" bID="1761265318904937491" reg="action2" />
   <Article id="101" Title="黑羅蘋、Clarice、勿下錯招、青年神探維蘭德、破綻" bURL="jnjmvtv.blogspot.com/2021/12/clarice.html" woman="" bID="1998837180476543073" reg="crime3" />
   <Article id="102" Title="黑魔女2、太陽召喚、雅信傳、血色天劫、莉西的人生異旅、惡靈偵探" bURL="jnjmvtv.blogspot.com/2021/12/2.html" woman="" bID="4150961033916267771" reg="fantacy1" />
@@ -36,8 +36,8 @@
   <Article id="142" Title="臉書留言：關於東岸鐵路是日本人蓋的" bURL="jnjtalks.blogspot.com/2020/12/blog-post" woman="" bID="9156445337324674892" reg="news2" />
   <Article id="143" Title="《臉書》振興三倍券和那堆花花券" bURL="jnjtalks.blogspot.com/2020/12/blog-post_31" woman="" bID="2256529815812768647" reg="news2" />
   <Article id="144" Title="《新聞》人氣店用餐不想等…使出這招可省時免排隊 眾人怒批：沒格" bURL="jnjtalks.blogspot.com/2020/10/blog-post" woman="" bID="3663487631115728761" reg="news2" />
-  <Article id="145" Title="《新聞》連木瓜都能確診？ 坦尚尼亞總統怒轟：篩檢試劑有嚴重瑕疵" bURL="jnjtalks.blogspot.com/2020/05/blog-post_5" woman="" bID="763871989972179931" reg="news2" />
-  <Article id="146" Title="《臉書》有關武漢P4實驗室" bURL="jnjtalks.blogspot.com/2020/04/p4" woman="" bID="1664919893897039443" reg="news2" />
+  <Article id="145" Title="《新聞》連木瓜都能確診？ 坦尚尼亞總統怒轟：篩檢試劑有嚴重瑕疵" bURL="jnjtalks.blogspot.com/2020/05/blog-post_5" woman="" bID="763871989972179931" reg="covid19" />
+  <Article id="146" Title="《臉書》有關武漢P4實驗室" bURL="jnjtalks.blogspot.com/2020/04/p4" woman="" bID="1664919893897039443" reg="covid19" />
   <Article id="147" Title=" 《新聞》甘有影？麻省理工研究：臺灣人是地球所有人類的共同祖先" bURL="jnjtalks.blogspot.com/2016/09/blog-post" woman="" bID="1984650156046454458" reg="news2" />
   <Article id="148" Title="《回應》「日據」還是「日治」？ 日本記者這樣說" bURL="jnjtalks.blogspot.com/2015/12/blog-post" woman="" bID="3457620676413042977" reg="news2" />
   <Article id="149" Title="《回應》台灣員工領完年終秒離職？網批：忠誠度不如日本和韓國" bURL="jnjtalks.blogspot.com/2022/01/blog-post" woman="" bID="8976703659358805559" reg="news2" />
@@ -48,10 +48,10 @@
   <Article id="154" Title="點閱數爆高，訪客卻十分有限" bURL="jnjblogbiz.blogspot.com/2020/06/blog-post" woman="" bID="568989017395659658" reg="blog1" />
   <Article id="155" Title="《回應》2020台片回顧（上）：十部「令人失望」的台灣電影" bURL="jnjliterature.blogspot.com/2021/01/2020" woman="" bID="6818816634943153518" reg="mv4" />
   <Article id="156" Title="「美第奇：佛羅倫薩大師」配樂" bURL="jnjliterature.blogspot.com/2018/12/2018" woman="" bID="8917079191837360873" reg="music1" />
-  <Article id="157" Title="《臉書》口罩亂象、實聯制、疾管家等 App" bURL="jnjtalks.blogspot.com/2021/12/app" woman="" bID="6778709646254930435" reg="news2" />
-  <Article id="158" Title="《臉書》疫情初起第一年" bURL="jnjtalks.blogspot.com/2020/12/blog-post_68" woman="" bID="6510403155671602789" reg="news2" />
-  <Article id="159" Title="《臉書》川普2020" bURL="jnjtalks.blogspot.com/2020/12/blog-post_30" woman="" bID="7007251013329253086" reg="news2" />
-  <Article id="160" Title="《臉書》疫苗亂象" bURL="jnjtalks.blogspot.com/2021/12/blog-post_30" woman="" bID="8742007810610091712" reg="news2" />
+  <Article id="157" Title="《臉書》口罩亂象、實聯制、疾管家等 App" bURL="jnjtalks.blogspot.com/2021/12/app" woman="" bID="6778709646254930435" reg="covid19" />
+  <Article id="158" Title="《臉書》疫情初起第一年" bURL="jnjtalks.blogspot.com/2020/12/blog-post_68" woman="" bID="6510403155671602789" reg="covid19" />
+  <Article id="159" Title="《臉書》川普2020" bURL="jnjtalks.blogspot.com/2020/12/blog-post_30" woman="" bID="7007251013329253086" reg="covid19" />
+  <Article id="160" Title="《臉書》疫苗亂象" bURL="jnjtalks.blogspot.com/2021/12/blog-post_30" woman="" bID="8742007810610091712" reg="covid19" />
   <Article id="161" Title="人必自侮然後人侮之；不管黑格白格，只要能賣就是好格" bURL="jnjblogbiz.blogspot.com/2012/06/blog-post_3" woman="" bID="5165504717387252348" reg="elite100" />
   <Article id="162" Title="百傑初賽檢討，兼談部落格經營" bURL="jnjblogbiz.blogspot.com/2012/06/blog-post_8" woman="" bID="4599677617842187346" reg="elite100" />
   <Article id="163" Title="百傑賽土豆讚" bURL="jnjblogbiz.blogspot.com/2012/05/blog-post_24" woman="" bID="7491354058134503919" reg="elite100" />
@@ -126,6 +126,22 @@
   <Article id="232" Title="關於「國語」的緣起" bURL="jnjtalks.blogspot.com/2007/03/blog-post_24" woman="" bID="2150624779688726097" reg="mothertongue" />
   <Article id="233" Title="《回應》什麼是原罪？～外省人是個過度簡化的籠統概念" bURL="jnjtalks.blogspot.com/2007/03/blog-post_1" woman="" bID="2813644087235606885" reg="ma" />
   <Article id="234" Title="政壇欠缺幽默感，語文豈止是非黑白" bURL="jnjtalks.blogspot.com/2012/05/blog-post_38" woman="" bID="6025622115443973041" reg="abian" />
+  <Article id="235" Title="新聞：開工抓數十件違規！郵包寫「日常用品」卻寄口罩出國" bURL="jnjtalks.blogspot.com/2020/01/blog-post" woman="" bID="5484527695048233211" reg="covid19" />
+  <Article id="236" Title="《臉書》新冠肺炎疫情蔓延楊志良點名四大寇" bURL="jnjtalks.blogspot.com/2020/04/blog-post_15" woman="" bID="4905716404283839756" reg="covid19" />
+  <Article id="237" Title="「隱匿」與無症狀傳播者" bURL="jnjtalks.blogspot.com/2020/04/blog-post_20" woman="" bID="5334211997059418627" reg="covid19" />
+  <Article id="238" Title="《回應》WHO一句話 看彰化採檢爭議" bURL="jnjtalks.blogspot.com/2020/08/who" woman="" bID="910552332993503592" reg="covid19" />
+  <Article id="239" Title="《新聞》女醫曝「社交距離APP」三優點 大讚：絕對比普篩有效" bURL="jnjtalks.blogspot.com/2020/12/app" woman="" bID="1739139695731465822" reg="covid19" />
+  <Article id="240" Title="不曉得有沒有「打不到疫苗險」" bURL="jnjtalks.blogspot.com/2021/07/blog-post" woman="" bID="354579298172403950" reg="covid19" />
+  <Article id="241" Title="《新聞》林智堅被撤銷碩士 顏擇雅：台大與中華有沒詐騙之嫌" bURL="jnjtalks.blogspot.com/2022/08/blog-post" woman="" bID="5089981448636042606" reg="copyright" />
+  <Article id="242" Title="《新聞》公文曝光！林智堅幕僚：論文沒抄襲" bURL="jnjtalks.blogspot.com/2022/07/blog-post_7" woman="" bID="8759572869067499440" reg="copyright" />
+  <Article id="243" Title="新聞：華碩產品疑似抄襲，新創團隊 Call Saver 狀告法院求評理" bURL="jnjtalks.blogspot.com/2015/12/call-saver" woman="" bID="7294815009262192940" reg="copyright" />
+  <Article id="244" Title="《回應》嚴長壽：若初期無薪 也要爭取工作" bURL="jnjtalks.blogspot.com/2012/08/blog-post_30" woman="" bID="5059149740071908361" reg="lookforjob" />
+  <Article id="245" Title="雖然是實情，卻也只是一個面向" bURL="jnjtalks.blogspot.com/2010/11/blog-post" woman="" bID="9199748152896558507" reg="lookforjob" />
+  <Article id="246" Title="回應：人力有價，文字無價" bURL="jnjtalks.blogspot.com/2010/09/blog-post_10" woman="" bID="8611616831160416174" reg="copyright" />
+  <Article id="247" Title="《回應》讀書靠天分 家長醒醒吧" bURL="jnjtalks.blogspot.com/2010/07/blog-post_21" woman="" bID="8371256004218983409" reg="lookforjob" />
+  <Article id="248" Title="回應：台灣學生比較有國際觀??" bURL="jnjtalks.blogspot.com/2008/01/blog-post_1" woman="" bID="6216307083014847747" reg="lookforjob" />
+  <Article id="249" Title="多研究如何抓住面試者的心，而不是眼球" bURL="jnjtalks.blogspot.com/2007/10/1" woman="" bID="5758263405117375586" reg="lookforjob" />
+  <Article id="250" Title="《訪客簿》致珊瑚蟲" bURL="jnjtalks.blogspot.com/2007/03/blog-post_30" woman="" bID="2273063496083197961" reg="humanrights" />
   <Article id="152999" bURL="jnjhome.blogspot.com/2006/01/elaine" Title="Elaine的聖誕老公公" reg="elaine" bID="8374307011099297544" />
   <Article id="153006" bURL="jnjfoorprint.blogspot.com/2006/01/blog-post_17" Title="溫尼格機場狂奔" reg="crm" bID="2327424913350910448" udn="2006.2.6" />
   <Article id="153639" bURL="jnjhome.blogspot.com/2006/01/blog-post_76" Title="水蛇與蛋" reg="elaine" bID="4652883769753736804" />
@@ -1493,7 +1509,7 @@
   <Article id="131624235" bURL="jnjfoorprint.blogspot.com/2020/02/blog-post" Title="湯滝 ─ 由湯湖傾瀉而下的瀑布" uMedia="12774/4513680" reg="nikko" bID="2309333270363284484" uss="621602" umd="2020.4.26" />
   <Article id="131671457" bURL="jnjdining.blogspot.com/2020/02/blog-post" Title="六福客棧金鳳廳飲茶" uMedia="12751/4393425" reg="chnfood" bID="8139909419892836086" uss="619558" umd="2020.3.6" />
   <Article id="131682671" bURL="jnjfoorprint.blogspot.com/2020/02/blog-post_11" Title="奧日光‧戰場原自然研究路" uMedia="12774/4375404" reg="nikko" bID="6053621549632352586" uss="621837" umd="2020.2.29" />
-  <Article id="131725887" bURL="jnjtalks.blogspot.com/2020/02/blog-post" Title="也來說說「口罩怪政策」" reg="news" bID="5476073044851542495" />
+  <Article id="131725887" bURL="jnjtalks.blogspot.com/2020/02/blog-post" Title="也來說說「口罩怪政策」" reg="covid19" bID="5476073044851542495" />
   <Article id="131755504" bURL="jnjfoorprint.blogspot.com/2020/02/blog-post_17" Title="龍頭瀑布 - 奥日光三名瀑" uMedia="12774/4374249" reg="nikko" bID="2509756837327866668" uss="621602" umd="2020.2.27" />
   <Article id="131767028" bURL="jnjexpo.blogspot.com/2020/02/2020" Title="鹽水‧月津港燈節 2020" reg="expo" bID="8662399752522512660" uss="620077" />
   <Article id="131810311" bURL="jnjtech.blogspot.com/2020/02/blog-post" Title="關於我的一點微小貢獻：預覽列印" reg="memory" bID="1270388539804534933" />
@@ -1606,10 +1622,10 @@
   <Article id="161876680" bURL="jnjexpo.blogspot.com/2021/04/blog-post" Title="奇美博物館 ─ 兵器廳" reg="museum" bID="2536801542576759778" uss="543875" />
   <Article id="162289551" bURL="jnjfoorprint.blogspot.com/2021/05/blog-post" Title="三峽行修宮後山步道" reg="ntc" bID="9002902084174600925" umd="2021.5.17" uss="621734" />
   <Article id="162711866" bURL="jnjfoorprint.blogspot.com/2021/05/blog-post_10" Title="瓶蓋工廠台北製造所" uMedia="12749/5448278" reg="tpe1" bID="2916147758992147469" umd="2021.5.11" uss="632725" />
-  <Article id="162891532" bURL="jnjtalks.blogspot.com/2021/05/app" Title="「社交距離APP」如何消弭資安疑慮、保障個資？" reg="news" bID="7989808641476348687" />
-  <Article id="163060618" bURL="jnjhome.blogspot.com/2021/05/blog-post" Title="居家上班第一週記‧南港公園" reg="comment" bID="8488132564080355835" />
+  <Article id="162891532" bURL="jnjtalks.blogspot.com/2021/05/app" Title="「社交距離APP」如何消弭資安疑慮、保障個資？" reg="covid19" bID="7989808641476348687" />
+  <Article id="163060618" bURL="jnjhome.blogspot.com/2021/05/blog-post" Title="居家上班第一週記‧南港公園" reg="covid19" bID="8488132564080355835" />
   <Article id="163222485" bURL="jnjmvtv.blogspot.com/2021/05/dig-ammonite-mare-of-easttown" Title="古寶 (The Dig) 默愛 (Ammonite) 與東城奇案 (Mare of Easttown)" reg="mv1" bID="6092822090938976587" />
-  <Article id="163482551" bURL="jnjtalks.blogspot.com/2021/06/blog-post" Title="居家上班，關於疫苗的幾句牢騷閒話（華山文創）" reg="comment1" bID="8024601579859085302" />
+  <Article id="163482551" bURL="jnjtalks.blogspot.com/2021/06/blog-post" Title="居家上班，關於疫苗的幾句牢騷閒話（華山文創）" reg="covid19" bID="8024601579859085302" />
   <Article id="163662513" bURL="jnjmvtv.blogspot.com/2021/06/promising-young-woman" Title="花漾女子 (Promising Young Woman, 前程似锦的女孩)" reg="thriller1" bID="5782668863451290551" woman="123164/7404408" />
   <Article id="163837036" bURL="jnjmvtv.blogspot.com/2021/06/blog-post" Title="一句話影評：與審判、黑牢有關的幾部片子" reg="mv1" bID="282975066281443473" />
   <Article id="164074605" bURL="jnjmvtv.blogspot.com/2021/06/blog-post_21" Title="一句話科幻：總見末日浩劫......" reg="sf1" bID="6809660125285871110" />

@@ -4,7 +4,7 @@ switch(docID)
 	case "532965237023889287": 	reg="thriller";	break;
 	case "2902182275159429887": 	reg="us";	uss="65325";	break;
 	case "4502416389592739487": 	reg="museum";	uss="543875";	break;
-	case "7989808641476348687": 	reg="news";	break;
+	case "7989808641476348687" :	reg="covid19";	break;
 	case "6092822090938976587": 	reg="mv1";	break;
 	case "1700176370749970087": 	reg="tokyo";	break;
 	case "1306485502551895587": 	reg="macau";	break;

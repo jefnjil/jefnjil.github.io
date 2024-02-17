@@ -8,12 +8,12 @@ jnjRef('44963709','jnjhome.blogspot.com/2016/06/blog-post','第一次美國法�
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('542700','jnjblogbiz.blogspot.com/2006/11/blog-post','美妙音樂的面孔猙獰');
 jnjRef('383672','jnjblogbiz.blogspot.com/2006/08/blog','淺談Blog的著作權問題');
-jnjRef('238','jnjtalks.blogspot.com/2010/09/blog-post_10','人力有價，文字無價');
+jnjRef('246','jnjtalks.blogspot.com/2010/09/blog-post_10','人力有價，文字無價');
 jnjRef('226','jnjtalks.blogspot.com/2008/01/blog-post_15','有些盜版無罪，有些仿冒有理');
 jnjRef('242','jnjtalks.blogspot.com/2022/07/blog-post_7','林智堅幕僚：論文沒抄襲');
-jnjRef('243','jnjtalks.blogspot.com/2022/08/blog-post','顏擇雅：台大與中華有沒詐騙之嫌');
+jnjRef('241','jnjtalks.blogspot.com/2022/08/blog-post','顏擇雅：台大與中華有沒詐騙之嫌');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
-jnjRef('241','jnjtalks.blogspot.com/2015/12/call-saver','華碩產品疑似抄襲');
+jnjRef('243','jnjtalks.blogspot.com/2015/12/call-saver','華碩產品疑似抄襲');
 jnjRef('225','jnjtalks.blogspot.com/2008/02/blog-post','九把刀控訴抄襲事件');
 jnjRef('170','jnjblogbiz.blogspot.com/2008/05/google','「Google的支票好不好拿？」抄文事件');
 jnjRef('224','jnjtalks.blogspot.com/2008/07/youtube','連結YouTube卡通 女童挨告');
