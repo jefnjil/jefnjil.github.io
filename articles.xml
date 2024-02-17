@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Articles PseudoUID="275">
+<Articles PseudoUID="287">
   <Article id="100" Title="惡夜性追緝、尬電殺手、生死交戰、明日戰爭、迴路追殺令、綠騎士" bURL="jnjmvtv.blogspot.com/2021/12/blog-post.html" woman="" bID="1761265318904937491" reg="action2" />
   <Article id="101" Title="黑羅蘋、Clarice、勿下錯招、青年神探維蘭德、破綻" bURL="jnjmvtv.blogspot.com/2021/12/clarice.html" woman="" bID="1998837180476543073" reg="crime3" />
   <Article id="102" Title="黑魔女2、太陽召喚、雅信傳、血色天劫、莉西的人生異旅、惡靈偵探" bURL="jnjmvtv.blogspot.com/2021/12/2.html" woman="" bID="4150961033916267771" reg="fantacy1" />
@@ -38,7 +38,7 @@
   <Article id="144" Title="《新聞》人氣店用餐不想等…使出這招可省時免排隊 眾人怒批：沒格" bURL="jnjtalks.blogspot.com/2020/10/blog-post" woman="" bID="3663487631115728761" reg="news2" />
   <Article id="145" Title="《新聞》連木瓜都能確診？ 坦尚尼亞總統怒轟：篩檢試劑有嚴重瑕疵" bURL="jnjtalks.blogspot.com/2020/05/blog-post_5" woman="" bID="763871989972179931" reg="covid19" />
   <Article id="146" Title="《臉書》有關武漢P4實驗室" bURL="jnjtalks.blogspot.com/2020/04/p4" woman="" bID="1664919893897039443" reg="covid19" />
-  <Article id="147" Title=" 《新聞》甘有影？麻省理工研究：臺灣人是地球所有人類的共同祖先" bURL="jnjtalks.blogspot.com/2016/09/blog-post" woman="" bID="1984650156046454458" reg="news2" />
+  <Article id="147" Title=" 《新聞》甘有影？麻省理工研究：臺灣人是地球所有人類的共同祖先" bURL="jnjtalks.blogspot.com/2016/09/blog-post" woman="" bID="1984650156046454458" reg="science" />
   <Article id="148" Title="《回應》「日據」還是「日治」？ 日本記者這樣說" bURL="jnjtalks.blogspot.com/2015/12/blog-post" woman="" bID="3457620676413042977" reg="news2" />
   <Article id="149" Title="《回應》台灣員工領完年終秒離職？網批：忠誠度不如日本和韓國" bURL="jnjtalks.blogspot.com/2022/01/blog-post" woman="" bID="8976703659358805559" reg="news2" />
   <Article id="150" Title="《臉書》「灣生回家」作者坦承身分造假" bURL="jnjliterature.blogspot.com/2017/01/blog-post_2" woman="" bID="8519028113487148666" reg="book" />
@@ -166,6 +166,18 @@
   <Article id="272" Title="《回應》全台大停電，都是我的錯！" bURL="jnjtalks.blogspot.com/2017/08/blog-post" woman="" bID="1259913737830348909" reg="energy" />
   <Article id="273" Title="《新聞》專家看大停電" bURL="jnjtalks.blogspot.com/2017/08/blog-post_17" woman="" bID="4500753339228365697" reg="energy" />
   <Article id="274" Title="《臉書》815全台大停電" bURL="jnjtalks.blogspot.com/2017/08/815" woman="" bID="3996601040797471506" reg="energy" />
+  <Article id="275" Title="「數字學」是巧合還是註定" bURL="jnjtalks.blogspot.com/2008/05/blog-post_25" woman="" bID="105281679978356638" reg="science" />
+  <Article id="276" Title="回應：食品檢驗制度應改弦易轍" bURL="jnjtalks.blogspot.com/2011/06/blog-post" woman="" bID="4199896829799877838" reg="science" />
+  <Article id="277" Title="《新聞》在智能家電時代，曬一曬還能用的古董電器" bURL="jnjtalks.blogspot.com/2020/06/blog-post" woman="" bID="8588997706476255461" reg="science" />
+  <Article id="278" Title="《回應》超級月亮「引戰」！" bURL="jnjtalks.blogspot.com/2022/07/android" woman="" bID="776844471295654681" reg="science" />
+  <Article id="279" Title="《回應》軍校生感染愛滋為何必須退學？" bURL="jnjtalks.blogspot.com/2016/08/blog-post_79" woman="" bID="4679666911790665024" reg="health" />
+  <Article id="280" Title="《新聞》什麼味道？警犬 「嗅」得出A片藏在哪" bURL="jnjtalks.blogspot.com/2015/12/a" woman="" bID="4165938467175858560" reg="science" />
+  <Article id="281" Title="回應：蛀書蟲與智慧型手機" bURL="jnjtalks.blogspot.com/2010/11/blog-post_7" woman="" bID="6127905392107001671" reg="science" />
+  <Article id="282" Title="回應：台鐵出錯的跑馬燈令人很尷尬「咳嗽請戴乃罩」" bURL="jnjtalks.blogspot.com/2010/09/blog-post_11" woman="" bID="1774490414468577316" reg="science" />
+  <Article id="283" Title="回應：冬天到了（冬至談節氣）" bURL="jnjtalks.blogspot.com/2009/12/blog-post" woman="" bID="759679933781627537" reg="science" />
+  <Article id="284" Title="林芳郁的2.5ppm，使他成了最短命的衛生署長" bURL="jnjtalks.blogspot.com/2008/09/blog-post_26" woman="" bID="6431081337682658268" reg="science" />
+  <Article id="285" Title="前SONY社長大賀典雄訂下CD時間長度" bURL="jnjtalks.blogspot.com/2007/05/blog-post_18" woman="" bID="6688583967067887513" reg="science" />
+  <Article id="286" Title="關於李昌鈺" bURL="jnjtalks.blogspot.com/2007/02/blog-post_3" woman="" bID="2312838004874304614" reg="science" />
   <Article id="152999" bURL="jnjhome.blogspot.com/2006/01/elaine" Title="Elaine的聖誕老公公" reg="elaine" bID="8374307011099297544" />
   <Article id="153006" bURL="jnjfoorprint.blogspot.com/2006/01/blog-post_17" Title="溫尼格機場狂奔" reg="crm" bID="2327424913350910448" udn="2006.2.6" />
   <Article id="153639" bURL="jnjhome.blogspot.com/2006/01/blog-post_76" Title="水蛇與蛋" reg="elaine" bID="4652883769753736804" />
@@ -739,7 +751,7 @@
   <Article id="6220082" bURL="jnjfoorprint.blogspot.com/2012/03/blog-post_15" Title="青洞門曲徑通幽" reg="kyushu" bID="5089596053399864113" uss="346691" udn="2012.3.26" />
   <Article id="6253852" bURL="jnjfoorprint.blogspot.com/2012/03/blog-post_24" Title="天滿宮浮殿搖紅" reg="kyushu" bID="882177328574871944" uss="346695" />
   <Article id="6274894" bURL="jnjtalks.blogspot.com/2012/03/blog-post" Title="由美國釘子戶看文林苑案及都市更新" reg="news" bID="8501658890950686848" udn="2012.3.30" />
-  <Article id="6313033" bURL="jnjtalks.blogspot.com/2012/04/blog-post" Title="從「人類基因樹」到「我們流著不同的血液」" reg="lang" bID="4173926442983865372" />
+  <Article id="6313033" bURL="jnjtalks.blogspot.com/2012/04/blog-post" Title="從「人類基因樹」到「我們流著不同的血液」" reg="science" bID="4173926442983865372" />
   <Article id="6325660" bURL="jnjmvtv.blogspot.com/2012/04/rome-after-spartacus" Title="斯巴達克斯後的羅馬（Rome after Spartacus）" reg="rome" bID="7325966605155695404" />
   <Article id="6361940" bURL="jnjmvtv.blogspot.com/2012/04/titanic-2012" Title="鐵達尼號（Titanic, 2012）" reg="mv" bID="5378657191116104640" />
   <Article id="6395707" bURL="jnjfoorprint.blogspot.com/2012/04/blog-post" Title="北京城門九丈九" reg="bjsh" bID="4101187828210191618" uss="373555" />
@@ -1045,7 +1057,7 @@
   <Article id="21358911" bURL="jnjfoorprint.blogspot.com/2015/03/blog-post_26" Title="印象麗江實境秀" reg="lijiang" bID="8423280106253812546" uss="454294" />
   <Article id="21361513" bURL="jnjmvtv.blogspot.com/2015/03/3the-equalizer-john-wick-taken-3" Title="私刑教育‧捍衛任務‧即刻救援3（The Equalizer, John Wick, Taken 3）" reg="action" bID="8409650191956422359" udn="2015.4.2" />
   <Article id="21664423" bURL="jnjmvtv.blogspot.com/2015/03/predestination" Title="Predestination (超時空攔截/宿命論)" reg="sf" bID="2826865489795564982" udn="2015.4.9" />
-  <Article id="22098475" bURL="jnjtalks.blogspot.com/2015/04/blog-post" Title="「金字塔的建造者，絕不會是奴隸」與我的幾點批註" reg="comment" bID="447966410574126181" />
+  <Article id="22098475" bURL="jnjtalks.blogspot.com/2015/04/blog-post" Title="「金字塔的建造者，絕不會是奴隸」與我的幾點批註" reg="science" bID="447966410574126181" />
   <Article id="22161646" bURL="jnjfoorprint.blogspot.com/2015/04/blog-post_55" Title="滇藏公路 ─ 麗江到中甸香格里拉" reg="lijiang" bID="1527830867064774631" uss="455510" />
   <Article id="22161697" bURL="jnjfoorprint.blogspot.com/2015/04/blog-post_61" Title="藏傳佛教噶丹松贊林寺" reg="lijiang" bID="1457196200344919494" uss="455511" />
   <Article id="22161728" bURL="jnjfoorprint.blogspot.com/2015/04/blog-post_11" Title="普達措國家公園 - 屬都湖" reg="lijiang" bID="4045627670867439189" uss="455512" />
@@ -1067,7 +1079,7 @@
   <Article id="24273536" bURL="jnjfoorprint.blogspot.com/2015/06/blog-post_32" Title="麗江大研古城" reg="lijiang" bID="6416435381856819224" uss="456999" />
   <Article id="24368610" bURL="jnjhome.blogspot.com/2015/06/blog-post" Title="幹嘛懂三角函數或機率？" reg="memory" bID="2504020884738318489" />
   <Article id="25431197" bURL="jnjfoorprint.blogspot.com/2015/07/blog-post" Title="角板山樟腦收納所、生態池" reg="twn" bID="2665965471042715727" uss="466603" udn="2015.7.18" />
-  <Article id="25658391" bURL="jnjtalks.blogspot.com/2015/07/blog-post" Title="什麼叫做「常識」？從陳澄波與「台灣常識」談起" reg="news" bID="6143186833034065163" />
+  <Article id="25658391" bURL="jnjtalks.blogspot.com/2015/07/blog-post" Title="什麼叫做「常識」？從陳澄波與「台灣常識」談起" reg="science" bID="6143186833034065163" />
   <Article id="26147070" bURL="jnjfoorprint.blogspot.com/2015/07/blog-post_18" Title="台北‧曼谷‧倫敦" reg="lhr" bID="7007544845308171358" uss="470753" />
   <Article id="26147302" bURL="jnjfoorprint.blogspot.com/2015/07/melia-white-house" Title="美利亞白宮旅館（Melia White House）" reg="hotel_euam" bID="8425627636786815292" uss="470752" />
   <Article id="26147496" bURL="jnjfoorprint.blogspot.com/2015/07/guildford" Title="滑鐵盧到吉爾福德（Guildford）" reg="lhr" bID="7280483250043073494" uss="470758" />

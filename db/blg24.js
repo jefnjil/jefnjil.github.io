@@ -30,4 +30,5 @@ switch(docID)
 	case "6439890464887893024" :	reg="crime3";	break;
 	case "7960452758714827824" :	reg="memory1";	break;
 	case "6394080433818762724" :	reg="deathpenalty";	break;
+	case "4679666911790665024" :	reg="health";	break;
 }

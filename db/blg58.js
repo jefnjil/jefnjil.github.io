@@ -19,7 +19,7 @@ switch(docID)
 	case "1724669830460082458" :	reg="blog1";	break;
 	case "2591550992750248358" :	reg="news1";	break;
 	case "2845247970430700958" :	reg="sf3";	break;
-	case "1984650156046454458" :	reg="news2";	break;
+	case "1984650156046454458" :	reg="science";	break;
 	case "568989017395659658" :	reg="blog1";	break;
 	case "757167808681069258" :	reg="polemics";	break;
 	case "5132044644395743858" :	reg="deathpenalty";	break;

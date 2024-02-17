@@ -7,10 +7,10 @@ jnjRef('114770075','jnjfoorprint.blogspot.com/2018/09/blog-post','忍野八海')
 jnjRef('116976015','jnjhome.blogspot.com/2018/10/george','正顎日記');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('119113736','jnjfoorprint.blogspot.com/2018/11/blog-post','雪國之宿高半');
-jnjRef('115011695','jnjdining.blogspot.com/2018/09/blog-post','花酒蔵海鮮吧');
 jnjRef('118824946','jnjfoorprint.blogspot.com/2018/10/blog-post_29','湯澤町諏訪神社');
 jnjRef('115622886','jnjfoorprint.blogspot.com/2018/09/blog-post_13','紀州庵文學森林');
 jnjRef('115756416','jnjfoorprint.blogspot.com/2018/09/blog-post_17','明智平，日光街頭');
 jnjRef('2973506','jnjtalks.blogspot.com/2009/05/blog-post_22','粉刺之王──粉瘤');
 jnjRef('23349915','jnjtalks.blogspot.com/2015/05/blog-post','大腸鏡檢查及息肉切除');
+jnjRef('279','jnjtalks.blogspot.com/2016/08/blog-post_79','軍校生感染愛滋為何必須退學？');
 jnjRefList += '</ul></p></td></tr></table>';

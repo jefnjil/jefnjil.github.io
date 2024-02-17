@@ -8,7 +8,7 @@ switch(docID)
 	case "6462594855549609681": 	uMedia="12751/6163727";	reg="japfood1";	umd="2022.3.15";	break;
 	case "6976362832870411581": 	reg="elaine";	break;
 	case "2185971097984223181": 	reg="lijiang";	uss="453704";	udn="2015.9.12";	break;
-	case "447966410574126181": 	reg="comment";	break;
+	case "447966410574126181" :	reg="science";	break;
 	case "9072539814295698181": 	reg="sg";	uss="213314";	udn="2009.10.19";	break;
 	case "3894593191607629581": 	reg="comment";	break;
 	case "5980428258779063481": 	reg="ahsc";	uss="504639";	ufp="2016.5.3";	break;
@@ -19,4 +19,5 @@ switch(docID)
 	case "6055971712231792581": 	reg="jr16";	uss="575951";	break;
 	case "3923569280435983381" :	reg="crime";	break;
 	case "195174658224874481" :	reg="ntc2";	woman="123162/7495151";	break;
+	case "776844471295654681" :	reg="science";	break;
 }

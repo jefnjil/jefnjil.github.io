@@ -9,7 +9,7 @@ switch(docID)
 	case "492792733348829263": 	reg="macau";	uss="444718";	break;
 	case "3703320108989747363": 	uMedia="12751/5353043";	reg="feast";	uss="618690";	umd="2021.3.30";	break;
 	case "102938404269241063": 	reg="sf";	udn="2014.9.2";	break;
-	case "6143186833034065163": 	reg="news";	break;
+	case "6143186833034065163" :	reg="science";	break;
 	case "8644165613231775863": 	reg="sf";	break;
 	case "393444998558706363": 	reg="italy";	uss="316089";	break;
 	case "548267362331569663": 	reg="kyushu";	uss="346676";	udn="2012.3.12";	break;

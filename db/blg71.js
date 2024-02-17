@@ -12,4 +12,5 @@ switch(docID)
 	case "7821017074701711171" :	reg="action";	break;
 	case "398913768282908471" :	reg="nantou";	uss="637471";	break;
 	case "4150961033916267771" :	reg="fantacy1";	break;
+	case "6127905392107001671" :	reg="science";	break;
 }

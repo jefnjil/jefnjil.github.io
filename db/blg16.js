@@ -12,4 +12,5 @@ switch(docID)
 	case "5467708849336162016": 	reg="prague";	break;
 	case "5393669280042451016" :	reg="polemics";	break;
 	case "2745343822745163116" :	reg="aitaiwan";	break;
+	case "1774490414468577316" :	reg="science";	break;
 }
