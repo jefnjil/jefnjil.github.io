@@ -19,4 +19,5 @@ switch(docID)
 	case "7857934770731943806" :	reg="mothertongue";	break;
 	case "4572179841525861806" :	reg="mothertongue";	break;
 	case "5089981448636042606" :	reg="copyright";	break;
+	case "3996601040797471506" :	reg="energy";	break;
 }

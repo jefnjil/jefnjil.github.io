@@ -22,4 +22,5 @@ switch(docID)
 	case "735092813452179709" :	reg="elaine1";	break;
 	case "1473195785955129309" :	reg="abian";	break;
 	case "8371256004218983409" :	reg="lookforjob";	break;
+	case "1259913737830348909" :	reg="energy";	break;
 }

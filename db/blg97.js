@@ -19,4 +19,5 @@ switch(docID)
 	case "186768189164646397": 	reg="tpe1";	uss="423099";	break;
 	case "4476621146147005097" :	reg="snack1";	uss="635038";	break;
 	case "2150624779688726097" :	reg="mothertongue";	break;
+	case "4500753339228365697" :	reg="energy";	break;
 }
