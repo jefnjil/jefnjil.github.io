@@ -9,7 +9,7 @@ switch(docID)
 	case "3058636105487673818": 	reg="lijiang";	uss="454953";	udn="2015.5.6";	break;
 	case "1633675868153918018": 	reg="tech";	break;
 	case "3629601784513674218": 	reg="itf";	uss="481705";	break;
-	case "8383453481976867818": 	reg="award";	break;
+	case "8383453481976867818" :	reg="elite100";	break;
 	case "7813875711105944718": 	reg="crm";	break;
 	case "4041389398400062018": 	reg="comment";	break;
 	case "4463991717140550618": 	reg="tpe";	uss="338628";	break;
@@ -21,4 +21,5 @@ switch(docID)
 	case "6495393692946765318" :	reg="family";	break;
 	case "5224530891771747818" :	reg="tpe2";	break;
 	case "6818816634943153518" :	reg="mv4";	break;
+	case "1083036582294382218" :	reg="elite100";	break;
 }

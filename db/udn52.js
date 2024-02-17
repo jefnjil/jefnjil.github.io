@@ -3,7 +3,7 @@ switch(docID)
 	case "15129652": 	reg="macau";	uss="444721";	break;
 	case "1531852": 	reg="history";	break;
 	case "166281852": 	reg="sf1";	udn="2021.8.13";	break;
-	case "3509852": 	reg="award";	break;
+	case "3509852" :	reg="elite100";	break;
 	case "3978552": 	reg="book";	uss="268527";	udn="2010.8.9";	break;
 	case "4228852": 	reg="wind";	udn="2010.8.12";	break;
 	case "424252": 	reg="crm";	break;

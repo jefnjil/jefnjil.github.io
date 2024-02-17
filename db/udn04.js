@@ -15,7 +15,7 @@ switch(docID)
 	case "3042404": 	reg="tpe";	uss="194073";	udn="2009.6.24";	break;
 	case "33723404": 	reg="buffet";	uss="478776";	break;
 	case "338704": 	reg="hawaii";	uss="18652";	udn="2006.8.8";	break;
-	case "3562504": 	reg="award";	break;
+	case "3562504" :	reg="elite100";	break;
 	case "49395504": 	reg="tomamu";	uss="477046";	udn="2016.3.24";	ufp="2016.4.6";	break;
 	case "5283704": 	reg="italy";	uss="316089";	break;
 	case "5835404": 	reg="wind";	uss="338175";	break;

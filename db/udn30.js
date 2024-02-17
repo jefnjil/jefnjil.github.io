@@ -10,7 +10,7 @@ switch(docID)
 	case "31236230": 	reg="shinkansen";	uss="473037";	ufp="2015.12.28";	break;
 	case "3203230": 	reg="shikoku";	uss="200030";	break;
 	case "466330": 	reg="las";	uss="467898";	break;
-	case "6445130": 	reg="blog";	break;
+	case "6445130" :	reg="elite100";	break;
 	case "692930": 	reg="memory";	break;
 	case "71205030": 	reg="vienna";	uss="514786";	udn="2017.6.23";	break;
 	case "86404830": 	reg="chnfood";	uss="569418";	udn="2017.8.27";	ufp="2017.1.18";	break;

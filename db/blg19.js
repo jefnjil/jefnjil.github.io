@@ -12,4 +12,6 @@ switch(docID)
 	case "7760341438770720619": 	reg="crm";	uss="19073";	udn="98.4.20";	break;
 	case "4002768802607738319": 	reg="thriller";	break;
 	case "8418986177556225119": 	reg="3C";	break;
+	case "7491354058134503919" :	reg="elite100";	break;
+	case "7211424801015598819" :	reg="elite100";	break;
 }

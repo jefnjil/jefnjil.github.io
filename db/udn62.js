@@ -10,7 +10,7 @@ switch(docID)
 	case "3801962": 	reg="hokkaido";	uss="239739";	udn="2010.3.3";	break;
 	case "4625762": 	reg="nagoya";	uss="288593";	udn="2010.11.24";	break;
 	case "5140762": 	reg="italy";	break;
-	case "6558962": 	reg="blog";	break;
+	case "6558962" :	reg="elite100";	break;
 	case "80284362": 	reg="us16";	uss="565067";	break;
 	case "99864962": 	reg="las17";	uss="580937";	udn="2017.12.13";	break;
 	case "180208462" :	reg="blog1";	break;

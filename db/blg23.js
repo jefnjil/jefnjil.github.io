@@ -16,6 +16,6 @@ switch(docID)
 	case "7229552015343406123": 	reg="crm";	uss="19073";	udn="2006.11.10";	break;
 	case "6856791165783353823": 	reg="italy";	uss="305189";	udn="2011.3.2";	break;
 	case "8801872472935247023": 	reg="elaine";	break;
-	case "3285394377126330823": 	reg="blog";	break;
+	case "3285394377126330823" :	reg="elite100";	break;
 	case "6685558273374161623": 	reg="salzburg";	uss="500618";	break;
 }

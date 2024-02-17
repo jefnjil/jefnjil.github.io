@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Articles PseudoUID="161">
+<Articles PseudoUID="169">
   <Article id="100" Title="惡夜性追緝、尬電殺手、生死交戰、明日戰爭、迴路追殺令、綠騎士" bURL="jnjmvtv.blogspot.com/2021/12/blog-post.html" woman="" bID="1761265318904937491" reg="action2" />
   <Article id="101" Title="黑羅蘋、Clarice、勿下錯招、青年神探維蘭德、破綻" bURL="jnjmvtv.blogspot.com/2021/12/clarice.html" woman="" bID="1998837180476543073" reg="crime3" />
   <Article id="102" Title="黑魔女2、太陽召喚、雅信傳、血色天劫、莉西的人生異旅、惡靈偵探" bURL="jnjmvtv.blogspot.com/2021/12/2.html" woman="" bID="4150961033916267771" reg="fantacy1" />
@@ -52,6 +52,14 @@
   <Article id="158" Title="《臉書》疫情初起第一年" bURL="jnjtalks.blogspot.com/2020/12/blog-post_68" woman="" bID="6510403155671602789" reg="news2" />
   <Article id="159" Title="《臉書》川普2020" bURL="jnjtalks.blogspot.com/2020/12/blog-post_30" woman="" bID="7007251013329253086" reg="news2" />
   <Article id="160" Title="《臉書》疫苗亂象" bURL="jnjtalks.blogspot.com/2021/12/blog-post_30" woman="" bID="8742007810610091712" reg="news2" />
+  <Article id="161" Title="人必自侮然後人侮之；不管黑格白格，只要能賣就是好格" bURL="jnjblogbiz.blogspot.com/2012/06/blog-post_3" woman="" bID="5165504717387252348" reg="elite100" />
+  <Article id="162" Title="百傑初賽檢討，兼談部落格經營" bURL="jnjblogbiz.blogspot.com/2012/06/blog-post_8" woman="" bID="4599677617842187346" reg="elite100" />
+  <Article id="163" Title="百傑賽土豆讚" bURL="jnjblogbiz.blogspot.com/2012/05/blog-post_24" woman="" bID="7491354058134503919" reg="elite100" />
+  <Article id="164" Title="百傑賽拉票文" bURL="jnjblogbiz.blogspot.com/2012/05/blog-post_8" woman="" bID="1083036582294382218" reg="elite100" />
+  <Article id="165" Title="可惡的部落客百傑賽（臉書日誌）" bURL="jnjblogbiz.blogspot.com/2012/04/blog-post" woman="" bID="7211424801015598819" reg="elite100" />
+  <Article id="166" Title="回應：比賽，難以突顯部落格的價值！" bURL="jnjblogbiz.blogspot.com/2009/12/blog-post_29" woman="" bID="5664154842257845593" reg="elite100" />
+  <Article id="167" Title="部落格大獎的囉哩囉嗦" bURL="jnjblogbiz.blogspot.com/2008/11/blog-post_9" woman="" bID="7265797940387018569" reg="elite100" />
+  <Article id="168" Title="回應：冠蓋滿城邦，浪子獨憔悴 " bURL="jnjblogbiz.blogspot.com/2008/10/blog-post" woman="" bID="2884154206823484331" reg="elite100" />
   <Article id="152999" bURL="jnjhome.blogspot.com/2006/01/elaine" Title="Elaine的聖誕老公公" reg="elaine" bID="8374307011099297544" />
   <Article id="153006" bURL="jnjfoorprint.blogspot.com/2006/01/blog-post_17" Title="溫尼格機場狂奔" reg="crm" bID="2327424913350910448" udn="2006.2.6" />
   <Article id="153639" bURL="jnjhome.blogspot.com/2006/01/blog-post_76" Title="水蛇與蛋" reg="elaine" bID="4652883769753736804" />
@@ -354,14 +362,14 @@
   <Article id="2186171" bURL="jnjtech.blogspot.com/2008/09/googlechrome" Title="Google的瀏覽器，Chrome" reg="tech" bID="8185316617993664527" />
   <Article id="2241898" bURL="jnjtalks.blogspot.com/2008/09/blog-post" Title="治牙蟲" reg="health" bID="8292635568717013522" />
   <Article id="2241907" bURL="jnjhome.blogspot.com/2008/09/blog-post" Title="風雨中秋坐困田寮" reg="memory" bID="7105622726500243379" />
-  <Article id="2260925" bURL="jnjblogbiz.blogspot.com/2008/09/blog-post" Title="「第四屆全球華文部落格大獎」初審入圍" reg="blog" bID="4264488936370057964" />
+  <Article id="2260925" bURL="jnjblogbiz.blogspot.com/2008/09/blog-post" Title="「第四屆全球華文部落格大獎」初審入圍" reg="elite100" bID="4264488936370057964" />
   <Article id="2298189" bURL="jnjtech.blogspot.com/2008/10/yahoo" Title="Yahoo奇摩信箱遭匪類入侵" reg="tech" bID="1156666936109195842" />
   <Article id="2301114" bURL="jnjblogbiz.blogspot.com/2008/10/impossible-is-nothing_15" Title="Impossible Is Nothing - 全球華文部落格大獎決選入圍" reg="award" bID="747388870988873664" />
   <Article id="2318934" bURL="jnjtech.blogspot.com/2008/10/adsense-for-feeds" Title="歡迎訂閱我的部落格 － AdSense for Feeds大放送" reg="tech" bID="1063476207195184919" />
   <Article id="2321751" bURL="jnjtalks.blogspot.com/2008/10/blog-post_23" Title="為死神落淚" reg="abian" bID="1899985821258664032" />
   <Article id="2321769" bURL="jnjtalks.blogspot.com/2008/10/blog-post" Title="民主退步，俗辣向前行" reg="news" bID="8974390930285840051" />
   <Article id="2351634" bURL="jnjhome.blogspot.com/2008/11/blog-post_3" Title="成功嶺二三事" reg="memory" bID="7215502071052831116" />
-  <Article id="2359137" bURL="jnjblogbiz.blogspot.com/2008/11/blog-post" Title="部落格大獎評選標準何在" reg="award" bID="763317083587743656" />
+  <Article id="2359137" bURL="jnjblogbiz.blogspot.com/2008/11/blog-post" Title="部落格大獎評選標準何在" reg="elite100" bID="763317083587743656" />
   <Article id="2399450" bURL="jnjliterature.blogspot.com/2008/11/pillars-of-earth" Title="聖殿春秋 The Pillars of the Earth" reg="book" bID="972449988198905173" />
   <Article id="2417367" bURL="jnjhome.blogspot.com/2008/11/blog-post" Title="迷離幻境" reg="crm" bID="910900299164002492" uss="19073" />
   <Article id="2452191" bURL="jnjmvtv.blogspot.com/2008/12/ii-messiah-ii" Title="彌賽亞 II (Messiah II, 台譯：神探萊德)" reg="crime" bID="4912394783867553866" />
@@ -435,7 +443,7 @@
   <Article id="3537543" bURL="jnjtech.blogspot.com/2009/11/chrome-os" Title="Chrome OS初體驗" reg="tech" bID="5332009606196824803" />
   <Article id="3537625" bURL="jnjfoorprint.blogspot.com/2009/11/blog-post" Title="墾丁夏都．國境之南" reg="tws" bID="402935889800862188" uss="221715" ufp="2009.12.2" udn="2009.12.2" />
   <Article id="3537627" bURL="jnjfoorprint.blogspot.com/2009/11/blog-post_27" Title="海生館世界水域" reg="tws" bID="5357666641443733108" uss="221716" udn="2009.12.9" />
-  <Article id="3562504" bURL="jnjblogbiz.blogspot.com/2009/12/blog-post" Title="落選聲明" reg="award" bID="8383453481976867818" />
+  <Article id="3562504" bURL="jnjblogbiz.blogspot.com/2009/12/blog-post" Title="落選聲明" reg="elite100" bID="8383453481976867818" />
   <Article id="3613011" bURL="jnjmvtv.blogspot.com/2009/12/blog-post" Title="西部槍神附體．惡棍特工復仇" reg="mv" bID="6627972675743040128" />
   <Article id="3625216" bURL="jnjtech.blogspot.com/2009/12/dv" Title="DV中風記" reg="3C" bID="5669452257559215168" />
   <Article id="3636741" bURL="jnjfoorprint.blogspot.com/2009/12/vs" Title="企鵝寶貝──新加坡裕廊鳥園 vs. 屏東海生館" reg="zoo" bID="3509680061056205219" udn="2010.1.4" />
@@ -572,7 +580,7 @@
   <Article id="5212334" bURL="jnjfoorprint.blogspot.com/2011/05/casa-di-dante" Title="但丁故居譜神曲 (Casa di Dante)" reg="italy" bID="5463653313957584138" uss="316089" udn="2011.6.3" />
   <Article id="5212366" bURL="jnjfoorprint.blogspot.com/2011/05/palazzo-della-signoria" Title="藝文薈萃領主宮（Palazzo della Signoria）" reg="italy" bID="393444998558706363" uss="316089" />
   <Article id="5214298" bURL="jnjfoorprint.blogspot.com/2011/05/porta-del-paradiso" Title="天堂之門聖若望 (Porta del Paradiso)" reg="italy" bID="2682515741724475554" uss="316089" udn="2011.5.25" />
-  <Article id="5253314" bURL="jnjblogbiz.blogspot.com/2011/05/blog-post" Title="「第六屆全球華文部落格大獎」初審入圍" reg="award" bID="2708790535291881090" />
+  <Article id="5253314" bURL="jnjblogbiz.blogspot.com/2011/05/blog-post" Title="「第六屆全球華文部落格大獎」初審入圍" reg="elite100" bID="2708790535291881090" />
   <Article id="5271093" bURL="jnjtalks.blogspot.com/2011/05/blog-post" Title="由行銷觀點看蔣為文事件" reg="lang" bID="4361030153718575431" />
   <Article id="5283704" bURL="jnjfoorprint.blogspot.com/2011/06/loggia-della-signoria" Title="傭兵涼廊鳴鼙鼓（Loggia della Signoria）" reg="italy" bID="4620446621462372003" uss="316089" />
   <Article id="5307672" bURL="jnjblogbiz.blogspot.com/2011/06/blog-post" Title="華文部落格大獎提前畢業 暨 臉書專頁開張" reg="award" bID="7601082383874050750" />
@@ -632,7 +640,7 @@
   <Article id="6395716" bURL="jnjmvtv.blogspot.com/2012/04/rome-season-1" Title="凱撒的羅馬（Rome, Season 1）" reg="rome" bID="5232410511262456361" />
   <Article id="6408038" bURL="jnjfoorprint.blogspot.com/2012/05/blog-post_1" Title="侯硐群貓懶洋洋" reg="ntc" bID="7737106667390488476" uss="374339" udn="2012.5.2" />
   <Article id="6421809" bURL="jnjfoorprint.blogspot.com/2012/05/blog-post_5" Title="從居庸關到煤山" reg="bjsh" bID="3228536437716174250" uss="375636" />
-  <Article id="6445130" bURL="jnjblogbiz.blogspot.com/2012/05/blog-post_11" Title="「部落客百傑」統譙篇 ─ 這裡不談旅遊、住宿、交通資訊" reg="blog" bID="624343429874897875" />
+  <Article id="6445130" bURL="jnjblogbiz.blogspot.com/2012/05/blog-post_11" Title="「部落客百傑」統譙篇 ─ 這裡不談旅遊、住宿、交通資訊" reg="elite100" bID="624343429874897875" />
   <Article id="6455622" bURL="jnjfoorprint.blogspot.com/2012/05/blog-post_14" Title="順承郡王府" reg="bjsh" bID="4277866481470935566" uss="375924" />
   <Article id="6455626" bURL="jnjfoorprint.blogspot.com/2012/05/blog-post_32" Title="北京萬達鉑爾曼飯店" reg="bjsh" bID="5578340622766639473" uss="375925" />
   <Article id="6479807" bURL="jnjfoorprint.blogspot.com/2012/05/blog-post_22" Title="北京傳統美食 ─ 全聚德、東來順" reg="bjsh" bID="5473565215086578569" uss="376773" />
@@ -643,13 +651,13 @@
   <Article id="6507697" bURL="jnjmvtv.blogspot.com/2012/06/hit-miss" Title="小姐與殺手（Hit &amp; Miss）" reg="mv" bID="799042946843868111" udn="2012.6.7" />
   <Article id="6512983" bURL="jnjfoorprint.blogspot.com/2012/06/blog-post_3" Title="北京夜遊 ─ 王府井、三里屯、世貿天階" reg="bjsh" bID="6045743627813219283" uss="377939" />
   <Article id="6514255" bURL="jnjfoorprint.blogspot.com/2012/06/blog-post_27" Title="天安門廣場週邊" reg="bjsh" bID="5115157075755330212" uss="377967" />
-  <Article id="6536614" bURL="jnjblogbiz.blogspot.com/2012/06/blog-post_11" Title="業餘、馬虎的第五屆部落客百傑賽" reg="blog" bID="2312685917795905321" />
-  <Article id="6537451" bURL="jnjblogbiz.blogspot.com/2012/06/blog-post_34" Title="細說對百傑賽中「統讚」的看法，兼談系統應如何把關" reg="blog" bID="3622649803213205598" />
+  <Article id="6536614" bURL="jnjblogbiz.blogspot.com/2012/06/blog-post_11" Title="業餘、馬虎的第五屆部落客百傑賽" reg="elite100" bID="2312685917795905321" />
+  <Article id="6537451" bURL="jnjblogbiz.blogspot.com/2012/06/blog-post_34" Title="細說對百傑賽中「統讚」的看法，兼談系統應如何把關" reg="elite100" bID="3622649803213205598" />
   <Article id="6543191" bURL="jnjmvtv.blogspot.com/2012/06/hatfields-and-mccoys" Title="血仇 Hatfields and McCoys" reg="history" bID="859865665466170654" />
   <Article id="6545883" bURL="jnjfoorprint.blogspot.com/2012/06/blog-post_14" Title="明十三陵 ─ 定陵博物館" reg="bjsh" bID="5135854434197692349" uss="379030" udn="2012.6.15" />
   <Article id="6556723" bURL="jnjblogbiz.blogspot.com/2012/06/uudn" Title="《U格優選決賽文》在UDN的兩千多個日子" reg="blog" bID="465724384813269200" />
   <Article id="6558953" bURL="jnjfoorprint.blogspot.com/2012/06/blog-post_19" Title="恭王府 ─ 和珅的家" reg="bjsh" bID="6102893444222393417" uss="379537" />
-  <Article id="6558962" bURL="jnjblogbiz.blogspot.com/2012/06/blog-post" Title="對部落客百傑賽所謂「專業力」的看法" reg="blog" bID="3285394377126330823" />
+  <Article id="6558962" bURL="jnjblogbiz.blogspot.com/2012/06/blog-post" Title="對部落客百傑賽所謂「專業力」的看法" reg="elite100" bID="3285394377126330823" />
   <Article id="6562031" bURL="jnjfoorprint.blogspot.com/2012/06/blog-post_20" Title="恭王府 ─ 劉姥姥進後花園" reg="bjsh" bID="6966985467421896609" uss="379537" />
   <Article id="6571916" bURL="jnjfoorprint.blogspot.com/2012/06/blog-post_25" Title="頤和園 ─ 文昌閣到樂壽堂" reg="bjsh" bID="9138136612478573175" uss="380026" />
   <Article id="6582732" bURL="jnjfoorprint.blogspot.com/2012/06/blog-post" Title="頤和園 ─ 排雲門到仁壽殿" reg="bjsh" bID="7660381574951534381" uss="380026" />

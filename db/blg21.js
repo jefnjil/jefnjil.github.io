@@ -11,7 +11,7 @@ switch(docID)
 	case "2627720377446229221": 	reg="crime";	break;
 	case "1660918093679233321": 	reg="westfood";	uss="494813";	break;
 	case "4711921971229136821": 	reg="tomamu";	uss="477046";	udn="2016.4.1";	ufp="2016.4.11";	break;
-	case "2312685917795905321": 	reg="blog";	break;
+	case "2312685917795905321" :	reg="elite100";	break;
 	case "8436822664678901621": 	reg="zjj";	uss="426219";	break;
 	case "1475763734070495521": 	reg="sf";	break;
 	case "7466379134471702521" :	reg="snack1";	uss="635033";	break;
