@@ -3,7 +3,7 @@ switch(docID)
 	case "6203283056874549670": 	reg="tohoku";	uss="431807";	break;
 	case "5618873596105598570": 	uMedia="12749/5081106";	reg="taitung";	uss="626212";	umd="2020.12.10";	break;
 	case "6827932003832260270": 	reg="sf";	break;
-	case "6248743847734353970": 	reg="award";	break;
+	case "6248743847734353970" :	reg="elite100";	break;
 	case "928159896468055370": 	reg="history";	break;
 	case "8488911467322224970": 	reg="mv";	break;
 	case "7472905331066480670": 	reg="expo";	uss="496630";	break;
