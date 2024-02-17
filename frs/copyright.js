@@ -9,4 +9,6 @@ jnjRef('383672','jnjblogbiz.blogspot.com/2006/08/blog','淺談Blog的著作權�
 jnjRef('542700','jnjblogbiz.blogspot.com/2006/11/blog-post','美妙音樂的面孔猙獰');
 jnjRef('4392672','jnjblogbiz.blogspot.com/2010/09/youtube','著作權的界限──YouTube背景音樂侵權');
 jnjRef('2949366','jnjtech.blogspot.com/2009/05/blog-post','如何避免令人不快的廣告出現在自己的部落格');
+jnjRef('169','jnjblogbiz.blogspot.com/2006/08/blog-post','「是否推薦轉貼」vs.「轉貼是否抄襲」');
+jnjRef('170','jnjblogbiz.blogspot.com/2008/05/google','「Google的支票好不好拿？」抄文事件');
 jnjRefList += '</ul></p></td></tr></table>';

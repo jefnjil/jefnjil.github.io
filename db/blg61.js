@@ -14,4 +14,5 @@ switch(docID)
 	case "4942276757173695161": 	reg="twm";	uss="418586";	udn="2015.4.4";	break;
 	case "1954876139614012961" :	reg="mv2";	break;
 	case "3663487631115728761" :	reg="news2";	break;
+	case "1628966807691754561" :	reg="copyright";	break;
 }

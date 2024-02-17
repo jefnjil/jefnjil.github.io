@@ -8,7 +8,7 @@ switch(docID)
 	case "167714": 	reg="101";	break;
 	case "1912014": 	reg="news";	udn="2008.5.30";	break;
 	case "2182214": 	reg="sf";	break;
-	case "2301114": 	reg="award";	break;
+	case "2301114" :	reg="elite100";	break;
 	case "233514": 	reg="uk";	uss="450554";	break;
 	case "3055814": 	reg="tech";	break;
 	case "3642214": 	reg="101";	break;

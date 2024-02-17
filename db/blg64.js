@@ -7,7 +7,7 @@ switch(docID)
 	case "6253193307991578464": 	reg="tpe2";	uss="451277";	break;
 	case "6178258370453282164": 	reg="draw";	break;
 	case "4264488936370057964" :	reg="elite100";	break;
-	case "747388870988873664": 	reg="award";	break;
+	case "747388870988873664" :	reg="elite100";	break;
 	case "4766978975195292564": 	reg="westfood";	uss="467183";	break;
 	case "7933094476211511664": 	reg="crm";	uss="19073";	udn="2006.10.16";	break;
 	case "2407912308466807164": 	reg="crm";	break;

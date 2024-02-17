@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Articles PseudoUID="169">
+<Articles PseudoUID="171">
   <Article id="100" Title="惡夜性追緝、尬電殺手、生死交戰、明日戰爭、迴路追殺令、綠騎士" bURL="jnjmvtv.blogspot.com/2021/12/blog-post.html" woman="" bID="1761265318904937491" reg="action2" />
   <Article id="101" Title="黑羅蘋、Clarice、勿下錯招、青年神探維蘭德、破綻" bURL="jnjmvtv.blogspot.com/2021/12/clarice.html" woman="" bID="1998837180476543073" reg="crime3" />
   <Article id="102" Title="黑魔女2、太陽召喚、雅信傳、血色天劫、莉西的人生異旅、惡靈偵探" bURL="jnjmvtv.blogspot.com/2021/12/2.html" woman="" bID="4150961033916267771" reg="fantacy1" />
@@ -60,6 +60,8 @@
   <Article id="166" Title="回應：比賽，難以突顯部落格的價值！" bURL="jnjblogbiz.blogspot.com/2009/12/blog-post_29" woman="" bID="5664154842257845593" reg="elite100" />
   <Article id="167" Title="部落格大獎的囉哩囉嗦" bURL="jnjblogbiz.blogspot.com/2008/11/blog-post_9" woman="" bID="7265797940387018569" reg="elite100" />
   <Article id="168" Title="回應：冠蓋滿城邦，浪子獨憔悴 " bURL="jnjblogbiz.blogspot.com/2008/10/blog-post" woman="" bID="2884154206823484331" reg="elite100" />
+  <Article id="169" Title="「是否推薦轉貼」vs.「轉貼是否抄襲」" bURL="jnjblogbiz.blogspot.com/2006/08/blog-post" woman="" bID="1628966807691754561" reg="copyright" />
+  <Article id="170" Title="「Google的支票好不好拿？」抄文事件" bURL="jnjblogbiz.blogspot.com/2008/05/google" woman="" bID="7858766102720043423" reg="copyright" />
   <Article id="152999" bURL="jnjhome.blogspot.com/2006/01/elaine" Title="Elaine的聖誕老公公" reg="elaine" bID="8374307011099297544" />
   <Article id="153006" bURL="jnjfoorprint.blogspot.com/2006/01/blog-post_17" Title="溫尼格機場狂奔" reg="crm" bID="2327424913350910448" udn="2006.2.6" />
   <Article id="153639" bURL="jnjhome.blogspot.com/2006/01/blog-post_76" Title="水蛇與蛋" reg="elaine" bID="4652883769753736804" />
@@ -364,7 +366,7 @@
   <Article id="2241907" bURL="jnjhome.blogspot.com/2008/09/blog-post" Title="風雨中秋坐困田寮" reg="memory" bID="7105622726500243379" />
   <Article id="2260925" bURL="jnjblogbiz.blogspot.com/2008/09/blog-post" Title="「第四屆全球華文部落格大獎」初審入圍" reg="elite100" bID="4264488936370057964" />
   <Article id="2298189" bURL="jnjtech.blogspot.com/2008/10/yahoo" Title="Yahoo奇摩信箱遭匪類入侵" reg="tech" bID="1156666936109195842" />
-  <Article id="2301114" bURL="jnjblogbiz.blogspot.com/2008/10/impossible-is-nothing_15" Title="Impossible Is Nothing - 全球華文部落格大獎決選入圍" reg="award" bID="747388870988873664" />
+  <Article id="2301114" bURL="jnjblogbiz.blogspot.com/2008/10/impossible-is-nothing_15" Title="Impossible Is Nothing - 全球華文部落格大獎決選入圍" reg="elite100" bID="747388870988873664" />
   <Article id="2318934" bURL="jnjtech.blogspot.com/2008/10/adsense-for-feeds" Title="歡迎訂閱我的部落格 － AdSense for Feeds大放送" reg="tech" bID="1063476207195184919" />
   <Article id="2321751" bURL="jnjtalks.blogspot.com/2008/10/blog-post_23" Title="為死神落淚" reg="abian" bID="1899985821258664032" />
   <Article id="2321769" bURL="jnjtalks.blogspot.com/2008/10/blog-post" Title="民主退步，俗辣向前行" reg="news" bID="8974390930285840051" />
