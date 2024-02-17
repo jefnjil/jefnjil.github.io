@@ -19,4 +19,5 @@ switch(docID)
 	case "4763632693548261560": 	reg="zjj";	uss="426382";	break;
 	case "7451062928914831460" :	reg="ntc1";	uss="633200";	umd="2022.5.26";	uMedia="12749/6319413";	break;
 	case "483477214692341560" :	reg="japfood1";	woman="123162/7629404";	break;
+	case "2488055066263430360" :	reg="campus";	break;
 }

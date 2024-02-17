@@ -18,4 +18,5 @@ jnjRef('318737','jnjhome.blogspot.com/2006/06/blog-post_19','毛毛蟲跳舞');
 jnjRef('111664814','jnjhome.blogspot.com/2018/04/blog-post','二階面試陪考記');
 jnjRef('175252430','jnjhome.blogspot.com/2022/06/blog-post','大學畢業，升學碩士班');
 jnjRef('137','jnjhome.blogspot.com/2016/05/elaine',' 學生文學獎高中組雙料優選');
+jnjRef('182','jnjhome.blogspot.com/2012/05/blog-post_4','自然組之歷史考題');
 jnjRefList += '</ul></p></td></tr></table>';

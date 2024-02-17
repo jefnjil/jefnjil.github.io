@@ -15,4 +15,5 @@ switch(docID)
 	case "4137121705064387822" :	reg="taitung";	uss="633724";	ufp="2022.6.9";	umd="2022.6.14";	uMedia="12749/6376341";	break;
 	case "7386759460049297322" :	reg="chiayi";	uss="637470";	break;
 	case "19353925438759622" :	reg="music";	break;
+	case "8520881608959793922" :	reg="campus";	break;
 }

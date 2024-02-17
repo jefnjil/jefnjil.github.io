@@ -17,4 +17,5 @@ switch(docID)
 	case "8537517867217433662": 	reg="cnhfood";	break;
 	case "2391862718979948362": 	reg="sf";	break;
 	case "6419075829782122862" :	reg="thriller11";	break;
+	case "4997900250043083162" :	reg="campus";	break;
 }
