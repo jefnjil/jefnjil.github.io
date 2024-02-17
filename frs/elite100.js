@@ -1,6 +1,4 @@
 jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
-jnjRef('2301114','jnjblogbiz.blogspot.com/2008/10/impossible-is-nothing_15','Impossible Is Nothing');
-jnjRef('178401113','jnjblogbiz.blogspot.com/2023/02/1600','點閱人氣四千萬暨發文1600篇紀念');
 jnjRef('6445130','jnjblogbiz.blogspot.com/2012/05/blog-post_11','「部落客百傑」統譙篇');
 jnjRef('161','jnjblogbiz.blogspot.com/2012/06/blog-post_3','人必自侮然後人侮之');
 jnjRef('161','jnjblogbiz.blogspot.com/2012/06/blog-post_3','不管黑格白格，只要能賣就是好格');
@@ -13,6 +11,8 @@ jnjRef('6536614','jnjblogbiz.blogspot.com/2012/06/blog-post_11','業餘、馬虎
 jnjRef('6558962','jnjblogbiz.blogspot.com/2012/06/blog-post','對部落客百傑賽所謂「專業力」的看法');
 jnjRef('6537451','jnjblogbiz.blogspot.com/2012/06/blog-post_34','對「統讚」看法，兼談把關');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('2301114','jnjblogbiz.blogspot.com/2008/10/impossible-is-nothing_15','Impossible Is Nothing');
+jnjRef('178401113','jnjblogbiz.blogspot.com/2023/02/1600','點閱人氣四千萬暨發文1600篇紀念');
 jnjRef('6556723','jnjblogbiz.blogspot.com/2012/06/uudn','在UDN的兩千多個日子');
 jnjRef('2359137','jnjblogbiz.blogspot.com/2008/11/blog-post','部落格大獎評選標準何在');
 jnjRef('167','jnjblogbiz.blogspot.com/2008/11/blog-post_9','部落格大獎的囉哩囉嗦');
