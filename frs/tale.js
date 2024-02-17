@@ -2,9 +2,12 @@ jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱
 jnjRef('7343910','jnjtech.blogspot.com/2013/02/blog-post','如夢魘');
 jnjRef('2573942','jnjliterature.blogspot.com/2009/01/blog-post','冏老鼠');
 jnjRef('2501258','jnjliterature.blogspot.com/2008/12/blog-post','籠裡籠外');
+jnjRef('291','jnjhome.blogspot.com/2021/05/blog-post_26','外交辭令');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('7373851','jnjfoorprint.blogspot.com/2013/03/blog-post_9','防洪紀念塔');
 jnjRef('262756','jnjliterature.blogspot.com/2006/05/blog-post_6','誌芳哥心癢之旅');
 jnjRef('272484','jnjliterature.blogspot.com/2006/05/blog-post','誌芳哥與忍者龜');
+jnjRef('1442875','jnjtalks.blogspot.com/2007/12/blog-post','雙關語小笑話');
+jnjRef('179531583','jnjliterature.blogspot.com/2023/07/blog-post','迷濛昏闇之間');
 jnjRef('4010227','jnjtalks.blogspot.com/2010/05/husbala-vista','Husbala Vista‧莎喲哪啦');
 jnjRefList += '</ul></p></td></tr></table>';

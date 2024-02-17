@@ -17,4 +17,5 @@ switch(docID)
 	case "6706440653201020030": 	reg="expo";	uss="552196";	break;
 	case "8693749579166284830": 	reg="abian";	break;
 	case "5526821077207169030" :	reg="taoyuan";	uss="635464";	break;
+	case "7938254187445390330" :	reg="elaine1";	break;
 }

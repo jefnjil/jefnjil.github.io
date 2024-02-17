@@ -21,4 +21,5 @@ jnjRef('31339590','jnjfoorprint.blogspot.com/2016/03/blog-post_5','東京大學�
 jnjRef('2613484','jnjfoorprint.blogspot.com/2009/02/blog-post_36','蘆之湖箱根神社');
 jnjRef('2613489','jnjfoorprint.blogspot.com/2009/02/blog-post_25','平和公園、富士山');
 jnjRef('2613478','jnjfoorprint.blogspot.com/2009/02/blog-post_14','冬將軍橫掃迪士尼');
+jnjRef('316','jnjhome.blogspot.com/2008/03/blog-post_26','羽田機場華航專廳');
 jnjRefList += '</ul></p></td></tr></table>';

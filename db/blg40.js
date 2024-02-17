@@ -15,4 +15,5 @@ switch(docID)
 	case "7294815009262192940" :	reg="copyright";	break;
 	case "8759572869067499440" :	reg="copyright";	break;
 	case "5194816394962617340" :	reg="aitaiwan";	break;
+	case "4475698159067785340" :	reg="uk1";	break;
 }

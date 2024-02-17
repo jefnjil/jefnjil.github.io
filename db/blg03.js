@@ -23,4 +23,6 @@ switch(docID)
 	case "687477638667288403" :	reg="tpe3";	break;
 	case "5402775989475571203" :	reg="tpe4";	break;
 	case "173545770540771803" :	reg="book";	break;
+	case "343563544800755903" :	reg="memory2";	break;
+	case "4500009357088706903" :	reg="uk";	break;
 }

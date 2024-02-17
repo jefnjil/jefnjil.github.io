@@ -4,6 +4,7 @@ jnjRef('7359398','jnjhome.blogspot.com/2013/03/blog-post','情熱大陸');
 jnjRef('6987939','jnjmvtv.blogspot.com/2012/10/blog-post','宿命（砂の器）');
 jnjRef('177229108','jnjmvtv.blogspot.com/2022/10/where-crawdads-sing','沼澤謀殺案');
 jnjRef('124','jnjliterature.blogspot.com/2023/12/blog-post','大風歌（憶文白之爭）');
+jnjRef('318','jnjhome.blogspot.com/2007/11/blog-post_72','紀念黃大城');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>'
 jnjRef('123213362','jnjliterature.blogspot.com/2019/01/blog-post','「呼喚黎明」在蘭戈倫');
 jnjRef('164654395','jnjliterature.blogspot.com/2021/07/les-miserables-252012','悲慘世界10/25週年+電影');
@@ -18,4 +19,5 @@ jnjRef('180196446','jnjliterature.blogspot.com/2022/01/father-je-crois-entendre-
 jnjRef('180113296','jnjliterature.blogspot.com/2023/11/patricia-janeckova','歌壇新星隕落 ─ Patricia Janečková');
 jnjRef('134','jnjhome.blogspot.com/2022/06/blog-post_1','類比時代的音樂圖書館在台灣');
 jnjRef('156','jnjliterature.blogspot.com/2018/12/2018','「美第奇：佛羅倫薩大師」配樂');
+jnjRef('313','jnjhome.blogspot.com/2008/10/blog-post_9','什麼反共劇的主題曲');
 jnjRefList += '</ul></p></td></tr></table>';

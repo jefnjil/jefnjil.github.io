@@ -23,4 +23,7 @@ switch(docID)
 	case "2256529815812768647" :	reg="news2";	break;
 	case "7562898250637623447" :	reg="ma";	break;
 	case "6216307083014847747" :	reg="lookforjob";	break;
+	case "7783060595623699247" :	reg="elaine1";	break;
+	case "5023468027160889747" :	reg="memory2";	break;
+	case "8444266635151426947" :	reg="elaine1";	break;
 }

@@ -2,8 +2,8 @@ jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱
 jnjRef('2573942','jnjliterature.blogspot.com/2009/01/blog-post','冏老鼠');
 jnjRef('2580272','jnjmvtv.blogspot.com/2009/01/blog-post_20','冏男孩');
 jnjRef('2501258','jnjliterature.blogspot.com/2008/12/blog-post','籠裡籠外');
-jnjRef('171609187','jnjmvtv.blogspot.com/2022/02/reminiscence','追憶人');
 jnjRef('2738166','jnjhome.blogspot.com/2009/03/blog-post','戰碩鼠');
+jnjRef('290','jnjhome.blogspot.com/2021/06/blog-post_26','抗鼠雜記');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('2563772','jnjhome.blogspot.com/2009/01/blog-post','一板雙鼠');
 jnjRef('171865086','jnjhome.blogspot.com/2022/03/blog-post','抗鼠戰紀');

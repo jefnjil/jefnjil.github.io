@@ -21,4 +21,5 @@ switch(docID)
 	case "483477214692341560" :	reg="japfood1";	woman="123162/7629404";	break;
 	case "2488055066263430360" :	reg="campus";	break;
 	case "4165938467175858560" :	reg="science";	break;
+	case "7710896154390198660" :	reg="george";	break;
 }

@@ -16,6 +16,7 @@ jnjRef('15129683','jnjfoorprint.blogspot.com/2014/07/blog-post_34','美高梅獅
 jnjRef('168420','jnjfoorprint.blogspot.com/2006/02/end','遠離賭城 The End');
 jnjRef('619243','jnjfoorprint.blogspot.com/2006/12/blog-post','大海嘯兩週年');
 jnjRef('184883','jnjfoorprint.blogspot.com/2006/02/blog-post_52','賭城艷秀');
+jnjRef('317','jnjhome.blogspot.com/2008/01/las-vegas','Las Vegas司機不滿小費放鴿子');
 jnjRefList += '</ul><ul><b>羅馬</b>';
 jnjRef('168417','jnjfoorprint.blogspot.com/2006/02/caesars-palace','凱撒宮 Caesars Palace');
 jnjRef('460652','jnjfoorprint.blogspot.com/2006/09/blog-post_14','凱撒宮水族館');

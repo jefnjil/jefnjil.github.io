@@ -7,7 +7,7 @@ switch(docID)
 	case "147930588": 	reg="crime";	break;
 	case "178288": 	reg="us";	break;
 	case "31235688": 	reg="tomamu";	uss="474630";	break;
-	case "3222388": 	reg="memory";	break;
+	case "3222388" :	reg="translate";	break;
 	case "43982788": 	reg="westfood";	uss="494813";	break;
 	case "5212288": 	reg="italy";	uss="316089";	udn="2011.6.22";	break;
 	case "6159888": 	reg="kyushu";	uss="346701";	udn="2012.4.13";	break;

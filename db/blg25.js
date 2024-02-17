@@ -27,4 +27,5 @@ switch(docID)
 	case "7574536586852641225" :	reg="sf1";	break;
 	case "5565936667538603125" :	reg="western";	break;
 	case "4169884364158719825" :	reg="copyright";	break;
+	case "5930715201328231025" :	reg="elaine1";	break;
 }

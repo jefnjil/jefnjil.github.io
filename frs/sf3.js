@@ -21,4 +21,5 @@ jnjRef('103','jnjmvtv.blogspot.com/2021/12/ii','瑕疵小隊');
 jnjRef('103','jnjmvtv.blogspot.com/2021/12/ii','自殺突擊隊集結');
 jnjRef('103','jnjmvtv.blogspot.com/2021/12/ii','駭客任務復活');
 jnjRef('106','jnjmvtv.blogspot.com/2023/06/blog-post','無穹迴役');
+jnjRef('297','jnjhome.blogspot.com/2016/05/blog-post','星際大戰：原力覺醒');
 jnjRefList += '</ul></p></td></tr></table>';

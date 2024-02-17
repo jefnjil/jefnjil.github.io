@@ -15,4 +15,5 @@ jnjRef('3537627','jnjfoorprint.blogspot.com/2009/11/blog-post_27','海生館世�
 jnjRef('3400380','jnjfoorprint.blogspot.com/2009/10/blog-post_80','夜間野生動物園');
 jnjRef('4045737','jnjfoorprint.blogspot.com/2010/05/blog-post_63','大豐蝴蝶生態園區');
 jnjRef('3760574','jnjfoorprint.blogspot.com/2010/02/blog-post_7','加州海獅環球走秀');
+jnjRef('302','jnjhome.blogspot.com/2010/09/blog-post','唯一被狗咬的經驗');
 jnjRefList += '</ul></p></td></tr></table>';

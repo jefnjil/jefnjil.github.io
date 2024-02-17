@@ -18,4 +18,5 @@ switch(docID)
 	case "3044501044752075663" :	reg="feast1";	woman="123162/7411450";	break;
 	case "3930760951540741163" :	reg="tech1";	break;
 	case "5757222706014913663" :	reg="lookforjob";	break;
+	case "6178808923753264463" :	reg="translate";	break;
 }

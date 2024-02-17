@@ -18,4 +18,5 @@ switch(docID)
 	case "2273063496083197961" :	reg="humanrights";	break;
 	case "5059149740071908361" :	reg="lookforjob";	break;
 	case "8588997706476255461" :	reg="science";	break;
+	case "7380727303330547961" :	reg="memory1";	break;
 }

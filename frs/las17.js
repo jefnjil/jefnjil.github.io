@@ -10,6 +10,7 @@ jnjRefList += '</b><ul>';
 jnjRef('104388419','jnjfoorprint.blogspot.com/2017/08/grand-canyon-west-hualapai-ranch','瓦拉派牧場');
 jnjRef('104388503','jnjfoorprint.blogspot.com/2017/08/grand-canyon-skywalk','天空步道');
 jnjRef('104388590','jnjfoorprint.blogspot.com/2017/09/guano-point','蝠糞尖');
+jnjRef('304','jnjhome.blogspot.com/2009/12/blog-post','二十年去過一趟大峽谷');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('92139852','jnjfoorprint.blogspot.com/2017/03/ces','CES 五十週年懷舊展');
 jnjRef('184883','jnjfoorprint.blogspot.com/2006/02/blog-post_52','賭城艷秀');

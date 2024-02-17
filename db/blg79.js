@@ -4,7 +4,7 @@ switch(docID)
 	case "401850782380846379": 	uMedia="12774/4845920";	reg="jr17";	uss="594798";	udn="2018.8.31";	umd="2020.9.9";	ufp="2018.9.30";	break;
 	case "2936648817625565679": 	reg="tohoku";	uss="431796";	break;
 	case "7601262753292906779": 	reg="chnfood";	uss="618690";	break;
-	case "4352225378284307879": 	reg="tale";	break;
+	case "4352225378284307879" :	reg="tale";	break;
 	case "5348523563058877279": 	reg="draw";	break;
 	case "4730805275303038779": 	reg="tws";	uss="98922";	break;
 	case "8391805770493503679": 	reg="us";	uss="65325";	break;

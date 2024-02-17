@@ -13,6 +13,7 @@ jnjRef('166891129','jnjfoorprint.blogspot.com/2021/08/80-african-safari','80年�
 jnjRef('22641592','jnjhome.blogspot.com/2015/04/blog-post_29','第一場智財權官司');
 jnjRef('44963709','jnjhome.blogspot.com/2016/06/blog-post','第一次美國法庭作證');
 jnjRef('153808047','jnjtech.blogspot.com/2020/11/blog-post','程式匠雜談一二');
+jnjRef('288','jnjhome.blogspot.com/2022/05/blog-post','到底是「啞口」還「埡口」');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('24368610','jnjhome.blogspot.com/2015/06/blog-post','幹嘛懂三角函數或機率？');
 jnjRef('43742601','jnjhome.blogspot.com/2016/01/blog-post','兩蔣父子與老爸的一面之緣');

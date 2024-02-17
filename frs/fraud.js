@@ -5,6 +5,7 @@ jnjRef('2738422','jnjtalks.blogspot.com/2009/03/blog-post','兩光馬戲團疑�
 jnjRef('266','jnjtalks.blogspot.com/2021/07/blog-post_26','國術無用論');
 jnjRef('269','jnjtalks.blogspot.com/2007/11/blog-post','書寫即騙局');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('320','jnjhome.blogspot.com/2012/05/blog-post','被老美誑騙的經驗');
 jnjRef('263','jnjtalks.blogspot.com/2022/06/2','南美館殭屍展2缺點像詐騙');
 jnjRef('264','jnjtalks.blogspot.com/2016/05/blog-post','詐騙集團易科罰金');
 jnjRef('265','jnjtalks.blogspot.com/2016/04/blog-post_14','肯亞被捕台詐欺犯移送中國');

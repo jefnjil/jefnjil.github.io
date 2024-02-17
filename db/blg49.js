@@ -22,4 +22,5 @@ switch(docID)
 	case "6044180769150775149" :	reg="family";	uss="637428";	break;
 	case "4849579032167688949" :	reg="action2";	break;
 	case "3508954787065423949" :	reg="fantacy2";	break;
+	case "7580440674579348349" :	reg="elaine1";	break;
 }

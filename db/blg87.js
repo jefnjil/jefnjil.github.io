@@ -25,4 +25,5 @@ switch(docID)
 	case "2064195712676160187": 	reg="jr16";	uss="575930";	break;
 	case "7548347650910118387" :	reg="history2";	break;
 	case "5854665153756827487" :	reg="elaine1";	break;
+	case "769482149831163587" :	reg="zoo";	break;
 }

@@ -13,7 +13,7 @@ switch(docID)
 	case "3311363946882023248": 	reg="comment";	break;
 	case "2459541293678857448": 	reg="nagoya";	uss="290145";	udn="2010.12.6";	break;
 	case "4730533654391257148": 	reg="sf";	break;
-	case "8501658890950686848": 	reg="news";	udn="2012.3.30";	break;
+	case "8501658890950686848" :	reg="house";	udn="2012.3.30";	break;
 	case "5193853040423894948": 	reg="japfood";	uss="558486";	break;
 	case "4773679138297420048": 	reg="twm";	uss="418590";	break;
 	case "6283256102646869148": 	reg="history";	udn="2013.10.17";	break;
@@ -24,4 +24,6 @@ switch(docID)
 	case "975174783042641448" :	reg="music";	break;
 	case "1205994437064723848" :	reg="zombie";	break;
 	case "5165504717387252348" :	reg="elite100";	break;
+	case "7756555047211355048" :	reg="las";	break;
+	case "9113752241882570848" :	reg="house";	break;
 }

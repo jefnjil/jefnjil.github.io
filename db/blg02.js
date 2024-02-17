@@ -15,4 +15,5 @@ switch(docID)
 	case "1188664149282188402" :	reg="museum1";	uss="635469";	umd="2023.5.18";	uMedia="12749/7109132";	break;
 	case "4057041283886084702" :	reg="tsai";	break;
 	case "3687497071877081102" :	reg="mothertongue";	break;
+	case "2998525530500417802" :	reg="house";	break;
 }
