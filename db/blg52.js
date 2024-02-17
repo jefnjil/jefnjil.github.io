@@ -19,4 +19,5 @@ switch(docID)
 	case "3075235011322221552": 	reg="sf";	break;
 	case "4438720941515321152" :	reg="crime";	udn="2022.9.25";	break;
 	case "5242894710509213652" :	reg="tpe3";	uss="635468";	ufp="2022.11.7";	break;
+	case "546105687925274752" :	reg="popularity";	break;
 }

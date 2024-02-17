@@ -5,6 +5,7 @@ jnjRef('887968','jnjliterature.blogspot.com/2007/04/blog-post','關於譬喻');
 jnjRef('2399450','jnjliterature.blogspot.com/2008/11/pillars-of-earth','聖殿春秋');
 jnjRef('3978552','jnjliterature.blogspot.com/2010/04/f','全部成為F');
 jnjRef('177','jnjhome.blogspot.com/2006/08/aa','『從A到A+』');
+jnjRef('186','jnjliterature.blogspot.com/2017/02/blog-post','讀「重讀鎖國」');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('7359387','jnjhome.blogspot.com/2013/03/tenderness','Tenderness');
 jnjRef('888021','jnjliterature.blogspot.com/2007/04/blog-post_11','塞壬的沉默');
@@ -19,4 +20,6 @@ jnjRef('71714241','jnjliterature.blogspot.com/2016/09/guilty-one','罪人 The Gu
 jnjRef('37014176','jnjliterature.blogspot.com/2015/11/blog-post','「不像樣」的「桃園國際機場賦」');
 jnjRef('167548892','jnjfoundation.blogspot.com/2020/12/blog-post','艾西莫夫基地三部曲與我的緣份');
 jnjRef('150','jnjliterature.blogspot.com/2017/01/blog-post_2','「灣生回家」作者坦承身分造假');
+jnjRef('187','jnjliterature.blogspot.com/2013/05/not-dead-enough',' 《一句話書評 》 三重死亡');
+jnjRef('188','jnjliterature.blogspot.com/2011/09/19451949','郝柏村解讀蔣公日記 1945~1949');
 jnjRefList += '</ul></p></td></tr></table>';
