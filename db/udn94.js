@@ -13,6 +13,6 @@ switch(docID)
 	case "7471594": 	reg="uscw";	break;
 	case "8164794": 	reg="book";	break;
 	case "863194": 	reg="thriller";	ctb="2007.6.1?";	break;
-	case "869394": 	reg="israel";	break;
+	case "869394" :	reg="humanrights";	break;
 	case "896194": 	reg="book";	break;
 }

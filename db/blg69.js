@@ -21,4 +21,5 @@ switch(docID)
 	case "3424714445256994769" :	reg="chiayi";	uss="637473";	break;
 	case "4560037950413635569" :	reg="wind";	break;
 	case "7265797940387018569" :	reg="elite100";	break;
+	case "2865561841910235269" :	reg="deathpenalty";	break;
 }

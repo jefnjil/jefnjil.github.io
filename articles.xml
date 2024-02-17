@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Articles PseudoUID="189">
+<Articles PseudoUID="235">
   <Article id="100" Title="惡夜性追緝、尬電殺手、生死交戰、明日戰爭、迴路追殺令、綠騎士" bURL="jnjmvtv.blogspot.com/2021/12/blog-post.html" woman="" bID="1761265318904937491" reg="action2" />
   <Article id="101" Title="黑羅蘋、Clarice、勿下錯招、青年神探維蘭德、破綻" bURL="jnjmvtv.blogspot.com/2021/12/clarice.html" woman="" bID="1998837180476543073" reg="crime3" />
   <Article id="102" Title="黑魔女2、太陽召喚、雅信傳、血色天劫、莉西的人生異旅、惡靈偵探" bURL="jnjmvtv.blogspot.com/2021/12/2.html" woman="" bID="4150961033916267771" reg="fantacy1" />
@@ -80,6 +80,52 @@
   <Article id="186" Title="讀「重讀鎖國」" bURL="jnjliterature.blogspot.com/2017/02/blog-post" woman="" bID="4216140484816405006" reg="book" />
   <Article id="187" Title=" 《一句話書評 》 三重死亡（Not Dead Enough）" bURL="jnjliterature.blogspot.com/2013/05/not-dead-enough" woman="" bID="5070759664412385932" reg="book" />
   <Article id="188" Title="閱讀筆記──郝柏村解讀蔣公日記 1945~1949" bURL="jnjliterature.blogspot.com/2011/09/19451949" woman="" bID="385986273254200444" reg="book" />
+  <Article id="189" Title="松田昌：「春待人」" bURL="jnjhome.blogspot.com/2013/01/blog-post_5" woman="" bID="7907427764096216701" reg="universal" />
+  <Article id="190" Title="《新聞》面試問這1句慘被刷掉！" bURL="jnjtalks.blogspot.com/2022/10/1" woman="" bID="5757222706014913663" reg="interview" />
+  <Article id="191" Title="《回應》林環牆稱發現蔡英文論文門破案鐵證" bURL="jnjtalks.blogspot.com/2021/08/blog-post" woman="" bID="3196403823745712132" reg="tsai" />
+  <Article id="192" Title="《新聞》面試官遲到2小時她回這句 過來人一看大嘆：毀了" bURL="jnjtalks.blogspot.com/2020/11/2" woman="" bID="4751235924100984373" reg="interview" />
+  <Article id="193" Title="《新聞》楊蕙如案》 蔡英文：我不認得她耶" bURL="jnjtalks.blogspot.com/2019/12/blog-post_5" woman="" bID="4057041283886084702" reg="tsai" />
+  <Article id="194" Title="《臉書》文青式數學" bURL="jnjtalks.blogspot.com/2018/05/blog-post" woman="" bID="1710588121634385332" reg="tsai" />
+  <Article id="195" Title="六不總統" bURL="jnjtalks.blogspot.com/2016/10/blog-post" woman="" bID="4008999826450223505" reg="tsai" />
+  <Article id="196" Title="鄭捷這個案例，剛好是許多廢死主張的盲點" bURL="jnjtalks.blogspot.com/2016/06/blog-post" woman="" bID="5876661203016876817" reg="deathpenalty" />
+  <Article id="197" Title="《回應》女童斷頭案王姓兇嫌有沒有接受過強制鑑定或治療？" bURL="jnjtalks.blogspot.com/2016/03/blog-post_29" woman="" bID="3906518618685438659" reg="deathpenalty" />
+  <Article id="198" Title="《回應》王健壯／最後文告不過爾爾" bURL="jnjtalks.blogspot.com/2016/01/blog-post_3" woman="" bID="7562898250637623447" reg="ma" />
+  <Article id="199" Title="神龍大砲" bURL="jnjtalks.blogspot.com/2013/09/blog-post_10" woman="" bID="6225183203189272865" reg="ma" />
+  <Article id="200" Title="《新聞》納莉淹水" bURL="jnjtalks.blogspot.com/2013/09/blog-post" woman="" bID="7001663361443121274" reg="ma" />
+  <Article id="201" Title="《回應》也許該先學過漢語拼音，再來談注音符號存廢較好" bURL="jnjtalks.blogspot.com/2013/05/blog-post_27" woman="" bID="7857934770731943806" reg="mothertongue" />
+  <Article id="202" Title="《回應》關於蘇建和三人案" bURL="jnjtalks.blogspot.com/2012/05/blog-post_10" woman="" bID="5631836266112497472" reg="deathpenalty" />
+  <Article id="203" Title="對蘇建和案的一點看法（舊文）" bURL="jnjtalks.blogspot.com/2023/11/blog-post" woman="" bID="5598626887827341185" reg="deathpenalty" />
+  <Article id="204" Title="聞扁哥失禮遇隨扈" bURL="jnjtalks.blogspot.com/2010/08/blog-post_19" woman="" bID="3866128087927928980" reg="abian" />
+  <Article id="205" Title="回應：論支持廢除死刑者，可否控告他人誹謗？" bURL="jnjtalks.blogspot.com/2010/09/blog-post_3" woman="" bID="2928167293056023501" reg="deathpenalty" />
+  <Article id="206" Title="《回應》王清峰與廢死" bURL="jnjtalks.blogspot.com/2012/05/blog-post_12" woman="" bID="6394080433818762724" reg="deathpenalty" />
+  <Article id="207" Title="《回應》重案對決" bURL="jnjtalks.blogspot.com/2012/05/blog-post_84" woman="" bID="5186096543111186041" reg="deathpenalty" />
+  <Article id="208" Title="《回應》法務部長不簽署是瀆職" bURL="jnjtalks.blogspot.com/2012/05/blog-post_66" woman="" bID="1570847303992612017" reg="deathpenalty" />
+  <Article id="209" Title="《回應》廢死爭議／誰的人權比較重要？" bURL="jnjtalks.blogspot.com/2012/05/blog-post_19" woman="" bID="121706115896547610" reg="deathpenalty" />
+  <Article id="210" Title="回應：死刑存廢不只是法律問題／死刑應該存在嗎？ " bURL="jnjtalks.blogspot.com/2010/05/blog-post" woman="" bID="8160463037828138699" reg="deathpenalty" />
+  <Article id="211" Title="回應：蚊子跟人的社會關係" bURL="jnjtalks.blogspot.com/2010/03/blog-post_31" woman="" bID="2865561841910235269" reg="deathpenalty" />
+  <Article id="212" Title="回應：廢除死刑是為了省錢" bURL="jnjtalks.blogspot.com/2010/03/blog-post_12" woman="" bID="5132044644395743858" reg="deathpenalty" />
+  <Article id="213" Title="回應：ㄓㄟ係ㄉㄧㄌㄟ公三小？ " bURL="jnjtalks.blogspot.com/2009/06/blog-post_6" woman="" bID="1369220652693306077" reg="mothertongue" />
+  <Article id="214" Title="回應：我們的「母語教育」就是這種人弄出來的" bURL="jnjtalks.blogspot.com/2009/06/blog-post_1" woman="" bID="2046039307421546778" reg="mothertongue" />
+  <Article id="215" Title="回應：北京話有音無字的情形不會比閩南語少" bURL="jnjtalks.blogspot.com/2009/04/blog-post" woman="" bID="8121843209105290944" reg="mothertongue" />
+  <Article id="216" Title="《新聞》台灣俗諺拷問劉兆玄" bURL="jnjtalks.blogspot.com/2012/05/blog-post_9" woman="" bID="1600367672297154050" reg="mothertongue" />
+  <Article id="217" Title="回應：阿扁「台灣的十字架」狂銷，代表什麼意義？" bURL="jnjtalks.blogspot.com/2009/01/blog-post" woman="" bID="1473195785955129309" reg="abian" />
+  <Article id="218" Title="《回應》《你污的七億呢》" bURL="jnjtalks.blogspot.com/2008/11/blog-post" woman="" bID="1798659140879928199" reg="abian" />
+  <Article id="219" Title="蔡英文指控黑道份子混入滋事" bURL="jnjtalks.blogspot.com/2012/05/blog-post_58" woman="" bID="1098867210092963543" reg="tsai" />
+  <Article id="220" Title="從未擁有過的東西，何云失落？" bURL="jnjtalks.blogspot.com/2008/09/blog-post_20" woman="" bID="4572179841525861806" reg="mothertongue" />
+  <Article id="221" Title="《回應》 我朝三暮四的政治本色（二）" bURL="jnjtalks.blogspot.com/2008/09/blog-post_13" woman="" bID="3687497071877081102" reg="mothertongue" />
+  <Article id="222" Title="回應：收買（談陳錢總統）" bURL="jnjtalks.blogspot.com/2008/08/blog-post_21" woman="" bID="3113284973957649759" reg="abian" />
+  <Article id="223" Title="回應：陳水扁有道歉嗎？" bURL="jnjtalks.blogspot.com/2008/08/blog-post_88" woman="" bID="4851785043917410554" reg="abian" />
+  <Article id="224" Title="回應：連結YouTube卡通 女童挨告" bURL="jnjtalks.blogspot.com/2008/07/youtube" woman="" bID="4169884364158719825" reg="copyright" />
+  <Article id="225" Title="回應：也談九把刀控訴抄襲事件 - 太陽底下並無新鮮事" bURL="jnjtalks.blogspot.com/2008/02/blog-post" woman="" bID="4384099779125708128" reg="copyright" />
+  <Article id="226" Title="回應：為什麼有些盜版無罪，有些仿冒有理" bURL="jnjtalks.blogspot.com/2008/01/blog-post_15" woman="" bID="4956003922859771644" reg="copyright" />
+  <Article id="227" Title="政治人物的脊梁骨" bURL="jnjtalks.blogspot.com/2007/06/blog-post" woman="" bID="83559659689451354" reg="ma" />
+  <Article id="228" Title="國語與正名" bURL="jnjtalks.blogspot.com/2012/05/blog-post_26" woman="" bID="1745551304759898567" reg="mothertongue" />
+  <Article id="229" Title="回應：陳水扁已經走入歷史,不需要隨之起舞" bURL="jnjtalks.blogspot.com/2007/05/blog-post_21" woman="" bID="1347229463624678570" reg="abian" />
+  <Article id="230" Title="回應：到底死刑該存該廢？" bURL="jnjtalks.blogspot.com/2007/04/blog-post_85" woman="" bID="2526490267636147911" reg="deathpenalty" />
+  <Article id="231" Title="《回應》一個談「河洛話才是官話…」的朋友" bURL="jnjtalks.blogspot.com/2007/03/blog-post_91" woman="" bID="6627432980946306567" reg="mothertongue" />
+  <Article id="232" Title="關於「國語」的緣起" bURL="jnjtalks.blogspot.com/2007/03/blog-post_24" woman="" bID="2150624779688726097" reg="mothertongue" />
+  <Article id="233" Title="《回應》什麼是原罪？～外省人是個過度簡化的籠統概念" bURL="jnjtalks.blogspot.com/2007/03/blog-post_1" woman="" bID="2813644087235606885" reg="ma" />
+  <Article id="234" Title="政壇欠缺幽默感，語文豈止是非黑白" bURL="jnjtalks.blogspot.com/2012/05/blog-post_38" woman="" bID="6025622115443973041" reg="abian" />
   <Article id="152999" bURL="jnjhome.blogspot.com/2006/01/elaine" Title="Elaine的聖誕老公公" reg="elaine" bID="8374307011099297544" />
   <Article id="153006" bURL="jnjfoorprint.blogspot.com/2006/01/blog-post_17" Title="溫尼格機場狂奔" reg="crm" bID="2327424913350910448" udn="2006.2.6" />
   <Article id="153639" bURL="jnjhome.blogspot.com/2006/01/blog-post_76" Title="水蛇與蛋" reg="elaine" bID="4652883769753736804" />
@@ -290,7 +336,7 @@
   <Article id="934108" bURL="jnjfoorprint.blogspot.com/2007/05/blog-post_2" Title="濕地之旅" reg="tpe2" bID="350920119711742670" udn="2007.5.7" ufp="2007.5.1?" />
   <Article id="951254" bURL="jnjmvtv.blogspot.com/2007/05/blog-post" Title="「無米樂」雜感" reg="mv" bID="5741935931056053091" />
   <Article id="965788" bURL="jnjtech.blogspot.com/2007/05/blog-post" Title="網路上的隱私" reg="tech" bID="7065486716890190810" />
-  <Article id="965798" bURL="jnjtalks.blogspot.com/2007/05/blog-post_17" Title="母語教育政策該檢討啦" reg="lang" bID="2554678565789577963" />
+  <Article id="965798" bURL="jnjtalks.blogspot.com/2007/05/blog-post_17" Title="母語教育政策該檢討啦" reg="mothertongue" bID="2554678565789577963" />
   <Article id="974469" bURL="jnjtalks.blogspot.com/2007/05/blog-post" Title="八年不夠" reg="abian" bID="1732448952920314345" />
   <Article id="978224" bURL="jnjfoorprint.blogspot.com/2007/05/cutty-sark" Title="女妖化為灰燼 (Cutty Sark)" reg="uk" bID="4556922972605957729" udn="2007.5.2?" />
   <Article id="1009189" bURL="jnjtech.blogspot.com/2007/06/windows-vista" Title="惱人的Windows Vista" reg="tech" bID="70336976793465585" />
@@ -351,14 +397,14 @@
   <Article id="1701381" bURL="jnjfoorprint.blogspot.com/2008/03/blog-post_29" Title="大屯瀑布" reg="tpe2" bID="2338029589970039158" uss="104512" />
   <Article id="1713034" bURL="jnjmvtv.blogspot.com/2008/03/across-universe" Title="Across the Universe（愛是唯一）" reg="mv" bID="7679542235786222253" />
   <Article id="1731828" bURL="jnjfoorprint.blogspot.com/2008/03/blog-post" Title="斷腳求生的陽燧足" reg="tws" bID="4730805275303038779" uss="98922" />
-  <Article id="1751551" bURL="jnjtalks.blogspot.com/2008/04/blog-post" Title="對母語教育的建議" reg="lang" bID="3581187438516522533" />
+  <Article id="1751551" bURL="jnjtalks.blogspot.com/2008/04/blog-post" Title="對母語教育的建議" reg="mothertongue" bID="3581187438516522533" />
   <Article id="1789399" bURL="jnjhome.blogspot.com/2008/04/the-radio" Title="The Radio" reg="campus" bID="5994379438003393680" />
   <Article id="1816632" bURL="jnjmvtv.blogspot.com/2008/04/live" Title="「Live殺人網站」拉雜談" reg="thriller" bID="7935145781100753199" />
   <Article id="1823737" bURL="jnjfoorprint.blogspot.com/2008/04/blog-post" Title="二格山賞螢" reg="ntc" bID="7724582956728091985" uss="111091" udn="2008.5.2" />
   <Article id="1833064" bURL="jnjtalks.blogspot.com/2008/05/blog-post_2" Title="正職與兼差" reg="comment" bID="8412699295644225738" />
   <Article id="1864891" bURL="jnjfoorprint.blogspot.com/2008/05/blog-post" Title="奔襲拉拉山" reg="twn" bID="8875946197345622017" uss="113378" udn="2008.5.14" />
   <Article id="1881787" bURL="jnjmvtv.blogspot.com/2008/05/blog-post" Title="異形世代" reg="sf" bID="534368735870069478" />
-  <Article id="1887230" bURL="jnjtalks.blogspot.com/2008/05/blog-post_21" Title="回應－真的「台語人人會說」嗎" reg="lang" bID="5975067413894934742" />
+  <Article id="1887230" bURL="jnjtalks.blogspot.com/2008/05/blog-post_21" Title="回應－真的「台語人人會說」嗎" reg="mothertongue" bID="5975067413894934742" />
   <Article id="1897834" bURL="jnjhome.blogspot.com/2008/05/blog-post" Title="一杯倒" reg="campus" bID="733302602972692060" />
   <Article id="1905358" bURL="jnjtalks.blogspot.com/2008/05/blog-post" Title="新聞 －「先跑教師」：犧牲是選擇 不是美德" reg="news" bID="2006853878976050325" />
   <Article id="1912014" bURL="jnjtalks.blogspot.com/2008/05/blog-post_29" Title="評論 － 瘋狂加油夜 省荷包債留地球" reg="news" bID="5938350811878225294" udn="2008.5.30" />
@@ -413,7 +459,7 @@
   <Article id="2613512" bURL="jnjfoorprint.blogspot.com/2009/02/blog-post_23" Title="新宿走春" reg="tokyo" bID="1607759556248925861" uss="159898" />
   <Article id="2617426" bURL="jnjfoorprint.blogspot.com/2009/02/blog-post" Title="血拼東京灣(後)" reg="tokyo" bID="2366800476717921507" />
   <Article id="2715990" bURL="jnjmvtv.blogspot.com/2009/03/battlestar-galactica" Title="最後塞隆大揭秘（星際大爭霸、Battlestar Galactica）" reg="sf" bID="7769556182486178576" />
-  <Article id="2723223" bURL="jnjtalks.blogspot.com/2009/03/blog-post_8" Title="我就是自己的根" reg="lang" bID="7876074695032588255" />
+  <Article id="2723223" bURL="jnjtalks.blogspot.com/2009/03/blog-post_8" Title="我就是自己的根" reg="mothertongue" bID="7876074695032588255" />
   <Article id="2738166" bURL="jnjhome.blogspot.com/2009/03/blog-post" Title="戰碩鼠" reg="mice" bID="2337481198563946261" />
   <Article id="2738422" bURL="jnjtalks.blogspot.com/2009/03/blog-post" Title="兩光馬戲團疑似落跑！" reg="news" bID="18864516148426368" />
   <Article id="2738431" bURL="jnjliterature.blogspot.com/2009/03/blog-post" Title="閒談推理小說" reg="book" bID="5633919589247999743" udn="2009.4.15" />
@@ -488,8 +534,8 @@
   <Article id="3808373" bURL="jnjfoorprint.blogspot.com/2010/02/blog-post_25" Title="小樽風情畫" reg="hokkaido" bID="644381383921120531" uss="239764" udn="2010.3.24" />
   <Article id="3808377" bURL="jnjfoorprint.blogspot.com/2010/02/blog-post_34" Title="札幌再見，北海道再見" reg="hokkaido" bID="5514271995206631311" uss="239758" />
   <Article id="3830787" bURL="jnjmvtv.blogspot.com/2010/03/spartacus" Title="奴隸將軍──斯巴達克斯（Spartacus）" reg="rome" bID="4851578606655891754" />
-  <Article id="3844542" bURL="jnjtalks.blogspot.com/2010/03/blog-post_11" Title="死刑可以更精彩一點" reg="israel" bID="453059475764014592" />
-  <Article id="3852091" bURL="jnjtalks.blogspot.com/2010/03/blog-post_14" Title="撒旦在我們之中滋長" reg="israel" bID="4414859503261129397" />
+  <Article id="3844542" bURL="jnjtalks.blogspot.com/2010/03/blog-post_11" Title="死刑可以更精彩一點" reg="deathpenalty" bID="453059475764014592" />
+  <Article id="3852091" bURL="jnjtalks.blogspot.com/2010/03/blog-post_14" Title="撒旦在我們之中滋長" reg="deathpenalty" bID="4414859503261129397" />
   <Article id="3871319" bURL="jnjtalks.blogspot.com/2010/03/blog-post" Title="在外國海關出狀況的一點經驗分享" reg="news" bID="5270581648310826338" udn="2010.3.22" ufp="2017.3.15" />
   <Article id="3871863" bURL="jnjmvtv.blogspot.com/2010/03/law-abiding-citizen" Title="重案對決 Law Abiding Citizen" reg="crime" bID="2627720377446229221" />
   <Article id="3871871" bURL="jnjmvtv.blogspot.com/2010/03/blog-post" Title="劍岳－點之記" reg="mv" bID="6916355102320434241" />
@@ -1594,7 +1640,7 @@
   <Article id="170474065" bURL="jnjdining.blogspot.com/2021/11/double-cheese" Title="台南美食 ─ Double Cheese、彩虹、品常、陽光食園" uMedia="12751/5929896" reg="snack" bID="7793094091841987542" umd="2021.12.2" />
   <Article id="170539360" bURL="jnjfoorprint.blogspot.com/2021/11/4k" Title="「花現三層崎」擬富良野花田，三軸穩定器試拍4K影片" uMedia="12749/5965872" reg="tpe2" bID="5204040861270131801" udn="2021.12.23" umd="2021.12.17" uss="633191" />
   <Article id="170634525" bURL="jnjfoorprint.blogspot.com/2021/11/blog-post_29" Title="關渡秘境花海" uMedia="12749/6011401" reg="tpe2" bID="92072507992223680" umd="2022.1.6" uss="633192" />
-  <Article id="170818641" bURL="jnjtech.blogspot.com/2021/12/blog-post" Title="評「華碩主管羞辱人？台大生面試遭冷嘲熱諷」" reg="comment1" bID="4467627032366617804" udn="2021.12.23" />
+  <Article id="170818641" bURL="jnjtech.blogspot.com/2021/12/blog-post" Title="評「華碩主管羞辱人？台大生面試遭冷嘲熱諷」" reg="lookforjob" bID="4467627032366617804" udn="2021.12.23" />
   <Article id="170912483" bURL="jnjmvtv.blogspot.com/2021/12/the-long-call" Title="遙遠的召喚（The Long Call）" reg="mv1" bID="2269111072724591154" />
   <Article id="171004743" bURL="jnjmvtv.blogspot.com/2021/12/ragdoll" Title="屍偶（Ragdoll, 破布娃娃）" reg="crime" bID="4340541758790195985" />
   <Article id="171085510" bURL="jnjmvtv.blogspot.com/2022/01/holy-motors" Title="花都魅影（Holy Motors，神聖車行）" uMedia="12760/6030561" reg="mv1" bID="6085582459047776564" udn="2022.1.24" umd="2022.1.14" />

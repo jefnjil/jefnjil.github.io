@@ -7,7 +7,7 @@ switch(docID)
 	case "166716251": 	reg="blog";	break;
 	case "170256251": 	reg="memory";	break;
 	case "171647351": 	reg="mice";	break;
-	case "1751551": 	reg="lang";	break;
+	case "1751551" :	reg="mothertongue";	break;
 	case "20843251": 	reg="buffet";	uss="460132";	break;
 	case "2321751": 	reg="abian";	break;
 	case "30940751": 	reg="shinkansen";	uss="473032";	break;

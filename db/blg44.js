@@ -16,4 +16,6 @@ switch(docID)
 	case "1070755970488106944": 	reg="sf";	break;
 	case "344991187846620944" :	reg="memory1";	break;
 	case "385986273254200444" :	reg="book";	break;
+	case "8121843209105290944" :	reg="mothertongue";	break;
+	case "4956003922859771644" :	reg="copyright";	break;
 }

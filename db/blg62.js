@@ -13,7 +13,7 @@ switch(docID)
 	case "3451369792216832662": 	reg="twe";	uss="394747";	break;
 	case "8487952605681700662": 	reg="buffet";	break;
 	case "3929103896429054962": 	reg="vienna";	uss="521624";	break;
-	case "1928613558730730662": 	reg="israel";	break;
+	case "1928613558730730662" :	reg="humanrights";	break;
 	case "8537517867217433662": 	reg="cnhfood";	break;
 	case "2391862718979948362": 	reg="sf";	break;
 	case "6419075829782122862" :	reg="thriller11";	break;

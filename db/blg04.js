@@ -7,7 +7,7 @@ switch(docID)
 	case "4652883769753736804": 	reg="elaine";	break;
 	case "3621850450102209704": 	reg="us";	break;
 	case "2879854043028083104": 	reg="draw";	break;
-	case "4467627032366617804": 	reg="comment1";	udn="2021.12.23";	break;
+	case "4467627032366617804" :	reg="lookforjob";	udn="2021.12.23";	break;
 	case "9123800967317758104": 	reg="history";	udn="2015.2.5";	break;
 	case "2218011169996923604": 	reg="twe";	uss="71745";	break;
 	case "7045457752267038104": 	reg="hokkaido";	uss="239747";	break;

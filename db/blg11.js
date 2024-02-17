@@ -12,4 +12,5 @@ switch(docID)
 	case "7669228515200756211": 	reg="snack";	break;
 	case "3748349486529186111": 	reg="sf";	break;
 	case "6270539873229157711": 	reg="sf";	break;
+	case "2526490267636147911" :	reg="deathpenalty";	break;
 }

@@ -18,8 +18,8 @@ switch(docID)
 	case "5214298": 	reg="italy";	uss="316089";	udn="2011.5.25";	break;
 	case "7359398": 	reg="wind";	break;
 	case "74442998": 	reg="us16";	uss="558449";	break;
-	case "839898": 	reg="lang";	break;
+	case "839898" :	reg="humanrights";	break;
 	case "8839698": 	reg="chnfood";	uss="420463";	break;
-	case "965798": 	reg="lang";	break;
+	case "965798" :	reg="mothertongue";	break;
 	case "174153598" :	reg="ntc1";	uss="633200";	umd="2022.5.26";	uMedia="12749/6319413";	break;
 }

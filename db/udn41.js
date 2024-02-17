@@ -4,7 +4,7 @@ switch(docID)
 	case "127437341": 	reg="chnfood";	uss="479394";	break;
 	case "12946641": 	reg="comment";	break;
 	case "131262641": 	reg="comment";	break;
-	case "170818641": 	reg="comment1";	udn="2021.12.23";	break;
+	case "170818641" :	reg="lookforjob";	udn="2021.12.23";	break;
 	case "22472041": 	reg="george";	uss="464164";	break;
 	case "3636741": 	reg="zoo";	udn="2010.1.4";	break;
 	case "414841": 	reg="news";	break;

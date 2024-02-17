@@ -19,4 +19,6 @@ switch(docID)
 	case "5902708997496422899" :	reg="tech1";	break;
 	case "1167266091787314299" :	reg="crime1";	break;
 	case "8709919296245954799" :	reg="polemics";	break;
+	case "8160463037828138699" :	reg="deathpenalty";	break;
+	case "1798659140879928199" :	reg="abian";	break;
 }

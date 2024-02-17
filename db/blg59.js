@@ -17,5 +17,7 @@ switch(docID)
 	case "759458296412805859": 	reg="sf";	break;
 	case "5619844386967642159" :	reg="comment1";	break;
 	case "7410264881094596859" :	reg="tech1";	break;
-	case "8976703659358805559" :	reg="news2";	break;
+	case "8976703659358805559" :	reg="lookforjob";	break;
+	case "3906518618685438659" :	reg="deathpenalty";	break;
+	case "3113284973957649759" :	reg="abian";	break;
 }

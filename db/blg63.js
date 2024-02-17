@@ -14,7 +14,8 @@ switch(docID)
 	case "393444998558706363": 	reg="italy";	uss="316089";	break;
 	case "548267362331569663": 	reg="kyushu";	uss="346676";	udn="2012.3.12";	break;
 	case "910753732087426063": 	reg="tpe1";	uss="565663";	break;
-	case "2554678565789577963": 	reg="lang";	break;
+	case "2554678565789577963" :	reg="mothertongue";	break;
 	case "3044501044752075663" :	reg="feast1";	woman="123162/7411450";	break;
 	case "3930760951540741163" :	reg="tech1";	break;
+	case "5757222706014913663" :	reg="lookforjob";	break;
 }

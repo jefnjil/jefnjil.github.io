@@ -16,7 +16,7 @@ switch(docID)
 	case "9150781756259568292": 	reg="shinkansen";	uss="473036";	break;
 	case "6398458173903534092": 	reg="news";	break;
 	case "2482033710321538792": 	reg="elaine";	break;
-	case "453059475764014592": 	reg="israel";	break;
+	case "453059475764014592" :	reg="deathpenalty";	break;
 	case "9175003429012758092": 	reg="tpe";	uss="414621";	break;
 	case "1960663947108168092": 	reg="us16";	uss="558713";	break;
 	case "5090318722636103292": 	reg="campus";	break;

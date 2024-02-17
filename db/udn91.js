@@ -15,7 +15,7 @@ switch(docID)
 	case "29343691": 	reg="3C";	break;
 	case "3089691": 	reg="news";	break;
 	case "3448991": 	reg="sf";	break;
-	case "3852091": 	reg="israel";	break;
+	case "3852091" :	reg="deathpenalty";	break;
 	case "419391": 	reg="crm";	uss="19073";	udn="2006.10.23";	break;
 	case "429591": 	reg="crm";	break;
 	case "4926091": 	reg="italy";	uss="306043";	udn="2011.3.11";	break;

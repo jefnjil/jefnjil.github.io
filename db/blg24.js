@@ -29,4 +29,5 @@ switch(docID)
 	case "1387193317791099624" :	reg="snack11";	udn="2023.8.12";	break;
 	case "6439890464887893024" :	reg="crime3";	break;
 	case "7960452758714827824" :	reg="memory1";	break;
+	case "6394080433818762724" :	reg="deathpenalty";	break;
 }

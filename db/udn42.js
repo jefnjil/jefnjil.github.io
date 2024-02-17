@@ -12,7 +12,7 @@ switch(docID)
 	case "2573942": 	reg="mice";	ctb="2009.?";	break;
 	case "341142": 	reg="hawaii";	uss="18652";	break;
 	case "34517042": 	reg="itf";	uss="479563";	udn="2015.11.3";	break;
-	case "3844542": 	reg="israel";	break;
+	case "3844542" :	reg="deathpenalty";	break;
 	case "4826742": 	reg="rome";	break;
 	case "5972442": 	reg="kyushu";	uss="341678";	udn="2011.12.30";	break;
 	case "6914342": 	reg="mv";	break;

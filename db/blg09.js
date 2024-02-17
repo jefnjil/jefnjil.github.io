@@ -20,4 +20,6 @@ switch(docID)
 	case "2413085581236449109": 	reg="las17";	uss="580627";	break;
 	case "8894195718851700609" :	reg="chiayi";	uss="637473";	break;
 	case "735092813452179709" :	reg="elaine1";	break;
+	case "1473195785955129309" :	reg="abian";	break;
+	case "8371256004218983409" :	reg="lookforjob";	break;
 }

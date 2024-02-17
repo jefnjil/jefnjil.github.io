@@ -10,7 +10,7 @@ switch(docID)
 	case "4942564769605666442": 	reg="tpe";	uss="622106";	break;
 	case "7793094091841987542": 	uMedia="12751/5929896";	reg="snack";	ufp="2021.12.9";	umd="2021.12.2";	break;
 	case "1388262992610577242": 	reg="tpe2";	uss="451281";	break;
-	case "5975067413894934742": 	reg="lang";	break;
+	case "5975067413894934742" :	reg="mothertongue";	break;
 	case "1156666936109195842": 	reg="tech";	break;
 	case "1880464000969531942": 	reg="chnfood";	uss="478107";	break;
 	case "1316293260915830542": 	reg="tomamu";	uss="477040";	break;
