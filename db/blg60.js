@@ -23,4 +23,6 @@ switch(docID)
 	case "4165938467175858560" :	reg="science";	break;
 	case "7710896154390198660" :	reg="george";	break;
 	case "6556085715867033560" :	reg="collect2";	break;
+	case "8928223121104494660" :	reg="polemics";	break;
+	case "8825079247091985360" :	reg="polemics";	break;
 }

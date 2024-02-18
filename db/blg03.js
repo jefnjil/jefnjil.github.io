@@ -25,4 +25,8 @@ switch(docID)
 	case "173545770540771803" :	reg="book";	break;
 	case "343563544800755903" :	reg="memory2";	break;
 	case "4500009357088706903" :	reg="uk";	break;
+	case "52943782629633003" :	reg="citynews";	break;
+	case "3253236001950914703" :	reg="citynews";	break;
+	case "2924286890382683403" :	reg="politics";	break;
+	case "460599118079252003" :	reg="economic";	break;
 }

@@ -19,4 +19,8 @@ switch(docID)
 	case "5966542031234465166" :	reg="fantacy2";	break;
 	case "8519028113487148666" :	reg="book";	break;
 	case "2888887405526464266" :	reg="aitaiwan";	break;
+	case "6424015918790486366" :	reg="economic";	break;
+	case "1557366864162906566" :	reg="comment1";	break;
+	case "2545779370781176766" :	reg="politics";	break;
+	case "7626271531820787766" :	reg="citynews";	break;
 }

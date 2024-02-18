@@ -25,4 +25,5 @@ switch(docID)
 	case "1259913737830348909" :	reg="energy";	break;
 	case "7699708265588018709" :	reg="uk1";	break;
 	case "8073074958389142509" :	reg="collect2";	break;
+	case "1299933606332291309" :	reg="economic";	break;
 }

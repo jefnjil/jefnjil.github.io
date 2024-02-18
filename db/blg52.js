@@ -21,4 +21,6 @@ switch(docID)
 	case "5242894710509213652" :	reg="tpe3";	uss="635468";	ufp="2022.11.7";	break;
 	case "546105687925274752" :	reg="popularity";	break;
 	case "1525061594765394352" :	reg="collect";	break;
+	case "5158826356203817252" :	reg="worldnews";	break;
+	case "4798862209339882752" :	reg="polemics";	break;
 }

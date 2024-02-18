@@ -21,4 +21,5 @@ switch(docID)
 	case "8766819561799246372" :	reg="thriller11";	woman="123164/7380080";	break;
 	case "5631836266112497472" :	reg="deathpenalty";	break;
 	case "6930847022624072272" :	reg="campus";	break;
+	case "2980439587375966872" :	reg="identity";	break;
 }

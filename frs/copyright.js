@@ -6,6 +6,7 @@ jnjRef('10136490','jnjtalks.blogspot.com/2013/12/blog-post','霍夫曼黃色小�
 jnjRef('22641592','jnjhome.blogspot.com/2015/04/blog-post_29','第一場智財權官司');
 jnjRef('44963709','jnjhome.blogspot.com/2016/06/blog-post','第一次美國法庭作證');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('550','jnjliterature.blogspot.com/2021/08/blog-post','談得獎音樂抄襲');
 jnjRef('542700','jnjblogbiz.blogspot.com/2006/11/blog-post','美妙音樂的面孔猙獰');
 jnjRef('383672','jnjblogbiz.blogspot.com/2006/08/blog','淺談Blog的著作權問題');
 jnjRef('246','jnjtalks.blogspot.com/2010/09/blog-post_10','人力有價，文字無價');

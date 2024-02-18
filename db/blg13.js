@@ -28,4 +28,6 @@ switch(docID)
 	case "5767419548146911113" :	reg="collect";	break;
 	case "2102006975046993513" :	reg="collect";	break;
 	case "7438231713530999913" :	reg="collect1";	break;
+	case "2308219996524309113" :	reg="identity";	break;
+	case "508483765486773613" :	reg="translate";	break;
 }

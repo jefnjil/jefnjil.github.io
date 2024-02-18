@@ -1,8 +1,10 @@
 jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
 jnjRef('3222388','jnjhome.blogspot.com/2009/08/blog-post','五十音與我');
 jnjnjRef('314','jnjhome.blogspot.com/2008/09/blog-post_20','翻譯的確有趣');
+jnjRef('494','jnjtalks.blogspot.com/2008/05/blog-post_6','上小學前讀經朗朗上口');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('315','jnjhome.blogspot.com/2008/04/blog-post','頭一次和日本人說日語');
 jnjRef('324','jnjliterature.blogspot.com/2018/05/exitway-out','出口／Exit／Way Out');
 jnjRef('303','jnjhome.blogspot.com/2010/03/blog-post','半句外語都不會，也跑遍五大洲');
+jnjRef('483','jnjtalks.blogspot.com/2008/07/blog-post_9','回應：豪宅廣告，世紀典藏系列（二）');
 jnjRefList += '</ul></p></td></tr></table>';

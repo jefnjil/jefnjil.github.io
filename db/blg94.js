@@ -19,4 +19,7 @@ switch(docID)
 	case "471887941195994594": 	reg="sf";	break;
 	case "752680280092556894" :	reg="crime2";	break;
 	case "5240992598678873994" :	reg="tpe4";	break;
+	case "5434345026530627894" :	reg="worldnews";	break;
+	case "8902711567640017294" :	reg="politics";	break;
+	case "189710402182899594" :	reg="politics1";	break;
 }

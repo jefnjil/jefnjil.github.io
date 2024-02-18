@@ -12,6 +12,7 @@ jnjRef('146679444','jnjliterature.blogspot.com/2020/08/ennio-morricone','Ennio M
 jnjRef('180144910','jnjliterature.blogspot.com/2021/11/oldremain','「詭老 Old」片尾曲「Remain」');
 jnjRef('117','jnjliterature.blogspot.com/2023/09/rains-of-castamere','卡斯特梅爾之雨（Rains of Castamere）');
 jnjRef('118','jnjliterature.blogspot.com/2023/10/nature-boy','Nature Boy - 橫跨七十年的不同詮釋');
+jnjRef('480','jnjtalks.blogspot.com/2008/09/blog-post_30','黃友棣的「蔣公紀念歌」');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('173886712','jnjliterature.blogspot.com/2022/05/io-ti-penso-amore-devils-violinist','Io Ti Penso Amore（想你，吾愛）');
 jnjRef('180135478','jnjliterature.blogspot.com/2018/12/2013-frozenvs-1983-yentl','「冰雪奇緣 Frozen」vs. 「楊朵 Yentl」');
@@ -20,4 +21,5 @@ jnjRef('180113296','jnjliterature.blogspot.com/2023/11/patricia-janeckova','歌�
 jnjRef('134','jnjhome.blogspot.com/2022/06/blog-post_1','類比時代的音樂圖書館在台灣');
 jnjRef('156','jnjliterature.blogspot.com/2018/12/2018','「美第奇：佛羅倫薩大師」配樂');
 jnjRef('313','jnjhome.blogspot.com/2008/10/blog-post_9','什麼反共劇的主題曲');
+jnjRef('551','jnjliterature.blogspot.com/2021/07/love-never-dies','「歌劇魅影」正宗續集');
 jnjRefList += '</ul></p></td></tr></table>';

@@ -14,6 +14,7 @@ jnjRef('374','jnjfoorprint.blogspot.com/2024/02/udn-blog-b',' ─  B');
 jnjRef('375','jnjfoorprint.blogspot.com/2011/08/udn-blog',' ─ 燈火闌珊');
 jnjRef('376','jnjfoorprint.blogspot.com/2017/03/udn-blog-shine-girl',' ─ shine girl');
 jnjRef('332','jnjfoorprint.blogspot.com/2012/02/blog-post_12','炮仗花‧放馬屁！');
+jnjRef('532','jnjtalks.blogspot.com/2007/02/blog-post_2','蘿蔔糕與羅曼諾');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('330','jnjfoorprint.blogspot.com/2023/03/udn-blog-20062023','UDN集錦~旅遊');
 jnjRef('357','jnjfoorprint.blogspot.com/2006/12/udn-blog-2006',' ─ 2006');

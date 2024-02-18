@@ -13,4 +13,6 @@ switch(docID)
 	case "8088329570064662493": 	reg="wind";	uss="384743";	break;
 	case "4305226757610277793": 	reg="buffet";	uss="549169";	udn="2017.2.18";	break;
 	case "5664154842257845593" :	reg="elite100";	break;
+	case "1794351842719998493" :	reg="politics";	break;
+	case "8751442142526039393" :	reg="politics1";	break;
 }

@@ -13,10 +13,12 @@ switch(docID)
 	case "6881224882844913561": 	reg="harbin";	uss="397443";	udn="2013.5.6";	break;
 	case "4942276757173695161": 	reg="twm";	uss="418586";	udn="2015.4.4";	break;
 	case "1954876139614012961" :	reg="mv2";	break;
-	case "3663487631115728761" :	reg="news2";	break;
+	case "3663487631115728761" :	reg="citynews";	break;
 	case "1628966807691754561" :	reg="copyright";	break;
 	case "2273063496083197961" :	reg="humanrights";	break;
 	case "5059149740071908361" :	reg="lookforjob";	break;
 	case "8588997706476255461" :	reg="science";	break;
 	case "7380727303330547961" :	reg="memory1";	break;
+	case "6058854871412499061" :	reg="worldnews";	break;
+	case "145469572021709661" :	reg="politics1";	break;
 }

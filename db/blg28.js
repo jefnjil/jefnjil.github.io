@@ -22,4 +22,7 @@ switch(docID)
 	case "4384099779125708128" :	reg="copyright";	break;
 	case "6612080151729954328" :	reg="tainan";	break;
 	case "8276615827664178328" :	reg="collect1";	break;
+	case "6410107361554516628" :	reg="worldnews";	break;
+	case "6896438375666510728" :	reg="translate";	break;
+	case "4136752215383568728" :	reg="collect1";	break;
 }

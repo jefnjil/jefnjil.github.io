@@ -14,4 +14,5 @@ switch(docID)
 	case "3457620676413042977" :	reg="news2";	break;
 	case "1369220652693306077" :	reg="mothertongue";	break;
 	case "668970570589013677" :	reg="collect2";	break;
+	case "5515758774320784977" :	reg="tale";	break;
 }

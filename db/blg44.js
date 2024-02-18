@@ -18,4 +18,6 @@ switch(docID)
 	case "385986273254200444" :	reg="book";	break;
 	case "8121843209105290944" :	reg="mothertongue";	break;
 	case "4956003922859771644" :	reg="copyright";	break;
+	case "350015854351049744" :	reg="politics";	break;
+	case "2487148277492044244" :	reg="citynews";	break;
 }

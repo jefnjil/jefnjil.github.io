@@ -1,10 +1,17 @@
 jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
 jnjRef('1055306','jnjblogbiz.blogspot.com/2007/06/blog-post_28','漫談小白');
 jnjRef('175','jnjblogbiz.blogspot.com/2019/06/blog-post','廢柴留言');
+jnjRef('506','jnjtalks.blogspot.com/2007/12/blog-post_31','理想和現實');
+jnjRef('432','jnjtalks.blogspot.com/2016/08/blog-post','新聞標題癌');
+jnjRef('469','jnjtalks.blogspot.com/2010/06/blog-post','有耶穌這個人嗎?');
 jnjRef('174','jnjblogbiz.blogspot.com/2008/05/blog-post','滾你的窮八蛋！');
-jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('173','jnjblogbiz.blogspot.com/2008/03/ip','打爛筆仗偵測IP');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('418','jnjtalks.blogspot.com/2014/01/etag_19','有云：俺的eTag觀念錯得離譜');
 jnjRef('1048125','jnjblogbiz.blogspot.com/2007/06/blog-post','扮好主人角色，賓主才能盡歡');
 jnjRef('171','jnjblogbiz.blogspot.com/2007/04/blog-post','勸世文：浪費時間打筆墨官司殊不值得');
 jnjRef('172','jnjblogbiz.blogspot.com/2007/06/blog-post_10','關於城邦悄悄話與筆戰的回應');
+jnjRef('479','jnjtalks.blogspot.com/2009/01/blog-post_11','海角七號（欣賞角度不同，各有道理）');
+jnjRef('485','jnjtalks.blogspot.com/2008/06/blog-post_26','沙豬的沉思 - 致女性主義者');
+jnjRef('545','jnjtalks.blogspot.com/2006/08/blog-post_73','面對文化差異，進退之道見仁見智');
 jnjRefList += '</ul></p></td></tr></table>';

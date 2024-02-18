@@ -22,4 +22,6 @@ switch(docID)
 	case "776844471295654681" :	reg="science";	break;
 	case "8817529155094768981" :	reg="fraud";	break;
 	case "6228477602082153481" :	reg="tokyo1";	break;
+	case "6819517436298774481" :	reg="worldnews";	break;
+	case "1346073276650011081" :	reg="tale";	break;
 }

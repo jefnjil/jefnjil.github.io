@@ -20,4 +20,6 @@ switch(docID)
 	case "7772341252033279182" :	reg="chiayi";	uss="637473";	udn="2023.6.24";	break;
 	case "2946531203337248582" :	reg="collect";	break;
 	case "7137404602782382082" :	reg="collect2";	break;
+	case "5068434111798149082" :	reg="comment1";	break;
+	case "116704548071417782" :	reg="politics1";	break;
 }

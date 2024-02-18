@@ -22,4 +22,5 @@ switch(docID)
 	case "5070759664412385932" :	reg="book";	break;
 	case "3196403823745712132" :	reg="tsai";	break;
 	case "1710588121634385332" :	reg="tsai";	break;
+	case "5245999991362302932" :	reg="identity";	break;
 }

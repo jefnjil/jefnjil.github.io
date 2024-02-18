@@ -27,4 +27,8 @@ switch(docID)
 	case "7371998769735240105" :	reg="hsinchu";	uss="635048";	umd="2022.10.28";	uMedia="12749/6715185";	break;
 	case "4008999826450223505" :	reg="tsai";	break;
 	case "8453824707559279505" :	reg="collect2";	break;
+	case "1659623123666277605" :	reg="citynews";	break;
+	case "4741285570587399205" :	reg="politics";	break;
+	case "5367991579025431805" :	reg="worldnews";	break;
+	case "8408019097649770005" :	reg="comment1";	break;
 }

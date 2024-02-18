@@ -22,4 +22,7 @@ switch(docID)
 	case "2046039307421546778" :	reg="mothertongue";	break;
 	case "2891863960912191178" :	reg="aitaiwan";	break;
 	case "7658278094927705078" :	reg="collect2";	break;
+	case "6324269607830926178" :	reg="citynews";	break;
+	case "2341298164625334178" :	reg="tale";	break;
+	case "9006398000080102078" :	reg="tale";	break;
 }

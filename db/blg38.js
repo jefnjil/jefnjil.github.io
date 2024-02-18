@@ -19,4 +19,6 @@ switch(docID)
 	case "4199896829799877838" :	reg="science";	break;
 	case "4803533427718302638" :	reg="collect";	break;
 	case "722967980565475138" :	reg="collect1";	break;
+	case "8225377524064378038" :	reg="politics";	break;
+	case "3211226188694779838" :	reg="economic";	break;
 }

@@ -28,4 +28,8 @@ switch(docID)
 	case "7230844320845709788": 	reg="westfood";	break;
 	case "3296657281373903288" :	reg="sf1a";	break;
 	case "8011622987750976388" :	reg="collect2";	break;
+	case "4918564154903666288" :	reg="economic";	break;
+	case "2854047794855854588" :	reg="worldnews";	break;
+	case "2703117033585175388" :	reg="politics";	break;
+	case "8503647315325378888" :	reg="economic";	break;
 }

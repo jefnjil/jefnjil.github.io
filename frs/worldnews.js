@@ -1,0 +1,17 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('536','jnjtalks.blogspot.com/2006/11/blog-post_33','美國參政吐血記');
+jnjRef('505','jnjtalks.blogspot.com/2008/01/blog-post_4','最好永遠不要復工');
+jnjRef('423','jnjtalks.blogspot.com/2020/05/blog-post','關於中印邊界衝突');
+jnjRef('426','jnjtalks.blogspot.com/2017/10/blog-post','出國旅遊也要有些水準');
+jnjRef('427','jnjtalks.blogspot.com/2017/09/blog-post','說好的西敏寺只路過');
+jnjRef('429','jnjtalks.blogspot.com/2017/08/blog-post_11','美建議造「微型潛艦」');
+jnjRef('434','jnjtalks.blogspot.com/2016/07/blog-post_28','日學者提倡「零葬」 ');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('512','jnjtalks.blogspot.com/2007/12/blog-post_1','原來台灣比大陸還要不方便 ');
+jnjRef('447','jnjtalks.blogspot.com/2015/01/blog-post_28','從柯文哲的「破銅爛鐵」談起');
+jnjRef('455','jnjtalks.blogspot.com/2013/05/blog-post','美國槍協這麼說 人人擁槍就安全');
+jnjRef('471','jnjtalks.blogspot.com/2010/04/blog-post','攝影機誤為火箭筒,路透記者被美軍誤殺');
+jnjRef('491','jnjtalks.blogspot.com/2008/05/blog-post_26','談四川地震 莎朗史東：因果報應');
+jnjRef('419','jnjtalks.blogspot.com/2021/08/blog-post_27','美國撤軍阿富汗，神學士坐進總統府');
+jnjRef('425','jnjtalks.blogspot.com/2018/03/blog-post','台漁船遭日水砲驅趕 外交部：毋枉毋縱處理');
+jnjRefList += '</ul></p></td></tr></table>';

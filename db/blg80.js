@@ -26,4 +26,5 @@ switch(docID)
 	case "3866128087927928980" :	reg="abian";	break;
 	case "4652959774029315980" :	reg="energy";	break;
 	case "7630071185561827980" :	reg="collect2";	break;
+	case "8723020281428565180" :	reg="identity";	break;
 }

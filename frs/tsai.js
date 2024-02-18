@@ -1,11 +1,11 @@
 jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
-jnjRef('129520039','jnjtalks.blogspot.com/2019/09/blog-post','「蔡英文總統論文讀後感」懷古補遺');
-jnjRef('191','jnjtalks.blogspot.com/2021/08/blog-post','林環牆稱發現蔡英文論文門破案鐵證');
-jnjRef('227','jnjtalks.blogspot.com/2007/06/blog-post','政治人物的脊梁骨');
-jnjRef('233','jnjtalks.blogspot.com/2007/03/blog-post_1','什麼是原罪？');
-jnjRefList += '</ul></p></td><td valign=top><p><ul>';
-jnjRef('193','jnjtalks.blogspot.com/2019/12/blog-post_5','楊蕙如案》 蔡英文：我不認得她耶');
 jnjRef('194','jnjtalks.blogspot.com/2018/05/blog-post','文青式數學');
 jnjRef('195','jnjtalks.blogspot.com/2016/10/blog-post','六不總統');
+jnjRef('233','jnjtalks.blogspot.com/2007/03/blog-post_1','什麼是原罪？');
+jnjRef('227','jnjtalks.blogspot.com/2007/06/blog-post','政治人物的脊梁骨');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('193','jnjtalks.blogspot.com/2019/12/blog-post_5','楊蕙如案》 蔡英文：我不認得她耶');
 jnjRef('219','jnjtalks.blogspot.com/2012/05/blog-post_58','蔡英文指控黑道份子混入滋事');
+jnjRef('129520039','jnjtalks.blogspot.com/2019/09/blog-post','「蔡英文總統論文讀後感」懷古補遺');
+jnjRef('191','jnjtalks.blogspot.com/2021/08/blog-post','林環牆稱發現蔡英文論文門破案鐵證');
 jnjRefList += '</ul></p></td></tr></table>';

@@ -19,4 +19,5 @@ switch(docID)
 	case "5758263405117375586" :	reg="lookforjob";	break;
 	case "7011787056343002786" :	reg="tokyo";	break;
 	case "3860800235548097586" :	reg="translate";	break;
+	case "4295998278679465786" :	reg="citynews";	break;
 }

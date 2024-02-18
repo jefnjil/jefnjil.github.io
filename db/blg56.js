@@ -20,4 +20,6 @@ switch(docID)
 	case "4905716404283839756" :	reg="covid19";	break;
 	case "6921689402237077656" :	reg="collect";	break;
 	case "6658604366138178156" :	reg="collect";	break;
+	case "5553259153207910856" :	reg="economic";	break;
+	case "1067210480170944956" :	reg="politics1";	break;
 }

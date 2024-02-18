@@ -29,4 +29,5 @@ switch(docID)
 	case "625943763398362835" :	reg="tpe2";	uss="637427";	umd="2023.5.13";	break;
 	case "3214258349728683235" :	reg="george";	break;
 	case "6778709646254930435" :	reg="covid19";	break;
+	case "740125692567344035" :	reg="economic";	break;
 }

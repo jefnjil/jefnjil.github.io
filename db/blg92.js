@@ -25,7 +25,10 @@ switch(docID)
 	case "4200524420029898592" :	reg="forest";	break;
 	case "6204219578412457792" :	reg="thriller11";	break;
 	case "6817116163816443592" :	reg="horror";	break;
-	case "9156445337324674892" :	reg="news2";	break;
+	case "9156445337324674892" :	reg="identity";	break;
 	case "910552332993503592" :	reg="covid19";	break;
 	case "2399257186146185392" :	reg="aitaiwan";	break;
+	case "3365094389488967692" :	reg="politics";	break;
+	case "7591636254266529192" :	reg="citynews";	break;
+	case "3636583493281563392" :	reg="politics";	break;
 }

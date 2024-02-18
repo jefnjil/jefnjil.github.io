@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Articles PseudoUID="416">
+<Articles PseudoUID="552">
   <Article id="100" Title="惡夜性追緝、尬電殺手、生死交戰、明日戰爭、迴路追殺令、綠騎士" bURL="jnjmvtv.blogspot.com/2021/12/blog-post.html" woman="" bID="1761265318904937491" reg="action2" />
   <Article id="101" Title="黑羅蘋、Clarice、勿下錯招、青年神探維蘭德、破綻" bURL="jnjmvtv.blogspot.com/2021/12/clarice.html" woman="" bID="1998837180476543073" reg="crime3" />
   <Article id="102" Title="黑魔女2、太陽召喚、雅信傳、血色天劫、莉西的人生異旅、惡靈偵探" bURL="jnjmvtv.blogspot.com/2021/12/2.html" woman="" bID="4150961033916267771" reg="fantacy1" />
@@ -33,9 +33,9 @@
   <Article id="139" Title=" 《臉書》管樂團活動" bURL="jnjhome.blogspot.com/2012/07/blog-post_31" woman="" bID="4560037950413635569" reg="wind" />
   <Article id="140" Title="《新聞》否認民調作假柯文哲：年輕族群加權但投票率不如預期" bURL="jnjtalks.blogspot.com/2024/01/blog-post_18" woman="" bID="5079221236159801004" reg="news1" />
   <Article id="141" Title="回應：成大教授要求「把活金魚打成汁」" bURL="jnjtalks.blogspot.com/2023/07/blog-post_12" woman="" bID="7019748721442219047" reg="news1" />
-  <Article id="142" Title="臉書留言：關於東岸鐵路是日本人蓋的" bURL="jnjtalks.blogspot.com/2020/12/blog-post" woman="" bID="9156445337324674892" reg="news2" />
+  <Article id="142" Title="臉書留言：關於東岸鐵路是日本人蓋的" bURL="jnjtalks.blogspot.com/2020/12/blog-post" woman="" bID="9156445337324674892" reg="identity" />
   <Article id="143" Title="《臉書》振興三倍券和那堆花花券" bURL="jnjtalks.blogspot.com/2020/12/blog-post_31" woman="" bID="2256529815812768647" reg="news2" />
-  <Article id="144" Title="《新聞》人氣店用餐不想等…使出這招可省時免排隊 眾人怒批：沒格" bURL="jnjtalks.blogspot.com/2020/10/blog-post" woman="" bID="3663487631115728761" reg="news2" />
+  <Article id="144" Title="《新聞》人氣店用餐不想等…使出這招可省時免排隊 眾人怒批：沒格" bURL="jnjtalks.blogspot.com/2020/10/blog-post" woman="" bID="3663487631115728761" reg="citynews" />
   <Article id="145" Title="《新聞》連木瓜都能確診？ 坦尚尼亞總統怒轟：篩檢試劑有嚴重瑕疵" bURL="jnjtalks.blogspot.com/2020/05/blog-post_5" woman="" bID="763871989972179931" reg="covid19" />
   <Article id="146" Title="《臉書》有關武漢P4實驗室" bURL="jnjtalks.blogspot.com/2020/04/p4" woman="" bID="1664919893897039443" reg="covid19" />
   <Article id="147" Title=" 《新聞》甘有影？麻省理工研究：臺灣人是地球所有人類的共同祖先" bURL="jnjtalks.blogspot.com/2016/09/blog-post" woman="" bID="1984650156046454458" reg="science" />
@@ -307,6 +307,142 @@
   <Article id="413" Title="UDN Blog 迴響集錦 ── flâneuse" bURL="jnjhome.blogspot.com/2009/12/udn-blog-flaneuse" woman="" bID="4126955651179633454" reg="collect" />
   <Article id="414" Title="UDN Blog 迴響集錦 ── 蘋果蘇打" bURL="jnjhome.blogspot.com/2011/09/udn-blog" woman="" bID="3655838191564535290" reg="collect" />
   <Article id="415" Title="《臉書》無根落葉集（斷線沒著落的）" bURL="jnjtalks.blogspot.com/2024/02/blog-post" woman="" bID="7137404602782382082" reg="collect2" />
+  <Article id="416" Title="「拒看」也是一種意見表達" bURL="jnjtalks.blogspot.com/2022/09/blog-post" woman="" bID="6066420732244312637" reg="politics" />
+  <Article id="417" Title="《新聞》高檔溫泉飯店傳偷拍男蹲女湯布簾外拍照挨告" bURL="jnjtalks.blogspot.com/2022/02/blog-post" woman="" bID="52943782629633003" reg="citynews" />
+  <Article id="418" Title="有云：俺的eTag觀念錯得離譜" bURL="jnjtalks.blogspot.com/2014/01/etag_19" woman="" bID="3609680166144278563" reg="polemics" />
+  <Article id="419" Title="美國撤軍阿富汗，神學士坐進總統府" bURL="jnjtalks.blogspot.com/2021/08/blog-post_27" woman="" bID="5155152939483043610" reg="worldnews" />
+  <Article id="420" Title="新聞：親綠寫手自導自演 妻是民進黨工 郭正亮大罵 「蟑螂窩 」" bURL="jnjtalks.blogspot.com/2021/05/blog-post" woman="" bID="3284022820764992351" reg="politics" />
+  <Article id="421" Title="《新聞》為吃免費壽司 上百人改名 「 鮭魚」" bURL="jnjtalks.blogspot.com/2021/03/blog-post" woman="" bID="5039921723647459187" reg="citynews" />
+  <Article id="422" Title="《新聞》引擎凸槌 這國F-16機隊全停飛靠鄰國防衛" bURL="jnjtalks.blogspot.com/2021/03/f-16" woman="" bID="4950716157850348754" reg="tale" />
+  <Article id="423" Title="《新聞》關於中印邊界衝突" bURL="jnjtalks.blogspot.com/2020/05/blog-post" woman="" bID="6819517436298774481" reg="worldnews" />
+  <Article id="424" Title="《新聞》普悠瑪司機員犯3大過失及說1個謊" bURL="jnjtalks.blogspot.com/2018/10/31" woman="" bID="2707917120517498489" reg="citynews" />
+  <Article id="425" Title="《新聞》台漁船遭日水砲驅趕 外交部：毋枉毋縱處理" bURL="jnjtalks.blogspot.com/2018/03/blog-post" woman="" bID="7425055844285214169" reg="worldnews" />
+  <Article id="426" Title="《回應》出國旅遊也要有些水準" bURL="jnjtalks.blogspot.com/2017/10/blog-post" woman="" bID="1248772349040723439" reg="worldnews" />
+  <Article id="427" Title="《回應》說好的西敏寺只路過" bURL="jnjtalks.blogspot.com/2017/09/blog-post" woman="" bID="9166200479417859934" reg="worldnews" />
+  <Article id="428" Title="《新聞》候選人露鳥尿尿" bURL="jnjtalks.blogspot.com/2017/09/blog-post_5" woman="" bID="3365094389488967692" reg="politics" />
+  <Article id="429" Title="《新聞》美建議造「微型潛艦」" bURL="jnjtalks.blogspot.com/2017/08/blog-post_11" woman="" bID="5434345026530627894" reg="worldnews" />
+  <Article id="430" Title="《新聞》交通數則" bURL="jnjtalks.blogspot.com/2017/02/blog-post" woman="" bID="6760263975709039824" reg="citynews" />
+  <Article id="431" Title="《臉書》沒擦「脣膏」像光屁股出門" bURL="jnjtalks.blogspot.com/2016/08/blog-post_22" woman="" bID="1659623123666277605" reg="citynews" />
+  <Article id="432" Title="新聞標題癌" bURL="jnjtalks.blogspot.com/2016/08/blog-post" woman="" bID="8928223121104494660" reg="polemics" />
+  <Article id="433" Title="《臉書》不吐不快的遊覽車問題" bURL="jnjtalks.blogspot.com/2016/07/blog-post" woman="" bID="946969124873879222" reg="citynews" />
+  <Article id="434" Title="《新聞》日學者提倡「零葬」 葬禮、墓地、祭拜都不要！" bURL="jnjtalks.blogspot.com/2016/07/blog-post_28" woman="" bID="2958833539779761410" reg="worldnews" />
+  <Article id="435" Title="《新聞》國文會考新詩題目 連作者都答不出來" bURL="jnjtalks.blogspot.com/2016/06/blog-post_3" woman="" bID="90721086950510708" reg="citynews" />
+  <Article id="436" Title="《回應》人渣文本：為什麼對「提問」玩肩帶義憤填膺？" bURL="jnjtalks.blogspot.com/2016/04/blog-post_27" woman="" bID="1794351842719998493" reg="politics" />
+  <Article id="437" Title="《回應》國片就是爛" bURL="jnjtalks.blogspot.com/2016/04/blog-post" woman="" bID="7424060021696891720" reg="citynews" />
+  <Article id="438" Title="回應：高跟鞋的靈魂? 嘉義縣布袋鎮高跟鞋教堂" bURL="jnjtalks.blogspot.com/2016/04/blog-post_12" woman="" bID="3253236001950914703" reg="citynews" />
+  <Article id="439" Title="《回應》無藥可救的國民黨廣告" bURL="jnjtalks.blogspot.com/2016/01/blog-post_15" woman="" bID="8225377524064378038" reg="politics" />
+  <Article id="440" Title="《回應》故宮南院的置物櫃設計為何讓阿嬤不開心？" bURL="jnjtalks.blogspot.com/2016/01/blog-post_4" woman="" bID="5688918663463818755" reg="citynews" />
+  <Article id="441" Title="《回應》去好市多秒退林鳳營，到底對不對？" bURL="jnjtalks.blogspot.com/2015/12/blog-post_12" woman="" bID="7871382700728530720" reg="citynews" />
+  <Article id="442" Title="《回應》我對波卡的看法" bURL="jnjtalks.blogspot.com/2015/09/blog-post_19" woman="" bID="1466033036138895283" reg="citynews" />
+  <Article id="443" Title="為什麼還要有課綱這種東西呢？" bURL="jnjtalks.blogspot.com/2015/07/blog-post_30" woman="" bID="2308219996524309113" reg="identity" />
+  <Article id="444" Title="《回應》輪椅與公車的絕望之戰" bURL="jnjtalks.blogspot.com/2015/07/blog-post_12" woman="" bID="1272565918652507227" reg="citynews" />
+  <Article id="445" Title="《回應》一支廣告，看穿經濟部的落後職場觀" bURL="jnjtalks.blogspot.com/2015/05/blog-post_14" woman="" bID="5553259153207910856" reg="economic" />
+  <Article id="446" Title="《回應》不是網路太靠北，是你太弱" bURL="jnjtalks.blogspot.com/2015/02/blog-post_2" woman="" bID="7591636254266529192" reg="citynews" />
+  <Article id="447" Title="《回應》從柯文哲的「破銅爛鐵」談起" bURL="jnjtalks.blogspot.com/2015/01/blog-post_28" woman="" bID="5158826356203817252" reg="worldnews" />
+  <Article id="448" Title="《回應》陳為廷性騷案／無法面對孤獨 掌權時怎辦？" bURL="jnjtalks.blogspot.com/2014/12/blog-post" woman="" bID="4312829620701659865" reg="politics" />
+  <Article id="449" Title="拿破崙復辟標題" bURL="jnjtalks.blogspot.com/2013/09/blog-post_16" woman="" bID="8840736928131135214" reg="tale" />
+  <Article id="450" Title="「小確幸」的小商榷" bURL="jnjtalks.blogspot.com/2013/08/blog-post" woman="" bID="9160875277890585831" reg="identity" />
+  <Article id="451" Title=" 《臉書》所謂日本時代的禽鳥與水產保育規定" bURL="jnjtalks.blogspot.com/2013/08/blog-post_17" woman="" bID="8051546155845598404" reg="identity" />
+  <Article id="452" Title=" 《新聞》如司法審理，多人恐無罪｜洪仲丘案追真相" bURL="jnjtalks.blogspot.com/2013/08/blog-post_1" woman="" bID="4703452180050803804" reg="citynews" />
+  <Article id="453" Title="軍隊的本質是暴力，存在的目的就是殺人" bURL="jnjtalks.blogspot.com/2013/07/blog-post_29" woman="" bID="3636583493281563392" reg="politics" />
+  <Article id="454" Title="口碑和業障" bURL="jnjtalks.blogspot.com/2013/07/blog-post_1" woman="" bID="6208143126127152454" reg="politics" />
+  <Article id="455" Title="回應：美國槍協這麼說 人人擁槍就安全" bURL="jnjtalks.blogspot.com/2013/05/blog-post" woman="" bID="6410107361554516628" reg="worldnews" />
+  <Article id="456" Title="回應：國家公園收費，會令遊客不想前往？" bURL="jnjtalks.blogspot.com/2013/04/blog-post" woman="" bID="6424015918790486366" reg="economic" />
+  <Article id="457" Title="回應：吃頓飯要花多少錢" bURL="jnjtalks.blogspot.com/2012/09/blog-post" woman="" bID="4918564154903666288" reg="economic" />
+  <Article id="458" Title="回應：名嘴批評， 有用嗎？" bURL="jnjtalks.blogspot.com/2012/05/blog-post_20" woman="" bID="9082033243346820573" reg="politics" />
+  <Article id="459" Title="水煮青蛙田雞粥" bURL="jnjtalks.blogspot.com/2012/05/blog-post_70" woman="" bID="5622937363016402334" reg="politics" />
+  <Article id="460" Title="認同不過是藉由重塑形象包裝品牌" bURL="jnjtalks.blogspot.com/2011/12/blog-post" woman="" bID="5013966755266360383" reg="identity" />
+  <Article id="461" Title="「獵食」和「獵色」，骨子裡是相同的「獵人─獵物」概念" bURL="jnjtalks.blogspot.com/2012/12/blog-post" woman="" bID="4910840101115091257" reg="identity" />
+  <Article id="462" Title="回應：柴山獼猴下山搶食" bURL="jnjtalks.blogspot.com/2011/04/blog-post_1" woman="" bID="6324269607830926178" reg="citynews" />
+  <Article id="463" Title="夢與希望是化不可能為可能的原動力" bURL="jnjtalks.blogspot.com/2011/03/shine" woman="" bID="2492701647483661621" reg="economic" />
+  <Article id="464" Title="不同資質品性的人，需要不同的激勵方式" bURL="jnjtalks.blogspot.com/2011/01/blog-post_9" woman="" bID="7917157700715184724" reg="lookforjob" />
+  <Article id="465" Title="回應：請慎行一樓一鳳，避免春色無邊" bURL="jnjtalks.blogspot.com/2010/10/blog-post_15" woman="" bID="4741285570587399205" reg="politics" />
+  <Article id="466" Title="回應：盲目搶購理性的一面" bURL="jnjtalks.blogspot.com/2010/10/blog-post_10" woman="" bID="8743818033290410049" reg="economic" />
+  <Article id="467" Title="回應：修法修成老不修" bURL="jnjtalks.blogspot.com/2010/09/blog-post_5" woman="" bID="2924286890382683403" reg="politics" />
+  <Article id="468" Title="回應：新聞局邀張大春太隨便" bURL="jnjtalks.blogspot.com/2010/07/blog-post_28" woman="" bID="4295998278679465786" reg="citynews" />
+  <Article id="469" Title="回應：有耶穌這個人嗎?" bURL="jnjtalks.blogspot.com/2010/06/blog-post" woman="" bID="7876268220493139834" reg="polemics" />
+  <Article id="470" Title="《回應》中華民國在台灣不是流亡政府，請問那該叫什麼？" bURL="jnjtalks.blogspot.com/2012/05/blog-post_41" woman="" bID="2980439587375966872" reg="identity" />
+  <Article id="471" Title="回應：攝影機誤為火箭筒,路透記者被美軍誤殺" bURL="jnjtalks.blogspot.com/2010/04/blog-post" woman="" bID="2854047794855854588" reg="worldnews" />
+  <Article id="472" Title="回應：少男化才是趨勢" bURL="jnjtalks.blogspot.com/2010/03/blog-post_7" woman="" bID="93667487519546968" reg="citynews" />
+  <Article id="473" Title="回應：啃老族" bURL="jnjtalks.blogspot.com/2010/02/blog-post" woman="" bID="1038317683934965637" reg="citynews" />
+  <Article id="474" Title="回應：信用卡不用了 為什麼那麼麻煩 ? " bURL="jnjtalks.blogspot.com/2010/01/blog-post" woman="" bID="8208319354607550910" reg="economic" />
+  <Article id="475" Title="我們確實知道真相是什麼嗎？" bURL="jnjtalks.blogspot.com/2012/05/blog-post_22" woman="" bID="1557366864162906566" reg="comment1" />
+  <Article id="476" Title="《新聞》八八水災口水成災" bURL="jnjtalks.blogspot.com/2012/05/88" woman="" bID="4570645183084940365" reg="politics" />
+  <Article id="477" Title="回應：一論，ＪＣ鮮師才是范蘭欽？" bURL="jnjtalks.blogspot.com/2009/03/blog-post_15" woman="" bID="1144495517902127242" reg="politics" />
+  <Article id="478" Title="回應：李慶安當選是否有效，由美國決定！" bURL="jnjtalks.blogspot.com/2009/02/blog-post_7" woman="" bID="5406405768715466799" reg="politics" />
+  <Article id="479" Title="回應：海角七號（欣賞角度不同，各有道理）" bURL="jnjtalks.blogspot.com/2009/01/blog-post_11" woman="" bID="8664655866405479974" reg="polemics" />
+  <Article id="480" Title="黃友棣的「蔣公紀念歌」" bURL="jnjtalks.blogspot.com/2008/09/blog-post_30" woman="" bID="7483596328456324790" reg="music1" />
+  <Article id="481" Title="回應：談留級，看到該留級的校長 " bURL="jnjtalks.blogspot.com/2008/08/blog-post_96" woman="" bID="6029905976003135822" reg="citynews" />
+  <Article id="482" Title="《回應》誰能告訴我，你所知道的謝志偉？" bURL="jnjtalks.blogspot.com/2008/07/blog-post" woman="" bID="2545779370781176766" reg="politics" />
+  <Article id="483" Title="回應：豪宅廣告，世紀典藏系列（二）" bURL="jnjtalks.blogspot.com/2008/07/blog-post_9" woman="" bID="6896438375666510728" reg="translate" />
+  <Article id="484" Title="《回應》肯定總統府對莊國榮事件的意見與作為" bURL="jnjtalks.blogspot.com/2008/06/blog-post_27" woman="" bID="3313221603212493973" reg="politics" />
+  <Article id="485" Title="回應：沙豬的沉思 - 致女性主義者" bURL="jnjtalks.blogspot.com/2008/06/blog-post_26" woman="" bID="2057439848538932153" reg="polemics" />
+  <Article id="486" Title="先有棒球，才有國家主義領袖" bURL="jnjtalks.blogspot.com/2008/06/blog-post_24" woman="" bID="3389336458410983239" reg="identity" />
+  <Article id="487" Title="回應：臺灣僅有釣魚臺「歷史主權」？" bURL="jnjtalks.blogspot.com/2008/06/blog-post_21" woman="" bID="7430700732856784865" reg="identity" />
+  <Article id="488" Title="綠卡和忠誠問題" bURL="jnjtalks.blogspot.com/2012/05/blog-post_14" woman="" bID="5859818466398175251" reg="politics" />
+  <Article id="489" Title="忠誠度乃誅心之論" bURL="jnjtalks.blogspot.com/2008/06/jc" woman="" bID="6320940653507250401" reg="politics" />
+  <Article id="490" Title="某國國會猴子分果子" bURL="jnjtalks.blogspot.com/2008/05/blog-post_30" woman="" bID="2341298164625334178" reg="tale" />
+  <Article id="491" Title="《新聞》談四川地震　莎朗史東：因果報應" bURL="jnjtalks.blogspot.com/2008/05/blog-post_26" woman="" bID="2155647531322975387" reg="worldnews" />
+  <Article id="492" Title="回應：拒赴競選對手就職典禮，從眾也！" bURL="jnjtalks.blogspot.com/2008/05/blog-post_17" woman="" bID="3593609024408909587" reg="politics" />
+  <Article id="493" Title="何以拒領公投" bURL="jnjtalks.blogspot.com/2012/05/blog-post_51" woman="" bID="8902711567640017294" reg="politics" />
+  <Article id="494" Title="上小學前讀經朗朗上口" bURL="jnjtalks.blogspot.com/2008/05/blog-post_6" woman="" bID="508483765486773613" reg="translate" />
+  <Article id="495" Title="回應：教授上電視，社會角色的衝突？" bURL="jnjtalks.blogspot.com/2008/05/blog-post_1" woman="" bID="5068434111798149082" reg="comment1" />
+  <Article id="496" Title="落伍的做法需要檢討，拿來分化族群就很沒品" bURL="jnjtalks.blogspot.com/2008/04/blog-post_23" woman="" bID="5245999991362302932" reg="identity" />
+  <Article id="497" Title="衛生紙該往何處丟" bURL="jnjtalks.blogspot.com/2008/04/blog-post_63" woman="" bID="3211226188694779838" reg="economic" />
+  <Article id="498" Title="回應：Orz錢我對不起你" bURL="jnjtalks.blogspot.com/2008/04/orz" woman="" bID="1299933606332291309" reg="economic" />
+  <Article id="499" Title="公投門檻偏高，遊戲規則不公平" bURL="jnjtalks.blogspot.com/2008/03/blog-post" woman="" bID="350015854351049744" reg="politics" />
+  <Article id="500" Title="選舉現任優勢，謝罩了隊友，自己卻不受庇蔭" bURL="jnjtalks.blogspot.com/2008/04/blog-post_3" woman="" bID="4076183937648557983" reg="politics" />
+  <Article id="501" Title="回應：今天不談吃 | 雲淡風清 105 秒" bURL="jnjtalks.blogspot.com/2008/03/105" woman="" bID="2703117033585175388" reg="politics" />
+  <Article id="502" Title="回應：恨不得能讓謝長廷和蔡同榮等擔任美國總統或國會議員" bURL="jnjtalks.blogspot.com/2008/03/blog-post_21" woman="" bID="7680589347301996501" reg="politics" />
+  <Article id="503" Title="強力推銷術確實蠻惱人" bURL="jnjtalks.blogspot.com/2008/03/blog-post_16" woman="" bID="6840379661049934545" reg="economic" />
+  <Article id="504" Title="《回應》楊儒門事件" bURL="jnjtalks.blogspot.com/2008/01/blog-post" woman="" bID="7392405286482963699" reg="politics1" />
+  <Article id="505" Title="回應：最好永遠不要復工" bURL="jnjtalks.blogspot.com/2008/01/blog-post_4" woman="" bID="7116659427529951634" reg="worldnews" />
+  <Article id="506" Title="理想和現實" bURL="jnjtalks.blogspot.com/2007/12/blog-post_31" woman="" bID="8825079247091985360" reg="polemics" />
+  <Article id="507" Title="愛國不等於愛這個政權" bURL="jnjtalks.blogspot.com/2007/12/blog-post_30" woman="" bID="8751442142526039393" reg="politics1" />
+  <Article id="508" Title="回應：號稱是美食料理的店" bURL="jnjtalks.blogspot.com/2007/12/googleyahoo" woman="" bID="1990017001151872110" reg="economic" />
+  <Article id="509" Title="回應：聖誕節In，行憲紀念日Out" bURL="jnjtalks.blogspot.com/2007/12/inout" woman="" bID="8503647315325378888" reg="economic" />
+  <Article id="510" Title="回應：英文雙關語, 看懂嗎?" bURL="jnjtalks.blogspot.com/2007/12/blog-post_7" woman="" bID="1346073276650011081" reg="tale" />
+  <Article id="511" Title="《回應》二二八罪延下一代不應該，下一代有權益為上一代辯護" bURL="jnjtalks.blogspot.com/2007/12/blog-post_5" woman="" bID="5474738784377842491" reg="politics1" />
+  <Article id="512" Title="回應：原來台灣比大陸還要不方便 " bURL="jnjtalks.blogspot.com/2007/12/blog-post_1" woman="" bID="6058854871412499061" reg="worldnews" />
+  <Article id="513" Title="回應：還原二二八" bURL="jnjtalks.blogspot.com/2007/10/blog-post_13" woman="" bID="2645902734487069454" reg="identity" />
+  <Article id="514" Title="咆哮罵街也生不出機位來" bURL="jnjtalks.blogspot.com/2007/10/blog-post_10" woman="" bID="3741795414767878625" reg="economic" />
+  <Article id="515" Title="就事論事分析，不要受一塊神主牌位左右" bURL="jnjtalks.blogspot.com/2007/10/blog-post_9" woman="" bID="8190190460166893445" reg="identity" />
+  <Article id="516" Title="《回應》直銷真能致富？" bURL="jnjtalks.blogspot.com/2007/10/blog-post" woman="" bID="1365820018076588671" reg="economic" />
+  <Article id="517" Title="回應：也談色戒的三點全露：是導演的功力不足，還是心態可議？" bURL="jnjtalks.blogspot.com/2007/09/blog-post_30" woman="" bID="6466300294568819475" reg="mv4" />
+  <Article id="518" Title="試解釋為什麼單程票比較貴" bURL="jnjtalks.blogspot.com/2007/09/1" woman="" bID="8902868059662994206" reg="economic" />
+  <Article id="519" Title="《回應》加入聯合國，並不能保障或提高台灣的安全和地位" bURL="jnjtalks.blogspot.com/2007/09/blog-post" woman="" bID="4995167063134754247" reg="politics1" />
+  <Article id="520" Title="回應：台灣聯合國參與的變形金剛戲碼" bURL="jnjtalks.blogspot.com/2007/09/blog-post_14" woman="" bID="2928673578659352420" reg="politics1" />
+  <Article id="521" Title="學校教的英文不是用來溝通，而是訓練考試機器" bURL="jnjtalks.blogspot.com/2007/09/3" woman="" bID="7626271531820787766" reg="citynews" />
+  <Article id="522" Title="巴拿馬運河與蘇格蘭財政赤字" bURL="jnjtalks.blogspot.com/2007/08/blog-post" woman="" bID="8564602585393712001" reg="economic" />
+  <Article id="523" Title="回應：紙書會不會消失？ 是商業也是哲學問題" bURL="jnjtalks.blogspot.com/2007/08/blog-post_8" woman="" bID="740125692567344035" reg="economic" />
+  <Article id="524" Title="回應：【中正紀念堂】改名的觀光問題" bURL="jnjtalks.blogspot.com/2007/05/blog-post_47" woman="" bID="4072945438407824321" reg="politics1" />
+  <Article id="525" Title="《回應》刻意煽動政治仇恨的三立電視台" bURL="jnjtalks.blogspot.com/2007/05/blog-post_8" woman="" bID="7252175575329327159" reg="politics1" />
+  <Article id="526" Title="回應：企鵝爸爸薪水應該有多少?" bURL="jnjtalks.blogspot.com/2007/05/blog-post_5" woman="" bID="3550425490319788600" reg="economic" />
+  <Article id="527" Title="《回應》前兩天看到一篇高盧駐台官員的專訪" bURL="jnjtalks.blogspot.com/2007/05/blog-post_4" woman="" bID="6229450527790467012" reg="economic" />
+  <Article id="528" Title="四獸山38號兵推" bURL="jnjtalks.blogspot.com/2013/03/38" woman="" bID="9006398000080102078" reg="tale" />
+  <Article id="529" Title="日本議員和台灣議員" bURL="jnjtalks.blogspot.com/2007/04/blog-post_24" woman="" bID="5515758774320784977" reg="tale" />
+  <Article id="530" Title="《回應》關於首爾正名" bURL="jnjtalks.blogspot.com/2007/03/blog-post_25" woman="" bID="2100828301290567654" reg="identity" />
+  <Article id="531" Title="《回應》午后與客服人員的對話" bURL="jnjtalks.blogspot.com/2007/03/blog-post_13" woman="" bID="6778870654249560734" reg="economic" />
+  <Article id="532" Title="《回應》蘿蔔糕與羅曼諾" bURL="jnjtalks.blogspot.com/2007/02/blog-post_2" woman="" bID="4136752215383568728" reg="collect1" />
+  <Article id="533" Title="回應：另一種高鐵經驗" bURL="jnjtalks.blogspot.com/2007/01/blog-post_21" woman="" bID="460599118079252003" reg="economic" />
+  <Article id="534" Title="回應：大賣場排隊結帳的經濟學" bURL="jnjtalks.blogspot.com/2007/01/blog-post_22" woman="" bID="3630322238598815798" reg="economic" />
+  <Article id="535" Title="《回應》日本廣島‧戰爭與和平" bURL="jnjtalks.blogspot.com/2006/12/blog-post" woman="" bID="5244822130188873341" reg="identity" />
+  <Article id="536" Title="回應：美國參政吐血記" bURL="jnjtalks.blogspot.com/2006/11/blog-post_33" woman="" bID="5367991579025431805" reg="worldnews" />
+  <Article id="537" Title="執政者連李光耀的鼻屎都比不上" bURL="jnjtalks.blogspot.com/2006/09/blog-post_48" woman="" bID="116704548071417782" reg="politics1" />
+  <Article id="538" Title="有云施明德可競選總統" bURL="jnjtalks.blogspot.com/2006/09/blog-post_17" woman="" bID="145469572021709661" reg="politics1" />
+  <Article id="539" Title="政府高層叫人移民中美洲" bURL="jnjtalks.blogspot.com/2006/09/blog-post_3" woman="" bID="6318184606806923999" reg="politics1" />
+  <Article id="540" Title="莫混淆是非問題和理念問題－－兼談溝通方式" bURL="jnjtalks.blogspot.com/2012/05/blog-post_11" woman="" bID="4030303264573153833" reg="identity" />
+  <Article id="541" Title="回應：律師與蟑螂" bURL="jnjtalks.blogspot.com/2006/09/blog-post_93" woman="" bID="8408019097649770005" reg="comment1" />
+  <Article id="542" Title="深入反省切忌人云亦云" bURL="jnjtalks.blogspot.com/2012/05/blog-post_56" woman="" bID="8723020281428565180" reg="identity" />
+  <Article id="543" Title="同理心看待群眾運動" bURL="jnjtalks.blogspot.com/2012/05/blog-post_78" woman="" bID="1064120790083045717" reg="politics1" />
+  <Article id="544" Title="防微杜漸，避免衝突昇高" bURL="jnjtalks.blogspot.com/2006/08/blog-post_26" woman="" bID="189710402182899594" reg="politics1" />
+  <Article id="545" Title="面對文化差異，進退之道見仁見智" bURL="jnjtalks.blogspot.com/2006/08/blog-post_73" woman="" bID="4798862209339882752" reg="polemics" />
+  <Article id="546" Title="官府說募款有違法的嫌疑" bURL="jnjtalks.blogspot.com/2006/08/blog-post_14" woman="" bID="1067210480170944956" reg="politics1" />
+  <Article id="547" Title="回應：台灣法官說：偷剃別人陰毛不犯法" bURL="jnjtalks.blogspot.com/2006/06/blog-post" woman="" bID="2487148277492044244" reg="citynews" />
+  <Article id="548" Title="西安後宰門小學" bURL="jnjtalks.blogspot.com/2012/05/blog-post_35" woman="" bID="801794888550435749" reg="identity" />
+  <Article id="549" Title="台灣簡史" bURL="jnjtalks.blogspot.com/2012/05/blog-post_30" woman="" bID="161058209302144897" reg="tale" />
+  <Article id="550" Title="談得獎音樂抄襲" bURL="jnjliterature.blogspot.com/2021/08/blog-post" woman="" bID="6458831630727103401" reg="copyright" />
+  <Article id="551" Title="「歌劇魅影」正宗續集 Love Never Dies" bURL="jnjliterature.blogspot.com/2021/07/love-never-dies" woman="" bID="5175338978908653269" reg="music1" />
   <Article id="152999" bURL="jnjhome.blogspot.com/2006/01/elaine" Title="Elaine的聖誕老公公" reg="elaine" bID="8374307011099297544" />
   <Article id="153006" bURL="jnjfoorprint.blogspot.com/2006/01/blog-post_17" Title="溫尼格機場狂奔" reg="crm" bID="2327424913350910448" udn="2006.2.6" />
   <Article id="153639" bURL="jnjhome.blogspot.com/2006/01/blog-post_76" Title="水蛇與蛋" reg="elaine" bID="4652883769753736804" />

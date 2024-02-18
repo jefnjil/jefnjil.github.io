@@ -24,4 +24,5 @@ switch(docID)
 	case "6510403155671602789" :	reg="covid19";	break;
 	case "4150668532933515789" :	reg="campus";	break;
 	case "2097062505034008189" :	reg="collect";	break;
+	case "2707917120517498489" :	reg="citynews";	break;
 }

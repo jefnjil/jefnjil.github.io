@@ -24,4 +24,5 @@ switch(docID)
 	case "5729036126923468400" :	reg="music";	break;
 	case "341608418790815900" :	reg="memory2";	break;
 	case "8960703459663665700" :	reg="collect1";	break;
+	case "3550425490319788600" :	reg="economic";	break;
 }

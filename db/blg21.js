@@ -18,4 +18,6 @@ switch(docID)
 	case "6093840800722346521" :	reg="crime2";	break;
 	case "2393532819004127321" :	reg="secure";	break;
 	case "1642471058999720721" :	reg="fraud";	break;
+	case "2492701647483661621" :	reg="economic";	break;
+	case "4072945438407824321" :	reg="politics1";	break;
 }

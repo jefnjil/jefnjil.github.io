@@ -22,4 +22,7 @@ switch(docID)
 	case "8160463037828138699" :	reg="deathpenalty";	break;
 	case "1798659140879928199" :	reg="abian";	break;
 	case "8974290457790802399" :	reg="collect";	break;
+	case "5406405768715466799" :	reg="politics";	break;
+	case "7392405286482963699" :	reg="politics1";	break;
+	case "6318184606806923999" :	reg="politics1";	break;
 }

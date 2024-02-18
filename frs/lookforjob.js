@@ -10,4 +10,5 @@ jnjRef('249','jnjtalks.blogspot.com/2007/10/1','多研究如何抓住面試者�
 jnjRef('190','jnjtalks.blogspot.com/2022/10/1','面試問這1句慘被刷掉！');
 jnjRef('192','jnjtalks.blogspot.com/2020/11/2','面試官遲到2小時她回這句 過來人一看大嘆：毀了');
 jnjRef('170818641','jnjtech.blogspot.com/2021/12/blog-post','評「華碩主管羞辱人？台大生面試遭冷嘲熱諷」');
+jnjRef('464','jnjtalks.blogspot.com/2011/01/blog-post_9','不同資質品性的人，需要不同的激勵方式');
 jnjRefList += '</ul></p></td></tr></table>';

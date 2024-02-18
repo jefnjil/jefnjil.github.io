@@ -26,4 +26,8 @@ switch(docID)
 	case "7907427764096216701" :	reg="universal";	break;
 	case "2928167293056023501" :	reg="deathpenalty";	break;
 	case "3984300356324948001" :	reg="collect";	break;
+	case "6320940653507250401" :	reg="politics";	break;
+	case "7680589347301996501" :	reg="politics";	break;
+	case "8564602585393712001" :	reg="economic";	break;
+	case "6458831630727103401" :	reg="copyright";	break;
 }

@@ -15,4 +15,6 @@ switch(docID)
 	case "3727098412458600045": 	reg="zjj";	uss="426219";	break;
 	case "1732448952920314345": 	reg="abian";	break;
 	case "4519783131662876145" :	reg="fraud";	break;
+	case "6840379661049934545" :	reg="economic";	break;
+	case "8190190460166893445" :	reg="identity";	break;
 }
