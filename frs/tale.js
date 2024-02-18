@@ -17,4 +17,5 @@ jnjRef('529','jnjtalks.blogspot.com/2007/04/blog-post_24','日本議員和台灣
 jnjRef('4010227','jnjtalks.blogspot.com/2010/05/husbala-vista','Husbala Vista‧莎喲哪啦');
 jnjRef('422','jnjtalks.blogspot.com/2021/03/f-16','F-16機隊全停飛靠鄰國防衛');
 jnjRef('490','jnjtalks.blogspot.com/2008/05/blog-post_30','某國國會猴子分果子');
+jnjRef('556','jnjliterature.blogspot.com/2018/03/blog-post','老師說蔣中正就是蔣渭水');
 jnjRefList += '</ul></p></td></tr></table>';

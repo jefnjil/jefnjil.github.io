@@ -33,4 +33,5 @@ switch(docID)
 	case "4679666911790665024" :	reg="health";	break;
 	case "6760263975709039824" :	reg="citynews";	break;
 	case "7917157700715184724" :	reg="lookforjob";	break;
+	case "8127469822291978724" :	reg="music2";	break;
 }

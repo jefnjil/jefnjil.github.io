@@ -25,4 +25,6 @@ switch(docID)
 	case "2958833539779761410" :	reg="worldnews";	break;
 	case "8208319354607550910" :	reg="economic";	break;
 	case "1990017001151872110" :	reg="economic";	break;
+	case "4492086680185612810" :	reg="music2";	break;
+	case "2040148946229318810" :	reg="music2";	break;
 }
