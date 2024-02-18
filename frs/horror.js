@@ -6,6 +6,7 @@ jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('120','jnjmvtv.blogspot.com/2022/12/seal-team','美國恐怖故事');
 jnjRef('105','jnjmvtv.blogspot.com/2023/06/yellowjacketsfrom','梵蒂岡驅魔士');
 jnjRef('178732540','jnjmvtv.blogspot.com/2023/03/blog-post','洛克靈異偵探社');
+jnjRef('180332516','jnjmvtv.blogspot.com/2024/02/the-ninth-gate','第九道門，鬼上門');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('120','jnjmvtv.blogspot.com/2022/12/seal-team','陰屍路');
 jnjRef('1881787','jnjmvtv.blogspot.com/2008/05/blog-post','異形世代');
