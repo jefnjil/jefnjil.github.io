@@ -21,4 +21,5 @@ jnjRef('178034639','jnjmvtv.blogspot.com/2023/01/blog-post','獵魔士：血緣�
 jnjRef('178732540','jnjmvtv.blogspot.com/2023/03/blog-post','洛克靈異偵探社');
 jnjRef('105','jnjmvtv.blogspot.com/2023/06/yellowjacketsfrom','Yellowjackets');
 jnjRef('180328734','jnjmvtv.blogspot.com/2024/02/dream-scenario','夢行者保羅');
+jnjRef('563','jnjmvtv.blogspot.com/2024/02/deep-end','太陽召喚２');
 jnjRefList += '</ul></p></td></tr></table>';

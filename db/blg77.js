@@ -15,4 +15,5 @@ switch(docID)
 	case "1369220652693306077" :	reg="mothertongue";	break;
 	case "668970570589013677" :	reg="collect2";	break;
 	case "5515758774320784977" :	reg="tale";	break;
+	case "5725338670117131977" :	reg="mv4";	break;
 }

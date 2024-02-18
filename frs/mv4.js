@@ -17,4 +17,5 @@ jnjRef('122','jnjmvtv.blogspot.com/2022/12/tinder','村裡來了個暴走女外�
 jnjRef('329','jnjmvtv.blogspot.com/2013/10/blog-post','蔡明亮導演的扛鼎之作「郊遊」');
 jnjRef('155','jnjliterature.blogspot.com/2021/01/2020','十部「令人失望」的台灣電影');
 jnjRef('138','jnjhome.blogspot.com/2013/09/blog-post_8','「龍貓」與「神隱少女」');
+jnjRef('563','jnjmvtv.blogspot.com/2024/02/deep-end','怪物 (かいぶつ)');
 jnjRefList += '</ul></p></td></tr></table>';
