@@ -25,4 +25,5 @@ switch(docID)
 	case "4722257623174377580" :	reg="popularity";	break;
 	case "3866128087927928980" :	reg="abian";	break;
 	case "4652959774029315980" :	reg="energy";	break;
+	case "7630071185561827980" :	reg="collect2";	break;
 }

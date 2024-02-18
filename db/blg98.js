@@ -22,4 +22,5 @@ switch(docID)
 	case "3896793600015355298" :	reg="mv1";	break;
 	case "845739691892029198" :	reg="music";	break;
 	case "968456391245882898" :	reg="memory2";	break;
+	case "8335387292004820598" :	reg="collect";	break;
 }

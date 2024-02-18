@@ -18,4 +18,6 @@ switch(docID)
 	case "4196401574448020656" :	reg="hsinchu";	uss="635046";	umd="2022.11.8";	uMedia="12749/6745778";	break;
 	case "473411123861231356" :	reg="fantacy";	umd="2023.1.18";	uMedia="12760/6899650";	break;
 	case "4905716404283839756" :	reg="covid19";	break;
+	case "6921689402237077656" :	reg="collect";	break;
+	case "6658604366138178156" :	reg="collect";	break;
 }

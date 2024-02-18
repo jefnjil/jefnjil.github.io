@@ -10,4 +10,6 @@ switch(docID)
 	case "2595011885402760090": 	reg="hawaii";	uss="18652";	udn="2006.8.3";	break;
 	case "6905399863215317090": 	reg="sealion";	uss="78107";	udn="2010.2.8";	break;
 	case "2708790535291881090" :	reg="elite100";	break;
+	case "1923759945385967690" :	reg="collect";	break;
+	case "3655838191564535290" :	reg="collect";	break;
 }

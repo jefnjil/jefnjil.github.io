@@ -17,6 +17,7 @@ jnjRef('149150250','jnjfoorprint.blogspot.com/2020/08/blog-post_20','台南市�
 jnjRef('149445527','jnjfoorprint.blogspot.com/2020/08/blog-post_24','大南門城、碑林');
 jnjRef('149555805','jnjfoorprint.blogspot.com/2020/09/blog-post','藍晒圖文創園區');
 jnjRef('155500970','jnjfoorprint.blogspot.com/2021/01/blog-post_21','移民署、水萍塭');
+jnjRef('331','jnjfoorprint.blogspot.com/2018/05/blog-post_20','閒聊台南敞篷巴士');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('114645508','jnjfoorprint.blogspot.com/2018/08/blog-post_30','鄭成功祖廟、林百貨');
 jnjRef('64962970','jnjfoorprint.blogspot.com/2016/10/blog-post_26','奇美博物館都會公園');

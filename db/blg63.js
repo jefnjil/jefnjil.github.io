@@ -19,4 +19,6 @@ switch(docID)
 	case "3930760951540741163" :	reg="tech1";	break;
 	case "5757222706014913663" :	reg="lookforjob";	break;
 	case "6178808923753264463" :	reg="translate";	break;
+	case "3688959756817467463" :	reg="collect2";	break;
+	case "697160430125621763" :	reg="collect2";	break;
 }

@@ -19,4 +19,6 @@ switch(docID)
 	case "1664919893897039443" :	reg="covid19";	break;
 	case "1098867210092963543" :	reg="tsai";	break;
 	case "3986283701444920743" :	reg="music1";	break;
+	case "6510720009657052643" :	reg="collect";	break;
+	case "709283514370012843" :	reg="collect1";	break;
 }

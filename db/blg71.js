@@ -14,4 +14,5 @@ switch(docID)
 	case "4150961033916267771" :	reg="fantacy1";	break;
 	case "6127905392107001671" :	reg="science";	break;
 	case "6956994907847105771" :	reg="translate";	break;
+	case "3217749646735575471" :	reg="collect2";	break;
 }

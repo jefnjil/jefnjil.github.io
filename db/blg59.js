@@ -21,4 +21,6 @@ switch(docID)
 	case "3906518618685438659" :	reg="deathpenalty";	break;
 	case "3113284973957649759" :	reg="abian";	break;
 	case "1880579449980572459" :	reg="fraud";	break;
+	case "712058695098160459" :	reg="collect";	break;
+	case "2207051452708207459" :	reg="collect2";	break;
 }

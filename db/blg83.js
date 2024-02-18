@@ -22,4 +22,5 @@ switch(docID)
 	case "652154891065292383" :	reg="lookforjob";	break;
 	case "6204294506482953483" :	reg="aitaiwan";	break;
 	case "3601837308636047383" :	reg="fraud";	break;
+	case "8579024734430381983" :	reg="collect1";	break;
 }

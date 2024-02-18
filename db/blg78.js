@@ -21,4 +21,5 @@ switch(docID)
 	case "1830208588422144578" :	reg="feast1";	break;
 	case "2046039307421546778" :	reg="mothertongue";	break;
 	case "2891863960912191178" :	reg="aitaiwan";	break;
+	case "7658278094927705078" :	reg="collect2";	break;
 }

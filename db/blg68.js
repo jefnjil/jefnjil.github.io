@@ -21,4 +21,5 @@ switch(docID)
 	case "6431081337682658268" :	reg="science";	break;
 	case "932699519145594268" :	reg="tale";	break;
 	case "3508076550766655768" :	reg="house";	break;
+	case "4251028914245777068" :	reg="collect1";	break;
 }

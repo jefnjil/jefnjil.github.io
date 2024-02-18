@@ -14,4 +14,9 @@ switch(docID)
 	case "2745343822745163116" :	reg="aitaiwan";	break;
 	case "1774490414468577316" :	reg="science";	break;
 	case "5172893483124447616" :	reg="memory2";	break;
+	case "6239446638271884516" :	reg="collect1";	break;
+	case "8475385577982496716" :	reg="collect1";	break;
+	case "8380993949999286316" :	reg="collect2";	break;
+	case "8181168905804234616" :	reg="collect2";	break;
+	case "873493533037431016" :	reg="collect2";	break;
 }

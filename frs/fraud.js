@@ -4,6 +4,7 @@ jnjRef('145','jnjtalks.blogspot.com/2020/05/blog-post_5','連木瓜都能確診�
 jnjRef('2738422','jnjtalks.blogspot.com/2009/03/blog-post','兩光馬戲團疑似落跑！');
 jnjRef('266','jnjtalks.blogspot.com/2021/07/blog-post_26','國術無用論');
 jnjRef('269','jnjtalks.blogspot.com/2007/11/blog-post','書寫即騙局');
+jnjRef('351','jnjtalks.blogspot.com/2012/08/blog-post_21','麥可喬登與法拉佛西');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('320','jnjhome.blogspot.com/2012/05/blog-post','被老美誑騙的經驗');
 jnjRef('263','jnjtalks.blogspot.com/2022/06/2','南美館殭屍展2缺點像詐騙');

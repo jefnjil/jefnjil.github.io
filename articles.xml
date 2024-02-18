@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Articles PseudoUID="328">
+<Articles PseudoUID="415">
   <Article id="100" Title="惡夜性追緝、尬電殺手、生死交戰、明日戰爭、迴路追殺令、綠騎士" bURL="jnjmvtv.blogspot.com/2021/12/blog-post.html" woman="" bID="1761265318904937491" reg="action2" />
   <Article id="101" Title="黑羅蘋、Clarice、勿下錯招、青年神探維蘭德、破綻" bURL="jnjmvtv.blogspot.com/2021/12/clarice.html" woman="" bID="1998837180476543073" reg="crime3" />
   <Article id="102" Title="黑魔女2、太陽召喚、雅信傳、血色天劫、莉西的人生異旅、惡靈偵探" bURL="jnjmvtv.blogspot.com/2021/12/2.html" woman="" bID="4150961033916267771" reg="fantacy1" />
@@ -44,7 +44,7 @@
   <Article id="150" Title="《臉書》「灣生回家」作者坦承身分造假" bURL="jnjliterature.blogspot.com/2017/01/blog-post_2" woman="" bID="8519028113487148666" reg="book" />
   <Article id="151" Title="《回應》記憶體配置的空洞（fragments）與資源回收（Garbage Collection）" bURL="jnjtech.blogspot.com/2022/02/fragmentsgarbage-collection" woman="" bID="3930760951540741163" reg="tech1" />
   <Article id="152" Title="將 UDN Blog 複製到 Blogger 的小撇步" bURL="jnjtech.blogspot.com/2016/01/udn-blog-blogger_14" woman="" bID="5535659608959033133" reg="tech1" />
-  <Article id="153" Title="談密碼破解的「暴力法」和「字典法」" bURL="jnjtech.blogspot.com/2013/07/blog-post_24" woman="" bID="2393532819004127321" reg="tech1" />
+  <Article id="153" Title="談密碼破解的「暴力法」和「字典法」" bURL="jnjtech.blogspot.com/2013/07/blog-post_24" woman="" bID="2393532819004127321" reg="secure" />
   <Article id="154" Title="點閱數爆高，訪客卻十分有限" bURL="jnjblogbiz.blogspot.com/2020/06/blog-post" woman="" bID="568989017395659658" reg="blog1" />
   <Article id="155" Title="《回應》2020台片回顧（上）：十部「令人失望」的台灣電影" bURL="jnjliterature.blogspot.com/2021/01/2020" woman="" bID="6818816634943153518" reg="mv4" />
   <Article id="156" Title="「美第奇：佛羅倫薩大師」配樂" bURL="jnjliterature.blogspot.com/2018/12/2018" woman="" bID="8917079191837360873" reg="music1" />
@@ -219,6 +219,93 @@
   <Article id="325" Title="《新聞》七百元宿舍" bURL="jnjtalks.blogspot.com/2015/10/blog-post_28" woman="" bID="9113752241882570848" reg="house" />
   <Article id="326" Title="回應：張金鶚抑制房價說，前後矛盾 " bURL="jnjtalks.blogspot.com/2012/05/blog-post_7" woman="" bID="8629004956826001253" reg="house" />
   <Article id="327" Title="台灣的房價究竟貴不貴？" bURL="jnjtalks.blogspot.com/2012/05/blog-post" woman="" bID="2998525530500417802" reg="house" />
+  <Article id="328" Title="UDN Blog 迴響集錦" bURL="jnjmvtv.blogspot.com/2016/07/udn-blog-20072016" woman="" bID="6510720009657052643" reg="collect" />
+  <Article id="329" Title="《臉書回應》 蔡明亮導演的扛鼎之作 “郊遊”" bURL="jnjmvtv.blogspot.com/2013/10/blog-post" woman="" bID="7697227801954731479" reg="mv4" />
+  <Article id="330" Title="UDN Blog 迴響集錦 2016~2023" bURL="jnjfoorprint.blogspot.com/2023/03/udn-blog-20062023" woman="" bID="1141507900513687619" reg="collect1" />
+  <Article id="331" Title="《臉書》閒聊台南敞篷巴士" bURL="jnjfoorprint.blogspot.com/2018/05/blog-post_20" woman="" bID="6612080151729954328" reg="tainan" />
+  <Article id="332" Title="《臉書》炮仗花‧放馬屁！" bURL="jnjfoorprint.blogspot.com/2012/02/blog-post_12" woman="" bID="3943074021035235847" reg="collect1" />
+  <Article id="333" Title="臉書雜記" bURL="jnjblogbiz.blogspot.com/2023/12/blog-post" woman="" bID="6460528917467807519" reg="collect" />
+  <Article id="334" Title="UDN Blog 迴響集錦 2006" bURL="jnjblogbiz.blogspot.com/2023/03/udn-blog-20062023" woman="" bID="5767419548146911113" reg="collect" />
+  <Article id="335" Title="UDN Blog 迴響集錦 2007" bURL="jnjblogbiz.blogspot.com/2007/12/udn-blog-2007" woman="" bID="576734545718847770" reg="collect" />
+  <Article id="336" Title="UDN Blog 迴響集錦 2008" bURL="jnjblogbiz.blogspot.com/2008/12/udn-blog-2008" woman="" bID="5028468493606767940" reg="collect" />
+  <Article id="337" Title="UDN Blog 迴響集錦 2009" bURL="jnjblogbiz.blogspot.com/2009/12/udn-blog-2009" woman="" bID="1103897828549819991" reg="collect" />
+  <Article id="338" Title="UDN Blog 迴響集錦 2010" bURL="jnjblogbiz.blogspot.com/2010/12/udn-blog-2010" woman="" bID="1041916581663739340" reg="collect" />
+  <Article id="339" Title="UDN Blog 迴響集錦 2011" bURL="jnjblogbiz.blogspot.com/2011/12/udn-blog-2011" woman="" bID="4803533427718302638" reg="collect" />
+  <Article id="340" Title="UDN Blog 迴響集錦 2012" bURL="jnjblogbiz.blogspot.com/2012/12/udn-blog-2012" woman="" bID="8158830197445802118" reg="collect" />
+  <Article id="341" Title="UDN Blog 迴響集錦 2013~2017" bURL="jnjblogbiz.blogspot.com/2017/12/udn-blog-20132017" woman="" bID="3930328736002175934" reg="collect" />
+  <Article id="342" Title="UDN Blog 迴響集錦 2009~2021 " bURL="jnjtech.blogspot.com/2021/02/udn-blog-20092021" woman="" bID="1852927895408987884" reg="collect" />
+  <Article id="343" Title="帳密失竊遭恐嚇" bURL="jnjtech.blogspot.com/2020/04/blog-post" woman="" bID="2540091761540256347" reg="secure" />
+  <Article id="344" Title="臉書日誌 2010~2011" bURL="jnjhome.blogspot.com/2011/12/20102011" woman="" bID="8974290457790802399" reg="collect" />
+  <Article id="345" Title="臉書日誌 2012" bURL="jnjhome.blogspot.com/2012/12/2012" woman="" bID="8824827892635883704" reg="collect" />
+  <Article id="346" Title="臉書日誌 2013" bURL="jnjhome.blogspot.com/2013/12/2013" woman="" bID="8335387292004820598" reg="collect" />
+  <Article id="347" Title="臉書打卡地標集" bURL="jnjhome.blogspot.com/2016/02/blog-post" woman="" bID="712058695098160459" reg="collect" />
+  <Article id="348" Title="臉書日誌 2015~2020" bURL="jnjhome.blogspot.com/2020/12/20152020" woman="" bID="6921689402237077656" reg="collect" />
+  <Article id="349" Title="臉書日誌 2021~2023" bURL="jnjhome.blogspot.com/2023/12/20212023" woman="" bID="5938889658482263697" reg="collect" />
+  <Article id="350" Title="臉書雜燴" bURL="jnjliterature.blogspot.com/2020/06/blog-post" woman="" bID="2097062505034008189" reg="collect" />
+  <Article id="351" Title="《臉書》有云：少年麥可喬登把法拉佛西親筆簽名運動衫，賣了兩百美元" bURL="jnjtalks.blogspot.com/2012/08/blog-post_21" woman="" bID="3186735127432755527" reg="fraud" />
+  <Article id="352" Title="臉書集錦 2011~2013" bURL="jnjtalks.blogspot.com/2012/12/20112013" woman="" bID="8483469928380366326" reg="collect" />
+  <Article id="353" Title="臉書集錦 2016" bURL="jnjtalks.blogspot.com/2016/12/2016" woman="" bID="2102006975046993513" reg="collect" />
+  <Article id="354" Title="臉書集錦 2017" bURL="jnjtalks.blogspot.com/2017/12/2017" woman="" bID="2100580632281541410" reg="collect" />
+  <Article id="355" Title="臉書集錦 2018~2019" bURL="jnjtalks.blogspot.com/2018/12/20182019" woman="" bID="3359772424673861229" reg="collect" />
+  <Article id="356" Title="臉書集錦 2020" bURL="jnjtalks.blogspot.com/2020/12/2020" woman="" bID="3984300356324948001" reg="collect" />
+  <Article id="357" Title="UDN Blog 迴響集錦 ─ 2006" bURL="jnjfoorprint.blogspot.com/2006/12/udn-blog-2006" woman="" bID="6239446638271884516" reg="collect1" />
+  <Article id="358" Title="UDN Blog 迴響集錦 ─ 2007" bURL="jnjfoorprint.blogspot.com/2007/12/udn-blog-2007" woman="" bID="1261181126313880017" reg="collect1" />
+  <Article id="359" Title="UDN Blog 迴響集錦 ─ 2008" bURL="jnjfoorprint.blogspot.com/2008/10/udn-blog-2008" woman="" bID="8579024734430381983" reg="collect1" />
+  <Article id="360" Title="UDN Blog 迴響集錦 ─ 2009" bURL="jnjfoorprint.blogspot.com/2009/11/udn-blog-2010" woman="" bID="709283514370012843" reg="collect1" />
+  <Article id="361" Title="UDN Blog 迴響集錦 ─ 2010" bURL="jnjfoorprint.blogspot.com/2010/12/udn-blog-2010" woman="" bID="2131823053618890151" reg="collect1" />
+  <Article id="362" Title="UDN Blog 迴響集錦 ─ 2011" bURL="jnjfoorprint.blogspot.com/2011/12/udn-blog-2011" woman="" bID="8475385577982496716" reg="collect1" />
+  <Article id="363" Title="UDN Blog 迴響集錦 ─  2012~2013" bURL="jnjfoorprint.blogspot.com/2013/12/udn-blog-20122013" woman="" bID="4888758598990063937" reg="collect1" />
+  <Article id="364" Title="UDN Blog 迴響集錦 ─ 櫻桃籽" bURL="jnjfoorprint.blogspot.com/2006/06/udn-blog" woman="" bID="5995112763770393241" reg="collect1" />
+  <Article id="365" Title="UDN Blog 迴響集錦 ─ SUSAN &amp;amp; OZ" bURL="jnjfoorprint.blogspot.com/2006/11/udn-blog-susan-oz" woman="" bID="8960703459663665700" reg="collect1" />
+  <Article id="366" Title="UDN Blog 迴響集錦 ─ 故事gg" bURL="jnjfoorprint.blogspot.com/2006/11/udn-blog-gg" woman="" bID="722967980565475138" reg="collect1" />
+  <Article id="367" Title="UDN Blog 迴響集錦 ─ 首航風" bURL="jnjfoorprint.blogspot.com/2006/12/udn-blog" woman="" bID="5702985842634354046" reg="collect1" />
+  <Article id="368" Title="UDN Blog 迴響集錦 ─  e822177" bURL="jnjfoorprint.blogspot.com/2007/05/udn-blog-e822177" woman="" bID="4251028914245777068" reg="collect1" />
+  <Article id="369" Title="UDN Blog 迴響集錦 ─ ANY 愛妮" bURL="jnjfoorprint.blogspot.com/2007/08/udn-blog-any" woman="" bID="1616437050482866569" reg="collect1" />
+  <Article id="370" Title="UDN Blog 迴響集錦 ─ NY220" bURL="jnjfoorprint.blogspot.com/2008/02/udn-blog-ny220" woman="" bID="5699103122319881507" reg="collect1" />
+  <Article id="371" Title="UDN Blog 迴響集錦 ─ 小小兔" bURL="jnjfoorprint.blogspot.com/2008/04/udn-blog" woman="" bID="7438231713530999913" reg="collect1" />
+  <Article id="372" Title="UDN Blog 迴響集錦 ─ 黛比" bURL="jnjfoorprint.blogspot.com/2008/06/udn-blog" woman="" bID="510245100749913236" reg="collect1" />
+  <Article id="373" Title="UDN Blog 迴響集錦 ─  克里斯。李" bURL="jnjfoorprint.blogspot.com/2009/09/udn-blog" woman="" bID="4367666854353576208" reg="collect1" />
+  <Article id="374" Title="UDN Blog 迴響集錦 ─  B" bURL="jnjfoorprint.blogspot.com/2024/02/udn-blog-b" woman="" bID="8276615827664178328" reg="collect1" />
+  <Article id="375" Title="UDN Blog 迴響集錦 ─ 燈火闌珊" bURL="jnjfoorprint.blogspot.com/2011/08/udn-blog" woman="" bID="3013583225546053091" reg="collect1" />
+  <Article id="376" Title="UDN Blog 迴響集錦 ─ shine girl" bURL="jnjfoorprint.blogspot.com/2017/03/udn-blog-shine-girl" woman="" bID="8809422839408009784" reg="collect1" />
+  <Article id="377" Title="UDN Blog 迴響集錦 2006" bURL="jnjtalks.blogspot.com/2006/12/udn-blog-2006" woman="" bID="668970570589013677" reg="collect2" />
+  <Article id="378" Title="UDN Blog 迴響集錦 2007 (上)" bURL="jnjtalks.blogspot.com/2007/06/udn-blog-2007" woman="" bID="6057900964509598322" reg="collect2" />
+  <Article id="379" Title="UDN Blog 迴響集錦 2007 (下)" bURL="jnjtalks.blogspot.com/2007/12/udn-blog-2007" woman="" bID="8073074958389142509" reg="collect2" />
+  <Article id="380" Title="UDN Blog 迴響集錦 2008" bURL="jnjtalks.blogspot.com/2008/06/udn-blog-2008" woman="" bID="4587191785397829954" reg="collect2" />
+  <Article id="381" Title="UDN Blog 迴響集錦 2009" bURL="jnjtalks.blogspot.com/2008/12/udn-blog-2008" woman="" bID="8380993949999286316" reg="collect2" />
+  <Article id="382" Title="UDN Blog 迴響集錦 2010" bURL="jnjtalks.blogspot.com/2010/12/udn-blog-2010" woman="" bID="8806687663507743414" reg="collect2" />
+  <Article id="383" Title="UDN Blog 迴響集錦 2011" bURL="jnjtalks.blogspot.com/2011/12/udn-blog-2011" woman="" bID="6556085715867033560" reg="collect2" />
+  <Article id="384" Title="UDN Blog 迴響集錦 2012" bURL="jnjtalks.blogspot.com/2012/12/udn-blog-2012" woman="" bID="636385969460199229" reg="collect2" />
+  <Article id="385" Title="UDN Blog 迴響集錦 2013~2016" bURL="jnjtalks.blogspot.com/2016/12/udn-blog-20132016" woman="" bID="3688959756817467463" reg="collect2" />
+  <Article id="386" Title="UDN Blog 迴響集錦 2017~2018" bURL="jnjtalks.blogspot.com/2017/11/udn-blog-20062017" woman="" bID="2207051452708207459" reg="collect2" />
+  <Article id="387" Title="UDN Blog 迴響集錦 ── Swiss Debby" bURL="jnjtalks.blogspot.com/2007/01/udn-blog-swiss-debby" woman="" bID="7630071185561827980" reg="collect2" />
+  <Article id="388" Title="UDN Blog 迴響集錦 ── 123酷媽" bURL="jnjtalks.blogspot.com/2007/01/udn-blog-123" woman="" bID="5895763829226426664" reg="collect2" />
+  <Article id="389" Title="UDN Blog 迴響集錦 ── 彼德兔" bURL="jnjtalks.blogspot.com/2007/04/udn-blog" woman="" bID="697160430125621763" reg="collect2" />
+  <Article id="390" Title="UDN Blog 迴響集錦 ── 小帥哥" bURL="jnjtalks.blogspot.com/2009/10/udn-blog" woman="" bID="1363790443517237653" reg="collect2" />
+  <Article id="391" Title="UDN Blog 迴響集錦 ── 王尚智" bURL="jnjtalks.blogspot.com/2010/04/udn-blog" woman="" bID="8956947238897258957" reg="collect2" />
+  <Article id="392" Title="UDN Blog 迴響集錦 ── happy flora" bURL="jnjtalks.blogspot.com/2010/07/udn-blog-happy-flora" woman="" bID="8181168905804234616" reg="collect2" />
+  <Article id="393" Title="UDN Blog 迴響集錦 ── 天蠍浪子" bURL="jnjtalks.blogspot.com/2010/07/udn-blog" woman="" bID="7814111802983414576" reg="collect2" />
+  <Article id="394" Title="UDN Blog 迴響集錦 ── 老譚" bURL="jnjtalks.blogspot.com/2010/08/udn-blog" woman="" bID="4585035893626254876" reg="collect2" />
+  <Article id="395" Title="UDN Blog 迴響集錦 ── 蘋果蘇打" bURL="jnjtalks.blogspot.com/2011/03/udn-blog" woman="" bID="4650250827886973951" reg="collect2" />
+  <Article id="396" Title="UDN Blog 迴響集錦 ── Monkeyboy" bURL="jnjtalks.blogspot.com/2011/04/udn-blog-monkeyboy" woman="" bID="8453824707559279505" reg="collect2" />
+  <Article id="397" Title="UDN Blog 迴響集錦 ── 時季常" bURL="jnjtalks.blogspot.com/2011/06/udn-blog" woman="" bID="6605942087251510084" reg="collect2" />
+  <Article id="398" Title="UDN Blog 迴響集錦 ── 陳玉慧" bURL="jnjtalks.blogspot.com/2011/08/udn-blog" woman="" bID="9185484287271046351" reg="collect2" />
+  <Article id="399" Title="UDN Blog 迴響集錦 ── 北橋客" bURL="jnjtalks.blogspot.com/2011/10/udn-blog" woman="" bID="3217749646735575471" reg="collect2" />
+  <Article id="400" Title="UDN Blog 迴響集錦 ── 燈火闌珊" bURL="jnjtalks.blogspot.com/2011/11/udn-blog_26" woman="" bID="6891196125800106808" reg="collect2" />
+  <Article id="401" Title="UDN Blog 迴響集錦 ──Ｊ教授" bURL="jnjtalks.blogspot.com/2011/11/udn-blog" woman="" bID="873493533037431016" reg="collect2" />
+  <Article id="402" Title="UDN Blog 迴響集錦 ── niki在斯里蘭卡" bURL="jnjtalks.blogspot.com/2012/02/udn-blog-niki" woman="" bID="7658278094927705078" reg="collect2" />
+  <Article id="403" Title="UDN Blog 迴響集錦 ── 洛杉基" bURL="jnjtalks.blogspot.com/2016/12/udn-blog" woman="" bID="8011622987750976388" reg="collect2" />
+  <Article id="404" Title="UDN Blog 迴響集錦 2006" bURL="jnjhome.blogspot.com/2006/12/udn-blog-2006" woman="" bID="2946531203337248582" reg="collect" />
+  <Article id="405" Title="UDN Blog 迴響集錦 2007" bURL="jnjhome.blogspot.com/2007/12/udn-blog-2007" woman="" bID="5083300325418290069" reg="collect" />
+  <Article id="406" Title="UDN Blog 迴響集錦 2008" bURL="jnjhome.blogspot.com/2008/12/udn-blog-2008" woman="" bID="2878709510732812454" reg="collect" />
+  <Article id="407" Title="UDN Blog 迴響集錦 2009" bURL="jnjhome.blogspot.com/2009/12/udn-blog-2009" woman="" bID="1923759945385967690" reg="collect" />
+  <Article id="408" Title="UDN Blog 迴響集錦 2010~2017" bURL="jnjhome.blogspot.com/2017/10/udn-blog-20062017" woman="" bID="6658604366138178156" reg="collect" />
+  <Article id="409" Title="UDN Blog 迴響集錦 ── 上海台傭" bURL="jnjhome.blogspot.com/2006/11/udn-blog" woman="" bID="2886947836307599136" reg="collect" />
+  <Article id="410" Title="UDN Blog 迴響集錦 ── 矽谷媽媽" bURL="jnjhome.blogspot.com/2007/01/udn-blog" woman="" bID="8027620565299506647" reg="collect" />
+  <Article id="411" Title="UDN Blog 迴響集錦 ── 戀風草青少年書店" bURL="jnjhome.blogspot.com/2007/03/udn-blog" woman="" bID="1525061594765394352" reg="collect" />
+  <Article id="412" Title="UDN Blog 迴響集錦 ── NY220" bURL="jnjhome.blogspot.com/2008/05/udn-blog-ny220" woman="" bID="3492194992361009191" reg="collect" />
+  <Article id="413" Title="UDN Blog 迴響集錦 ── flâneuse" bURL="jnjhome.blogspot.com/2009/12/udn-blog-flaneuse" woman="" bID="4126955651179633454" reg="collect" />
+  <Article id="414" Title="UDN Blog 迴響集錦 ── 蘋果蘇打" bURL="jnjhome.blogspot.com/2011/09/udn-blog" woman="" bID="3655838191564535290" reg="collect" />
   <Article id="152999" bURL="jnjhome.blogspot.com/2006/01/elaine" Title="Elaine的聖誕老公公" reg="elaine" bID="8374307011099297544" />
   <Article id="153006" bURL="jnjfoorprint.blogspot.com/2006/01/blog-post_17" Title="溫尼格機場狂奔" reg="crm" bID="2327424913350910448" udn="2006.2.6" />
   <Article id="153639" bURL="jnjhome.blogspot.com/2006/01/blog-post_76" Title="水蛇與蛋" reg="elaine" bID="4652883769753736804" />

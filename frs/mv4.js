@@ -15,5 +15,6 @@ jnjRef('178981276','jnjmvtv.blogspot.com/2023/04/blog-post','「超難搞先生�
 jnjRef('122','jnjmvtv.blogspot.com/2022/12/tinder','村裡來了個暴走女外科');
 jnjRef('131','jnjmvtv.blogspot.com/2023/12/blog-post_31','入境時分');
 jnjRef('138','jnjhome.blogspot.com/2013/09/blog-post_8','「龍貓」與「神隱少女」');
+jnjRef('329','jnjmvtv.blogspot.com/2013/10/blog-post','蔡明亮導演的扛鼎之作「郊遊」');
 jnjRef('155','jnjliterature.blogspot.com/2021/01/2020','十部「令人失望」的台灣電影');
 jnjRefList += '</ul></p></td></tr></table>';

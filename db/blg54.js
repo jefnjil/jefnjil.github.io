@@ -27,4 +27,7 @@ switch(docID)
 	case "4584929135214365154" :	reg="blog1";	break;
 	case "4851785043917410554" :	reg="abian";	break;
 	case "83559659689451354" :	reg="ma";	break;
+	case "4587191785397829954" :	reg="collect2";	break;
+	case "2878709510732812454" :	reg="collect";	break;
+	case "4126955651179633454" :	reg="collect";	break;
 }

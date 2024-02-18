@@ -14,4 +14,5 @@ switch(docID)
 	case "831519200081632034": 	reg="us16";	uss="558449";	break;
 	case "1067590246826536134": 	reg="book";	break;
 	case "5141689444264240434" :	reg="music";	break;
+	case "3930328736002175934" :	reg="collect";	break;
 }

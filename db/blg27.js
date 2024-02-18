@@ -15,4 +15,5 @@ switch(docID)
 	case "8010678987477687627" :	reg="crime2";	break;
 	case "5334211997059418627" :	reg="covid19";	break;
 	case "244041133776864527" :	reg="aitaiwan";	break;
+	case "3186735127432755527" :	reg="fraud";	break;
 }

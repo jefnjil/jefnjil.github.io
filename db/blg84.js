@@ -20,4 +20,7 @@ switch(docID)
 	case "2206377606561818384" :	reg="family";	break;
 	case "7565025199391747484" :	reg="comment1";	break;
 	case "8849907110463803384" :	reg="italy1";	break;
+	case "1852927895408987884" :	reg="collect";	break;
+	case "8809422839408009784" :	reg="collect1";	break;
+	case "6605942087251510084" :	reg="collect2";	break;
 }

@@ -25,4 +25,7 @@ switch(docID)
 	case "7796675163859280613" :	reg="blog1";	break;
 	case "8242235047444204313" :	reg="aitaiwan";	break;
 	case "6688583967067887513" :	reg="science";	break;
+	case "5767419548146911113" :	reg="collect";	break;
+	case "2102006975046993513" :	reg="collect";	break;
+	case "7438231713530999913" :	reg="collect1";	break;
 }

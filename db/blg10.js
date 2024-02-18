@@ -20,4 +20,5 @@ switch(docID)
 	case "850131214311463610" :	reg="buffet1";	uss="637470";	break;
 	case "121706115896547610" :	reg="deathpenalty";	break;
 	case "6009001552546287910" :	reg="family";	break;
+	case "2100580632281541410" :	reg="collect";	break;
 }

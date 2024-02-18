@@ -20,4 +20,6 @@ switch(docID)
 	case "2239516539848666028": 	reg="zjj";	uss="426375";	break;
 	case "260662781143516028" :	reg="music";	break;
 	case "4384099779125708128" :	reg="copyright";	break;
+	case "6612080151729954328" :	reg="tainan";	break;
+	case "8276615827664178328" :	reg="collect1";	break;
 }

@@ -14,4 +14,6 @@ switch(docID)
 	case "8418986177556225119": 	reg="3C";	break;
 	case "7491354058134503919" :	reg="elite100";	break;
 	case "7211424801015598819" :	reg="elite100";	break;
+	case "1141507900513687619" :	reg="collect1";	break;
+	case "6460528917467807519" :	reg="collect";	break;
 }

@@ -22,4 +22,5 @@ switch(docID)
 	case "5224530891771747818" :	reg="tpe2";	break;
 	case "6818816634943153518" :	reg="mv4";	break;
 	case "1083036582294382218" :	reg="elite100";	break;
+	case "8158830197445802118" :	reg="collect";	break;
 }

@@ -26,4 +26,7 @@ switch(docID)
 	case "7783060595623699247" :	reg="elaine1";	break;
 	case "5023468027160889747" :	reg="memory2";	break;
 	case "8444266635151426947" :	reg="elaine1";	break;
+	case "3943074021035235847" :	reg="collect1";	break;
+	case "2540091761540256347" :	reg="secure";	break;
+	case "8027620565299506647" :	reg="collect";	break;
 }
