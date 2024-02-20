@@ -17,4 +17,6 @@ switch(docID)
 	case "1347229463624678570" :	reg="abian";	break;
 	case "576734545718847770" :	reg="collect";	break;
 	case "5464413859889026270" :	reg="music2";	break;
+	case "7996531855505769570" :	reg="3C1";	break;
+	case "2548381477017481270" :	reg="3C1";	break;
 }
