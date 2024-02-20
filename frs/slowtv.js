@@ -2,6 +2,7 @@ jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱
 jnjRef('126245750','jnjfoorprint.blogspot.com/2019/04/slow-tv_29','倫敦火車');
 jnjRef('107494577','jnjfoorprint.blogspot.com/2018/03/blog-post_1','嘉義去回');
 jnjRef('104388704','jnjfoorprint.blogspot.com/2018/03/blog-post','美西行千里');
+jnjRef('565','jnjhome.blogspot.com/2024/02/blog-post_20','一樣的月光');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('127768522','jnjfoorprint.blogspot.com/2019/06/slow-tv','義大利之旅');
 jnjRef('105330678','jnjfoorprint.blogspot.com/2017/09/blog-post_77','維也納、薩爾斯堡街景');

@@ -18,4 +18,5 @@ switch(docID)
 	case "5651120558527041276" :	reg="sf1a";	break;
 	case "7814111802983414576" :	reg="collect2";	break;
 	case "4585035893626254876" :	reg="collect2";	break;
+	case "5331675630407323476" :	reg="slowtv";	break;
 }

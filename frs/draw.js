@@ -7,6 +7,7 @@ jnjRef('219409','jnjhome.blogspot.com/2006/03/blog-post_28','夏天裡的魚');
 jnjRef('167724','jnjhome.blogspot.com/2006/02/blog-post_3','回歸大海');
 jnjRef('5212366','jnjfoorprint.blogspot.com/2011/05/palazzo-della-signoria','藝文薈萃領主宮');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('564','jnjhome.blogspot.com/2024/02/blog-post','遊戲種種');
 jnjRef('169002','jnjhome.blogspot.tw/2006/02/elaine_5','夢遊仙境');
 jnjRef('228113','jnjhome.blogspot.com/2006/04/elaine_5','去買衣服');
 jnjRef('202300','jnjhome.blogspot.com/2006/03/elaine_12','和哥哥聊天');

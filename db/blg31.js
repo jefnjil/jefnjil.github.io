@@ -23,4 +23,5 @@ switch(docID)
 	case "763871989972179931" :	reg="covid19";	break;
 	case "2884154206823484331" :	reg="elite100";	break;
 	case "9160875277890585831" :	reg="identity";	break;
+	case "2909356332583409231" :	reg="draw";	break;
 }
