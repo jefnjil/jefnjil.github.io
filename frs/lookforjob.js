@@ -3,12 +3,13 @@ jnjRef('569','jnjtech.blogspot.com/2016/04/blog-post','中學生必修程式設�
 jnjRef('567','jnjtech.blogspot.com/2017/07/blog-post','分享一段失敗經驗');
 jnjRef('570','jnjtech.blogspot.com/2015/12/blog-post','保護、專利加減要做');
 jnjRef('572','jnjtech.blogspot.com/2015/07/blog-post','我上過一次電腦課');
+jnjRef('573','jnjtech.blogspot.com/2015/04/blog-post','程式設計課該教甚麼？ ');
 jnjRef('248','jnjtalks.blogspot.com/2008/01/blog-post_1','台灣學生比較有國際觀?');
 jnjRef('237','jnjtalks.blogspot.com/2010/02/blog-post_20','標準化的工作並非職場陷阱');
 jnjRef('247','jnjtalks.blogspot.com/2010/07/blog-post_21','讀書靠天分 家長醒醒吧');
 jnjRef('149','jnjtalks.blogspot.com/2022/01/blog-post','台灣員工領完年終秒離職？');
-jnjRef('566','jnjtech.blogspot.com/2018/03/blog-post','如何替軟體工程師打考績');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('566','jnjtech.blogspot.com/2018/03/blog-post','如何替軟體工程師打考績');
 jnjRef('568','jnjtech.blogspot.com/2016/05/blog-post','千萬不要因為沒學過，而不敢來應徵');
 jnjRef('245','jnjtalks.blogspot.com/2010/11/blog-post','雖然是實情，卻也只是一個面向');
 jnjRef('244','jnjtalks.blogspot.com/2012/08/blog-post_30','嚴長壽：若初期無薪 也要爭取工作');

@@ -5,5 +5,9 @@ jnjRef('180309124','jnjhome.blogspot.com/2022/02/blog-post_15','違建的養成'
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('326','jnjtalks.blogspot.com/2012/05/blog-post_7','張金鶚抑制房價說 ');
 jnjRef('327','jnjtalks.blogspot.com/2012/05/blog-post','台灣的房價究竟貴不貴？');
-jnjRef('6274894','jnjtalks.blogspot.com/2012/03/blog-post','由美國釘子戶看文林苑案及都市更新');
+jnjRef('6274894','jnjtalks.blogspot.com/2012/03/blog-post','文林苑案及都市更新');
+jnjRefList += '</ul></p></td><td valign=top><p><ul><b>古早時國外住宿</b>';
+jnjRef('165444598','jnjhome.blogspot.com/2021/07/blog-post','日本');
+jnjRef('165634344','jnjhome.blogspot.com/2021/07/blog-post_23','英國');
+jnjRef('165822068','jnjhome.blogspot.com/2021/07/blog-post_28','美國、夏威夷');
 jnjRefList += '</ul></p></td></tr></table>';
