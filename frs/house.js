@@ -1,6 +1,7 @@
 jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
 jnjRef('305','jnjhome.blogspot.com/2009/12/blog-post_16','公司附近買屋');
 jnjRef('325','jnjtalks.blogspot.com/2015/10/blog-post_28','七百元宿舍');
+jnjRef('180309124','jnjhome.blogspot.com/2022/02/blog-post_15','違建的養成');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('326','jnjtalks.blogspot.com/2012/05/blog-post_7','張金鶚抑制房價說 ');
 jnjRef('327','jnjtalks.blogspot.com/2012/05/blog-post','台灣的房價究竟貴不貴？');
