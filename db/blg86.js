@@ -20,4 +20,5 @@ switch(docID)
 	case "7011787056343002786" :	reg="tokyo";	break;
 	case "3860800235548097586" :	reg="translate";	break;
 	case "4295998278679465786" :	reg="citynews";	break;
+	case "6627010266886759086" :	reg="snack11";	break;
 }
