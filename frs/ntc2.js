@@ -13,8 +13,9 @@ jnjRef('130184984','jnjfoorprint.blogspot.com/2019/10/blog-post_21','八里左�
 jnjRef('149555706','jnjfoorprint.blogspot.com/2020/08/blog-post_31','淡水‧真理大學');
 jnjRef('149555491','jnjfoorprint.blogspot.com/2020/08/blog-post_27','淡水紅毛城');
 jnjRef('149555876','jnjfoorprint.blogspot.com/2020/09/blog-post_7','淡水小白宮');
-jnjRef('180090369','jnjfoorprint.blogspot.com/2023/11/blog-post','新店誠品裕隆城');
+jnjRef('180343148','jnjfoorprint.blogspot.com/2024/02/blog-post','淡水天元宮後山櫻花園區');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('180090369','jnjfoorprint.blogspot.com/2023/11/blog-post','新店誠品裕隆城');
 jnjRef('127003300','jnjfoorprint.blogspot.com/2019/05/blog-post_30','雲門劇場、星巴克');
 jnjRef('132831609','jnjfoorprint.blogspot.com/2020/04/blog-post_27','三峽白雞行修宮');
 jnjRef('162289551','jnjfoorprint.blogspot.com/2021/05/blog-post','行修宮後山步道');
