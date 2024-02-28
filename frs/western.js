@@ -10,5 +10,5 @@ jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('4493812','jnjmvtv.blogspot.com/2010/10/310310-to-yuma','決戰3:10');
 jnjRef('3613011','jnjmvtv.blogspot.com/2009/12/blog-post','西部槍手附體');
 jnjRef('177683516','jnjmvtv.blogspot.com/2022/12/english','英格蘭人 (The English)');
-jnjRef('180349099','jnjmvtv.blogspot.com/2024/01/bastarden-promised-land','真實的勇氣 (True Grit)');
+jnjRef('180349099','jnjmvtv.blogspot.com/2024/01/true-grit','真實的勇氣 (True Grit)');
 jnjRefList += '</ul></p></td></tr></table>';
