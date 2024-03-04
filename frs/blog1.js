@@ -14,6 +14,7 @@ jnjRef('2301114','jnjblogbiz.blogspot.com/2008/10/impossible-is-nothing_15','Imp
 jnjRef('150888539','jnjblogbiz.blogspot.com/2020/09/adsense','AdSense 莎喲娜啦，談談ｕ值媒');
 jnjRef('154','jnjblogbiz.blogspot.com/2020/06/blog-post','點閱數爆高，訪客卻十分有限');
 jnjRef('179741563','jnjblogbiz.blogspot.com/2023/08/udn','關於臉書私訊，兼談UDN部落格現況');
+jnjRef('180361729','jnjblogbiz.blogspot.com/2024/03/blog-post','貢寮十分雨中漫步 ─ 慶點閱破七百萬');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('43223539','jnjblogbiz.blogspot.com/2016/01/3mblogspot','文章點閱破3M，暨BlogSpot分站開張');
 jnjRef('112508848','jnjblogbiz.blogspot.com/2018/06/4m3c','慶點閱破4M，賞香車美人閒聊3C');
