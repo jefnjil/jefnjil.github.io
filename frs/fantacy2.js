@@ -13,6 +13,7 @@ jnjRef('4054845','jnjmvtv.blogspot.com/2010/05/lost-end','迷失到了盡頭');
 jnjRef('131391167','jnjmvtv.blogspot.com/2019/12/see','末日光明（See）');
 jnjRef('112','jnjmvtv.blogspot.com/2023/10/23q3-2x','寶可噩夢');
 jnjRef('123','jnjmvtv.blogspot.com/2022/12/11','怪奇物語');
+jnjRef('563','jnjmvtv.blogspot.com/2024/02/deep-end','太陽召喚２');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('67209758','jnjmvtv.blogspot.com/2016/07/monsters-dark-continent','異獸禁區與黑暗大陸');
 jnjRef('152043687','jnjmvtv.blogspot.com/2020/10/the-old-guardlovecraft-country','不死軍團、逃出絕命村');
@@ -21,5 +22,5 @@ jnjRef('178034639','jnjmvtv.blogspot.com/2023/01/blog-post','獵魔士：血緣�
 jnjRef('178732540','jnjmvtv.blogspot.com/2023/03/blog-post','洛克靈異偵探社');
 jnjRef('105','jnjmvtv.blogspot.com/2023/06/yellowjacketsfrom','Yellowjackets');
 jnjRef('180328734','jnjmvtv.blogspot.com/2024/02/dream-scenario','夢行者保羅');
-jnjRef('563','jnjmvtv.blogspot.com/2024/02/deep-end','太陽召喚２');
+jnjRef('583','jnjmvtv.blogspot.com/2024/03/sanctuary-witchs-tale','Sanctuary: A Witch&#39;s Tale');
 jnjRefList += '</ul></p></td></tr></table>';

@@ -13,6 +13,7 @@ jnjRef('173604533','jnjmvtv.blogspot.com/2022/04/slow-horses','腐肉屋的一�
 jnjRef('100','jnjmvtv.blogspot.com/2021/12/blog-post','明日戰爭');
 jnjRef('111','jnjmvtv.blogspot.com/2023/10/23q3','攻心諜戰');
 jnjRef('111','jnjmvtv.blogspot.com/2023/10/23q3','百變艾琳');
+jnjRef('125','jnjmvtv.blogspot.com/2023/12/blog-post','爆復');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('36206796','jnjmvtv.blogspot.com/2015/11/007spectre','007 Spectre 惡魔四伏');
 jnjRef('100','jnjmvtv.blogspot.com/2021/12/blog-post','007生死交戰');
@@ -20,5 +21,5 @@ jnjRef('171689749','jnjmvtv.blogspot.com/2022/01/ice-road','地表最強老爸�
 jnjRef('100','jnjmvtv.blogspot.com/2021/12/blog-post','迴路追殺令');
 jnjRef('106','jnjmvtv.blogspot.com/2023/06/blog-post','玩命鈔劫');
 jnjRef('111','jnjmvtv.blogspot.com/2023/10/23q3','致命清算');
-jnjRef('125','jnjmvtv.blogspot.com/2023/12/blog-post','爆復');
+jnjRef('583','jnjmvtv.blogspot.com/2024/03/sanctuary-witchs-tale','殺人者的購物中心');
 jnjRefList += '</ul></p></td></tr></table>';
