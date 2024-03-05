@@ -12,6 +12,7 @@ jnjRef('157791837','jnjmvtv.blogspot.com/2021/03/the-vanishing-at-cecil-hotel','
 jnjRef('175631913','jnjmvtv.blogspot.com/2022/07/under-banner-of-heaven','天堂的旗幟下');
 jnjRef('177348628','jnjmvtv.blogspot.com/2022/10/dahmer-monster-devil-in-ohio','俄亥俄的魔鬼');
 jnjRef('179690628','jnjmvtv.blogspot.com/2023/07/blog-post_31','八尺門的辯護人');
+jnjRef('584','jnjmvtv.blogspot.com/2024/03/criminal-record-la-confidential','鐵面特警隊');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('13745512','jnjmvtv.blogspot.com/2014/05/the-following','殺手信徒與特殊受害者');
 jnjRef('1418282','jnjmvtv.blogspot.com/2007/12/hannibal-lecter','我看Hannibal Lecter');
