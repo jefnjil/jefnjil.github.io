@@ -15,4 +15,5 @@ jnjRef('101','jnjmvtv.blogspot.com/2021/12/clarice','青年神探維蘭德');
 jnjRef('180294088','jnjmvtv.blogspot.com/2024/01/blog-post','芽籠、目中无人');
 jnjRef('175631913','jnjmvtv.blogspot.com/2022/07/under-banner-of-heaven','天堂的旗幟下');
 jnjRef('563','jnjmvtv.blogspot.com/2024/02/deep-end','深網  Deep End');
+jnjRef('180366438','jnjmvtv.blogspot.com/2024/03/true-detective-night-country','無間警探：闇夜國度');
 jnjRefList += '</ul></p></td></tr></table>';
