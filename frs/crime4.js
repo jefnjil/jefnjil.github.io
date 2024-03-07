@@ -3,6 +3,7 @@ jnjRef('101','jnjmvtv.blogspot.com/2021/12/clarice','破綻');
 jnjRef('171004743','jnjmvtv.blogspot.com/2021/12/ragdoll','屍偶 Ragdoll');
 jnjRef('177124463','jnjmvtv.blogspot.com/2022/09/black-bird','黑鳥（Black Bird）');
 jnjRef('125','jnjmvtv.blogspot.com/2023/12/blog-post','假面女郎');
+jnjRef('585','jnjmvtv.blogspot.com/2024/03/lover-stalker-killer-reina-roja','愛．纏．殺');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('113','jnjmvtv.blogspot.com/2023/10/23q3-233','冷血動物');
 jnjRef('125041796','jnjmvtv.blogspot.com/2019/03/true-detective','無間警探（真探）');
