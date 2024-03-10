@@ -16,6 +16,7 @@ jnjRef('104388986','jnjfoorprint.blogspot.com/2017/11/blog-post_19','梅庭-于�
 jnjRef('104388914','jnjfoorprint.blogspot.com/2017/09/blog-post_20','新北投風華');
 jnjRef('170539360','jnjfoorprint.blogspot.com/2021/11/4k','花現三層崎');
 jnjRef('170634525','jnjfoorprint.blogspot.com/2021/11/blog-post_29','關渡秘境花海');
+jnjRef('180370536','jnjfoorprint.blogspot.com/2024/03/blog-post','貴子坑生態園區');
 jnjRefList += '</ul></p></td><td valign=top><p><ul><b>陽明山</b>';
 jnjRef('1701372','jnjfoorprint.blogspot.com/2008/03/blog-post_17','芳草鮮美，落英繽紛');
 jnjRef('1701329','jnjfoorprint.blogspot.com/2008/03/blog-post_47','小隱潭');

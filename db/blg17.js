@@ -27,4 +27,5 @@ switch(docID)
 	case "6520053246316052017" :	reg="translate";	break;
 	case "1261181126313880017" :	reg="collect1";	break;
 	case "1064120790083045717" :	reg="politics1";	break;
+	case "3543242823304991817" :	reg="japfood1";	break;
 }

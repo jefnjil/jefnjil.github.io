@@ -20,4 +20,5 @@ jnjRef('48735568','jnjdining.blogspot.com/2016/05/blog-post','濱松屋生鮮鰻
 jnjRef('108683149','jnjdining.blogspot.com/2017/11/blog-post','靜岡勝政日式豬排');
 jnjRef('110070257','jnjdining.blogspot.com/2018/02/blog-post_28','勝博殿日式炸豬排');
 jnjRef('177006758','jnjdining.blogspot.com/2022/09/blog-post','彌生軒日式定食');
+jnjRef('180377007','jnjdining.blogspot.com/2024/03/blog-post','勝博殿@新光三越站前店');
 jnjRefList += '</ul></p></td></tr></table>';
