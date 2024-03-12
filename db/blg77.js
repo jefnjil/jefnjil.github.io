@@ -17,4 +17,5 @@ switch(docID)
 	case "5515758774320784977" :	reg="tale";	break;
 	case "5725338670117131977" :	reg="mv4";	break;
 	case "5481224958437285877" :	reg="lookforjob";	break;
+	case "5257643733358375277" :	reg="short_comments1";	break;
 }
