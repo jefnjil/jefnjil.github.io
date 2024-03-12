@@ -35,4 +35,5 @@ switch(docID)
 	case "7917157700715184724" :	reg="lookforjob";	break;
 	case "8127469822291978724" :	reg="music2";	break;
 	case "3158087244130430824" :	reg="fantacy2";	break;
+	case "4895240425067747324" :	reg="byefood";	break;
 }
