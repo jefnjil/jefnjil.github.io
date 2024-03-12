@@ -1,0 +1,17 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('594','jnjmvtv.blogspot.com/2014/05/7-2borgias','哈利波特7-2');
+jnjRef('594','jnjmvtv.blogspot.com/2014/05/7-2borgias','Borgias');
+jnjRef('594','jnjmvtv.blogspot.com/2014/05/7-2borgias','不死法醫');
+jnjRef('594','jnjmvtv.blogspot.com/2014/05/7-2borgias','龐貝');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('595','jnjmvtv.blogspot.com/2015/11/blog-post_17','創世契機');
+jnjRef('595','jnjmvtv.blogspot.com/2015/11/blog-post_17','錢藏凶機');
+jnjRef('595','jnjmvtv.blogspot.com/2015/11/blog-post_17','福爾摩斯先生');
+jnjRef('595','jnjmvtv.blogspot.com/2015/11/blog-post_17','移動迷宮');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('593','jnjmvtv.blogspot.com/2013/10/blog-post_6','惡之教典');
+jnjRef('593','jnjmvtv.blogspot.com/2013/10/blog-post_6','殺手輓歌');
+jnjRef('593','jnjmvtv.blogspot.com/2013/10/blog-post_6','疏離世界');
+jnjRef('592','jnjmvtv.blogspot.com/2008/07/blog-post_4','兩紙投名狀，一曲不了情');
+jnjRef('596','jnjmvtv.blogspot.com/2016/09/hawaii-five-o','檀島警騎第一代男主角現身');
+jnjRefList += '</ul></p></td></tr></table>';

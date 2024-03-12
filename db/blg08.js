@@ -27,4 +27,5 @@ switch(docID)
 	case "6891196125800106808" :	reg="collect2";	break;
 	case "90721086950510708" :	reg="citynews";	break;
 	case "122474070028181208" :	reg="collect";	break;
+	case "2127988492717847608" :	reg="sf4";	break;
 }

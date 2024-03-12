@@ -5,6 +5,7 @@ jnjRef('106578709','jnjmvtv.blogspot.com/2017/08/alien-covenant','異形：聖�
 jnjRef('103','jnjmvtv.blogspot.com/2021/12/ii','瑕疵小隊');
 jnjRef('131','jnjmvtv.blogspot.com/2023/12/blog-post_31','明日邊界');
 jnjRef('131391167','jnjmvtv.blogspot.com/2019/12/see','末日光明（See）');
+jnjRef('588','jnjmvtv.blogspot.com/2019/05/3','異星空間');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('21664423','jnjmvtv.blogspot.com/2015/03/predestination','超時空攔截');
 jnjRef('120','jnjmvtv.blogspot.com/2022/12/seal-team','西方極樂園');
@@ -15,7 +16,7 @@ jnjRef('103','jnjmvtv.blogspot.com/2021/12/ii','自殺突擊隊集結');
 jnjRef('111589957','jnjmvtv.blogspot.com/2018/04/annihilationthe-titan','泰坦（The Titan）');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('297','jnjhome.blogspot.com/2016/05/blog-post','星際大戰：原力覺醒');
-jnjRef('67209758','jnjmvtv.blogspot.com/2016/07/monsters-dark-continent','異獸禁區與黑暗大陸');
+jnjRef('587','jnjmvtv.blogspot.com/2020/09/blog-post','天行者的崛起');
 jnjRef('111589957','jnjmvtv.blogspot.com/2018/04/annihilationthe-titan','滅絕（Annihilation）');
 jnjRef('131338342','jnjmvtv.blogspot.com/2019/12/for-all-mankind','太空使命 For All Mankind');
 jnjRef('152043687','jnjmvtv.blogspot.com/2020/10/the-old-guardlovecraft-country','不死軍團、逃出絕命村');

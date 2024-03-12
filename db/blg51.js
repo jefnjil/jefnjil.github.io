@@ -21,4 +21,5 @@ switch(docID)
 	case "9185484287271046351" :	reg="collect2";	break;
 	case "3284022820764992351" :	reg="politics";	break;
 	case "5859818466398175251" :	reg="politics";	break;
+	case "7010350302850892151" :	reg="short_comments";	break;
 }
