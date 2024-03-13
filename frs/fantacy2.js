@@ -16,7 +16,6 @@ jnjRef('131391167','jnjmvtv.blogspot.com/2019/12/see','末日光明（See）');
 jnjRef('180328734','jnjmvtv.blogspot.com/2024/02/dream-scenario','夢行者保羅');
 jnjRef('563','jnjmvtv.blogspot.com/2024/02/deep-end','太陽召喚２');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
-jnjRef('67209758','jnjmvtv.blogspot.com/2016/07/monsters-dark-continent','異獸禁區與黑暗大陸');
 jnjRef('152043687','jnjmvtv.blogspot.com/2020/10/the-old-guardlovecraft-country','不死軍團、逃出絕命村');
 jnjRef('177955072','jnjliterature.blogspot.com/2022/12/wednesday-paint-it-black','Wednesday 的 Paint It Black');
 jnjRef('178034639','jnjmvtv.blogspot.com/2023/01/blog-post','獵魔士：血緣與政治正確');
@@ -24,4 +23,5 @@ jnjRef('178732540','jnjmvtv.blogspot.com/2023/03/blog-post','洛克靈異偵探�
 jnjRef('105','jnjmvtv.blogspot.com/2023/06/yellowjacketsfrom','Yellowjackets');
 jnjRef('583','jnjmvtv.blogspot.com/2024/03/sanctuary-witchs-tale','Sanctuary: A Witch&#39;s Tale');
 jnjRef('589','jnjmvtv.blogspot.com/2018/01/blog-post','粉絲製作佛地魔電影');
+jnjRef('601','jnjmvtv.blogspot.com/2024/03/blog-post','「美式小說」與「可憐的東西」共通之處');
 jnjRefList += '</ul></p></td></tr></table>';
