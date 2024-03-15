@@ -24,4 +24,6 @@ switch(docID)
 	case "1710588121634385332" :	reg="tsai";	break;
 	case "5245999991362302932" :	reg="identity";	break;
 	case "4270346828760424332" :	reg="horror";	break;
+	case "635955567766532232" :	reg="smalltalk";	break;
+	case "4384727418741054832" :	reg="smalltalk";	break;
 }

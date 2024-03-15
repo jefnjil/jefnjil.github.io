@@ -17,4 +17,5 @@ switch(docID)
 	case "244041133776864527" :	reg="aitaiwan";	break;
 	case "3186735127432755527" :	reg="fraud";	break;
 	case "1272565918652507227" :	reg="citynews";	break;
+	case "5930403327305651727" :	reg="memory2";	break;
 }

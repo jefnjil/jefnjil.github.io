@@ -23,4 +23,5 @@ switch(docID)
 	case "5068434111798149082" :	reg="comment1";	break;
 	case "116704548071417782" :	reg="politics1";	break;
 	case "4598521573208787582" :	reg="3C1";	break;
+	case "3199055476155029482" :	reg="smalltalk";	break;
 }

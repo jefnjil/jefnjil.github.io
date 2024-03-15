@@ -4,6 +4,7 @@ jnjRef('1134322','jnjhome.blogspot.com/2007/08/blog-post_3','小弟');
 jnjRef('692930','jnjhome.blogspot.com/2007/01/blog-post','銅瓜');
 jnjRef('2241898','jnjtalks.blogspot.com/2008/09/blog-post','治牙蟲');
 jnjRef('1162100','jnjhome.blogspot.com/2007/08/blog-post','禍從天降');
+jnjRef('608','jnjhome.blogspot.com/2008/06/blog-post_14','日本債券');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('3347550','jnjhome.blogspot.com/2009/09/blog-post','搬家蛻一層皮');
 jnjRef('6695260','jnjtalks.blogspot.com/2012/08/blog-post','都是奧運惹的禍');
@@ -17,4 +18,5 @@ jnjRef('178026135','jnjfoorprint.blogspot.com/2023/01/blog-post','大安森林�
 jnjRef('178330232','jnjfoorprint.blogspot.com/2023/02/blog-post','父後三日走四獸山步道');
 jnjRef('179417384','jnjhome.blogspot.com/2023/06/blog-post','國外家屬死亡登記（上）國外篇');
 jnjRef('179417418','jnjhome.blogspot.com/2023/06/blog-post_29','國外家屬死亡登記（下）國內篇');
+jnjRef('603','jnjhome.blogspot.com/2013/01/blog-post','「台灣人在滿州國」紀錄片');
 jnjRefList += '</ul></p></td></tr></table>';

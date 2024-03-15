@@ -19,4 +19,5 @@ switch(docID)
 	case "5464413859889026270" :	reg="music2";	break;
 	case "7996531855505769570" :	reg="3C1";	break;
 	case "2548381477017481270" :	reg="3C1";	break;
+	case "7381324700837536370" :	reg="campus";	break;
 }

@@ -18,4 +18,7 @@ switch(docID)
 	case "2562782172558979279" :	reg="expo1";	uss="637430";	break;
 	case "7963113497904484279" :	reg="aitaiwan";	break;
 	case "7697227801954731479" :	reg="mv4";	break;
+	case "1951089329213870179" :	reg="smalltalk";	break;
+	case "6854745386570950779" :	reg="smalltalk";	break;
+	case "7666359277267097479" :	reg="wind";	break;
 }
