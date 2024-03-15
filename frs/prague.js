@@ -30,4 +30,5 @@ jnjRef('74666612','jnjfoorprint.blogspot.com/2017/05/blog-post_4','地窖餐廳�
 jnjRefList += '</ul></p><p><ul><b>布拉格新城</b>';
 jnjRef('74665225','jnjfoorprint.blogspot.com/2016/11/blog-post','新市政廳、跳舞房子');
 jnjRef('69815888','jnjfoorprint.blogspot.com/2016/09/blog-post','中央車站瓦茨拉夫廣場');
+jnjRef('602','jnjfoorprint.blogspot.com/2023/08/blog-post','廣場末梢路邊漢堡攤充飢');
 jnjRefList += '</ul></p></td></tr></table>';

@@ -31,4 +31,5 @@ switch(docID)
 	case "3365094389488967692" :	reg="politics";	break;
 	case "7591636254266529192" :	reg="citynews";	break;
 	case "3636583493281563392" :	reg="politics";	break;
+	case "1347425677070445892" :	reg="prague";	break;
 }
