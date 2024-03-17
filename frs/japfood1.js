@@ -5,6 +5,7 @@ jnjRef('92714497','jnjdining.blogspot.com/2017/03/blog-post_4','野草居食屋'
 jnjRef('115011695','jnjdining.blogspot.com/2018/09/blog-post','花酒蔵海鮮吧');
 jnjRef('127832761','jnjdining.blogspot.com/2019/07/q','Q丸和洋食堂');
 jnjRef('180015968','jnjdining.blogspot.com/2023/10/blog-post_30','丸龜製麵');
+jnjRef('180397893','jnjdining.blogspot.com/2024/03/blog-post_18','陶板屋小聚');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('109139377','jnjdining.blogspot.com/2017/12/blog-post','豚骨一燈拉麵');
 jnjRef('86405670','jnjdining.blogspot.com/2017/01/2016','牡丹園握壽司');

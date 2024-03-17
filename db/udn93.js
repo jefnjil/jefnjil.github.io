@@ -15,4 +15,5 @@ switch(docID)
 	case "9277693": 	reg="3C";	break;
 	case "177194393" :	reg="westfood1";	uss="635042";	umd="2022.10.4";	uMedia="12751/6658010";	break;
 	case "180225093" :	reg="history2";	break;
+	case "180397893" :	reg="japfood1";	break;
 }
