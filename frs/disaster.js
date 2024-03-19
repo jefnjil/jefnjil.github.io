@@ -14,4 +14,5 @@ jnjRef('1194150','jnjmvtv.blogspot.com/2007/08/28','28週毀滅倒數');
 jnjRef('67209758','jnjmvtv.blogspot.com/2016/07/monsters-dark-continent','異獸禁區與黑暗大陸');
 jnjRef('121','jnjmvtv.blogspot.com/2022/12/2022','惡靈古堡首部曲：拉昆市');
 jnjRef('180243901','jnjmvtv.blogspot.com/2024/01/198493','鐵道人：1984博帕爾事件');
+jnjRef('180397929','jnjmvtv.blogspot.com/2024/03/blog-post_20','絕地盟約 - 安地斯山空難餘生');
 jnjRefList += '</ul></p></td></tr></table>';
