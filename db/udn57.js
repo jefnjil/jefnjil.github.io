@@ -8,4 +8,5 @@ switch(docID)
 	case "3198357": 	reg="shikoku";	uss="200030";	break;
 	case "6106557": 	reg="kyushu";	uss="343114";	break;
 	case "7165157": 	reg="gsf";	uss="395463";	break;
+	case "180421057" :	reg="ntc2";	break;
 }
