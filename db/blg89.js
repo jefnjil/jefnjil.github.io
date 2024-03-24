@@ -20,7 +20,7 @@ switch(docID)
 	case "6963556778511091289" :	reg="blog";	break;
 	case "249896166162908689" :	reg="family";	break;
 	case "4010773544744751589" :	reg="crime1";	woman="123164/7375100";	break;
-	case "8874149434064093689" :	reg="feast2";	break;
+	case "8874149434064093689" :	reg="feast2";	woman="123162/7846554";	break;
 	case "6510403155671602789" :	reg="covid19";	break;
 	case "4150668532933515789" :	reg="campus";	break;
 	case "2097062505034008189" :	reg="collect";	break;
