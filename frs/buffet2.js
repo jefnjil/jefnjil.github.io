@@ -18,4 +18,5 @@ jnjRef('151078807','jnjdining.blogspot.com/2020/10/blog-post','十二廚包肥�
 jnjRef('173112985','jnjdining.blogspot.com/2022/04/blog-post','君悅凱菲屋下午茶小聚');
 jnjRef('174972704','jnjdining.blogspot.com/2022/06/blog-post','漢來海港天母店午餐');
 jnjRef('179930823','jnjdining.blogspot.com/2023/10/blog-post','饗食天堂收盤機器人');
+jnjRef('180421178','jnjdining.blogspot.com/2024/03/2024','漢來海港敦化店下午茶');
 jnjRefList += '</ul></p></td></tr></table>';
