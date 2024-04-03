@@ -5,6 +5,7 @@ jnjRef('20033838','jnjmvtv.blogspot.com/2015/01/marco-polo','馬可波羅');
 jnjRef('108','jnjmvtv.blogspot.com/2023/06/blog-post_15','滿江紅');
 jnjRef('7036905','jnjmvtv.blogspot.com/2012/11/1453-fetih-1453','征服1453');
 jnjRef('177900129','jnjmvtv.blogspot.com/2022/12/the-serpent-queen','蛇蠍王后');
+jnjRef('180456822','jnjmvtv.blogspot.com/2024/04/one-life','倖存者列車');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('7627513','jnjmvtv.blogspot.com/2013/05/gettysburg','蓋茨堡戰役');
 jnjRef('7471594','jnjmvtv.blogspot.com/2013/04/lincolngods-and-generals','林肯與諸神眾將');
