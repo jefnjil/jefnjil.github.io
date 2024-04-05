@@ -21,4 +21,5 @@ jnjRef('111589957','jnjmvtv.blogspot.com/2018/04/annihilationthe-titan','滅絕�
 jnjRef('131338342','jnjmvtv.blogspot.com/2019/12/for-all-mankind','太空使命 For All Mankind');
 jnjRef('152043687','jnjmvtv.blogspot.com/2020/10/the-old-guardlovecraft-country','不死軍團、逃出絕命村');
 jnjRef('180353705','jnjmvtv.blogspot.com/2024/03/severance','人生切割術 (Severance)');
+jnjRef('180456822','jnjmvtv.blogspot.com/2024/04/one-life','異星謎變');
 jnjRefList += '</ul></p></td></tr></table>';
