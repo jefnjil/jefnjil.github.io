@@ -23,4 +23,5 @@ jnjRef('160920844','jnjfoorprint.blogspot.com/2021/04/blog-post_14','石門水�
 jnjRef('177530096','jnjfoorprint.blogspot.com/2022/11/xpark','XPark 福爾摩沙水族箱');
 jnjRef('177599803','jnjfoorprint.blogspot.com/2022/11/xpark_01204325003','XPark 水母與企鵝');
 jnjRef('177653438','jnjfoorprint.blogspot.com/2022/12/xpark','XPark 珊瑚、雨林及其他');
+jnjRef('180482968','jnjfoorprint.blogspot.com/2024/04/blog-post','東眼山三角點自導式步道');
 jnjRefList += '</ul></p></td></tr></table>';
