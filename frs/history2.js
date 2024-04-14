@@ -14,6 +14,7 @@ jnjRef('131614153','jnjmvtv.blogspot.com/2020/01/midway','決戰中途島');
 jnjRef('126077911','jnjmvtv.blogspot.com/2019/04/the-widow','寡婦 ─ 黑土疑雲');
 jnjRef('171377525','jnjmvtv.blogspot.com/2022/01/last-duel','最後的決鬥');
 jnjRef('180225093','jnjmvtv.blogspot.com/2024/01/bastarden-promised-land','惡棍, 應許之地');
+jnjRef('180505957','jnjmvtv.blogspot.com/2024/04/blog-post','幕府將軍');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('17666870','jnjmvtv.blogspot.com/2014/09/633-vikings','633轟炸大隊與維京傳奇');
 jnjRef('29604992','jnjmvtv.blogspot.com/2015/09/blog-post','白王后與塔中小王子疑案');
