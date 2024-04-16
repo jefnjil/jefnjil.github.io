@@ -12,6 +12,7 @@ jnjRef('142','jnjtalks.blogspot.com/2020/12/blog-post','東岸鐵路是日本人
 jnjRef('149','jnjtalks.blogspot.com/2022/01/blog-post','台灣員工忠誠度不如日本');
 jnjRef('140','jnjtalks.blogspot.com/2024/01/blog-post_18','柯文哲否認民調作假');
 jnjRef('158','jnjtalks.blogspot.com/2020/12/blog-post_68','疫情初起第一年');
+jnjRef('620','jnjtalks.blogspot.com/2024/04/blog-post','文化部長洗滌人心');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('141','jnjtalks.blogspot.com/2023/07/blog-post_12','教授要求把活金魚打成汁');
 jnjRef('143','jnjtalks.blogspot.com/2020/12/blog-post_31','振興三倍券和那堆花花券');
@@ -19,4 +20,5 @@ jnjRef('131725887','jnjtalks.blogspot.com/2020/02/blog-post','也來說說「口
 jnjRef('145','jnjtalks.blogspot.com/2020/05/blog-post_5','連木瓜都能確診？');
 jnjRef('146','jnjtalks.blogspot.com/2020/04/p4','有關武漢P4實驗室');
 jnjRef('159','jnjtalks.blogspot.com/2020/12/blog-post_30','川普2020');
+jnjRef('620','jnjtalks.blogspot.com/2024/04/blog-post','國防部長顧法院');
 jnjRefList += '</ul></p></td></tr></table>';
