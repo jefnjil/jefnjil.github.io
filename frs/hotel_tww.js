@@ -20,4 +20,5 @@ jnjRef('4299717','jnjfoorprint.blogspot.com/2010/08/blog-post_56','日華金典�
 jnjRef('8469883','jnjfoorprint.blogspot.com/2013/09/blog-post_97','劍湖山王子飯店');
 jnjRef('102328221','jnjfoorprint.blogspot.com/2017/06/blog-post','高雄麗尊酒店');
 jnjRef('125888582','jnjfoorprint.blogspot.com/2019/04/blog-post_22','高雄京城飯店');
+jnjRef('180517303','jnjdining.blogspot.com/2024/04/blog-post_18','名都觀光渡假大飯店');
 jnjRefList += '</ul></p></td></tr></table>';

@@ -27,4 +27,5 @@ switch(docID)
 	case "5013966755266360383" :	reg="identity";	break;
 	case "4076183937648557983" :	reg="politics";	break;
 	case "3692085885654973883" :	reg="crime4";	woman="123164/7830087";	break;
+	case "5946971320867000283" :	reg="hotel_tww";	break;
 }
