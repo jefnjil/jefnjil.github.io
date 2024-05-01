@@ -1,11 +1,11 @@
 jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
 jnjRef('180129159','jnjmvtv.blogspot.com/2023/12/u-571-300-2012','2012');
 jnjRef('103','jnjmvtv.blogspot.com/2021/12/ii','噤界II');
-jnjRef('106578709','jnjmvtv.blogspot.com/2017/08/alien-covenant','異形：聖約');
 jnjRef('103','jnjmvtv.blogspot.com/2021/12/ii','瑕疵小隊');
 jnjRef('131','jnjmvtv.blogspot.com/2023/12/blog-post_31','明日邊界');
 jnjRef('131391167','jnjmvtv.blogspot.com/2019/12/see','末日光明（See）');
 jnjRef('588','jnjmvtv.blogspot.com/2019/05/3','異星空間');
+jnjRef('621','jnjmvtv.blogspot.com/2024/05/blog-post','烙印之人');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('180456822','jnjmvtv.blogspot.com/2024/04/one-life','異星謎變');
 jnjRef('21664423','jnjmvtv.blogspot.com/2015/03/predestination','超時空攔截');

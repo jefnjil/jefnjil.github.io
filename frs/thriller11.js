@@ -1,16 +1,14 @@
 jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
 jnjRef('122559780','jnjmvtv.blogspot.com/2018/12/searching','人肉搜索');
 jnjRef('151111684','jnjmvtv.blogspot.com/2020/10/departure','失落航班');
-jnjRef('20999915','jnjmvtv.blogspot.com/2015/02/breaking-bad','絕命毒師');
 jnjRef('163662513','jnjmvtv.blogspot.com/2021/06/promising-young-woman','花漾女子');
 jnjRef('178078685','jnjmvtv.blogspot.com/2023/01/woman-of-dead','賢妻復仇記');
 jnjRef('179724391','jnjmvtv.blogspot.com/2023/08/crowded-room','擁擠的房間');
 jnjRef('104','jnjmvtv.blogspot.com/2020/12/2020','捍衛雅各');
-jnjRef('112','jnjmvtv.blogspot.com/2023/10/23q3-2x','奪魂鋸X');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('621','jnjmvtv.blogspot.com/2024/05/blog-post','沉默生機');
 jnjRef('114040611','jnjmvtv.blogspot.com/2018/08/the-handmaids-tale','侍女的故事');
 jnjRef('132459491','jnjmvtv.blogspot.com/2020/04/baghdad-central','巴格達總局');
-jnjRef('4287816','jnjmvtv.blogspot.com/2010/08/blog-post_3','龍紋身的女孩');
 jnjRef('126077911','jnjmvtv.blogspot.com/2019/04/the-widow','寡婦 ─ 黑土疑雲');
 jnjRef('164498059','jnjmvtv.blogspot.com/2021/07/shadow-in-cloud','致命天際線');
 jnjRef('178732540','jnjmvtv.blogspot.com/2023/03/blog-post','洛克靈異偵探社');
