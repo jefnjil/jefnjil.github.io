@@ -5,6 +5,7 @@ jnjRef('175873979','jnjdining.blogspot.com/2022/07/blog-post','這一小鍋');
 jnjRef('177809311','jnjdining.blogspot.com/2022/12/blog-post','四海一家');
 jnjRef('180338337','jnjdining.blogspot.com/2024/02/blog-post_23','朱記餡餅');
 jnjRef('160017918','jnjdining.blogspot.com/2021/04/blog-post','十里安手麵');
+jnjRef('180561089','jnjdining.blogspot.com/2024/05/blog-post','銅鑼張記客家料理');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('180042549','jnjdining.blogspot.com/2023/11/blog-post','四海一家外賣');
 jnjRef('155262228','jnjdining.blogspot.com/2021/01/blog-post','金品茶樓江浙料理');
