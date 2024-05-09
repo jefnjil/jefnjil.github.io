@@ -5,7 +5,7 @@ jnjRef('103','jnjmvtv.blogspot.com/2021/12/ii','瑕疵小隊');
 jnjRef('131','jnjmvtv.blogspot.com/2023/12/blog-post_31','明日邊界');
 jnjRef('131391167','jnjmvtv.blogspot.com/2019/12/see','末日光明（See）');
 jnjRef('588','jnjmvtv.blogspot.com/2019/05/3','異星空間');
-jnjRef('621','jnjmvtv.blogspot.com/2024/05/blog-post','烙印之人');
+jnjRef('180590246','jnjmvtv.blogspot.com/2024/05/blog-post','烙印之人');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('180456822','jnjmvtv.blogspot.com/2024/04/one-life','異星謎變');
 jnjRef('21664423','jnjmvtv.blogspot.com/2015/03/predestination','超時空攔截');

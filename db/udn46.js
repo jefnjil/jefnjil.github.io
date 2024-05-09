@@ -22,4 +22,5 @@ switch(docID)
 	case "178934446" :	reg="feast1";	uss="637474";	break;
 	case "179106446" :	reg="miaoli";	uss="637468";	break;
 	case "180196446" :	reg="music";	break;
+	case "180590246" :	reg="sf4";	break;
 }

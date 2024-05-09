@@ -21,7 +21,7 @@ jnjRef('177955072','jnjliterature.blogspot.com/2022/12/wednesday-paint-it-black'
 jnjRef('178034639','jnjmvtv.blogspot.com/2023/01/blog-post','獵魔士：血緣與政治正確');
 jnjRef('178732540','jnjmvtv.blogspot.com/2023/03/blog-post','洛克靈異偵探社');
 jnjRef('105','jnjmvtv.blogspot.com/2023/06/yellowjacketsfrom','Yellowjackets');
-jnjRef('583','jnjmvtv.blogspot.com/2024/03/sanctuary-witchs-tale','Sanctuary: A Witch&#39;s Tale');
+jnjRef('180451268','jnjmvtv.blogspot.com/2024/03/sanctuary-witchs-tale','Sanctuary: A Witch&#39;s Tale');
 jnjRef('589','jnjmvtv.blogspot.com/2018/01/blog-post','粉絲製作佛地魔電影');
-jnjRef('601','jnjmvtv.blogspot.com/2024/03/blog-post','「美式小說」與「可憐的東西」共通之處');
+jnjRef('180445752','jnjmvtv.blogspot.com/2024/03/blog-post','「美式小說」與「可憐的東西」共通之處');
 jnjRefList += '</ul></p></td></tr></table>';

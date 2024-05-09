@@ -3,7 +3,7 @@ jnjRef('587','jnjmvtv.blogspot.com/2020/09/blog-post','搞鬼');
 jnjRef('120','jnjmvtv.blogspot.com/2022/12/seal-team','陰屍路');
 jnjRef('590','jnjmvtv.blogspot.com/2006/01/the-village','陰森林');
 jnjRef('180456822','jnjmvtv.blogspot.com/2024/04/one-life','兇鏡');
-jnjRef('621','jnjmvtv.blogspot.com/2024/05/blog-post','破墓');
+jnjRef('180590246','jnjmvtv.blogspot.com/2024/05/blog-post','破墓');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('112','jnjmvtv.blogspot.com/2023/10/23q3-2x','奪魂鋸X');
 jnjRef('102','jnjmvtv.blogspot.com/2021/12/2','血色天劫');
