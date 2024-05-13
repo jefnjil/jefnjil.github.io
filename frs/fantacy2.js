@@ -14,7 +14,7 @@ jnjRef('3654343','jnjmvtv.blogspot.com/2010/01/avatar','觀阿凡達有感');
 jnjRef('4054845','jnjmvtv.blogspot.com/2010/05/lost-end','迷失到了盡頭');
 jnjRef('131391167','jnjmvtv.blogspot.com/2019/12/see','末日光明（See）');
 jnjRef('180328734','jnjmvtv.blogspot.com/2024/02/dream-scenario','夢行者保羅');
-jnjRef('563','jnjmvtv.blogspot.com/2024/02/deep-end','太陽召喚２');
+jnjRef('180605463','jnjmvtv.blogspot.com/2024/02/deep-end','太陽召喚２');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('152043687','jnjmvtv.blogspot.com/2020/10/the-old-guardlovecraft-country','不死軍團、逃出絕命村');
 jnjRef('177955072','jnjliterature.blogspot.com/2022/12/wednesday-paint-it-black','Wednesday 的 Paint It Black');

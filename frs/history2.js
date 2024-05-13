@@ -22,5 +22,5 @@ jnjRef('110253050','jnjmvtv.blogspot.com/2018/02/tyrant','暴君 ─ 邁向獨�
 jnjRef('164344280','jnjmvtv.blogspot.com/2021/06/american-traitor-trial-of-axis-sally','審判美奸軸心莎莉');
 jnjRef('177747434','jnjmvtv.blogspot.com/2022/12/1883','1883 ─ 西部開拓路上血跡斑斑');
 jnjRef('108','jnjmvtv.blogspot.com/2023/06/blog-post_15','尋找非洲女王：恩津加');
-jnjRef('563','jnjmvtv.blogspot.com/2024/02/deep-end','拿破崙');
+jnjRef('180605463','jnjmvtv.blogspot.com/2024/02/deep-end','拿破崙');
 jnjRefList += '</ul></p></td></tr></table>';
