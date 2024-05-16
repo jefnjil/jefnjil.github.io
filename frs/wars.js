@@ -14,4 +14,5 @@ jnjRef('17666870','jnjmvtv.blogspot.com/2014/09/633-vikings','633轟炸大隊與
 jnjRef('335340','jnjmvtv.blogspot.com/2006/07/kingdom-of-heaven','王者天下、天國王朝');
 jnjRef('7259606','jnjmvtv.blogspot.com/2013/01/spartacus-war-of-damned','第三季 天譴戰爭');
 jnjRef('64552933','jnjmvtv.blogspot.com/2016/07/eye-in-sky','天眼行動、飛彈與狗');
+jnjRef('180615264','jnjhome.blogspot.com/2024/05/blog-post','五百年前朝日海戰');
 jnjRefList += '</ul></p></td></tr></table>';

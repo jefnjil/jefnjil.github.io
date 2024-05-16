@@ -27,4 +27,5 @@ switch(docID)
 	case "1990017001151872110" :	reg="economic";	break;
 	case "4492086680185612810" :	reg="music2";	break;
 	case "2040148946229318810" :	reg="music2";	break;
+	case "7672399234782582410" :	reg="comment1";	break;
 }

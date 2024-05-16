@@ -1,6 +1,5 @@
 jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
 jnjRef('1833064','jnjtalks.blogspot.com/2008/05/blog-post_2','正職與兼差');
-jnjRef('495','jnjtalks.blogspot.com/2008/05/blog-post_1','教授上電視，社會角色的衝突？');
 jnjRef('28511901','jnjfoorprint.blogspot.com/2015/08/blog-post_23','漫談車拍與修片');
 jnjRef('1887230','jnjtalks.blogspot.com/2008/05/blog-post_21','真的台語人人會說嗎');
 jnjRef('109722583','jnjtalks.blogspot.com/2017/12/blog-post','「捐獻」也是人權嗎？');
@@ -15,7 +14,9 @@ jnjRef('43195086','jnjtalks.blogspot.com/2016/03/blog-post','我是五年級生�
 jnjRef('163482551','jnjtalks.blogspot.com/2021/06/blog-post','關於疫苗的幾句牢騷閒話');
 jnjRef('180213768','jnjtalks.blogspot.com/2024/01/blog-post','民調封關談總統大選');
 jnjRef('475','jnjtalks.blogspot.com/2012/05/blog-post_22','我們確實知道真相是什麼嗎？');
+jnjRef('180615264','jnjhome.blogspot.com/2024/05/blog-post','日本通不通日文');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('495','jnjtalks.blogspot.com/2008/05/blog-post_1','教授上電視，社會角色的衝突？');
 jnjRef('6274894','jnjtalks.blogspot.com/2012/03/blog-post','由美國釘子戶看文林苑案及都市更新');
 jnjRef('10145807','jnjmvtv.blogspot.com/2013/12/ripper-street','由開膛街（Ripper Street）看多元成家');
 jnjRef('129520039','jnjtalks.blogspot.com/2019/09/blog-post','「蔡英文總統論文讀後感」懷古補遺');
