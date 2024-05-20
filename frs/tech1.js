@@ -4,6 +4,7 @@ jnjRef('29343691','jnjtech.blogspot.com/2015/09/ice','全景畫自動拼接（IC
 jnjRef('113920232','jnjtech.blogspot.com/2018/08/windows-ce-steps-to-setup-ce-device','CE裝置除錯環境設定');
 jnjRef('165979567','jnjtech.blogspot.com/2021/07/line','解鎖舊版 Line 聊天室備份');
 jnjRef('151','jnjtech.blogspot.com/2022/02/fragmentsgarbage-collection','記憶體空洞與資源回收');
+jnjRef('180615350','jnjtech.blogspot.com/2024/05/z80-cpu','Z80 CPU 年近半百謝幕');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('575','jnjtech.blogspot.com/2013/11/blog-post_22','由影像擷取裝置取得資料流');
 jnjRef('171960898','jnjtech.blogspot.com/2022/03/gcp-infinityfree-drivetoweb','免費網頁空間應用筆記');
