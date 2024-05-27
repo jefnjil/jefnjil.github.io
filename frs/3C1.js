@@ -19,4 +19,5 @@ jnjRef('43982788','jnjdining.blogspot.com/2016/01/panasonic-sd-bmt2000','BMT2000
 jnjRef('128395790','jnjtech.blogspot.com/2019/08/apple-watch-suica','Apple Watch 應用日本 Suica 經驗談');
 jnjRef('177159373','jnjtech.blogspot.com/2022/08/blog-post','舊卡帶救星，挽回學生時代吉他錄音三首');
 jnjRef('300','jnjhome.blogspot.com/2013/10/blog-post','有如長城的螢幕牆，片片相連到天邊');
+jnjRef('180654702','jnjtech.blogspot.com/2024/05/acumatica','長弘科技與同學小聚');
 jnjRefList += '</ul></p></td></tr></table>';

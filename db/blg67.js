@@ -13,4 +13,5 @@ switch(docID)
 	case "1893984469314571067" :	reg="fraud";	break;
 	case "7775748368784971167" :	reg="mice";	break;
 	case "2089903639901557067" :	reg="short_comments";	break;
+	case "8738910357027466167" :	reg="3C1";	break;
 }
