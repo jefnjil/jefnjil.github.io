@@ -14,6 +14,7 @@ jnjRef('157865062','jnjdining.blogspot.com/2021/03/blog-post_25','雲滇雲南�
 jnjRef('151631561','jnjfoorprint.blogspot.com/2020/10/blog-post_19','滿妹豬腳‧悟饕便當');
 jnjRef('172264427','jnjdining.blogspot.com/2022/03/blog-post_24','川湯溫泉養生餐廳');
 jnjRef('180327770','jnjdining.blogspot.com/2024/02/blog-post_15','京星飲茶生日宴');
+jnjRef('180666866','jnjdining.blogspot.com/2024/05/blog-post_30','大心新泰式麵食');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('165138167','jnjdining.blogspot.com/2021/07/blog-post','點水樓下午茶吃到飽');
 jnjRef('175185696','jnjblogbiz.blogspot.com/2022/06/blog-post','疫期便當與餐廳漏網之魚');

@@ -32,4 +32,5 @@ switch(docID)
 	case "5367991579025431805" :	reg="worldnews";	break;
 	case "8408019097649770005" :	reg="comment1";	break;
 	case "1161242562779748905" :	reg="lookforjob";	break;
+	case "5019257689383516705" :	reg="snack11";	break;
 }
