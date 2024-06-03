@@ -14,6 +14,7 @@ jnjRef('129263060','jnjmvtv.blogspot.com/2019/09/carnival-row','嘉年華大街'
 jnjRef('131391167','jnjmvtv.blogspot.com/2019/12/see','末日光明（See）');
 jnjRef('111589957','jnjmvtv.blogspot.com/2018/04/annihilationthe-titan','泰坦、滅絕');
 jnjRef('166281852','jnjmvtv.blogspot.com/2021/08/plot-against-america','美國外史');
+jnjRef('180677185','jnjmvtv.blogspot.com/2024/06/civil-war','美國內戰');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('67209758','jnjmvtv.blogspot.com/2016/07/monsters-dark-continent','異獸禁區與黑暗大陸');
 jnjRef('131338342','jnjmvtv.blogspot.com/2019/12/for-all-mankind','太空使命 For All Mankind');

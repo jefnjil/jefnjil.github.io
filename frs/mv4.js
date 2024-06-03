@@ -12,6 +12,7 @@ jnjRef('180101142','jnjmvtv.blogspot.com/2023/11/blog-post_27','唐山大地震'
 jnjRef('123','jnjmvtv.blogspot.com/2022/12/11','阿波羅11號');
 jnjRef('517','jnjtalks.blogspot.com/2007/09/blog-post_30','也談色戒的三點全露');
 jnjRef('180605463','jnjmvtv.blogspot.com/2024/02/deep-end','怪物 (かいぶつ)');
+jnjRef('180677185','jnjmvtv.blogspot.com/2024/06/civil-war','帝國浩劫：美國內戰');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('178981276','jnjmvtv.blogspot.com/2023/04/blog-post','「超難搞先生」開「經典老爺車」');
 jnjRef('122','jnjmvtv.blogspot.com/2022/12/tinder','村裡來了個暴走女外科');
