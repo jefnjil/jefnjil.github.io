@@ -19,4 +19,5 @@ jnjRef('177683516','jnjmvtv.blogspot.com/2022/12/english','英格蘭人 (The Eng
 jnjRef('178590580','jnjmvtv.blogspot.com/2023/03/let-right-one-me-in','血色入侵 / 噬血童話');
 jnjRef('179046344','jnjmvtv.blogspot.com/2023/04/diplomat','外交官和頭號外交官');
 jnjRef('180168042','jnjmvtv.blogspot.com/2023/12/leave-world-behind','斷訊 (Leave the World Behind)');
+jnjRef('180688580','jnjmvtv.blogspot.com/2024/06/nattevagten','隔卅年才拍續集的「守夜人」');
 jnjRefList += '</ul></p></td></tr></table>';
