@@ -23,4 +23,5 @@ jnjRef('131338342','jnjmvtv.blogspot.com/2019/12/for-all-mankind','太空使命 
 jnjRef('152043687','jnjmvtv.blogspot.com/2020/10/the-old-guardlovecraft-country','不死軍團、逃出絕命村');
 jnjRef('180353705','jnjmvtv.blogspot.com/2024/03/severance','人生切割術 (Severance)');
 jnjRef('180482924','jnjmvtv.blogspot.com/2024/04/vs-netflix-3-body-problem','三体 vs. 3 Body Problem');
+jnjRef('180699784','jnjmvtv.blogspot.com/2024/06/blog-post','哥吉拉與金剛：新帝國');
 jnjRefList += '</ul></p></td></tr></table>';

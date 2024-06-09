@@ -22,4 +22,5 @@ switch(docID)
 	case "4500753339228365697" :	reg="energy";	break;
 	case "5938889658482263697" :	reg="collect";	break;
 	case "161058209302144897" :	reg="tale";	break;
+	case "3311046695298615397" :	reg="sf4";	break;
 }

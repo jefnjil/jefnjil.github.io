@@ -22,4 +22,5 @@ jnjRef('100','jnjmvtv.blogspot.com/2021/12/blog-post','迴路追殺令');
 jnjRef('106','jnjmvtv.blogspot.com/2023/06/blog-post','玩命鈔劫');
 jnjRef('111','jnjmvtv.blogspot.com/2023/10/23q3','致命清算');
 jnjRef('180451268','jnjmvtv.blogspot.com/2024/03/sanctuary-witchs-tale','殺人者的購物中心');
+jnjRef('180699784','jnjmvtv.blogspot.com/2024/06/blog-post','非紳士特攻隊');
 jnjRefList += '</ul></p></td></tr></table>';
