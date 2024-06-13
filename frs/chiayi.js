@@ -25,4 +25,5 @@ jnjRef('138415221','jnjexpo.blogspot.com/2020/06/blog-post','故宮南院佛陀�
 jnjRef('107491957','jnjfoorprint.blogspot.com/2017/09/blog-post_57','故宮南院景觀園區');
 jnjRef('105066090','jnjexpo.blogspot.com/2017/07/blog-post','故宮南院博物館');
 jnjRef('180540155','jnjfoorprint.blogspot.com/2024/04/blog-post_25','蒜頭糖廠五分車');
+jnjRef('180690880','jnjfoorprint.blogspot.com/2024/06/blog-post','朴子溪自行車道');
 jnjRefList += '</ul></p></td></tr></table>';

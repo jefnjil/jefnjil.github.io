@@ -23,4 +23,5 @@ switch(docID)
 	case "1557366864162906566" :	reg="comment1";	break;
 	case "2545779370781176766" :	reg="politics";	break;
 	case "7626271531820787766" :	reg="citynews";	break;
+	case "8392299369145340266" :	reg="chiayi";	break;
 }
