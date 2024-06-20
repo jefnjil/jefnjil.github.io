@@ -16,4 +16,5 @@ jnjRef('178732540','jnjmvtv.blogspot.com/2023/03/blog-post','洛克靈異偵探�
 jnjRef('123','jnjmvtv.blogspot.com/2022/12/11','我會回來找妳');
 jnjRef('180332516','jnjmvtv.blogspot.com/2024/02/the-ninth-gate','第九道門，鬼上門');
 jnjRef('121','jnjmvtv.blogspot.com/2022/12/2022','惡靈古堡首部曲：拉昆市');
+jnjRef('180730040','jnjmvtv.blogspot.com/2024/06/first-omen-servant','天魔：惡之初、靈異女僕');
 jnjRefList += '</ul></p></td></tr></table>';
