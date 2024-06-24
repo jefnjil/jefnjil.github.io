@@ -10,6 +10,7 @@ jnjRef('102','jnjmvtv.blogspot.com/2021/12/2','血色天劫');
 jnjRef('588','jnjmvtv.blogspot.com/2019/05/3','剛毅島奇案3');
 jnjRef('1881787','jnjmvtv.blogspot.com/2008/05/blog-post','異形世代');
 jnjRef('120','jnjmvtv.blogspot.com/2022/12/seal-team','美國恐怖故事');
+jnjRef('180745825','jnjmvtv.blogspot.com/2024/06/abigail','噬血芭蕾');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('105','jnjmvtv.blogspot.com/2023/06/yellowjacketsfrom','梵蒂岡驅魔士');
 jnjRef('178732540','jnjmvtv.blogspot.com/2023/03/blog-post','洛克靈異偵探社');
