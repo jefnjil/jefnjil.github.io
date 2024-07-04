@@ -3,6 +3,7 @@ jnjRef('1194153','jnjmvtv.blogspot.com/2007/08/blog-post','太陽浩劫');
 jnjRef('179231895','jnjmvtv.blogspot.com/2023/05/65','65：恐怖行星');
 jnjRef('151111684','jnjmvtv.blogspot.com/2020/10/departure','失落航班 (Departure');
 jnjRef('129','jnjmvtv.blogspot.com/2024/01/198493','聯航93');
+jnjRef('180780475','jnjmvtv.blogspot.com/2024/07/10godzilla-minus-one','哥吉拉-1.0');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('120','jnjmvtv.blogspot.com/2022/12/seal-team','美國恐怖故事');
 jnjRef('104','jnjmvtv.blogspot.com/2020/12/2020','法國大革命之謎');
