@@ -24,4 +24,5 @@ switch(docID)
 	case "1750609389446313255" :	reg="music2";	break;
 	case "6436351713092434055" :	reg="tpe2";	break;
 	case "6458874128086035955" :	reg="expo2";	break;
+	case "8416883517137491055" :	reg="crime4";	break;
 }

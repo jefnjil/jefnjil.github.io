@@ -19,4 +19,5 @@ jnjRef('180294088','jnjmvtv.blogspot.com/2024/01/blog-post','芽籠、目中无�
 jnjRef('175631913','jnjmvtv.blogspot.com/2022/07/under-banner-of-heaven','天堂的旗幟下');
 jnjRef('180605463','jnjmvtv.blogspot.com/2024/02/deep-end','深網  Deep End');
 jnjRef('180366438','jnjmvtv.blogspot.com/2024/03/true-detective-night-country','無間警探：闇夜國度');
+jnjRef('180792678','jnjmvtv.blogspot.com/2024/07/blog-post_08','暴裂無聲 ─ 瘖啞人士動作片');
 jnjRefList += '</ul></p></td></tr></table>';
