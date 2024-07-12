@@ -12,6 +12,7 @@ jnjRef('126077911','jnjmvtv.blogspot.com/2019/04/the-widow','寡婦 ─ 黑土�
 jnjRef('164498059','jnjmvtv.blogspot.com/2021/07/shadow-in-cloud','致命天際線');
 jnjRef('178732540','jnjmvtv.blogspot.com/2023/03/blog-post','洛克靈異偵探社');
 jnjRef('180451253','jnjmvtv.blogspot.com/2024/03/lover-stalker-killer-reina-roja','紅皇后 (Reina Roja)');
+jnjRef('180804948','jnjmvtv.blogspot.com/2024/07/mute-witness','戰慄追殺（Mute Witness）');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('104','jnjmvtv.blogspot.com/2020/12/2020','法國大革命之謎');
 jnjRef('177295802','jnjmvtv.blogspot.com/2022/10/fall-ledge','高處不勝寒 ─ 墜、極限逃殺');
