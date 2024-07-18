@@ -1,0 +1,18 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('180129159','jnjmvtv.blogspot.com/2023/12/u-571-300-2012','2012');
+jnjRef('103','jnjmvtv.blogspot.com/2021/12/ii','噤界II');
+jnjRef('588','jnjmvtv.blogspot.com/2019/05/3','異星空間');
+jnjRef('180590246','jnjmvtv.blogspot.com/2024/05/blog-post','烙印之人');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('180456822','jnjmvtv.blogspot.com/2024/04/one-life','異星謎變');
+jnjRef('120','jnjmvtv.blogspot.com/2022/12/seal-team','西方極樂園');
+jnjRef('103','jnjmvtv.blogspot.com/2021/12/ii','駭客任務復活');
+jnjRef('110','jnjmvtv.blogspot.com/2023/07/blog-post','鑽油平台危機');
+jnjRef('103','jnjmvtv.blogspot.com/2021/12/ii','自殺突擊隊集結');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('587','jnjmvtv.blogspot.com/2020/09/blog-post','天行者的崛起');
+jnjRef('180353705','jnjmvtv.blogspot.com/2024/03/severance','人生切割術 (Severance)');
+jnjRef('180482924','jnjmvtv.blogspot.com/2024/04/vs-netflix-3-body-problem','三体 vs. 3 Body Problem');
+jnjRef('180699784','jnjmvtv.blogspot.com/2024/06/blog-post','哥吉拉與金剛：新帝國');
+jnjRef('180823272','jnjmvtv.blogspot.com/2024/07/in-time','鐘點戰 ─ 科幻版「占領華爾街」');
+jnjRefList += '</ul></p></td></tr></table>';
