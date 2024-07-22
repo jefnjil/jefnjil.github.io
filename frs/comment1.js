@@ -21,7 +21,7 @@ jnjRef('6274894','jnjtalks.blogspot.com/2012/03/blog-post','由美國釘子戶�
 jnjRef('10145807','jnjmvtv.blogspot.com/2013/12/ripper-street','由開膛街（Ripper Street）看多元成家');
 jnjRef('129520039','jnjtalks.blogspot.com/2019/09/blog-post','「蔡英文總統論文讀後感」懷古補遺');
 jnjRef('131262641','jnjtalks.blogspot.com/2019/12/blog-post','有線電視遙控器，是否屬於消耗品');
-jnjRef('4269598','jnjtalks.blogspot.com/2010/07/blog-post','對蘋果、戴爾購物網站標錯價事件之管見');
 jnjRef('171238183','jnjtalks.blogspot.com/2022/01/bronteroc-dont-look-up','Bronteroc（千萬別抬頭）');
 jnjRef('119','jnjtalks.blogspot.com/2023/07/blog-post','網路討拍公審，媒體推波助瀾');
+jnjRef('180834046','jnjhome.blogspot.com/2024/07/blog-post','松鼠肆虐。一日跳電四回');
 jnjRefList += '</ul></p></td></tr></table>';
