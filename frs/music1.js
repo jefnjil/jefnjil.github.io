@@ -3,7 +3,7 @@ jnjRef('7343890','jnjhome.blogspot.com/2013/02/earth-beat','Earth Beat');
 jnjRef('7359398','jnjhome.blogspot.com/2013/03/blog-post','情熱大陸');
 jnjRef('6987939','jnjmvtv.blogspot.com/2012/10/blog-post','宿命（砂の器）');
 jnjRef('177229108','jnjmvtv.blogspot.com/2022/10/where-crawdads-sing','沼澤謀殺案');
-jnjRef('124','jnjliterature.blogspot.com/2023/12/blog-post','大風歌（憶文白之爭）');
+jnjRef('180887354','jnjliterature.blogspot.com/2023/12/blog-post','大風歌（憶文白之爭）');
 jnjRef('318','jnjhome.blogspot.com/2007/11/blog-post_72','紀念黃大城');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>'
 jnjRef('123213362','jnjliterature.blogspot.com/2019/01/blog-post','「呼喚黎明」在蘭戈倫');
