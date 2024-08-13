@@ -8,7 +8,7 @@ jnjRefList += '</ul></p></td><td valign=top><p><ul>'
 jnjRef('561','jnjliterature.blogspot.com/2009/11/try-to-remember','Try to Remember ');
 jnjRef('559','jnjliterature.blogspot.com/2013/06/blog-post','蔡藍欽的《這個世界》');
 jnjRef('164654395','jnjliterature.blogspot.com/2021/07/les-miserables-252012','悲慘世界10/25週年+電影');
-jnjRef('117','jnjliterature.blogspot.com/2023/09/rains-of-castamere','卡斯特梅爾之雨（Rains of Castamere）');
+jnjRef('180887476','jnjliterature.blogspot.com/2023/09/rains-of-castamere','卡斯特梅爾之雨（Rains of Castamere）');
 jnjRef('554','jnjliterature.blogspot.com/2019/04/jenny-of-oldstones-got','Jenny of Oldstones (GoT)');
 jnjRef('124','jnjliterature.blogspot.com/2023/12/blog-post','大風歌（憶文白之爭）');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';

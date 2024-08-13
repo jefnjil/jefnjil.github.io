@@ -9,7 +9,7 @@ jnjRef('123213362','jnjliterature.blogspot.com/2019/01/blog-post','「呼喚黎�
 jnjRef('164654395','jnjliterature.blogspot.com/2021/07/les-miserables-252012','悲慘世界10/25週年+電影');
 jnjRef('146679444','jnjliterature.blogspot.com/2020/08/ennio-morricone','Ennio Morricone 回顧');
 jnjRef('180144910','jnjliterature.blogspot.com/2021/11/oldremain','「詭老 Old」片尾曲「Remain」');
-jnjRef('117','jnjliterature.blogspot.com/2023/09/rains-of-castamere','卡斯特梅爾之雨（Rains of Castamere）');
+jnjRef('180887476','jnjliterature.blogspot.com/2023/09/rains-of-castamere.html','權力遊戲 ─ 卡斯特梅爾之雨');
 jnjRef('180887354','jnjliterature.blogspot.com/2023/12/blog-post','大風歌（憶文白之爭）');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('118','jnjliterature.blogspot.com/2023/10/nature-boy','Nature Boy - 橫跨七十年的不同詮釋');
