@@ -25,4 +25,5 @@ switch(docID)
 	case "4598521573208787582" :	reg="3C1";	break;
 	case "3199055476155029482" :	reg="smalltalk";	break;
 	case "4202397971611275582" :	reg="japfood1";	break;
+	case "5669902762526815282" :	reg="disaster";	break;
 }

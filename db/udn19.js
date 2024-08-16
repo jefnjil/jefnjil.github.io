@@ -17,4 +17,5 @@ switch(docID)
 	case "174294119" :	reg="crime";	break;
 	case "179017419" :	reg="ntc2";	uss="637431";	ufp="2023.5.16";	break;
 	case "179956019" :	reg="ntc2";	woman="123162/7495151";	break;
+	case "180917719" :	reg="disaster";	break;
 }
