@@ -12,7 +12,7 @@ jnjRef('180887476','jnjliterature.blogspot.com/2023/09/rains-of-castamere','卡�
 jnjRef('554','jnjliterature.blogspot.com/2019/04/jenny-of-oldstones-got','Jenny of Oldstones (GoT)');
 jnjRef('124','jnjliterature.blogspot.com/2023/12/blog-post','大風歌（憶文白之爭）');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
-jnjRef('118','jnjliterature.blogspot.com/2023/10/nature-boy','Nature Boy - 橫跨七十年的不同詮釋');
+jnjRef('180887404','jnjliterature.blogspot.com/2023/10/nature-boy.html','Nature Boy - 橫跨七十年的不同詮釋');
 jnjRef('560','jnjliterature.blogspot.com/2013/06/hannibal-2001-opera-scene-vide-cor-meum','Hannibal - Vide Cor Meum');
 jnjRef('180135478','jnjliterature.blogspot.com/2018/12/2013-frozenvs-1983-yentl','「冰雪奇緣 Frozen」vs. 「楊朵 Yentl」');
 jnjRef('180196446','jnjliterature.blogspot.com/2022/01/father-je-crois-entendre-encore','「父親」中的詠嘆調「我想我仍然聽到 」');

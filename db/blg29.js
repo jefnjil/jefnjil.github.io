@@ -9,7 +9,7 @@ switch(docID)
 	case "4556922972605957729": 	reg="uk";	udn="2007.5.2?";	break;
 	case "6263371219164669329": 	reg="sf";	break;
 	case "2253989570940011529" :	reg="crime3";	break;
-	case "6983124398109782729" :	reg="music";	break;
+	case "6983124398109782729" :	reg="music2";	break;
 	case "3359772424673861229" :	reg="collect";	break;
 	case "636385969460199229" :	reg="collect2";	break;
 	case "1367639300741653329" :	reg="lookforjob";	break;

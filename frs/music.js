@@ -12,7 +12,7 @@ jnjRef('180144910','jnjliterature.blogspot.com/2021/11/oldremain','「詭老 Old
 jnjRef('180887476','jnjliterature.blogspot.com/2023/09/rains-of-castamere.html','權力遊戲 ─ 卡斯特梅爾之雨');
 jnjRef('180887354','jnjliterature.blogspot.com/2023/12/blog-post','大風歌（憶文白之爭）');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
-jnjRef('118','jnjliterature.blogspot.com/2023/10/nature-boy','Nature Boy - 橫跨七十年的不同詮釋');
+jnjRef('180887404','jnjliterature.blogspot.com/2023/10/nature-boy','Nature Boy - 橫跨七十年的不同詮釋');
 jnjRef('173886712','jnjliterature.blogspot.com/2022/05/io-ti-penso-amore-devils-violinist','Io Ti Penso Amore（想你，吾愛）');
 jnjRef('180135478','jnjliterature.blogspot.com/2018/12/2013-frozenvs-1983-yentl','「冰雪奇緣 Frozen」vs. 「楊朵 Yentl」');
 jnjRef('180196446','jnjliterature.blogspot.com/2022/01/father-je-crois-entendre-encore','「父親」中的詠嘆調「我想我仍然聽到 」');

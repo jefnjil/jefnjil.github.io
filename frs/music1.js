@@ -11,7 +11,7 @@ jnjRef('164654395','jnjliterature.blogspot.com/2021/07/les-miserables-252012','�
 jnjRef('146679444','jnjliterature.blogspot.com/2020/08/ennio-morricone','Ennio Morricone 回顧');
 jnjRef('180144910','jnjliterature.blogspot.com/2021/11/oldremain','「詭老 Old」片尾曲「Remain」');
 jnjRef('180887476','jnjliterature.blogspot.com/2023/09/rains-of-castamere','卡斯特梅爾之雨（Rains of Castamere）');
-jnjRef('118','jnjliterature.blogspot.com/2023/10/nature-boy','Nature Boy - 橫跨七十年的不同詮釋');
+jnjRef('180887404','jnjliterature.blogspot.com/2023/10/nature-boy','Nature Boy - 橫跨七十年的不同詮釋');
 jnjRef('480','jnjtalks.blogspot.com/2008/09/blog-post_30','黃友棣的「蔣公紀念歌」');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('173886712','jnjliterature.blogspot.com/2022/05/io-ti-penso-amore-devils-violinist','Io Ti Penso Amore（想你，吾愛）');
