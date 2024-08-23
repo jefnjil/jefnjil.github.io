@@ -3,6 +3,7 @@ jnjRef('180129159','jnjmvtv.blogspot.com/2023/12/u-571-300-2012','2012');
 jnjRef('103','jnjmvtv.blogspot.com/2021/12/ii','噤界II');
 jnjRef('588','jnjmvtv.blogspot.com/2019/05/3','異星空間');
 jnjRef('180590246','jnjmvtv.blogspot.com/2024/05/blog-post','烙印之人');
+jnjRef('180943015','jnjmvtv.blogspot.com/2024/08/dark-matter','人生複本');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('180456822','jnjmvtv.blogspot.com/2024/04/one-life','異星謎變');
 jnjRef('120','jnjmvtv.blogspot.com/2022/12/seal-team','西方極樂園');
