@@ -10,6 +10,7 @@ jnjRef('120','jnjmvtv.blogspot.com/2022/12/seal-team','西方極樂園');
 jnjRef('103','jnjmvtv.blogspot.com/2021/12/ii','駭客任務復活');
 jnjRef('110','jnjmvtv.blogspot.com/2023/07/blog-post','鑽油平台危機');
 jnjRef('103','jnjmvtv.blogspot.com/2021/12/ii','自殺突擊隊集結');
+jnjRef('180996852','jnjmvtv.blogspot.com/2024/09/blog-post','侍者');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('587','jnjmvtv.blogspot.com/2020/09/blog-post','天行者的崛起');
 jnjRef('180353705','jnjmvtv.blogspot.com/2024/03/severance','人生切割術 (Severance)');

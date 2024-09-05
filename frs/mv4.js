@@ -5,6 +5,7 @@ jnjRef('112','jnjmvtv.blogspot.com/2023/10/23q3-2x','千萬里之外');
 jnjRef('131','jnjmvtv.blogspot.com/2023/12/blog-post_31','入境時分');
 jnjRef('180445752','jnjmvtv.blogspot.com/2024/03/blog-post','美式小說');
 jnjRef('180505957','jnjmvtv.blogspot.com/2024/04/blog-post','黃昏清兵衛');
+jnjRef('180996852','jnjmvtv.blogspot.com/2024/09/blog-post','山女');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('132360359','jnjmvtv.blogspot.com/2020/04/unorthodox','出走布魯克林');
 jnjRef('170912483','jnjmvtv.blogspot.com/2021/12/the-long-call','遙遠的召喚');
