@@ -20,4 +20,5 @@ jnjRef('173112985','jnjdining.blogspot.com/2022/04/blog-post','君悅凱菲屋�
 jnjRef('174972704','jnjdining.blogspot.com/2022/06/blog-post','漢來海港天母店午餐');
 jnjRef('180421178','jnjdining.blogspot.com/2024/03/2024','漢來海港敦化店下午茶');
 jnjRef('180812048','jnjdining.blogspot.com/2024/07/2024','漢來海港敦化店午餐');
+jnjRef('181011943','jnjdining.blogspot.com/2024/09/46','饗饗46樓高空雨景');
 jnjRefList += '</ul></p></td></tr></table>';

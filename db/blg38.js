@@ -23,4 +23,5 @@ switch(docID)
 	case "3211226188694779838" :	reg="economic";	break;
 	case "8009713767044846938" :	reg="westfood1";	break;
 	case "6598662290243963038" :	reg="tech1";	break;
+	case "312972665250709438" :	reg="buffet2";	break;
 }
