@@ -1,9 +1,9 @@
 jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
 jnjRef('138124791','jnjdining.blogspot.com/2020/06/blog-post_11','一號糧倉');
-jnjRef('4350708','jnjfoorprint.blogspot.com/2010/08/klapa','Klapa海景餐廳');
 jnjRef('4926097','jnjfoorprint.blogspot.com/2011/02/blog-post','美食一星米其林');
 jnjRef('6943143','jnjfoorprint.blogspot.com/2012/10/interlaken','茵特拉根起士鍋');
 jnjRef('113600814','jnjdining.blogspot.com/2018/07/blog-post','御書園食尚牛排');
+jnjRef('24149780','jnjdining.blogspot.com/2015/06/robin','晶華Robin`s鐵板燒');
 jnjRef('180482956','jnjdining.blogspot.com/2024/04/blog-post','台北市長官邸餐廳');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('7165157','jnjfoorprint.blogspot.com/2012/12/blog-post_21','米其林鱷魚餐廳');
@@ -14,11 +14,11 @@ jnjRef('5890414','jnjdining.blogspot.com/2011/12/blog-post','台北流嘴涎─�
 jnjRef('7158249','jnjdining.blogspot.com/2012/12/blog-post','末日饕客之王品篇');
 jnjRef('131151797','jnjfoorprint.blogspot.com/2019/12/eggsn-things','Eggs\'n Things 横浜');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
-jnjRef('24149780','jnjdining.blogspot.com/2015/06/robin','晶華Robin`s鐵板燒');
 jnjRef('60321091','jnjfoorprint.blogspot.com/2016/07/blog-post_97','匈牙利牛肉湯烤雞烤豬');
 jnjRef('68652709','jnjfoorprint.blogspot.com/2016/09/blog-post_10','捷克豬腳與古城燒烤');
 jnjRef('74667189','jnjfoorprint.blogspot.com/2017/01/alter-fuchs','薩爾斯堡老狐狸餐廳');
 jnjRef('74666612','jnjfoorprint.blogspot.com/2017/05/blog-post_4','布拉格地窖餐廳烤鴨');
 jnjRef('74668808','jnjfoorprint.blogspot.com/2017/01/blog-post_2','奧式豬肋排、湖區烤鱒魚');
 jnjRef('177194393','jnjdining.blogspot.com/2022/09/blog-post_23','陽光小館 ─ 煙波新竹湖濱');
+jnjRef('181074032','jnjdining.blogspot.com/2024/09/nini','NINI尼尼義大利餐廳 @誠品裕隆城');
 jnjRefList += '</ul></p></td></tr></table>';

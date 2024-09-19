@@ -14,4 +14,5 @@ switch(docID)
 	case "174675432" :	reg="taitung";	uss="633726";	ufp="2022.6.17";	umd="2022.6.13";	uMedia="12749/6376331";	break;
 	case "178330232" :	reg="family";	uss="637428";	break;
 	case "180058132" :	reg="crime2";	break;
+	case "181074032" :	reg="westfood1";	break;
 }
