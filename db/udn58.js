@@ -13,4 +13,5 @@ switch(docID)
 	case "80371358": 	reg="us16";	uss="558709";	break;
 	case "177006758" :	reg="japfood1";	uss="635040";	break;
 	case "179328958" :	reg="chiayi";	uss="637473";	break;
+	case "181087758" :	reg="taoyuan";	break;
 }
