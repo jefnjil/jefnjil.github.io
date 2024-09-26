@@ -23,4 +23,5 @@ jnjRef('179166609','jnjdining.blogspot.com/2023/05/blog-post','嘉義東石．�
 jnjRef('179628969','jnjdining.blogspot.com/2023/07/blog-post','金山大碗‧芋圓王‧拔絲地瓜');
 jnjRef('179992315','jnjfoorprint.blogspot.com/2023/10/blog-post_23','米詩堤、廟口跩跩什錦麵');
 jnjRef('180144892','jnjdining.blogspot.com/2023/12/blog-post','上海鄉村美饌四人餐');
+jnjRef('181099229','jnjdining.blogspot.com/2024/09/blog-post','再訪上海鄉村');
 jnjRefList += '</ul></p></td></tr></table>';
