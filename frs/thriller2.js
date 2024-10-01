@@ -5,6 +5,7 @@ jnjRef('178078685','jnjmvtv.blogspot.com/2023/01/woman-of-dead','賢妻復仇記
 jnjRef('104','jnjmvtv.blogspot.com/2020/12/2020','捍衛雅各');
 jnjRef('112','jnjmvtv.blogspot.com/2023/10/23q3-2x','奪魂鋸X');
 jnjRef('180590246','jnjmvtv.blogspot.com/2024/05/blog-post','安眠醫生');
+jnjRef('181121915','jnjmvtv.blogspot.com/2024/10/blog-post','衝擊真相');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('109','jnjmvtv.blogspot.com/2023/07/rabbit-holepoker-face','殘句線索');
 jnjRef('179724391','jnjmvtv.blogspot.com/2023/08/crowded-room','擁擠的房間');

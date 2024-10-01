@@ -6,6 +6,7 @@ jnjRef('174294119','jnjmvtv.blogspot.com/2022/05/why-didnt-they-ask-evans','克�
 jnjRef('113','jnjmvtv.blogspot.com/2023/10/23q3-233','牆裡的女人');
 jnjRef('122','jnjmvtv.blogspot.com/2022/12/tinder','Tinder大騙徒');
 jnjRef('125','jnjmvtv.blogspot.com/2023/12/blog-post','假面女郎');
+jnjRef('181121915','jnjmvtv.blogspot.com/2024/10/blog-post','甦醒');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('113','jnjmvtv.blogspot.com/2023/10/23q3-233','失落航班2/3');
 jnjRef('113','jnjmvtv.blogspot.com/2023/10/23q3-233','冷血動物');
