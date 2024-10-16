@@ -23,4 +23,5 @@ switch(docID)
 	case "8051546155845598404" :	reg="identity";	break;
 	case "4703452180050803804" :	reg="citynews";	break;
 	case "4088042362453070704" :	reg="history2";	break;
+	case "7715091408255876604" :	reg="nantou1";	break;
 }
