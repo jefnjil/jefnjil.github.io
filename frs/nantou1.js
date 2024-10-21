@@ -4,6 +4,7 @@ jnjRef('17453598','jnjfoorprint.blogspot.com/2014/09/blog-post_20','向山遊客
 jnjRef('3923844','jnjfoorprint.blogspot.com/2010/04/blog-post','山光水色涵碧樓');
 jnjRef('17453515','jnjfoorprint.blogspot.com/2014/09/blog-post_21','日月潭自行車道');
 jnjRef('3923836','jnjfoorprint.blogspot.com/2010/04/blog-post_8','日月纜車騰雲霧');
+jnjRef('181197335','jnjdining.blogspot.com/2024/10/blog-post','日月潭伊達邵‧麓司岸餐坊');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('3122361','jnjfoorprint.blogspot.com/2009/07/blog-post_99','埔里酒廠八方民宿');
 jnjRef('3122357','jnjfoorprint.blogspot.com/2009/07/blog-post_82','埔里紙教堂');
