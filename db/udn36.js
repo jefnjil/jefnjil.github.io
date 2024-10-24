@@ -10,4 +10,5 @@ switch(docID)
 	case "2611336": 	reg="tokyo";	uss="159909";	udn="2009.2.4";	break;
 	case "3923836": 	reg="twm";	uss="247745";	break;
 	case "180370536" :	reg="tpe2";	break;
+	case "181197336" :	reg="nantou1";	break;
 }
