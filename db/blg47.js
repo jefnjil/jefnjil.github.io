@@ -32,4 +32,5 @@ switch(docID)
 	case "4995167063134754247" :	reg="politics1";	break;
 	case "1252642321421706247" :	reg="lookforjob";	break;
 	case "9119445752800484047" :	reg="short_comments";	break;
+	case "5026298355192463447" :	reg="nantou1";	break;
 }

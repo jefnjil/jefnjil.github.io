@@ -16,4 +16,5 @@ switch(docID)
 	case "180804948" :	reg="thriller2";	break;
 	case "180812048" :	reg="buffet2";	break;
 	case "181139848" :	reg="tech1";	break;
+	case "181245048" :	reg="nantou1";	break;
 }

@@ -12,6 +12,7 @@ jnjRef('18367527','jnjfoorprint.blogspot.com/2014/10/blog-post_72','亞洲大學
 jnjRef('179166555','jnjfoorprint.blogspot.com/2023/05/blog-post_08','溪頭 ─ 大學池、大學坑和探索區');
 jnjRef('181177325','jnjfoorprint.blogspot.com/2024/10/blog-post','車埕 ─ 車站老街及木業展示館');
 jnjRef('181197336','jnjfoorprint.blogspot.com/2024/10/blog-post_24','日月潭纜車快閃來回');
+jnjRef('181245048','jnjfoorprint.blogspot.com/2024/10/blog-post_30','向山懸臂式觀景台‧看見拉魯');
 jnjRefList += '</ul></p></td><td valign=top><p><ul><b>阿里山</b>';
 jnjRef('8469867','jnjfoorprint.blogspot.com/2013/09/blog-post_13','祝山觀日出');
 jnjRef('8469838','jnjfoorprint.blogspot.com/2013/09/blog-post_72','阿里山賓館');
