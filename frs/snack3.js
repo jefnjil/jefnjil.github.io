@@ -1,10 +1,10 @@
 jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
-jnjRef('132510083','jnjdining.blogspot.com/2020/04/blog-post','金山鴨肉');
 jnjRef('135796939','jnjdining.blogspot.com/2020/05/blog-post_18','鹿港小吃');
 jnjRef('170474065','jnjdining.blogspot.com/2021/11/double-cheese','台南美食');
 jnjRef('171712023','jnjdining.blogspot.com/2022/02/blog-post','永宝餐廳');
 jnjRef('154493306','jnjdining.blogspot.com/2020/12/blog-post','煙波花蓮館');
 jnjRef('181197335','jnjdining.blogspot.com/2024/10/blog-post','麓司岸餐坊');
+jnjRef('181291909','jnjdining.blogspot.com/2024/11/blog-post','中和‧菱東方麵食館');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('128475634','jnjdining.blogspot.com/2019/08/blog-post','台南、新竹小吃');
 jnjRef('131922838','jnjdining.blogspot.com/2020/03/blog-post','林聰明砂鍋魚頭');

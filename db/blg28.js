@@ -25,4 +25,5 @@ switch(docID)
 	case "6410107361554516628" :	reg="worldnews";	break;
 	case "6896438375666510728" :	reg="translate";	break;
 	case "4136752215383568728" :	reg="collect1";	break;
+	case "3580620916138609828" :	reg="snack3";	break;
 }
