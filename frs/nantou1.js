@@ -1,8 +1,8 @@
 jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
 jnjRef('3122361','jnjfoorprint.blogspot.com/2009/07/blog-post_99','埔里酒廠八方民宿');
 jnjRef('3122357','jnjfoorprint.blogspot.com/2009/07/blog-post_82','埔里紙教堂');
+jnjRef('181326209','jnjfoorprint.blogspot.com/2024/11/blog-post_13','埔里水月山莊');
 jnjRef('18367527','jnjfoorprint.blogspot.com/2014/10/blog-post_72','亞洲大學‧現代美術館');
-jnjRef('179166555','jnjfoorprint.blogspot.com/2023/05/blog-post_08','溪頭 ─ 大學池、大學坑和探索區');
 jnjRef('181177325','jnjfoorprint.blogspot.com/2024/10/blog-post','車埕 ─ 車站老街及木業展示館');
 jnjRefList += '</ul></p></td><td valign=top><p><ul><b>日月潭</b>';
 jnjRef('17453515','jnjfoorprint.blogspot.com/2014/09/blog-post_21','日月潭一日快閃');
