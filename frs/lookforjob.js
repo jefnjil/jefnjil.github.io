@@ -4,9 +4,10 @@ jnjRef('567','jnjtech.blogspot.com/2017/07/blog-post','分享一段失敗經驗'
 jnjRef('570','jnjtech.blogspot.com/2015/12/blog-post','保護、專利加減要做');
 jnjRef('572','jnjtech.blogspot.com/2015/07/blog-post','我上過一次電腦課');
 jnjRef('573','jnjtech.blogspot.com/2015/04/blog-post','程式設計課該教甚麼？ ');
-jnjRef('180615350','jnjtech.blogspot.com/2024/05/z80-cpu','蘋果入社測驗畫一條線');
+jnjRef('181415595','jnjtech.blogspot.com/2024/11/900','超混幽靈工程師');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('248','jnjtalks.blogspot.com/2008/01/blog-post_1','台灣學生比較有國際觀?');
+jnjRef('180615350','jnjtech.blogspot.com/2024/05/z80-cpu','蘋果入社測驗畫一條線');
 jnjRef('237','jnjtalks.blogspot.com/2010/02/blog-post_20','標準化的工作並非職場陷阱');
 jnjRef('247','jnjtalks.blogspot.com/2010/07/blog-post_21','讀書靠天分 家長醒醒吧');
 jnjRef('149','jnjtalks.blogspot.com/2022/01/blog-post','台灣員工領完年終秒離職？');
