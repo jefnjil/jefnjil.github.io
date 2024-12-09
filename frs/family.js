@@ -12,6 +12,7 @@ jnjRef('306','jnjhome.blogspot.com/2009/08/blog-post_6','窗洞夾層天然冰�
 jnjRef('3144384','jnjhome.blogspot.com/2009/07/george','George的小學生涯全記錄');
 jnjRef('6606223','jnjhome.blogspot.com/2012/07/elaine','Elaine的小學生涯全記錄');
 jnjRef('6622046','jnjhome.blogspot.com/2012/07/blog-post','那些年 ─ 以校為家的小鬼');
+jnjRef('181477433','jnjhome.blogspot.com/2024/12/blog-post','人生六十拉雜談');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('2904556','jnjhome.blogspot.com/2009/05/blog-post_1','遊九曲洞遭落石砸傷');
 jnjRef('178026135','jnjfoorprint.blogspot.com/2023/01/blog-post','大安森林公園 ─ 新年新希望');
