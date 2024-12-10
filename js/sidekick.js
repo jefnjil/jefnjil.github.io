@@ -320,7 +320,6 @@ function onLoadComplete()
 	removeListener(window, "load", onLoadComplete );
 	keyTag = document.getElementById("jnjEndOfPost");
 	if ( keyTag != null ) SidekickMain();
-	else alert("jnjEndOfPost not found");
 	// else "jnjEndOfPost" hasn't installed yet, ignore it
 };
 
