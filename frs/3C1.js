@@ -12,12 +12,13 @@ jnjRef('157250962','jnjfoorprint.blogspot.com/2021/03/all-new-sentra','All New S
 jnjRef('170539360','jnjfoorprint.blogspot.com/2021/11/4k','DJI三軸穩定器OM3');
 jnjRef('179425604','jnjtech.blogspot.com/2023/06/loch-henry','磁帶殘餘空間利用');
 jnjRef('577','jnjtech.blogspot.com/2011/06/asus-eeepad','ASUS EeePad關箱文');
-jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('92139852','jnjfoorprint.blogspot.com/2017/03/ces','CES 五十週年懷舊展');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('580','jnjtech.blogspot.com/2008/03/sos-what-to-buy-imac-or-sony-vaio-pc','iMac 與 Sony Vaio PC 的選擇');
 jnjRef('43982788','jnjdining.blogspot.com/2016/01/panasonic-sd-bmt2000','BMT2000 全自動麵包機');
 jnjRef('128395790','jnjtech.blogspot.com/2019/08/apple-watch-suica','Apple Watch 應用日本 Suica 經驗談');
 jnjRef('177159373','jnjtech.blogspot.com/2022/08/blog-post','舊卡帶救星，挽回學生時代吉他錄音三首');
 jnjRef('300','jnjhome.blogspot.com/2013/10/blog-post','有如長城的螢幕牆，片片相連到天邊');
 jnjRef('180654702','jnjtech.blogspot.com/2024/05/acumatica','長弘科技與同學小聚');
+jnjRef('181499541','jnjtech.blogspot.com/2024/12/blog-post','長壽自用電腦及喇叭汰舊換新');
 jnjRefList += '</ul></p></td></tr></table>';
