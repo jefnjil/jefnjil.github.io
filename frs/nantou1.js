@@ -16,4 +16,5 @@ jnjRef('181197336','jnjfoorprint.blogspot.com/2024/10/blog-post_24','日月潭�
 jnjRef('17453515','jnjfoorprint.blogspot.com/2014/09/blog-post_21','日月潭自行車道');
 jnjRef('181245048','jnjfoorprint.blogspot.com/2024/10/blog-post_30','向山懸臂式觀景台‧看見拉魯');
 jnjRef('181575521','jnjfoorprint.blogspot.com/2024/12/blog-post','清境農場‧馬術秀');
+jnjRef('181590764','jnjfoorprint.blogspot.com/2025/01/blog-post','清境紙箱王、小瑞士花園');
 jnjRefList += '</ul></p></td></tr></table>';

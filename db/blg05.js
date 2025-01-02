@@ -34,4 +34,5 @@ switch(docID)
 	case "1161242562779748905" :	reg="lookforjob";	break;
 	case "5019257689383516705" :	reg="snack11";	break;
 	case "2115775772757880805" :	reg="snack3";	break;
+	case "8473650600170156705" :	reg="nantou1";	break;
 }
