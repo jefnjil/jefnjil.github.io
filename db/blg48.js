@@ -26,4 +26,5 @@ switch(docID)
 	case "5165504717387252348" :	reg="elite100";	break;
 	case "7756555047211355048" :	reg="las";	break;
 	case "9113752241882570848" :	reg="house";	break;
+	case "7265903776332109948" :	reg="nantou1";	break;
 }
