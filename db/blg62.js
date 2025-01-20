@@ -19,4 +19,5 @@ switch(docID)
 	case "6419075829782122862" :	reg="thriller11";	break;
 	case "4997900250043083162" :	reg="campus";	break;
 	case "4508230243466938462" :	reg="taoyuan";	break;
+	case "3470789746470483662" :	reg="hotel_tww";	break;
 }

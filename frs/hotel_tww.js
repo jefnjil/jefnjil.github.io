@@ -5,6 +5,7 @@ jnjRef('132109809','jnjfoorprint.blogspot.com/2020/03/blog-post_19','台南煙�
 jnjRef('934107','jnjfoorprint.blogspot.com/2007/05/blog-post','煙波湖畔雨瀟瀟');
 jnjRef('169974101','jnjfoorprint.blogspot.com/2021/11/blog-post','台中兆品酒店');
 jnjRef('173289027','jnjfoorprint.blogspot.com/2022/04/blog-post','仁義湖岸大酒店');
+jnjRef('181687547','jnjfoorprint.blogspot.com/2025/01/blog-post_20','仲信金鬱金香');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('205619','jnjfoorprint.blogspot.com/2006/03/blog-post_69','悠活渡假村');
 jnjRef('1602993','jnjfoorprint.blogspot.com/2008/02/blog-post_42','再訪悠活渡假村');
