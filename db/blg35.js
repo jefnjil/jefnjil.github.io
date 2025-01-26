@@ -30,4 +30,5 @@ switch(docID)
 	case "3214258349728683235" :	reg="george";	break;
 	case "6778709646254930435" :	reg="covid19";	break;
 	case "740125692567344035" :	reg="economic";	break;
+	case "1973068732300296035" :	reg="feast2";	break;
 }
