@@ -5,6 +5,7 @@ jnjRef('574','jnjtech.blogspot.com/2014/06/iso','高ISO真的好用嗎?');
 jnjRef('578','jnjtech.blogspot.com/2011/09/blog-post','最好買能防水的相機');
 jnjRef('579','jnjtech.blogspot.com/2011/12/sony-dsc-hx100v','DSC-HX100V 開箱試拍');
 jnjRef('29343691','jnjtech.blogspot.com/2015/09/ice','全景畫自動拼接（ICE）');
+jnjRef('624','jnjtech.blogspot.com/2025/01/2025','錄影帶的「2025年大限」');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('71209472','jnjtech.blogspot.com/2016/10/htc-re','HTC RE限量恐龍蛋組合');
 jnjRef('91259929','jnjtech.blogspot.com/2017/03/htc-re','HTC RE的美麗與哀愁');
@@ -21,4 +22,5 @@ jnjRef('177159373','jnjtech.blogspot.com/2022/08/blog-post','舊卡帶救星，�
 jnjRef('300','jnjhome.blogspot.com/2013/10/blog-post','有如長城的螢幕牆，片片相連到天邊');
 jnjRef('180654702','jnjtech.blogspot.com/2024/05/acumatica','長弘科技與同學小聚');
 jnjRef('181499541','jnjtech.blogspot.com/2024/12/blog-post','長壽自用電腦及喇叭汰舊換新');
+jnjRef('626','jnjtalks.blogspot.com/2025/02/blog-post_02','組裝電腦不附驅動光碟、說明書');
 jnjRefList += '</ul></p></td></tr></table>';

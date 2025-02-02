@@ -21,4 +21,5 @@ jnjRef('145','jnjtalks.blogspot.com/2020/05/blog-post_5','連木瓜都能確診�
 jnjRef('146','jnjtalks.blogspot.com/2020/04/p4','有關武漢P4實驗室');
 jnjRef('159','jnjtalks.blogspot.com/2020/12/blog-post_30','川普2020');
 jnjRef('620','jnjtalks.blogspot.com/2024/04/blog-post','國防部長顧法院');
+jnjRef('627','jnjtalks.blogspot.com/2025/02/blog-post','DeepSeek 洩漏國家機密');
 jnjRefList += '</ul></p></td></tr></table>';

@@ -22,4 +22,5 @@ switch(docID)
 	case "3284022820764992351" :	reg="politics";	break;
 	case "5859818466398175251" :	reg="politics";	break;
 	case "7010350302850892151" :	reg="short_comments";	break;
+	case "7230721779226311451" :	reg="3C1";	break;
 }
