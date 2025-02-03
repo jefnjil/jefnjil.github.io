@@ -14,6 +14,7 @@ jnjRef('100','jnjmvtv.blogspot.com/2021/12/blog-post','明日戰爭');
 jnjRef('111','jnjmvtv.blogspot.com/2023/10/23q3','攻心諜戰');
 jnjRef('111','jnjmvtv.blogspot.com/2023/10/23q3','百變艾琳');
 jnjRef('125','jnjmvtv.blogspot.com/2023/12/blog-post','爆復');
+jnjRef('181728160','jnjmvtv.blogspot.com/2025/02/blog-post','黑鴿、殺手');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('36206796','jnjmvtv.blogspot.com/2015/11/007spectre','007 Spectre 惡魔四伏');
 jnjRef('100','jnjmvtv.blogspot.com/2021/12/blog-post','007生死交戰');

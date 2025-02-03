@@ -14,6 +14,7 @@ jnjRef('147930588','jnjmvtv.blogspot.com/2020/08/blog-post','誰是被害者');
 jnjRef('584','jnjmvtv.blogspot.com/2024/03/criminal-record-la-confidential','犯罪紀錄');
 jnjRef('180451247','jnjmvtv.blogspot.com/2024/03/2','周處除三害');
 jnjRef('180996852','jnjmvtv.blogspot.com/2024/09/blog-post','徬徨之刃');
+jnjRef('181728160','jnjmvtv.blogspot.com/2025/02/blog-post','豺狼之日');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('3055816','jnjmvtv.blogspot.com/2009/06/wallander','渥蘭德三部曲');
 jnjRef('101','jnjmvtv.blogspot.com/2021/12/clarice','青年神探維蘭德');

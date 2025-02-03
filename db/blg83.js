@@ -29,4 +29,5 @@ switch(docID)
 	case "3692085885654973883" :	reg="crime4";	woman="123164/7830087";	break;
 	case "5946971320867000283" :	reg="hotel_tww";	break;
 	case "9186470582669873583" :	reg="taoyuan";	break;
+	case "3932202330830456183" :	reg="action2";	break;
 }
