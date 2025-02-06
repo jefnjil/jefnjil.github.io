@@ -20,4 +20,5 @@ jnjRef('165634344','jnjhome.blogspot.com/2021/07/blog-post_23','古早時國外�
 jnjRef('165822068','jnjhome.blogspot.com/2021/07/blog-post_28','古早時國外住宿：美國、夏威夷');
 jnjRef('166891129','jnjfoorprint.blogspot.com/2021/08/80-african-safari','80年代的九州自然動物園');
 jnjRef('180309124','jnjhome.blogspot.com/2022/02/blog-post_15','半個多世紀老帳本兒──違建的養成');
+jnjRef('181732568','jnjtech.blogspot.com/2025/02/blog-post','憶早年個人電腦儲存裝置');
 jnjRefList += '</ul></p></td></tr></table>';

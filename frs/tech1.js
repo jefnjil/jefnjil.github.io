@@ -5,6 +5,7 @@ jnjRef('113920232','jnjtech.blogspot.com/2018/08/windows-ce-steps-to-setup-ce-de
 jnjRef('165979567','jnjtech.blogspot.com/2021/07/line','解鎖舊版 Line 聊天室備份');
 jnjRef('151','jnjtech.blogspot.com/2022/02/fragmentsgarbage-collection','記憶體空洞與資源回收');
 jnjRef('180615350','jnjtech.blogspot.com/2024/05/z80-cpu','Z80 CPU 年近半百謝幕');
+jnjRef('181732568','jnjtech.blogspot.com/2025/02/blog-post','憶早年個人電腦儲存裝置');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('575','jnjtech.blogspot.com/2013/11/blog-post_22','由影像擷取裝置取得資料流');
 jnjRef('171960898','jnjtech.blogspot.com/2022/03/gcp-infinityfree-drivetoweb','免費網頁空間應用筆記');
@@ -12,7 +13,7 @@ jnjRef('178380686','jnjtech.blogspot.com/2023/02/ai','也來曬曬──順便�
 jnjRef('1694840','jnjtech.blogspot.com/2008/03/blog-post','如何搶救毀損的影片檔');
 jnjRef('153','jnjtech.blogspot.com/2013/07/blog-post_24','密碼破解的暴力法和字典法');
 jnjRef('152','jnjtech.blogspot.com/2016/01/udn-blog-blogger_14','UDN複製到Blogger的小撇步');
-jnjRef('625','jnjtech.blogspot.com/2025/02/blog-post','「真的是儲存按鈕」！');
+jnjRef('181732568','jnjtech.blogspot.com/2025/02/blog-post','「真的是儲存按鈕！」');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('168078590','jnjtech.blogspot.com/2021/09/ok-ktv','現成設備拼湊卡啦OK歡唱環境');
 jnjRef('581','jnjtech.blogspot.com/2007/08/swiss-debby-adsense','關於 AdSense 及圖片靠左靠右語法');

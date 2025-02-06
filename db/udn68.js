@@ -19,4 +19,5 @@ switch(docID)
 	case "180221968" :	reg="tpe2";	break;
 	case "180482968" :	reg="taoyuan";	break;
 	case "180451268" :	reg="fantacy2";	break;
+	case "181732568" :	reg="memory2";	break;
 }

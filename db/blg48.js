@@ -27,5 +27,5 @@ switch(docID)
 	case "7756555047211355048" :	reg="las";	break;
 	case "9113752241882570848" :	reg="house";	break;
 	case "7265903776332109948" :	reg="nantou1";	udn="2025.1.24";	ufp="2025.1.24";	break;
-	case "5850018498091802448" :	reg="tech1";	break;
+	case "5850018498091802448" :	reg="memory2";	break;
 }
