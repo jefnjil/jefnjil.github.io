@@ -30,4 +30,5 @@ switch(docID)
 	case "7680589347301996501" :	reg="politics";	break;
 	case "8564602585393712001" :	reg="economic";	break;
 	case "6458831630727103401" :	reg="copyright";	break;
+	case "4667168320805351201" :	reg="tpe2";	break;
 }

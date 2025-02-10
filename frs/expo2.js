@@ -19,4 +19,5 @@ jnjRef('173211697','jnjexpo.blogspot.com/2022/04/2022','鹽水‧月津港燈節
 jnjRef('178493138','jnjexpo.blogspot.com/2023/03/2023','鹽水‧月津港燈節 2023');
 jnjRef('180386604','jnjexpo.blogspot.com/2024/03/2024','鹽水‧月津港燈節 2024');
 jnjRef('180386635','jnjexpo.blogspot.com/2024/03/blog-post','鹽水蜂炮街頭偶遇');
+jnjRef('181748752','jnjexpo.blogspot.com/2025/02/2025','2025 春遊：月津港');
 jnjRefList += '</ul></p></td></tr></table>';

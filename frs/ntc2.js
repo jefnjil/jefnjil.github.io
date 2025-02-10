@@ -20,6 +20,7 @@ jnjRef('127003300','jnjfoorprint.blogspot.com/2019/05/blog-post_30','雲門劇�
 jnjRef('132831609','jnjfoorprint.blogspot.com/2020/04/blog-post_27','三峽白雞行修宮');
 jnjRef('162289551','jnjfoorprint.blogspot.com/2021/05/blog-post','行修宮後山步道');
 jnjRef('180421057','jnjfoorprint.blogspot.com/2024/03/2024','三峽行修宮 2024');
+jnjRef('181748752','jnjexpo.blogspot.com/2025/02/2025','春遊行修宮');
 jnjRef('132897688','jnjfoorprint.blogspot.com/2020/04/blog-post_30','三鶯之心空間藝術特區');
 jnjRef('156480408','jnjfoorprint.blogspot.com/2021/02/blog-post_18','石碇‧鱷魚島觀景平台');
 jnjRef('179017419','jnjfoorprint.blogspot.com/2023/04/blog-post_24','滿月圓森林遊樂區');
