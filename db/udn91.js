@@ -26,4 +26,5 @@ switch(docID)
 	case "6543191": 	reg="history";	break;
 	case "178716191" :	reg="tpe2";	uss="637427";	umd="2023.5.13";	break;
 	case "179724391" :	reg="thriller11";	woman="123164/7380080";	break;
+	case "181771091" :	reg="taichung";	break;
 }

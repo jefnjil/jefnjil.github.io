@@ -14,4 +14,5 @@ switch(docID)
 	case "636385969460199229" :	reg="collect2";	break;
 	case "1367639300741653329" :	reg="lookforjob";	break;
 	case "2120650799689625529" :	reg="mv4";	break;
+	case "5201415611818625129" :	reg="taichung";	break;
 }
