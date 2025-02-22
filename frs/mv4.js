@@ -6,6 +6,7 @@ jnjRef('131','jnjmvtv.blogspot.com/2023/12/blog-post_31','入境時分');
 jnjRef('180445752','jnjmvtv.blogspot.com/2024/03/blog-post','美式小說');
 jnjRef('180505957','jnjmvtv.blogspot.com/2024/04/blog-post','黃昏清兵衛');
 jnjRef('180996852','jnjmvtv.blogspot.com/2024/09/blog-post','山女');
+jnjRef('630','jnjmvtv.blogspot.com/2024/12/blog-post_8','朝歌風雲');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('132360359','jnjmvtv.blogspot.com/2020/04/unorthodox','出走布魯克林');
 jnjRef('170912483','jnjmvtv.blogspot.com/2021/12/the-long-call','遙遠的召喚');
@@ -21,4 +22,5 @@ jnjRef('329','jnjmvtv.blogspot.com/2013/10/blog-post','蔡明亮導演的扛鼎�
 jnjRef('155','jnjliterature.blogspot.com/2021/01/2020','十部「令人失望」的台灣電影');
 jnjRef('138','jnjhome.blogspot.com/2013/09/blog-post_8','「龍貓」與「神隱少女」');
 jnjRef('180421090','jnjmvtv.blogspot.com/2024/03/vital','死亡解剖 (ヴィタール, Vital)');
+jnjRef('629','jnjmvtv.blogspot.com/2024/12/blog-post','在大雪封閉的山莊裡');
 jnjRefList += '</ul></p></td></tr></table>';

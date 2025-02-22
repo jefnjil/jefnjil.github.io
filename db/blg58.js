@@ -23,4 +23,6 @@ switch(docID)
 	case "568989017395659658" :	reg="blog1";	break;
 	case "757167808681069258" :	reg="polemics";	break;
 	case "5132044644395743858" :	reg="deathpenalty";	break;
+	case "3114034519402285458" :	reg="mv4";	break;
+	case "2495503376067543258" :	reg="sf5";	break;
 }
