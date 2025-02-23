@@ -1,10 +1,10 @@
 jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
-jnjRef('122559780','jnjmvtv.blogspot.com/2018/12/searching','人肉搜索');
 jnjRef('151111684','jnjmvtv.blogspot.com/2020/10/departure','失落航班');
 jnjRef('163662513','jnjmvtv.blogspot.com/2021/06/promising-young-woman','花漾女子');
 jnjRef('178078685','jnjmvtv.blogspot.com/2023/01/woman-of-dead','賢妻復仇記');
 jnjRef('179724391','jnjmvtv.blogspot.com/2023/08/crowded-room','擁擠的房間');
 jnjRef('104','jnjmvtv.blogspot.com/2020/12/2020','捍衛雅各');
+jnjRef('634','jnjmvtv.blogspot.com/2025/01/blog-post_19','異教詭屋');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('180590246','jnjmvtv.blogspot.com/2024/05/blog-post','沉默生機');
 jnjRef('114040611','jnjmvtv.blogspot.com/2018/08/the-handmaids-tale','侍女的故事');
