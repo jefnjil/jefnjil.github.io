@@ -18,4 +18,5 @@ jnjRef('180353705','jnjmvtv.blogspot.com/2024/03/severance','人生切割術 (Se
 jnjRef('180482924','jnjmvtv.blogspot.com/2024/04/vs-netflix-3-body-problem','三体 vs. 3 Body Problem');
 jnjRef('180699784','jnjmvtv.blogspot.com/2024/06/blog-post','哥吉拉與金剛：新帝國');
 jnjRef('180823272','jnjmvtv.blogspot.com/2024/07/in-time','鐘點戰 ─ 科幻版「占領華爾街」');
+jnjRef('632','jnjmvtv.blogspot.com/2024/12/blog-post_15','異形：羅穆路斯');
 jnjRefList += '</ul></p></td></tr></table>';

@@ -1,0 +1,17 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('171004743','jnjmvtv.blogspot.com/2021/12/ragdoll','屍偶 Ragdoll');
+jnjRef('177124463','jnjmvtv.blogspot.com/2022/09/black-bird','黑鳥（Black Bird）');
+jnjRef('628','jnjmvtv.blogspot.com/2024/09/blog-post_20','長腿');
+jnjRef('633','jnjmvtv.blogspot.com/2025/01/blog-post','假人殺魔');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('125041796','jnjmvtv.blogspot.com/2019/03/true-detective','無間警探（真探）');
+jnjRef('147930588','jnjmvtv.blogspot.com/2020/08/blog-post','誰是被害者');
+jnjRef('157791837','jnjmvtv.blogspot.com/2021/03/the-vanishing-at-cecil-hotel','還原藍可兒事件');
+jnjRef('175631913','jnjmvtv.blogspot.com/2022/07/under-banner-of-heaven','天堂的旗幟下');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('13745512','jnjmvtv.blogspot.com/2014/05/the-following','殺手信徒與特殊受害者');
+jnjRef('126418781','jnjmvtv.blogspot.com/2019/05/the-victim','受害者（The Victim）與惡的距離');
+jnjRef('132360191','jnjmvtv.blogspot.com/2020/04/zerozerozero','零零零 ─ 毒販毒梟與他們的產地');
+jnjRef('174294119','jnjmvtv.blogspot.com/2022/05/why-didnt-they-ask-evans','克莉絲蒂「懸崖下謀殺案」');
+jnjRef('629','jnjmvtv.blogspot.com/2024/12/blog-post','積雪下的孤寂靈魂');
+jnjRefList += '</ul></p></td></tr></table>';

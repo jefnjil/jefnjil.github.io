@@ -18,7 +18,7 @@ jnjRef('111589957','jnjmvtv.blogspot.com/2018/04/annihilationthe-titan','泰坦�
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('297','jnjhome.blogspot.com/2016/05/blog-post','星際大戰：原力覺醒');
 jnjRef('587','jnjmvtv.blogspot.com/2020/09/blog-post','天行者的崛起');
-jnjRef('111589957','jnjmvtv.blogspot.com/2018/04/annihilationthe-titan','滅絕（Annihilation）');
+jnjRef('632','jnjmvtv.blogspot.com/2024/12/blog-post_15','猩球崛起：王國誕生');
 jnjRef('131338342','jnjmvtv.blogspot.com/2019/12/for-all-mankind','太空使命 For All Mankind');
 jnjRef('152043687','jnjmvtv.blogspot.com/2020/10/the-old-guardlovecraft-country','不死軍團、逃出絕命村');
 jnjRef('180353705','jnjmvtv.blogspot.com/2024/03/severance','人生切割術 (Severance)');

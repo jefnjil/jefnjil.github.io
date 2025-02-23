@@ -4,6 +4,7 @@ jnjRef('20033838','jnjmvtv.blogspot.com/2015/01/marco-polo','馬可波羅');
 jnjRef('108','jnjmvtv.blogspot.com/2023/06/blog-post_15','滿江紅');
 jnjRef('177900129','jnjmvtv.blogspot.com/2022/12/the-serpent-queen','蛇蠍王后');
 jnjRef('180456822','jnjmvtv.blogspot.com/2024/04/one-life','倖存者列車');
+jnjRef('633','jnjmvtv.blogspot.com/2025/01/blog-post','神鬼戰士Ⅱ');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('166451623','jnjmvtv.blogspot.com/2021/08/dr-death','Dr. Death');
 jnjRef('131614153','jnjmvtv.blogspot.com/2020/01/midway','決戰中途島');

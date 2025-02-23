@@ -10,6 +10,7 @@ jnjRef('528','jnjtalks.blogspot.com/2013/03/38','四獸山38號兵推');
 jnjRef('1442875','jnjtalks.blogspot.com/2007/12/blog-post','雙關語小笑話');
 jnjRef('510','jnjtalks.blogspot.com/2007/12/blog-post_7','英文雙關語, 看懂嗎?');
 jnjRef('179531583','jnjliterature.blogspot.com/2023/07/blog-post','迷濛昏闇之間');
+jnjRef('633','jnjmvtv.blogspot.com/2025/01/blog-post','扯淡生命史');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('262756','jnjliterature.blogspot.com/2006/05/blog-post_6','誌芳哥心癢之旅');
 jnjRef('272484','jnjliterature.blogspot.com/2006/05/blog-post','誌芳哥與忍者龜');
