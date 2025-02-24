@@ -14,4 +14,5 @@ jnjRef('156661015','jnjdining.blogspot.com/2021/02/blog-post_22','君品酒店�
 jnjRef('178454300','jnjdining.blogspot.com/2023/02/blog-post','豪鼎中興時尚婚宴會館');
 jnjRef('155448483','jnjdining.blogspot.com/2021/01/blog-post_18','典華會館花田盛事');
 jnjRef('180308223','jnjdining.blogspot.com/2024/01/blog-post_31','典華會館繁華似錦廳');
+jnjRef('181854756','jnjdining.blogspot.com/2025/02/2024','典華會館校友會 2024');
 jnjRefList += '</ul></p></td></tr></table>';
