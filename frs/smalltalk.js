@@ -2,13 +2,16 @@ jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱
 jnjRef('606','jnjhome.blogspot.com/2008/03/blog-post','摔車了');
 jnjRef('7343964','jnjhome.blogspot.com/2013/02/blog-post_27','所謂耐聽');
 jnjRef('7343971','jnjhome.blogspot.com/2013/02/blog-post','掛斷的體貼');
+jnjRef('605','jnjhome.blogspot.com/2009/11/blog-post','貧者因書而貧');
+jnjRef('637','jnjblogbiz.blogspot.com/2024/07/ffff-11111','FFFF 11111');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('13084473','jnjmvtv.blogspot.com/2014/05/black-mirror-15-million-merits','人力發電隨想');
-jnjRef('605','jnjhome.blogspot.com/2009/11/blog-post','貧者因書而貧');
 jnjRef('612','jnjhome.blogspot.com/2006/08/blog-post_31','泳褲忘在更衣室');
 jnjRef('613','jnjhome.blogspot.com/2006/11/blog-post_20','雪雪雪雪雪雪雪');
 jnjRef('607','jnjhome.blogspot.com/2008/05/blog-post_31','秋葉原大人の店');
+jnjRef('636','jnjliterature.blogspot.com/2024/11/blog-post','咎字新解博一笑');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('637','jnjblogbiz.blogspot.com/2024/07/ffff-11111','FFFF 11111');
 jnjRef('609','jnjhome.blogspot.com/2008/07/blog-post','我的仇人是魷魚');
 jnjRef('614','jnjhome.blogspot.com/2007/01/blog-post_3','有沒有心學習關鍵');
 jnjRef('619','jnjhome.blogspot.com/2006/07/blog-post_29','報警處理才是對的');

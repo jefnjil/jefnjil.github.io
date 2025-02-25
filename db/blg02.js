@@ -18,4 +18,5 @@ switch(docID)
 	case "2998525530500417802" :	reg="house";	break;
 	case "8548344632609510302" :	reg="mv2";	break;
 	case "7113945672360146602" :	reg="mv4";	break;
+	case "1306719962904456802" :	reg="smalltalk";	break;
 }
