@@ -11,7 +11,6 @@ jnjRef('613','jnjhome.blogspot.com/2006/11/blog-post_20','雪雪雪雪雪雪雪'
 jnjRef('607','jnjhome.blogspot.com/2008/05/blog-post_31','秋葉原大人の店');
 jnjRef('636','jnjliterature.blogspot.com/2024/11/blog-post','咎字新解博一笑');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
-jnjRef('637','jnjblogbiz.blogspot.com/2024/07/ffff-11111','FFFF 11111');
 jnjRef('609','jnjhome.blogspot.com/2008/07/blog-post','我的仇人是魷魚');
 jnjRef('614','jnjhome.blogspot.com/2007/01/blog-post_3','有沒有心學習關鍵');
 jnjRef('619','jnjhome.blogspot.com/2006/07/blog-post_29','報警處理才是對的');
