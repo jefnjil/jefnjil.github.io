@@ -26,4 +26,5 @@ switch(docID)
 	case "5083300325418290069" :	reg="collect";	break;
 	case "7425055844285214169" :	reg="worldnews";	break;
 	case "5175338978908653269" :	reg="music1";	break;
+	case "3841574463784972969" :	reg="thriller2";	break;
 }

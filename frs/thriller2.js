@@ -6,7 +6,6 @@ jnjRef('104','jnjmvtv.blogspot.com/2020/12/2020','捍衛雅各');
 jnjRef('112','jnjmvtv.blogspot.com/2023/10/23q3-2x','奪魂鋸X');
 jnjRef('180590246','jnjmvtv.blogspot.com/2024/05/blog-post','安眠醫生');
 jnjRef('181121915','jnjmvtv.blogspot.com/2024/10/blog-post','衝擊真相');
-jnjRef('635','jnjmvtv.blogspot.com/2025/02/blog-post_1','千萬別放手');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('109','jnjmvtv.blogspot.com/2023/07/rabbit-holepoker-face','殘句線索');
 jnjRef('179724391','jnjmvtv.blogspot.com/2023/08/crowded-room','擁擠的房間');
@@ -15,6 +14,7 @@ jnjRef('178732540','jnjmvtv.blogspot.com/2023/03/blog-post','洛克靈異偵探�
 jnjRef('180451253','jnjmvtv.blogspot.com/2024/03/lover-stalker-killer-reina-roja','紅皇后 (Reina Roja)');
 jnjRef('180804948','jnjmvtv.blogspot.com/2024/07/mute-witness','戰慄追殺（Mute Witness）');
 jnjRef('634','jnjmvtv.blogspot.com/2025/01/blog-post_19','魷魚遊戲二');
+jnjRef('635','jnjmvtv.blogspot.com/2025/02/blog-post_1','千萬別放手');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('104','jnjmvtv.blogspot.com/2020/12/2020','法國大革命之謎');
 jnjRef('177295802','jnjmvtv.blogspot.com/2022/10/fall-ledge','高處不勝寒 ─ 墜、極限逃殺');
@@ -23,4 +23,5 @@ jnjRef('178590580','jnjmvtv.blogspot.com/2023/03/let-right-one-me-in','血色入
 jnjRef('179046344','jnjmvtv.blogspot.com/2023/04/diplomat','外交官和頭號外交官');
 jnjRef('180168042','jnjmvtv.blogspot.com/2023/12/leave-world-behind','斷訊 (Leave the World Behind)');
 jnjRef('180688580','jnjmvtv.blogspot.com/2024/06/nattevagten','隔卅年才拍續集的「守夜人」');
+jnjRef('181904063','jnjmvtv.blogspot.com/2025/03/head','極地闇殺 (The Head) ');
 jnjRefList += '</ul></p></td></tr></table>';
