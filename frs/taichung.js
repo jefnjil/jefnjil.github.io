@@ -20,4 +20,5 @@ jnjRef('22471987','jnjfoorprint.blogspot.com/2015/04/blog-post','武陵山莊國
 jnjRef('122535349','jnjfoorprint.blogspot.com/2019/01/blog-post','高美溼地生態保護區');
 jnjRef('4299717','jnjfoorprint.blogspot.com/2010/08/blog-post_56','日華金典．逢甲夜市');
 jnjRef('2241907','jnjhome.blogspot.com/2008/09/blog-post','風雨中秋坐困田寮');
+jnjRef('181981061','jnjfoorprint.blogspot.com/2025/03/blog-post','帝國製糖廠臺中營業所');
 jnjRefList += '</ul></p></td></tr></table>';

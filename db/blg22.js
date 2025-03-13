@@ -22,4 +22,5 @@ switch(docID)
 	case "6029905976003135822" :	reg="citynews";	break;
 	case "7279681378284099922" :	reg="news2";	break;
 	case "6510220916216559722" :	reg="energy";	break;
+	case "8294953121544184522" :	reg="taichung";	break;
 }
