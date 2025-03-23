@@ -23,4 +23,5 @@ switch(docID)
 	case "92714497": 	reg="japfood";	uss="577189";	ufp="2017.3.14";	break;
 	case "173211697" :	reg="expo1";	uss="633194";	umd="2022.4.26";	uMedia="12749/6258496";	break;
 	case "179369397" :	reg="changhua";	uss="637472";	break;
+	case "182073197" :	reg="taichung";	break;
 }

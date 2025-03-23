@@ -17,4 +17,5 @@ switch(docID)
 	case "2312838004874304614" :	reg="science";	break;
 	case "8806687663507743414" :	reg="collect2";	break;
 	case "8840736928131135214" :	reg="tale";	break;
+	case "6532033887139303014" :	reg="taichung";	break;
 }

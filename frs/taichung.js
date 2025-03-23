@@ -5,6 +5,7 @@ jnjRef('4299719','jnjfoorprint.blogspot.com/2010/08/blog-post','馬拉灣大海�
 jnjRef('131829187','jnjexpo.blogspot.com/2020/02/blog-post','台灣燈會快閃');
 jnjRef('169469663','jnjfoorprint.blogspot.com/2021/10/outlet','台中港三井Outlet');
 jnjRef('181771091','jnjfoorprint.blogspot.com/2025/02/lalaport','台中 lalaport');
+jnjRef('182073197','jnjfoorprint.blogspot.com/2025/03/blog-post_24','臺中驛鐵道文化園區');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('169829985','jnjfoorprint.blogspot.com/2021/10/blog-post_25','潭雅神綠園道');
 jnjRef('119782387','jnjfoorprint.blogspot.com/2018/11/blog-post_15','豐原后豐鐵馬道');
