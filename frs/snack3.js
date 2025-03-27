@@ -12,6 +12,7 @@ jnjRef('131200604','jnjdining.blogspot.com/2019/12/sukhothai','台北喜來登�
 jnjRef('157865062','jnjdining.blogspot.com/2021/03/blog-post_25','雲滇雲南過橋米線');
 jnjRef('172264427','jnjdining.blogspot.com/2022/03/blog-post_24','川湯溫泉養生餐廳');
 jnjRef('182011761','jnjdining.blogspot.com/2025/03/blog-post','大戶屋、肉的長谷川');
+jnjRef('182073298','jnjdining.blogspot.com/2025/03/blog-post_27','宮原眼科冰淇淋');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('181291909','jnjdining.blogspot.com/2024/11/blog-post','中和‧菱東方麵食館');
 jnjRef('151631561','jnjfoorprint.blogspot.com/2020/10/blog-post_19','滿妹豬腳‧悟饕便當');
