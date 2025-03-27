@@ -13,6 +13,7 @@ jnjRef('246','jnjtalks.blogspot.com/2010/09/blog-post_10','人力有價，文字
 jnjRef('226','jnjtalks.blogspot.com/2008/01/blog-post_15','有些盜版無罪，有些仿冒有理');
 jnjRef('242','jnjtalks.blogspot.com/2022/07/blog-post_7','林智堅幕僚：論文沒抄襲');
 jnjRef('241','jnjtalks.blogspot.com/2022/08/blog-post','顏擇雅：台大與中華有沒詐騙之嫌');
+jnjRef('630','jnjblogbiz.blogspot.com/2025/03/youtube','YouTube背景音樂侵權');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('243','jnjtalks.blogspot.com/2015/12/call-saver','華碩產品疑似抄襲');
 jnjRef('225','jnjtalks.blogspot.com/2008/02/blog-post','九把刀控訴抄襲事件');
