@@ -12,6 +12,7 @@ jnjRef('126077911','jnjmvtv.blogspot.com/2019/04/the-widow','寡婦 ─ 黑土�
 jnjRef('171377525','jnjmvtv.blogspot.com/2022/01/last-duel','最後的決鬥');
 jnjRef('180225093','jnjmvtv.blogspot.com/2024/01/bastarden-promised-land','惡棍, 應許之地');
 jnjRef('180505957','jnjmvtv.blogspot.com/2024/04/blog-post','幕府將軍');
+jnjRef('182129444','jnjmvtv.blogspot.com/2025/03/52','十一人の賊軍');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('164344280','jnjmvtv.blogspot.com/2021/06/american-traitor-trial-of-axis-sally','審判美奸軸心莎莉');
 jnjRef('177747434','jnjmvtv.blogspot.com/2022/12/1883','1883 ─ 西部開拓路上血跡斑斑');

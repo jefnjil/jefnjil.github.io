@@ -2,6 +2,7 @@ jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱
 jnjRef('21361513','jnjmvtv.blogspot.com/2015/03/3the-equalizer-john-wick-taken-3','私刑教育');
 jnjRef('69394538','jnjmvtv.blogspot.com/2016/09/sicario','怒火邊界');
 jnjRef('107','jnjmvtv.blogspot.com/2023/07/assassin-club4','捍衛任務4');
+jnjRef('182129444','jnjmvtv.blogspot.com/2025/03/52','鬼城殺');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('21361513','jnjmvtv.blogspot.com/2015/03/3the-equalizer-john-wick-taken-3','即刻救援3');
 jnjRef('21361513','jnjmvtv.blogspot.com/2015/03/3the-equalizer-john-wick-taken-3','捍衛任務');
