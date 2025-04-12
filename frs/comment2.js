@@ -11,6 +11,7 @@ jnjRef('180213768','jnjtalks.blogspot.com/2024/01/blog-post','民調封關談總
 jnjRef('475','jnjtalks.blogspot.com/2012/05/blog-post_22','我們確實知道真相是什麼嗎？');
 jnjRef('180615264','jnjhome.blogspot.com/2024/05/blog-post','日本通不通日文');
 jnjRef('622','jnjtalks.blogspot.com/2024/07/blog-post','「零日攻擊」預告雜感');
+jnjRef('182205928','jnjtalks.blogspot.com/2025/04/blog-post','烽火戲諸侯現代版');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('129520039','jnjtalks.blogspot.com/2019/09/blog-post','「蔡英文總統論文讀後感」懷古補遺');
 jnjRef('131262641','jnjtalks.blogspot.com/2019/12/blog-post','有線電視遙控器，是否屬於消耗品');
