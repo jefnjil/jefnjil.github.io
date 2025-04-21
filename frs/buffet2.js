@@ -4,6 +4,7 @@ jnjRef('171896067','jnjdining.blogspot.com/2022/03/inparadise','饗饗下午餐'
 jnjRef('178558537','jnjdining.blogspot.com/2023/03/blog-post','旭集和食集錦');
 jnjRef('138370740','jnjdining.blogspot.com/2020/07/blog-post','欣葉健康店');
 jnjRef('179205518','jnjdining.blogspot.com/2023/05/blog-post_18','萬國美食百匯');
+jnjRef('182275857','jnjdining.blogspot.com/2025/04/palette','美福彩匯 palette 自助餐');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('157694236','jnjdining.blogspot.com/2021/03/blog-post','故宮晶華');
 jnjRef('178672042','jnjdining.blogspot.com/2023/03/blog-post_23','晶華栢麗廳午餐');
