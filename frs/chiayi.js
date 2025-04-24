@@ -7,6 +7,7 @@ jnjRef('8469872','jnjfoorprint.blogspot.com/2013/09/blog-post_31','沼平公園�
 jnjRef('173410304','jnjfoorprint.blogspot.com/2022/04/blog-post_18','嘉義環市自行車道');
 jnjRef('179194622','jnjfoorprint.blogspot.com/2023/05/blog-post_15','耐斯王子大飯店');
 jnjRef('179260044','jnjfoorprint.blogspot.com/2023/05/blog-post_29','檜意森活村');
+jnjRef('182306652','jnjfoorprint.blogspot.com/2025/04/blog-post','蓋婭莊園');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('8469867','jnjfoorprint.blogspot.com/2013/09/blog-post_13','祝山觀日出');
 jnjRef('8469838','jnjfoorprint.blogspot.com/2013/09/blog-post_72','阿里山賓館');
