@@ -29,4 +29,6 @@ switch(docID)
 	case "2040148946229318810" :	reg="music2";	break;
 	case "7672399234782582410" :	reg="comment1";	break;
 	case "6475979366424206710" :	reg="sf5";	break;
+	case "5819869751261857310" :	reg="crime5";	break;
+	case "1813710475617797810" :	reg="mv4";	break;
 }
