@@ -5,6 +5,7 @@ jnjRef('154493306','jnjdining.blogspot.com/2020/12/blog-post','煙波花蓮館')
 jnjRef('181197335','jnjdining.blogspot.com/2024/10/blog-post','麓司岸餐坊');
 jnjRef('181687547','jnjfoorprint.blogspot.com/2025/01/blog-post_20','牛喝湯');
 jnjRef('160017918','jnjdining.blogspot.com/2021/04/blog-post','十里安手麵');
+jnjRef('182360326','jnjdining.blogspot.com/2025/05/blog-post','嘉義文化雞肉飯');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('155262228','jnjdining.blogspot.com/2021/01/blog-post','金品茶樓江浙料理');
 jnjRef('164180103','jnjdining.blogspot.com/2021/06/blog-post','鼎泰豐疫中聞香');

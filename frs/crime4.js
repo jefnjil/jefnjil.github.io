@@ -14,6 +14,7 @@ jnjRef('180451247','jnjmvtv.blogspot.com/2024/03/2','周處除三害');
 jnjRef('180996852','jnjmvtv.blogspot.com/2024/09/blog-post','徬徨之刃');
 jnjRef('181121915','jnjmvtv.blogspot.com/2024/10/blog-post','殺手互助同盟');
 jnjRef('181728160','jnjmvtv.blogspot.com/2025/02/blog-post','豺狼之日');
+jnjRef('628','jnjmvtv.blogspot.com/2024/09/blog-post_20','紅色房間');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('101','jnjmvtv.blogspot.com/2021/12/clarice','青年神探維蘭德');
 jnjRef('180294088','jnjmvtv.blogspot.com/2024/01/blog-post','芽籠、目中无人');
