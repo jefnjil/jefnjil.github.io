@@ -24,5 +24,5 @@ switch(docID)
 	case "757167808681069258" :	reg="polemics";	break;
 	case "5132044644395743858" :	reg="deathpenalty";	break;
 	case "3114034519402285458" :	reg="mv4";	break;
-	case "2495503376067543258" :	reg="sf5";	break;
+	case "2495503376067543258" :	reg="fantacy3";	break;
 }
