@@ -7,4 +7,5 @@ jnjRef('315','jnjhome.blogspot.com/2008/04/blog-post','頭一次和日本人說�
 jnjRef('324','jnjliterature.blogspot.com/2018/05/exitway-out','出口／Exit／Way Out');
 jnjRef('303','jnjhome.blogspot.com/2010/03/blog-post','半句外語都不會，也跑遍五大洲');
 jnjRef('483','jnjtalks.blogspot.com/2008/07/blog-post_9','回應：豪宅廣告，世紀典藏系列（二）');
+jnjRef('637','jnjliterature.blogspot.com/2025/05/generalissimo','「委員長」的英譯，Generalissimo');
 jnjRefList += '</ul></p></td></tr></table>';
