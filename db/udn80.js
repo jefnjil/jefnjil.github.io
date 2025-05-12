@@ -24,4 +24,5 @@ switch(docID)
 	case "178590580" :	reg="thriller11";	umd="2023.4.14";	uMedia="12760/7038724";	break;
 	case "180688580" :	reg="thriller2";	break;
 	case "180690880" :	reg="chiayi";	break;
+	case "182463380" :	reg="snack4";	break;
 }
