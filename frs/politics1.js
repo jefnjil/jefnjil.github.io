@@ -1,15 +1,17 @@
 jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
 jnjRef('504','jnjtalks.blogspot.com/2008/01/blog-post','楊儒門事件');
+jnjRef('641','jnjtalks.blogspot.com/2025/05/blog-post','說話如同放屁');
 jnjRef('507','jnjtalks.blogspot.com/2007/12/blog-post_30','愛國不等於愛這個政權');
 jnjRef('524','jnjtalks.blogspot.com/2007/05/blog-post_47','中正紀念堂改名的觀光問題');
 jnjRef('538','jnjtalks.blogspot.com/2006/09/blog-post_17','有云施明德可競選總統');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('539','jnjtalks.blogspot.com/2006/09/blog-post_3','政府高層叫人移民中美洲');
 jnjRef('543','jnjtalks.blogspot.com/2012/05/blog-post_78','同理心看待群眾運動');
 jnjRef('544','jnjtalks.blogspot.com/2006/08/blog-post_26','防微杜漸，避免衝突昇高');
 jnjRef('546','jnjtalks.blogspot.com/2006/08/blog-post_14','官府說募款有違法的嫌疑');
-jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('453','jnjtalks.blogspot.com/2013/07/blog-post_29','軍隊的本質是暴力，存在的目的就是殺人');
 jnjRef('525','jnjtalks.blogspot.com/2007/05/blog-post_8','刻意煽動政治仇恨的三立電視台');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('499','jnjtalks.blogspot.com/2008/03/blog-post','公投門檻偏高，遊戲規則不公平');
 jnjRef('502','jnjtalks.blogspot.com/2008/03/blog-post_21','恨不得能讓謝長廷擔任美國總統');
 jnjRef('511','jnjtalks.blogspot.com/2007/12/blog-post_5','二二八罪延下一代不應該，下一代有權益為上一代辯護');

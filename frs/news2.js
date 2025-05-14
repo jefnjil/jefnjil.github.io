@@ -5,6 +5,7 @@ jnjRef('162891532','jnjtalks.blogspot.com/2021/05/app','「社交距離APP」如
 jnjRef('177373760','jnjtalks.blogspot.com/2022/11/blog-post','莫以為梨泰院事故不會發生在台灣');
 jnjRef('157','jnjtalks.blogspot.com/2021/12/app','口罩亂象、實聯制、疾管家等 App');
 jnjRef('160','jnjtalks.blogspot.com/2021/12/blog-post_30','疫苗亂象');
+jnjRef('642','jnjtalks.blogspot.com/2025/05/blog-post_14','一把糖狠招震懾');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('147','jnjtalks.blogspot.com/2016/09/blog-post',' 臺灣人是地球所有人類的共同祖先?');
 jnjRef('148','jnjtalks.blogspot.com/2015/12/blog-post','「日據」還是「日治」？');
