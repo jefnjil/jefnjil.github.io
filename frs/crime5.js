@@ -8,6 +8,7 @@ jnjRef('125041796','jnjmvtv.blogspot.com/2019/03/true-detective','無間警探�
 jnjRef('147930588','jnjmvtv.blogspot.com/2020/08/blog-post','誰是被害者');
 jnjRef('157791837','jnjmvtv.blogspot.com/2021/03/the-vanishing-at-cecil-hotel','還原藍可兒事件');
 jnjRef('175631913','jnjmvtv.blogspot.com/2022/07/under-banner-of-heaven','天堂的旗幟下');
+jnjRef('182486559','jnjmvtv.blogspot.com/2025/05/blog-post','清潔工');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('13745512','jnjmvtv.blogspot.com/2014/05/the-following','殺手信徒與特殊受害者');
 jnjRef('126418781','jnjmvtv.blogspot.com/2019/05/the-victim','受害者（The Victim）與惡的距離');

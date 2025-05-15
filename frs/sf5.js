@@ -5,6 +5,7 @@ jnjRef('588','jnjmvtv.blogspot.com/2019/05/3','異星空間');
 jnjRef('180590246','jnjmvtv.blogspot.com/2024/05/blog-post','烙印之人');
 jnjRef('180943015','jnjmvtv.blogspot.com/2024/08/dark-matter','人生複本');
 jnjRef('630','jnjmvtv.blogspot.com/2024/12/blog-post_8','照明商店');
+jnjRef('182486559','jnjmvtv.blogspot.com/2025/05/blog-post','攔截記憶碼');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('180456822','jnjmvtv.blogspot.com/2024/04/one-life','異星謎變');
 jnjRef('120','jnjmvtv.blogspot.com/2022/12/seal-team','西方極樂園');
