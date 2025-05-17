@@ -20,4 +20,5 @@ jnjRef('180168042','jnjmvtv.blogspot.com/2023/12/leave-world-behind','斷訊 (Le
 jnjRef('180688580','jnjmvtv.blogspot.com/2024/06/nattevagten','隔卅年才拍續集的「守夜人」');
 jnjRef('181904063','jnjmvtv.blogspot.com/2025/03/head','極地闇殺 (The Head) ');
 jnjRef('182011711','jnjmvtv.blogspot.com/2025/03/paradise','極樂凶間 Paradise');
+jnjRef('643','jnjmvtv.blogspot.com/2025/05/gannibal','噬亡村 (Gannibal)');
 jnjRefList += '</ul></p></td></tr></table>';
