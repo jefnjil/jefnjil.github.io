@@ -4,6 +4,7 @@ jnjRef('641','jnjtalks.blogspot.com/2025/05/blog-post','說話如同放屁');
 jnjRef('507','jnjtalks.blogspot.com/2007/12/blog-post_30','愛國不等於愛這個政權');
 jnjRef('524','jnjtalks.blogspot.com/2007/05/blog-post_47','中正紀念堂改名的觀光問題');
 jnjRef('538','jnjtalks.blogspot.com/2006/09/blog-post_17','有云施明德可競選總統');
+jnjRef('644','jnjtalks.blogspot.com/2025/05/blog-post_19','林昶佐將出任駐芬蘭代表');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('539','jnjtalks.blogspot.com/2006/09/blog-post_3','政府高層叫人移民中美洲');
 jnjRef('543','jnjtalks.blogspot.com/2012/05/blog-post_78','同理心看待群眾運動');
