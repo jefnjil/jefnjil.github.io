@@ -14,7 +14,7 @@ jnjRef('129263060','jnjmvtv.blogspot.com/2019/09/carnival-row','Carnival Row');
 jnjRef('103','jnjmvtv.blogspot.com/2021/12/ii','駭客任務復活');
 jnjRef('110','jnjmvtv.blogspot.com/2023/07/blog-post','鑽油平台危機');
 jnjRef('103','jnjmvtv.blogspot.com/2021/12/ii','自殺突擊隊集結');
-jnjRef('111589957','jnjmvtv.blogspot.com/2018/04/annihilationthe-titan','泰坦（The Titan）');
+jnjRef('645','jnjmvtv.blogspot.com/2025/05/4','深空永航');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('131391167','jnjmvtv.blogspot.com/2019/12/see','末日光明（See）');
 jnjRef('297','jnjhome.blogspot.com/2016/05/blog-post','星際大戰：原力覺醒');

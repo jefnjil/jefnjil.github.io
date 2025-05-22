@@ -29,4 +29,5 @@ switch(docID)
 	case "8723020281428565180" :	reg="identity";	break;
 	case "6588864924200759780" :	reg="lookforjob";	break;
 	case "9033593972972727680" :	reg="disaster";	break;
+	case "4687828389381056380" :	reg="sf5";	break;
 }
