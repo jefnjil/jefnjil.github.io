@@ -1,0 +1,11 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('103','jnjmvtv.blogspot.com/2021/12/ii','瑕疵小隊');
+jnjRef('182553372','jnjmvtv.blogspot.com/2025/05/2','黑市傳說');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('180996852','jnjmvtv.blogspot.com/2024/09/blog-post','侍者');
+jnjRef('178053318','jnjmvtv.blogspot.com/2023/01/andor','安道爾（Andor）');
+jnjRef('182553372','jnjmvtv.blogspot.com/2025/05/2','安道爾2');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('587','jnjmvtv.blogspot.com/2020/09/blog-post','天行者的崛起');
+jnjRef('297','jnjhome.blogspot.com/2016/05/blog-post','星際大戰：原力覺醒');
+jnjRefList += '</ul></p></td></tr></table>';
