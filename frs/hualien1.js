@@ -4,6 +4,7 @@ jnjRef('154808833','jnjfoorprint.blogspot.com/2020/12/blog-post_24','松園別�
 jnjRef('154493306','jnjdining.blogspot.com/2020/12/blog-post','煙波花蓮館');
 jnjRef('151446746','jnjfoorprint.blogspot.com/2020/10/daka','台泥DAKA園區');
 jnjRef('151807865','jnjfoorprint.blogspot.com/2020/10/blog-post_22','花蓮觀光糖廠');
+jnjRef('182588029','jnjfoorprint.blogspot.com/2025/05/blog-post_26','雲山水');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('151582892','jnjfoorprint.blogspot.com/2020/10/blog-post_15','林田山、森坂步道');
 jnjRef('151631561','jnjfoorprint.blogspot.com/2020/10/blog-post_19','滿妹豬腳‧悟饕便當');
