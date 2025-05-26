@@ -4,9 +4,9 @@ jnjRef('72185124','jnjblogbiz.blogspot.com/2016/09/show-girls','慶點閱人氣�
 jnjRef('92694924','jnjfoorprint.blogspot.com/2017/04/blog-post','慶點閱人氣兩千萬');
 jnjRef('105330220','jnjfoorprint.blogspot.com/2017/08/blog-post','慶點閱人氣三千萬');
 jnjRef('180315328','jnjblogbiz.blogspot.com/2024/02/blog-post','留言集成編年史');
-jnjRef('179574349','jnjblogbiz.blogspot.com/2023/07/blog-post','再見，Ｕ值媒');
-jnjRef('637','jnjblogbiz.blogspot.com/2024/07/ffff-11111','FFFF 11111');
+jnjRef('647','jnjblogbiz.blogspot.com/2025/05/blog-post','條通與桶店');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('179574349','jnjblogbiz.blogspot.com/2023/07/blog-post','再見，Ｕ值媒');
 jnjRef('131433528','jnjdining.blogspot.com/2020/01/blog-post','2020新年回顧展望');
 jnjRef('172651889','jnjblogbiz.blogspot.com/2022/03/github-pages','免費網頁空間 GitHub Pages');
 jnjRef('150888539','jnjblogbiz.blogspot.com/2020/09/adsense','AdSense 莎喲娜啦，談談ｕ值媒');
@@ -15,6 +15,7 @@ jnjRef('179741563','jnjblogbiz.blogspot.com/2023/08/udn','關於臉書私訊，�
 jnjRef('180361729','jnjblogbiz.blogspot.com/2024/03/blog-post','貢寮十分雨中漫步 ─ 慶點閱破七百萬');
 jnjRef('630','jnjblogbiz.blogspot.com/2025/03/youtube','已讀不回，對方說你沒有禮貌');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('637','jnjblogbiz.blogspot.com/2024/07/ffff-11111','FFFF 11111');
 jnjRef('112508848','jnjblogbiz.blogspot.com/2018/06/4m3c','慶點閱破4M，賞香車美人閒聊3C');
 jnjRef('138010213','jnjfoorprint.blogspot.com/2020/02/blog-post_5','車遊羅馬 ─ 慶點閱破五百萬');
 jnjRef('175185696','jnjblogbiz.blogspot.com/2022/06/blog-post','疫期便當與餐廳 ─ 慶點閱破六百萬');
