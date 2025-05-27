@@ -17,4 +17,5 @@ jnjRef('614','jnjhome.blogspot.com/2007/01/blog-post_3','有沒有心學習關�
 jnjRef('619','jnjhome.blogspot.com/2006/07/blog-post_29','報警處理才是對的');
 jnjRef('617','jnjhome.blogspot.com/2006/02/blog-post_6','千萬別和大夥兒擠過年');
 jnjRef('610','jnjhome.blogspot.com/2006/08/blog-post_6','博物館選在教堂旁邊的用意');
+jnjRef('648','jnjhome.blogspot.com/2025/05/blog-post','洋妞傳教士‧關稅與物價');
 jnjRefList += '</ul></p></td></tr></table>';
