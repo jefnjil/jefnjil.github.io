@@ -1,0 +1,16 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('171306329','jnjmvtv.blogspot.com/2022/01/stillwater','靜水城');
+jnjRef('630','jnjmvtv.blogspot.com/2024/12/blog-post_8','朝歌風雲');
+jnjRef('182335425','jnjmvtv.blogspot.com/2025/04/conclave-prime-target','秘密會議');
+jnjRef('182543036','jnjmvtv.blogspot.com/2025/05/blog-post_29','老槍');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('180505957','jnjmvtv.blogspot.com/2024/04/blog-post','黃昏清兵衛');
+jnjRef('180101142','jnjmvtv.blogspot.com/2023/11/blog-post_27','唐山大地震');
+jnjRef('517','jnjtalks.blogspot.com/2007/09/blog-post_30','也談色戒的三點全露');
+jnjRef('182129444','jnjmvtv.blogspot.com/2025/03/52','52赫茲的鯨魚們');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('180677185','jnjmvtv.blogspot.com/2024/06/civil-war','帝國浩劫：美國內戰');
+jnjRef('122','jnjmvtv.blogspot.com/2022/12/tinder','村裡來了個暴走女外科');
+jnjRef('180421090','jnjmvtv.blogspot.com/2024/03/vital','死亡解剖 (ヴィタール, Vital)');
+jnjRef('629','jnjmvtv.blogspot.com/2024/12/blog-post','在大雪封閉的山莊裡');
+jnjRefList += '</ul></p></td></tr></table>';
