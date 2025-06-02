@@ -3,9 +3,9 @@ jnjRef('154902295','jnjfoorprint.blogspot.com/2020/12/blog-post_28','小錐麓�
 jnjRef('154808833','jnjfoorprint.blogspot.com/2020/12/blog-post_24','松園別館');
 jnjRef('154493306','jnjdining.blogspot.com/2020/12/blog-post','煙波花蓮館');
 jnjRef('151446746','jnjfoorprint.blogspot.com/2020/10/daka','台泥DAKA園區');
-jnjRef('151807865','jnjfoorprint.blogspot.com/2020/10/blog-post_22','花蓮觀光糖廠');
 jnjRef('182588029','jnjfoorprint.blogspot.com/2025/05/blog-post_26','雲山水');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('151807865','jnjfoorprint.blogspot.com/2020/10/blog-post_22','花蓮觀光糖廠');
 jnjRef('151582892','jnjfoorprint.blogspot.com/2020/10/blog-post_15','林田山、森坂步道');
 jnjRef('151631561','jnjfoorprint.blogspot.com/2020/10/blog-post_19','滿妹豬腳‧悟饕便當');
 jnjRef('151911760','jnjfoorprint.blogspot.com/2020/10/blog-post_26','六十石山金針花季');
@@ -17,4 +17,5 @@ jnjRef('71366309','jnjfoorprint.blogspot.com/2016/10/blog-post_69','花蓮一日
 jnjRef('154665345','jnjdining.blogspot.com/2020/12/mola-mola','花蓮煙波慕拉MOLA');
 jnjRef('151332568','jnjfoorprint.blogspot.com/2020/10/blog-post','蘇花改、蘇澳服務區');
 jnjRef('182523534','jnjfoorprint.blogspot.com/2025/05/blog-post_19','花蓮鐵道文化園區');
+jnjRef('182652443','jnjfoorprint.blogspot.com/2025/06/blog-post','東華大學、東大門');
 jnjRefList += '</ul></p></td></tr></table>';

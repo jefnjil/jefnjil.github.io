@@ -27,4 +27,5 @@ switch(docID)
 	case "3550425490319788600" :	reg="economic";	break;
 	case "2606134656102966500" :	reg="music2";	break;
 	case "7093562513492873300" :	reg="thriller2";	break;
+	case "5381264562738948800" :	reg="hualien1";	break;
 }
