@@ -8,6 +8,7 @@ jnjRef('180505957','jnjmvtv.blogspot.com/2024/04/blog-post','黃昏清兵衛');
 jnjRef('180101142','jnjmvtv.blogspot.com/2023/11/blog-post_27','唐山大地震');
 jnjRef('517','jnjtalks.blogspot.com/2007/09/blog-post_30','也談色戒的三點全露');
 jnjRef('182129444','jnjmvtv.blogspot.com/2025/03/52','52赫茲的鯨魚們');
+jnjRef('182670617','jnjmvtv.blogspot.com/2025/06/blog-post','「忘了我記得」爭議雜感');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('180677185','jnjmvtv.blogspot.com/2024/06/civil-war','帝國浩劫：美國內戰');
 jnjRef('122','jnjmvtv.blogspot.com/2022/12/tinder','村裡來了個暴走女外科');
