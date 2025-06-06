@@ -3,6 +3,7 @@ jnjRef('171004743','jnjmvtv.blogspot.com/2021/12/ragdoll','屍偶 Ragdoll');
 jnjRef('177124463','jnjmvtv.blogspot.com/2022/09/black-bird','黑鳥（Black Bird）');
 jnjRef('628','jnjmvtv.blogspot.com/2024/09/blog-post_20','長腿');
 jnjRef('633','jnjmvtv.blogspot.com/2025/01/blog-post','假人殺魔');
+jnjRef('650','jnjmvtv.blogspot.com/2025/06/2','異教峰');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('125041796','jnjmvtv.blogspot.com/2019/03/true-detective','無間警探（真探）');
 jnjRef('147930588','jnjmvtv.blogspot.com/2020/08/blog-post','誰是被害者');
