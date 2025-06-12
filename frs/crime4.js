@@ -23,4 +23,5 @@ jnjRef('180605463','jnjmvtv.blogspot.com/2024/02/deep-end','深網  Deep End');
 jnjRef('180366438','jnjmvtv.blogspot.com/2024/03/true-detective-night-country','無間警探：闇夜國度');
 jnjRef('180792678','jnjmvtv.blogspot.com/2024/07/blog-post_08','暴裂無聲 ─ 瘖啞人士動作片');
 jnjRef('181822961','jnjmvtv.blogspot.com/2025/02/4','破碎的愤怒');
+jnjRef('182718553','jnjmvtv.blogspot.com/2025/06/patience','Patience');
 jnjRefList += '</ul></p></td></tr></table>';
