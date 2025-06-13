@@ -1,0 +1,18 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('180823272','jnjmvtv.blogspot.com/2024/07/in-time','鐘點戰');
+jnjRef('159','jnjtalks.blogspot.com/2020/12/blog-post_30','川普2020');
+jnjRef('69394538','jnjmvtv.blogspot.com/2016/09/sicario','怒火邊界');
+jnjRef('166281852','jnjmvtv.blogspot.com/2021/08/plot-against-america','美國外史');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('536','jnjtalks.blogspot.com/2006/11/blog-post_33','美國參政吐血記');
+jnjRef('110253050','jnjmvtv.blogspot.com/2018/02/tyrant','暴君 ─ 邁向獨裁之路');
+jnjRef('180677185','jnjmvtv.blogspot.com/2024/06/civil-war','帝國浩劫：美國內戰');
+jnjRef('182205928','jnjtalks.blogspot.com/2025/04/blog-post','烽火戲諸侯現代版');
+jnjRef('642','jnjtalks.blogspot.com/2025/05/blog-post_14','一把糖狠招震懾');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('236','jnjtalks.blogspot.com/2020/04/blog-post_15','新冠肺炎疫情蔓延楊志良點名四大寇');
+jnjRef('419','jnjtalks.blogspot.com/2021/08/blog-post_27','美國撤軍阿富汗，神學士坐進總統府');
+jnjRef('171238183','jnjtalks.blogspot.com/2022/01/bronteroc-dont-look-up','Bronteroc（千萬別抬頭）');
+jnjRef('641','jnjtalks.blogspot.com/2025/05/blog-post','說話如同放屁‧內有惡犬閒人免進');
+jnjRef('651','jnjtalks.blogspot.com/2025/06/blog-post','此門為錢開, 無財莫進來');
+jnjRefList += '</ul></p></td></tr></table>';

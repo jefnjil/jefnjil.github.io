@@ -18,4 +18,5 @@ switch(docID)
 	case "9054478596610246150" :	reg="slowtv";	break;
 	case "1600367672297154050" :	reg="mothertongue";	break;
 	case "2894508438247649850" :	reg="music2";	break;
+	case "5341038033871971750" :	reg="trump";	break;
 }
