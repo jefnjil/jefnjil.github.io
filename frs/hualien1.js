@@ -19,4 +19,5 @@ jnjRef('154665345','jnjdining.blogspot.com/2020/12/mola-mola','花蓮煙波慕�
 jnjRef('151332568','jnjfoorprint.blogspot.com/2020/10/blog-post','蘇花改、蘇澳服務區');
 jnjRef('182523534','jnjfoorprint.blogspot.com/2025/05/blog-post_19','花蓮鐵道文化園區');
 jnjRef('182652443','jnjfoorprint.blogspot.com/2025/06/blog-post','東華大學、東大門');
+jnjRef('182749253','jnjfoorprint.blogspot.com/2025/06/d-park','D Park台肥海洋深層水園區');
 jnjRefList += '</ul></p></td></tr></table>';
