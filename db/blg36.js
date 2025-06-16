@@ -13,4 +13,5 @@ switch(docID)
 	case "7984038669404906636" :	reg="popularity";	break;
 	case "510245100749913236" :	reg="collect1";	break;
 	case "2886947836307599136" :	reg="collect";	break;
+	case "7904748146723864436" :	reg="trump";	break;
 }

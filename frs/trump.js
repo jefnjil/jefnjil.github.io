@@ -16,4 +16,5 @@ jnjRef('419','jnjtalks.blogspot.com/2021/08/blog-post_27','美國撤軍阿富汗
 jnjRef('171238183','jnjtalks.blogspot.com/2022/01/bronteroc-dont-look-up','Bronteroc（千萬別抬頭）');
 jnjRef('641','jnjtalks.blogspot.com/2025/05/blog-post','說話如同放屁‧內有惡犬閒人免進');
 jnjRef('651','jnjtalks.blogspot.com/2025/06/blog-post','此門為錢開, 無財莫進來');
+jnjRef('652','jnjtalks.blogspot.com/2025/06/blog-post_16','無王日，無人為懂王慶生');
 jnjRefList += '</ul></p></td></tr></table>';
