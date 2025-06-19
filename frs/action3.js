@@ -14,4 +14,5 @@ jnjRef('13745512','jnjmvtv.blogspot.com/2014/05/the-following','殺手信徒與�
 jnjRef('171689749','jnjmvtv.blogspot.com/2022/01/ice-road','地表最強老爸──疾凍救援');
 jnjRef('173604533','jnjmvtv.blogspot.com/2022/04/slow-horses','腐肉屋的一群慢馬');
 jnjRef('628','jnjmvtv.blogspot.com/2024/09/blog-post_20','今際之國的闖關者');
+jnjRef('182780625','jnjmvtv.blogspot.com/2025/06/blog-post_19','域外營救');
 jnjRefList += '</ul></p></td></tr></table>';

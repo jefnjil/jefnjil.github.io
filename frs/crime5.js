@@ -17,4 +17,5 @@ jnjRef('126418781','jnjmvtv.blogspot.com/2019/05/the-victim','受害者（The Vi
 jnjRef('132360191','jnjmvtv.blogspot.com/2020/04/zerozerozero','零零零 ─ 毒販毒梟與他們的產地');
 jnjRef('174294119','jnjmvtv.blogspot.com/2022/05/why-didnt-they-ask-evans','克莉絲蒂「懸崖下謀殺案」');
 jnjRef('629','jnjmvtv.blogspot.com/2024/12/blog-post','積雪下的孤寂靈魂');
+jnjRef('182780625','jnjmvtv.blogspot.com/2025/06/blog-post_19','正念殺機');
 jnjRefList += '</ul></p></td></tr></table>';

@@ -14,6 +14,7 @@ jnjRef('180804948','jnjmvtv.blogspot.com/2024/07/mute-witness','戰慄追殺（M
 jnjRef('634','jnjmvtv.blogspot.com/2025/01/blog-post_19','魷魚遊戲二');
 jnjRef('635','jnjmvtv.blogspot.com/2025/02/blog-post_1','千萬別放手');
 jnjRef('182335425','jnjmvtv.blogspot.com/2025/04/conclave-prime-target','關鍵暗算');
+jnjRef('182780625','jnjmvtv.blogspot.com/2025/06/blog-post_19','玻璃謎城');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('104','jnjmvtv.blogspot.com/2020/12/2020','法國大革命之謎');
 jnjRef('179046344','jnjmvtv.blogspot.com/2023/04/diplomat','外交官和頭號外交官');
