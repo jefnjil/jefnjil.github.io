@@ -12,6 +12,7 @@ jnjRef('151631561','jnjfoorprint.blogspot.com/2020/10/blog-post_19','滿妹豬�
 jnjRef('151911760','jnjfoorprint.blogspot.com/2020/10/blog-post_26','六十石山金針花季');
 jnjRef('154446830','jnjfoorprint.blogspot.com/2020/12/11','台11線海岸（北回歸線）');
 jnjRef('154985067','jnjfoorprint.blogspot.com/2020/12/blog-post_31','花東縱谷隨手拍');
+jnjRef('182801654','jnjfoorprint.blogspot.com/2025/06/blog-post_23','向日廣場、賞鯨碼頭');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('70819369','jnjfoorprint.blogspot.com/2016/09/blog-post_6','空軍節雷虎小組特技');
 jnjRef('71366309','jnjfoorprint.blogspot.com/2016/10/blog-post_69','花蓮一日‧公正包子');
