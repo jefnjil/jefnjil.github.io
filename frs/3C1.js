@@ -22,5 +22,5 @@ jnjRef('300','jnjhome.blogspot.com/2013/10/blog-post','有如長城的螢幕牆�
 jnjRef('180654702','jnjtech.blogspot.com/2024/05/acumatica','長弘科技與同學小聚');
 jnjRef('181499541','jnjtech.blogspot.com/2024/12/blog-post','長壽自用電腦及喇叭汰舊換新');
 jnjRef('626','jnjtalks.blogspot.com/2025/02/blog-post_02','組裝電腦不附驅動光碟、說明書');
-jnjRef('646','jnjtech.blogspot.com/2025/05/doom','黑鏡懷舊盤點（DOOM、即可拍等）');
+jnjRef('182810712','jnjtech.blogspot.com/2025/05/doom','黑鏡第七季懷舊盤點（DOOM、即可拍等等）');
 jnjRefList += '</ul></p></td></tr></table>';
