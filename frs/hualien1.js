@@ -5,6 +5,7 @@ jnjRef('154493306','jnjdining.blogspot.com/2020/12/blog-post','煙波花蓮館')
 jnjRef('151446746','jnjfoorprint.blogspot.com/2020/10/daka','台泥DAKA園區');
 jnjRef('182588029','jnjfoorprint.blogspot.com/2025/05/blog-post_26','雲山水');
 jnjRef('182699362','jnjfoorprint.blogspot.com/2025/06/blog-post_09','嘉德花田');
+jnjRef('182864127','jnjfoorprint.blogspot.com/2025/06/blog-post_30','七星潭');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('151807865','jnjfoorprint.blogspot.com/2020/10/blog-post_22','花蓮觀光糖廠');
 jnjRef('151582892','jnjfoorprint.blogspot.com/2020/10/blog-post_15','林田山、森坂步道');

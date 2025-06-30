@@ -27,4 +27,5 @@ switch(docID)
 	case "635955567766532232" :	reg="smalltalk";	break;
 	case "4384727418741054832" :	reg="smalltalk";	break;
 	case "8313563344083638732" :	reg="buffet2";	break;
+	case "7582322621918383932" :	reg="hualien1";	break;
 }
