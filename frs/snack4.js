@@ -16,4 +16,5 @@ jnjRef('175185696','jnjblogbiz.blogspot.com/2022/06/blog-post','疫期便當與�
 jnjRef('181361564','jnjdining.blogspot.com/2024/11/blog-post_20','高橋咖哩、福勝亭');
 jnjRef('181529718','jnjdining.blogspot.com/2024/12/blog-post','福華香蘭葉蛋糕、蘋果酥捲');
 jnjRef('181882001','jnjdining.blogspot.com/2025/02/blog-post','蘇杭小館（台大校友會館）');
+jnjRef('182864159','jnjdining.blogspot.com/2025/07/blog-post','新城老街、半天紅麻辣館');
 jnjRefList += '</ul></p></td></tr></table>';
