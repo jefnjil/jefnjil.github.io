@@ -37,4 +37,5 @@ switch(docID)
 	case "3346751085545009254" :	reg="tech1";	break;
 	case "7953225708895347754" :	reg="comment2";	break;
 	case "3645504338056276154" :	reg="sf4";	break;
+	case "2911885038016907854" :	reg="buffet2";	break;
 }

@@ -12,6 +12,7 @@ jnjRef('132109809','jnjfoorprint.blogspot.com/2020/03/blog-post_19','台南煙�
 jnjRef('154665345','jnjdining.blogspot.com/2020/12/mola-mola','花蓮煙波慕拉MOLA');
 jnjRef('177224914','jnjdining.blogspot.com/2022/09/blog-post_30','莫內西餐廳早餐');
 jnjRef('179930823','jnjdining.blogspot.com/2023/10/blog-post','饗食天堂收盤機器人');
+jnjRef('182925088','jnjdining.blogspot.com/2025/07/blog-post_07','饗饗新莊、環狀線');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('173112985','jnjdining.blogspot.com/2022/04/blog-post','君悅凱菲屋下午茶小聚');
 jnjRef('174972704','jnjdining.blogspot.com/2022/06/blog-post','漢來海港天母店午餐');
