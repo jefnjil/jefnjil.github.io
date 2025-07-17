@@ -16,4 +16,5 @@ switch(docID)
 	case "8483469928380366326" :	reg="collect2";	break;
 	case "1104092934789882226" :	reg="business";	break;
 	case "6057386425173506026" :	reg="sf2";	break;
+	case "1681171670588492126" :	reg="snack4";	break;
 }

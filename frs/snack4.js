@@ -10,6 +10,7 @@ jnjRef('172264427','jnjdining.blogspot.com/2022/03/blog-post_24','川湯溫泉�
 jnjRef('182011761','jnjdining.blogspot.com/2025/03/blog-post','大戶屋、肉的長谷川');
 jnjRef('182073298','jnjdining.blogspot.com/2025/03/blog-post_27','宮原眼科冰淇淋');
 jnjRef('182158779','jnjdining.blogspot.com/2025/04/blog-post','世界豆漿大王永和本店');
+jnjRef('183003895','jnjdining.blogspot.com/2025/07/elaine','悅上海、Elaine 生日');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('181291909','jnjdining.blogspot.com/2024/11/blog-post','中和‧菱東方麵食館');
 jnjRef('175185696','jnjblogbiz.blogspot.com/2022/06/blog-post','疫期便當與餐廳漏網之魚');
