@@ -1,0 +1,18 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('105330220','jnjfoorprint.blogspot.com/2017/08/blog-post','慶點閱人氣三千萬');
+jnjRef('179574349','jnjblogbiz.blogspot.com/2023/07/blog-post','再見，Ｕ值媒');
+jnjRef('180315328','jnjblogbiz.blogspot.com/2024/02/blog-post','留言集成編年史');
+jnjRef('647','jnjblogbiz.blogspot.com/2025/05/blog-post','條通與桶店');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('172651889','jnjblogbiz.blogspot.com/2022/03/github-pages','免費網頁空間 GitHub Pages');
+jnjRef('154','jnjblogbiz.blogspot.com/2020/06/blog-post','點閱數爆高，訪客卻十分有限');
+jnjRef('179741563','jnjblogbiz.blogspot.com/2023/08/udn','關於臉書私訊，兼談UDN部落格現況');
+jnjRef('180361729','jnjblogbiz.blogspot.com/2024/03/blog-post','貢寮十分雨中漫步 ─ 慶點閱破七百萬');
+jnjRef('630','jnjblogbiz.blogspot.com/2025/03/youtube','已讀不回，對方說你沒有禮貌');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('175185696','jnjblogbiz.blogspot.com/2022/06/blog-post','疫期便當與餐廳 ─ 慶點閱破六百萬');
+jnjRef('178401113','jnjblogbiz.blogspot.com/2023/02/1600','點閱人氣四千萬暨發文1600篇紀念');
+jnjRef('180208462','jnjhome.blogspot.com/2024/01/blog-post','花博公園閒逛──新年快樂兼聊聊近況');
+jnjRef('182925115','jnjblogbiz.blogspot.com/2025/06/blog-post','臉書所謂「成人裸露和性行為」');
+jnjRef('183032186','jnjmvtv.blogspot.com/2025/05/4','愛死機4、深空永航 ─ 慶點閱破八百萬');
+jnjRefList += '</ul></p></td></tr></table>';

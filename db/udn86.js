@@ -21,4 +21,5 @@ switch(docID)
 	case "177180886" :	reg="hotel_tww";	uss="635043";	break;
 	case "178380686" :	reg="tech1";	break;
 	case "178853486" :	reg="museum1";	uss="635469";	umd="2023.5.18";	uMedia="12749/7109132";	break;
+	case "183032186" :	reg="blog2";	break;
 }
