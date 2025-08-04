@@ -12,6 +12,7 @@ jnjRef('112041115','jnjhome.blogspot.com/2018/05/elaine','慶Elaine上大學');
 jnjRef('125215144','jnjhome.blogspot.com/2019/03/blog-post','遠距教學隔空抓藥');
 jnjRef('136','jnjhome.blogspot.com/2017/09/blog-post','小妮子亂入監控錄影');
 jnjRef('294','jnjhome.blogspot.com/2018/02/blog-post','考大學選日子看風水');
+jnjRef('183149406','jnjhome.blogspot.com/2025/08/george','慶碩士畢業');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('508059','jnjhome.blogspot.com/2006/10/blog-post_25','爸爸的獎牌');
 jnjRef('318737','jnjhome.blogspot.com/2006/06/blog-post_19','毛毛蟲跳舞');

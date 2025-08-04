@@ -22,4 +22,5 @@ jnjRef('252339','jnjhome.blogspot.com/2006/04/blog-post_26','一肚子大便');
 jnjRef('154597','jnjhome.blogspot.com/2006/01/blog-post_18','中山路');
 jnjRef('164395','jnjhome.blogspot.com/2006/01/blog-post','三個月亮');
 jnjRef('308','jnjhome.blogspot.com/2009/06/blog-post_10','人生自古誰無.....');
+jnjRef('183149406','jnjhome.blogspot.com/2025/08/george','碩士畢業，開始行醫');
 jnjRefList += '</ul></p></td></tr></table>';

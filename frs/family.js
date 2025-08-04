@@ -20,4 +20,5 @@ jnjRef('178330232','jnjfoorprint.blogspot.com/2023/02/blog-post','父後三日�
 jnjRef('179417384','jnjhome.blogspot.com/2023/06/blog-post','國外家屬死亡登記（上）國外篇');
 jnjRef('179417418','jnjhome.blogspot.com/2023/06/blog-post_29','國外家屬死亡登記（下）國內篇');
 jnjRef('603','jnjhome.blogspot.com/2013/01/blog-post','「台灣人在滿州國」紀錄片');
+jnjRef('183149406','jnjhome.blogspot.com/2025/08/george','慶兩小碩士畢業，George 開始行醫');
 jnjRefList += '</ul></p></td></tr></table>';
