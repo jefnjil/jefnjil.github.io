@@ -27,4 +27,5 @@ switch(docID)
 	case "9006398000080102078" :	reg="tale";	break;
 	case "4419529540056320178" :	reg="smalltalk";	break;
 	case "3057467121309830678" :	reg="news3";	break;
+	case "5543721583112679978" :	reg="feast2";	break;
 }
