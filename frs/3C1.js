@@ -14,6 +14,7 @@ jnjRef('170539360','jnjfoorprint.blogspot.com/2021/11/4k','DJI三軸穩定器OM3
 jnjRef('179425604','jnjtech.blogspot.com/2023/06/loch-henry','磁帶殘餘空間利用');
 jnjRef('577','jnjtech.blogspot.com/2011/06/asus-eeepad','ASUS EeePad關箱文');
 jnjRef('92139852','jnjfoorprint.blogspot.com/2017/03/ces','CES 五十週年懷舊展');
+jnjRef('183233297','jnjtech.blogspot.com/2025/08/e30','換裝小米智能門鎖 E30');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('580','jnjtech.blogspot.com/2008/03/sos-what-to-buy-imac-or-sony-vaio-pc','iMac 與 Sony Vaio PC 的選擇');
 jnjRef('128395790','jnjtech.blogspot.com/2019/08/apple-watch-suica','Apple Watch 應用日本 Suica 經驗談');

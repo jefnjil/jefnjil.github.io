@@ -27,4 +27,5 @@ switch(docID)
 	case "7293152326673502684" :	reg="smalltalk";	break;
 	case "2089170318345018784" :	reg="horror";	break;
 	case "5342939230170658784" :	reg="taoyuan";	break;
+	case "5781826615276135784" :	reg="3C1";	break;
 }
