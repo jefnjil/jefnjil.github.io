@@ -1,11 +1,11 @@
 jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
 jnjRef('582','jnjtech.blogspot.com/2007/08/blog-post','掃瞄器該換了');
-jnjRef('12476928','jnjtech.blogspot.com/2014/04/blog-post','「非單眼相機不可？」');
 jnjRef('574','jnjtech.blogspot.com/2014/06/iso','高ISO真的好用嗎?');
 jnjRef('578','jnjtech.blogspot.com/2011/09/blog-post','最好買能防水的相機');
 jnjRef('579','jnjtech.blogspot.com/2011/12/sony-dsc-hx100v','DSC-HX100V 開箱試拍');
 jnjRef('29343691','jnjtech.blogspot.com/2015/09/ice','全景畫自動拼接（ICE）');
 jnjRef('624','jnjtech.blogspot.com/2025/01/2025','錄影帶的「2025年大限」');
+jnjRef('183261790','jnjtech.blogspot.com/2025/08/note-14-5g','紅米 Note 14 5G');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('71209472','jnjtech.blogspot.com/2016/10/htc-re','HTC RE限量恐龍蛋組合');
 jnjRef('91259929','jnjtech.blogspot.com/2017/03/htc-re','HTC RE的美麗與哀愁');
