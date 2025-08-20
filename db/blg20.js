@@ -8,7 +8,7 @@ switch(docID)
 	case "9204588292960959720": 	reg="tws";	uss="98922";	udn="2008.2.29";	break;
 	case "514188323030031320": 	reg="hotel_euam";	break;
 	case "6425438931143494820": 	reg="tech";	break;
-	case "7696552502128717020": 	reg="elaine";	break;
+	case "7696552502128717020" :	reg="elaine1";	break;
 	case "4438734873211827220": 	reg="lhr";	uss="470879";	break;
 	case "4540782886061172120": 	reg="nagoya";	uss="289345";	break;
 	case "3284165450623013520": 	reg="mv";	break;

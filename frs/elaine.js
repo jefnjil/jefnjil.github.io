@@ -38,4 +38,5 @@ jnjRef('329115','jnjhome.blogspot.com/2006/06/elaine','幼稚園畢業');
 jnjRef('154094','jnjhome.blogspot.com/2006/01/blog-post_57','上大學…');
 jnjRef('318737','jnjhome.blogspot.com/2006/06/blog-post_19','毛毛蟲跳舞');
 jnjRef('111664814','jnjhome.blogspot.com/2018/04/blog-post','二階面試陪考記');
+jnjRef('183149406','jnjhome.blogspot.com/2025/08/george','慶碩士畢業');
 jnjRefList += '</ul></p></td></tr></table>';
