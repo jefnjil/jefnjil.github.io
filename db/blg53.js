@@ -22,4 +22,5 @@ switch(docID)
 	case "1363790443517237653" :	reg="collect2";	break;
 	case "2057439848538932153" :	reg="polemics";	break;
 	case "4368496136747611553" :	reg="history2";	break;
+	case "3703273128975218053" :	reg="snack4";	break;
 }
