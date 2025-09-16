@@ -14,4 +14,5 @@ switch(docID)
 	case "510245100749913236" :	reg="collect1";	break;
 	case "2886947836307599136" :	reg="collect";	break;
 	case "7904748146723864436" :	reg="trump";	break;
+	case "6275995628077431336" :	reg="family";	break;
 }
