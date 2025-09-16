@@ -31,4 +31,5 @@ switch(docID)
 	case "6475979366424206710" :	reg="sf5";	break;
 	case "5819869751261857310" :	reg="crime5";	break;
 	case "1813710475617797810" :	reg="mv4";	break;
+	case "6512929546131202410" :	reg="sf5";	break;
 }

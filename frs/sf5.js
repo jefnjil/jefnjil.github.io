@@ -8,6 +8,7 @@ jnjRef('110','jnjmvtv.blogspot.com/2023/07/blog-post','鑽油平台危機');
 jnjRef('180996852','jnjmvtv.blogspot.com/2024/09/blog-post','侍者');
 jnjRef('645','jnjmvtv.blogspot.com/2025/05/4','愛死機4');
 jnjRef('182553372','jnjmvtv.blogspot.com/2025/05/2','安道爾2');
+jnjRef('183525082','jnjfoundation.blogspot.com/2025/09/foundation','基地（Foundation）三');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('103','jnjmvtv.blogspot.com/2021/12/ii','駭客任務復活');
 jnjRef('180482924','jnjmvtv.blogspot.com/2024/04/vs-netflix-3-body-problem','三体 vs. 3 Body Problem');
