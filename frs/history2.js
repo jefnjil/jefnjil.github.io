@@ -21,4 +21,5 @@ jnjRef('180605463','jnjmvtv.blogspot.com/2024/02/deep-end','拿破崙');
 jnjRef('180721381','jnjmvtv.blogspot.com/2024/06/limbo-high-ground','「地獄邊緣」的「高地」');
 jnjRef('180768713','jnjmvtv.blogspot.com/2024/07/blog-post','由「首（くび）」到「清須会議」 ');
 jnjRef('180979237','jnjmvtv.blogspot.com/2024/09/those-about-to-die','將死之人 ─ 帝國、黑幫與鬥獸場海戰');
+jnjRef('183591114','jnjmvtv.blogspot.com/2025/09/chief-of-war','戰酋  ─ 夏威夷統一前傳');
 jnjRefList += '</ul></p></td></tr></table>';

@@ -26,4 +26,5 @@ switch(docID)
 	case "7699708265588018709" :	reg="uk1";	break;
 	case "8073074958389142509" :	reg="collect2";	break;
 	case "1299933606332291309" :	reg="economic";	break;
+	case "3342163241185904009" :	reg="history2";	break;
 }
