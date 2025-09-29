@@ -4,6 +4,7 @@ jnjRef('7343964','jnjhome.blogspot.com/2013/02/blog-post_27','所謂耐聽');
 jnjRef('7343971','jnjhome.blogspot.com/2013/02/blog-post','掛斷的體貼');
 jnjRef('605','jnjhome.blogspot.com/2009/11/blog-post','貧者因書而貧');
 jnjRef('637','jnjblogbiz.blogspot.com/2024/07/ffff-11111','FFFF 11111');
+jnjRef('657','jnjblogbiz.blogspot.com/2025/09/blog-post','短與軟');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('13084473','jnjmvtv.blogspot.com/2014/05/black-mirror-15-million-merits','人力發電隨想');
 jnjRef('612','jnjhome.blogspot.com/2006/08/blog-post_31','泳褲忘在更衣室');
