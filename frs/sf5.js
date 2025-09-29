@@ -15,4 +15,5 @@ jnjRef('180482924','jnjmvtv.blogspot.com/2024/04/vs-netflix-3-body-problem','三
 jnjRef('180699784','jnjmvtv.blogspot.com/2024/06/blog-post','哥吉拉與金剛：新帝國');
 jnjRef('180823272','jnjmvtv.blogspot.com/2024/07/in-time','鐘點戰 ─ 科幻版「占領華爾街」');
 jnjRef('632','jnjmvtv.blogspot.com/2024/12/blog-post_15','異形：羅穆路斯');
+jnjRef('183681280','jnjmvtv.blogspot.com/2025/09/black-rabbit-alien-earth','異形地球');
 jnjRefList += '</ul></p></td></tr></table>';

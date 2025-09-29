@@ -4,6 +4,7 @@ jnjRef('177124463','jnjmvtv.blogspot.com/2022/09/black-bird','黑鳥（Black Bir
 jnjRef('628','jnjmvtv.blogspot.com/2024/09/blog-post_20','長腿');
 jnjRef('633','jnjmvtv.blogspot.com/2025/01/blog-post','假人殺魔');
 jnjRef('650','jnjmvtv.blogspot.com/2025/06/2','異教峰');
+jnjRef('183681280','jnjmvtv.blogspot.com/2025/09/black-rabbit-alien-earth','黑兔');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('125041796','jnjmvtv.blogspot.com/2019/03/true-detective','無間警探（真探）');
 jnjRef('147930588','jnjmvtv.blogspot.com/2020/08/blog-post','誰是被害者');
