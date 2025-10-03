@@ -8,4 +8,5 @@ switch(docID)
 	case "3808377": 	reg="hokkaido";	uss="239758";	break;
 	case "423077": 	reg="crm";	uss="19073";	udn="2006.11.10";	break;
 	case "4430777": 	reg="crime";	break;
+	case "183724377" :	reg="trump";	break;
 }
