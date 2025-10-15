@@ -5,6 +5,7 @@ jnjRef('692930','jnjhome.blogspot.com/2007/01/blog-post','銅瓜');
 jnjRef('2241898','jnjtalks.blogspot.com/2008/09/blog-post','治牙蟲');
 jnjRef('1162100','jnjhome.blogspot.com/2007/08/blog-post','禍從天降');
 jnjRef('608','jnjhome.blogspot.com/2008/06/blog-post_14','日本債券');
+jnjRef('659','jnjhome.blogspot.com/2025/09/blog-post_27','跑步追火車');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('3347550','jnjhome.blogspot.com/2009/09/blog-post','搬家蛻一層皮');
 jnjRef('6695260','jnjtalks.blogspot.com/2012/08/blog-post','都是奧運惹的禍');
