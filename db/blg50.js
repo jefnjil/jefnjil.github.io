@@ -19,4 +19,5 @@ switch(docID)
 	case "1600367672297154050" :	reg="mothertongue";	break;
 	case "2894508438247649850" :	reg="music2";	break;
 	case "5341038033871971750" :	reg="trump";	break;
+	case "1296036258016660550" :	reg="trump";	break;
 }
