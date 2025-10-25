@@ -14,6 +14,7 @@ jnjRef('149','jnjtalks.blogspot.com/2022/01/blog-post','台灣員工忠誠度不
 jnjRef('140','jnjtalks.blogspot.com/2024/01/blog-post_18','柯文哲否認民調作假');
 jnjRef('158','jnjtalks.blogspot.com/2020/12/blog-post_68','疫情初起第一年');
 jnjRef('620','jnjtalks.blogspot.com/2024/04/blog-post','文化部長洗滌人心');
+jnjRef('660','jnjtalks.blogspot.com/2025/10/cos','新北老街入寒冬');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('141','jnjtalks.blogspot.com/2023/07/blog-post_12','教授要求把活金魚打成汁');
 jnjRef('143','jnjtalks.blogspot.com/2020/12/blog-post_31','振興三倍券和那堆花花券');

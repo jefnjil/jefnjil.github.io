@@ -20,4 +20,5 @@ jnjRef('177373760','jnjtalks.blogspot.com/2022/11/blog-post','莫以為梨泰院
 jnjRef('102642578','jnjtalks.blogspot.com/2017/06/blog-post','考生家長看「爾虞我詐的升學制度」');
 jnjRef('183092202','jnjtech.blogspot.com/2025/07/blog-post','黃仁勳：軟體工程師無法再混');
 jnjRef('656','jnjtalks.blogspot.com/2025/09/blog-post','金音玻璃丸‧不領取一萬');
+jnjRef('660','jnjtalks.blogspot.com/2025/10/cos','日女Cos「庫巴姬」惹議');
 jnjRefList += '</ul></p></td></tr></table>';
