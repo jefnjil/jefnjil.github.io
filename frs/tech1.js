@@ -22,4 +22,5 @@ jnjRef('175572342','jnjtech.blogspot.com/2022/07/imovie-ken-burns','iMovie 剪�
 jnjRef('180250389','jnjtech.blogspot.com/2024/01/c-webview2-webbrowser','C# 以 WebView2 代替 WebBrowser 的簡單筆記');
 jnjRef('576','jnjtech.blogspot.com/2013/10/blog-post','舊版影像編輯軟體不會自動轉正的問題');
 jnjRef('181139848','jnjtech.blogspot.com/2024/10/jdownloader-2-captchasolver','JDownloader 2 驗證碼解算器 CaptchaSolver');
+jnjRef('661','jnjtech.blogspot.com/2025/10/iphone','iPhone「天線門」竟因「程式碼」失誤 ');
 jnjRefList += '</ul></p></td></tr></table>';
