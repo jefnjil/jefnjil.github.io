@@ -23,4 +23,5 @@ switch(docID)
 	case "1525061594765394352" :	reg="collect";	break;
 	case "5158826356203817252" :	reg="worldnews";	break;
 	case "4798862209339882752" :	reg="polemics";	break;
+	case "214117101123498952" :	reg="tech1";	break;
 }

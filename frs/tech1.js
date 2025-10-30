@@ -14,6 +14,7 @@ jnjRef('1694840','jnjtech.blogspot.com/2008/03/blog-post','如何搶救毀損的
 jnjRef('153','jnjtech.blogspot.com/2013/07/blog-post_24','密碼破解的暴力法和字典法');
 jnjRef('152','jnjtech.blogspot.com/2016/01/udn-blog-blogger_14','UDN複製到Blogger的小撇步');
 jnjRef('181732568','jnjtech.blogspot.com/2025/02/blog-post','「真的是儲存按鈕！」');
+jnjRef('662','jnjtalks.blogspot.com/2025/10/ai','AI假醫師，害了真性命');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('168078590','jnjtech.blogspot.com/2021/09/ok-ktv','現成設備拼湊卡啦OK歡唱環境');
 jnjRef('581','jnjtech.blogspot.com/2007/08/swiss-debby-adsense','關於 AdSense 及圖片靠左靠右語法');
