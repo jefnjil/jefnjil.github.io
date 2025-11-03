@@ -10,4 +10,5 @@ switch(docID)
 	case "622381": 	reg="sf";	ctb="2007.6.20";	break;
 	case "180243881" :	reg="tpe4";	break;
 	case "180721381" :	reg="history2";	break;
+	case "184049381" :	reg="hotel_twe";	break;
 }
