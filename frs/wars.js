@@ -3,6 +3,7 @@ jnjRef('100','jnjmvtv.blogspot.com/2021/12/blog-post','明日戰爭');
 jnjRef('7036905','jnjmvtv.blogspot.com/2012/11/1453-fetih-1453','征服1453');
 jnjRef('131614153','jnjmvtv.blogspot.com/2020/01/midway','決戰中途島');
 jnjRef('120','jnjmvtv.blogspot.com/2022/12/seal-team','海豹突擊隊');
+jnjRef('184094288','jnjmvtv.blogspot.com/2025/11/a-house-of-dynamite','炸藥屋');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('7512892','jnjmvtv.blogspot.com/2013/04/blog-post','克拉蘇的末日');
 jnjRef('7627513','jnjmvtv.blogspot.com/2013/05/gettysburg','蓋茨堡戰役');
