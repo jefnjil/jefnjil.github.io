@@ -4,6 +4,7 @@ jnjRef('159','jnjtalks.blogspot.com/2020/12/blog-post_30','川普2020');
 jnjRef('69394538','jnjmvtv.blogspot.com/2016/09/sicario','怒火邊界');
 jnjRef('166281852','jnjmvtv.blogspot.com/2021/08/plot-against-america','美國外史');
 jnjRef('114040611','jnjmvtv.blogspot.com/2018/08/the-handmaids-tale','侍女的故事');
+jnjRef('663','jnjtalks.blogspot.com/2025/11/blog-post','聖人還是罪人？');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('536','jnjtalks.blogspot.com/2006/11/blog-post_33','美國參政吐血記');
 jnjRef('110253050','jnjmvtv.blogspot.com/2018/02/tyrant','暴君 ─ 邁向獨裁之路');
