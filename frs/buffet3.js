@@ -1,0 +1,17 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('179930823','jnjdining.blogspot.com/2023/10/blog-post','饗食天堂收盤機器人');
+jnjRef('178558537','jnjdining.blogspot.com/2023/03/blog-post','旭集和食集錦');
+jnjRef('179205518','jnjdining.blogspot.com/2023/05/blog-post_18','萬國美食百匯');
+jnjRef('182275857','jnjdining.blogspot.com/2025/04/palette','美福彩匯 palette 自助餐');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('178672042','jnjdining.blogspot.com/2023/03/blog-post_23','晶華栢麗廳午餐');
+jnjRef('154665345','jnjdining.blogspot.com/2020/12/mola-mola','花蓮煙波慕拉MOLA');
+jnjRef('177224914','jnjdining.blogspot.com/2022/09/blog-post_30','莫內西餐廳早餐');
+jnjRef('184144815','jnjdining.blogspot.com/2025/11/blog-post','煙波蘇澳 黑饌之巔');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('174972704','jnjdining.blogspot.com/2022/06/blog-post','漢來海港天母店午餐');
+jnjRef('180812048','jnjdining.blogspot.com/2024/07/2024','漢來海港敦化店午餐');
+jnjRef('181011943','jnjdining.blogspot.com/2024/09/46','饗饗46樓高空雨景');
+jnjRef('181950913','jnjdining.blogspot.com/2025/03/inparadise','饗饗 INPARADISE 新莊店');
+jnjRef('182925088','jnjdining.blogspot.com/2025/07/blog-post_07','饗饗新莊、環狀線');
+jnjRefList += '</ul></p></td></tr></table>';

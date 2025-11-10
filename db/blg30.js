@@ -19,4 +19,5 @@ switch(docID)
 	case "5526821077207169030" :	reg="taoyuan";	uss="635464";	break;
 	case "7938254187445390330" :	reg="elaine1";	break;
 	case "8685261438789386730" :	reg="buffet2";	break;
+	case "2268935493230613630" :	reg="buffet3";	break;
 }
