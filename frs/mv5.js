@@ -14,4 +14,5 @@ jnjRef('180677185','jnjmvtv.blogspot.com/2024/06/civil-war','帝國浩劫：美�
 jnjRef('122','jnjmvtv.blogspot.com/2022/12/tinder','村裡來了個暴走女外科');
 jnjRef('180421090','jnjmvtv.blogspot.com/2024/03/vital','死亡解剖 (ヴィタール, Vital)');
 jnjRef('629','jnjmvtv.blogspot.com/2024/12/blog-post','在大雪封閉的山莊裡');
+jnjRef('667','jnjmvtv.blogspot.com/2025/10/2','外傷重症中心');
 jnjRefList += '</ul></p></td></tr></table>';

@@ -6,6 +6,7 @@ jnjRef('106','jnjmvtv.blogspot.com/2023/06/blog-post','無名弒');
 jnjRef('120','jnjmvtv.blogspot.com/2022/12/seal-team','海豹突擊隊');
 jnjRef('131','jnjmvtv.blogspot.com/2023/12/blog-post_31','聖人營救');
 jnjRef('635','jnjmvtv.blogspot.com/2025/02/blog-post_1','亡命再劫');
+jnjRef('666','jnjmvtv.blogspot.com/2025/10/33','今際之國3');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('107','jnjmvtv.blogspot.com/2023/07/assassin-club4','Assassin Club');
 jnjRef('6815820','jnjmvtv.blogspot.com/2012/09/jack-bauer','反恐英雄傑克鮑爾');
