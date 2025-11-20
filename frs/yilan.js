@@ -15,4 +15,5 @@ jnjRef('7126020','jnjfoorprint.blogspot.com/2012/12/blog-post_35','金車城堡�
 jnjRef('184049381','jnjfoorprint.blogspot.com/2025/11/blog-post','煙波蘇澳四季雙泉館');
 jnjRef('183961544','jnjfoorprint.blogspot.com/2025/10/blog-post','東澳粉鳥林秘境');
 jnjRef('184186522','jnjfoorprint.blogspot.com/2025/11/blog-post_13','烏石鼻、南方澳觀景臺');
+jnjRef('184268642','jnjfoorprint.blogspot.com/2025/11/blog-post_94','豆腐岬、南方澳阿芬鮮魚湯');
 jnjRefList += '</ul></p></td></tr></table>';
