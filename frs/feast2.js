@@ -10,6 +10,7 @@ jnjRef('180210742','jnjdining.blogspot.com/2024/01/blog-post','彭園會館小�
 jnjRef('178897360','jnjdining.blogspot.com/2023/04/blog-post','三義美食‧吉祥樓餐廳');
 jnjRef('179821121','jnjdining.blogspot.com/2023/09/blog-post','頤宮中餐廳 (三星米其林)');
 jnjRef('181714249','jnjdining.blogspot.com/2025/01/blog-post','年終大小尾牙');
+jnjRef('184301199','jnjdining.blogspot.com/2025/11/blog-post_24','桐花客家料理');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('156661015','jnjdining.blogspot.com/2021/02/blog-post_22','君品酒店「亮」廳');
 jnjRef('178454300','jnjdining.blogspot.com/2023/02/blog-post','豪鼎中興時尚婚宴會館');

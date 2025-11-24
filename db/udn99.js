@@ -16,4 +16,5 @@ switch(docID)
 	case "99866999": 	reg="us16";	uss="568925";	break;
 	case "176902899" :	reg="sf1a";	break;
 	case "180349099" :	reg="western";	break;
+	case "184301199" :	reg="feast2";	break;
 }
