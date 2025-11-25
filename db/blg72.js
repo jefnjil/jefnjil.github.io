@@ -23,4 +23,5 @@ switch(docID)
 	case "6930847022624072272" :	reg="campus";	break;
 	case "2980439587375966872" :	reg="identity";	break;
 	case "8916526360873814572" :	reg="snack2";	break;
+	case "886490390107543672" :	reg="tech2";	break;
 }
