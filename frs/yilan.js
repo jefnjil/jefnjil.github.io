@@ -3,6 +3,7 @@ jnjRef('11104582','jnjfoorprint.blogspot.com/2014/02/blog-post_12','幾米公園
 jnjRef('7126015','jnjfoorprint.blogspot.com/2012/12/blog-post_64','蘭陽博物館');
 jnjRef('7126033','jnjfoorprint.blogspot.com/2012/12/blog-post_9','福山植物園');
 jnjRef('65528952','jnjfoorprint.blogspot.com/2016/10/blog-post_1','明池森林遊樂區');
+jnjRef('184268642','jnjfoorprint.blogspot.com/2025/11/blog-post_94','豆腐岬');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('7126026','jnjfoorprint.blogspot.com/2012/12/blog-post_91','礁溪老爺大酒店');
 jnjRef('20843394','jnjfoorprint.blogspot.com/2015/02/blog-post_10','礁溪溫泉公園');
@@ -15,5 +16,4 @@ jnjRef('7126020','jnjfoorprint.blogspot.com/2012/12/blog-post_35','金車城堡�
 jnjRef('184049381','jnjfoorprint.blogspot.com/2025/11/blog-post','煙波蘇澳四季雙泉館');
 jnjRef('183961544','jnjfoorprint.blogspot.com/2025/10/blog-post','東澳粉鳥林秘境');
 jnjRef('184186522','jnjfoorprint.blogspot.com/2025/11/blog-post_13','烏石鼻、南方澳觀景臺');
-jnjRef('184268642','jnjfoorprint.blogspot.com/2025/11/blog-post_94','豆腐岬、南方澳阿芬鮮魚湯');
 jnjRefList += '</ul></p></td></tr></table>';
