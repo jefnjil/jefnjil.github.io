@@ -16,4 +16,5 @@ jnjRef('7126020','jnjfoorprint.blogspot.com/2012/12/blog-post_35','金車城堡�
 jnjRef('184049381','jnjfoorprint.blogspot.com/2025/11/blog-post','煙波蘇澳四季雙泉館');
 jnjRef('183961544','jnjfoorprint.blogspot.com/2025/10/blog-post','東澳粉鳥林秘境');
 jnjRef('184186522','jnjfoorprint.blogspot.com/2025/11/blog-post_13','烏石鼻、南方澳觀景臺');
+jnjRef('184389055','jnjfoorprint.blogspot.com/2025/12/blog-post','冬山車站 ─ 月亮什麼冬冬');
 jnjRefList += '</ul></p></td></tr></table>';
