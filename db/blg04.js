@@ -25,5 +25,5 @@ switch(docID)
 	case "4088042362453070704" :	reg="history2";	break;
 	case "7715091408255876604" :	reg="nantou1";	break;
 	case "6051783424556455004" :	reg="tech1";	break;
-	case "7391853761926448404" :	reg="yilan";	break;
+	case "7391853761926448404" :	reg="yilan";	udn="2025.12.8";	break;
 }
