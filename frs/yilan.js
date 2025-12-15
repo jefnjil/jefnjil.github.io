@@ -10,6 +10,7 @@ jnjRef('20843394','jnjfoorprint.blogspot.com/2015/02/blog-post_10','礁溪溫泉
 jnjRef('112403764','jnjfoorprint.blogspot.com/2018/06/blog-post_14','礁溪‧湯圍溝');
 jnjRef('11641563','jnjfoorprint.blogspot.com/2014/03/blog-post_10','長榮鳳凰住宿泡湯');
 jnjRef('20843433','jnjfoorprint.blogspot.com/2015/02/blog-post_95','長榮鳳凰一泊二食');
+jnjRef('184582199','jnjfoorprint.blogspot.com/2025/12/blog-post_15','奇麗灣珍奶文化館');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('21001775','jnjfoorprint.blogspot.com/2015/02/blog-post_19','鐵馬追風，大塭賞鳥');
 jnjRef('7126020','jnjfoorprint.blogspot.com/2012/12/blog-post_35','金車城堡、海景咖啡館');

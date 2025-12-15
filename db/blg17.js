@@ -29,4 +29,5 @@ switch(docID)
 	case "1064120790083045717" :	reg="politics1";	break;
 	case "3543242823304991817" :	reg="japfood1";	break;
 	case "1172295546372628217" :	reg="comment2";	break;
+	case "1801072943185075117" :	reg="yilan";	break;
 }
