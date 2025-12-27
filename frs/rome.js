@@ -6,6 +6,7 @@ jnjRef('6072901','jnjmvtv.blogspot.com/2012/01/spartacus-vengeance','第二季 �
 jnjRef('7259606','jnjmvtv.blogspot.com/2013/01/spartacus-war-of-damned','第三季 天譴戰爭');
 jnjRef('5212291','jnjfoorprint.blogspot.com/2011/05/colosseo','戰士浴血鬥獸場');
 jnjRef('4939365','jnjfoorprint.blogspot.com/2011/03/arena-di-verona','碧血黃沙競技場');
+jnjRef('184796655','jnjmvtv.blogspot.com/2025/12/spartacus-house-of-ashur','阿舒爾家族');
 jnjRefList += '</ul></p></td><td valign=top><p><ul><b>羅馬</b>';
 jnjRef('7512892','jnjmvtv.blogspot.com/2013/04/blog-post','克拉蘇的末日');
 jnjRef('6325660','jnjmvtv.blogspot.com/2012/04/rome-after-spartacus','斯巴達克斯後<br>的羅馬');
