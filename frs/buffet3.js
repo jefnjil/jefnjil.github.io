@@ -12,6 +12,7 @@ jnjRef('184232177','jnjdining.blogspot.com/2025/11/blog-post_17','煙波蘇澳 �
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('174972704','jnjdining.blogspot.com/2022/06/blog-post','漢來海港天母店午餐');
 jnjRef('180812048','jnjdining.blogspot.com/2024/07/2024','漢來海港敦化店午餐');
+jnjRef('184880811','jnjdining.blogspot.com/2025/12/blog-post','漢來海港敦化店臨別吃一波');
 jnjRef('181011943','jnjdining.blogspot.com/2024/09/46','饗饗46樓高空雨景');
 jnjRef('181950913','jnjdining.blogspot.com/2025/03/inparadise','饗饗 INPARADISE 新莊店');
 jnjRef('182925088','jnjdining.blogspot.com/2025/07/blog-post_07','饗饗新莊、環狀線');
