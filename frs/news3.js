@@ -20,5 +20,6 @@ jnjRef('177373760','jnjtalks.blogspot.com/2022/11/blog-post','莫以為梨泰院
 jnjRef('183092202','jnjtech.blogspot.com/2025/07/blog-post','黃仁勳：軟體工程師無法再混');
 jnjRef('656','jnjtalks.blogspot.com/2025/09/blog-post','金音玻璃丸‧不領取一萬');
 jnjRef('660','jnjtalks.blogspot.com/2025/10/cos','日女Cos「庫巴姬」惹議');
-jnjRef('669','jnjtalks.blogspot.com/2025/11/500','【新聞】台大雞排事件500人撲空');
+jnjRef('669','jnjtalks.blogspot.com/2025/11/500','台大雞排事件500人撲空');
+jnjRef('670','jnjtalks.blogspot.com/2025/12/blog-post','京都也拾獲台大學生證');
 jnjRefList += '</ul></p></td></tr></table>';

@@ -17,4 +17,5 @@ switch(docID)
 	case "3929274769584734867" :	reg="nantou1";	break;
 	case "5478272395757399867" :	reg="3C1";	break;
 	case "2236977917339621967" :	reg="thriller4";	break;
+	case "992548649118434467" :	reg="news3";	break;
 }
