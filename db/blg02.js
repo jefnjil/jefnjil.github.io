@@ -20,4 +20,5 @@ switch(docID)
 	case "7113945672360146602" :	reg="mv4";	break;
 	case "1306719962904456802" :	reg="smalltalk";	break;
 	case "7672076391815652002" :	reg="yilan";	break;
+	case "1790308289914719702" :	reg="snack4";	break;
 }

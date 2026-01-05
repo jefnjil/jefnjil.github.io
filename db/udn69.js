@@ -16,4 +16,5 @@ switch(docID)
 	case "974469": 	reg="abian";	break;
 	case "179628969" :	reg="snack11";	udn="2023.8.12";	break;
 	case "180090369" :	reg="ntc2";	break;
+	case "184961469" :	reg="snack4";	break;
 }
