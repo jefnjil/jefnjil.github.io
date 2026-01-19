@@ -15,5 +15,5 @@ jnjRef('178401113','jnjblogbiz.blogspot.com/2023/02/1600','點閱人氣四千萬
 jnjRef('180208462','jnjhome.blogspot.com/2024/01/blog-post','花博公園閒逛──新年快樂兼聊聊近況');
 jnjRef('182925115','jnjblogbiz.blogspot.com/2025/06/blog-post','臉書所謂「成人裸露和性行為」');
 jnjRef('183032186','jnjmvtv.blogspot.com/2025/05/4','愛死機4、深空永航 ─ 慶點閱破八百萬');
-jnjRef('184545954','jnjblogbiz.blogspot.com/2025/12/blog-post','澳洲社群媒體禁令上路，我是不是被風颱尾掃到？');
+jnjRef('184545954','jnjblogbiz.blogspot.com/2025/12/blog-post','我是不是被風颱尾掃到？');
 jnjRefList += '</ul></p></td></tr></table>';

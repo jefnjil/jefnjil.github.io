@@ -28,4 +28,5 @@ switch(docID)
 	case "2089170318345018784" :	reg="horror";	break;
 	case "5342939230170658784" :	reg="taoyuan";	break;
 	case "5781826615276135784" :	reg="3C1";	break;
+	case "7032255316482033484" :	reg="news3";	break;
 }
