@@ -10,6 +10,7 @@ jnjRef('15868637','jnjmvtv.blogspot.com/2014/08/in-flesh','復生 In the Flesh')
 jnjRef('131391167','jnjmvtv.blogspot.com/2019/12/see','末日光明（See）');
 jnjRef('102','jnjmvtv.blogspot.com/2021/12/2','太陽召喚');
 jnjRef('123','jnjmvtv.blogspot.com/2022/12/11','媽的多重宇宙');
+jnjRef('672','jnjmvtv.blogspot.com/2026/01/5','怪奇物語5');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('152043687','jnjmvtv.blogspot.com/2020/10/the-old-guardlovecraft-country','不死軍團、逃出絕命村');
 jnjRef('177955072','jnjliterature.blogspot.com/2022/12/wednesday-paint-it-black','Wednesday 的 Paint It Black');

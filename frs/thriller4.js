@@ -15,4 +15,5 @@ jnjRef('182011711','jnjmvtv.blogspot.com/2025/03/paradise','極樂凶間 Paradis
 jnjRef('643','jnjmvtv.blogspot.com/2025/05/gannibal','噬亡村 (Gannibal)');
 jnjRef('182974446','jnjmvtv.blogspot.com/2025/07/blog-post','復仇反擊戰');
 jnjRef('665','jnjmvtv.blogspot.com/2025/11/5310','10號艙房的女人');
+jnjRef('672','jnjmvtv.blogspot.com/2026/01/5','別相信任何人');
 jnjRefList += '</ul></p></td></tr></table>';

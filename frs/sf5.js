@@ -4,6 +4,7 @@ jnjRef('588','jnjmvtv.blogspot.com/2019/05/3','異星空間');
 jnjRef('630','jnjmvtv.blogspot.com/2024/12/blog-post_8','照明商店');
 jnjRef('182543036','jnjmvtv.blogspot.com/2025/05/blog-post_29','禁谷');
 jnjRef('667','jnjmvtv.blogspot.com/2025/10/2','人生切割術2');
+jnjRef('672','jnjmvtv.blogspot.com/2026/01/5','巨洪');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('110','jnjmvtv.blogspot.com/2023/07/blog-post','鑽油平台危機');
 jnjRef('180996852','jnjmvtv.blogspot.com/2024/09/blog-post','侍者');
