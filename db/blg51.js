@@ -24,4 +24,5 @@ switch(docID)
 	case "7010350302850892151" :	reg="short_comments";	break;
 	case "7230721779226311451" :	reg="3C1";	break;
 	case "5700995251055206951" :	reg="hualien1";	break;
+	case "268254663913797851" :	reg="ntc2";	break;
 }

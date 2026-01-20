@@ -16,7 +16,6 @@ jnjRef('149555491','jnjfoorprint.blogspot.com/2020/08/blog-post_27','淡水紅�
 jnjRef('149555876','jnjfoorprint.blogspot.com/2020/09/blog-post_7','淡水小白宮');
 jnjRef('180343148','jnjfoorprint.blogspot.com/2024/02/blog-post','淡水天元宮後山櫻花園區');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
-jnjRef('127003300','jnjfoorprint.blogspot.com/2019/05/blog-post_30','雲門劇場、星巴克');
 jnjRef('132831609','jnjfoorprint.blogspot.com/2020/04/blog-post_27','三峽白雞行修宮');
 jnjRef('162289551','jnjfoorprint.blogspot.com/2021/05/blog-post','行修宮後山步道');
 jnjRef('180421057','jnjfoorprint.blogspot.com/2024/03/2024','三峽行修宮 2024');
@@ -25,4 +24,5 @@ jnjRef('132897688','jnjfoorprint.blogspot.com/2020/04/blog-post_30','三鶯之�
 jnjRef('156480408','jnjfoorprint.blogspot.com/2021/02/blog-post_18','石碇‧鱷魚島觀景平台');
 jnjRef('179017419','jnjfoorprint.blogspot.com/2023/04/blog-post_24','滿月圓森林遊樂區');
 jnjRef('180162238','jnjfoorprint.blogspot.com/2023/12/blog-post','福隆舊草嶺隧道鐵馬遊');
+jnjRef('185608047','jnjfoorprint.blogspot.com/2026/01/blog-post','坪林茶葉博物館、深坑老街');
 jnjRefList += '</ul></p></td></tr></table>';
