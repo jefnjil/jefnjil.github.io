@@ -1,0 +1,17 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('182463380','jnjdining.blogspot.com/2025/05/blog-post_12','四海一家小聚');
+jnjRef('183437954','jnjdining.blogspot.com/2025/09/blog-post_08','雞湯大叔');
+jnjRef('184268642','jnjfoorprint.blogspot.com/2025/11/blog-post_94','阿芬鮮魚湯');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('182360326','jnjdining.blogspot.com/2025/05/blog-post','嘉義文化雞肉飯');
+jnjRef('183003895','jnjdining.blogspot.com/2025/07/elaine','悅上海、Elaine 生日');
+jnjRef('184961469','jnjdining.blogspot.com/2026/01/blog-post','四海一家慶雙十');
+jnjRef('673','jnjdining.blogspot.com/2025/10/blog-post','誠品南西‧美食街');
+jnjRef('185794753','jnjdining.blogspot.com/2026/01/blog-post_27','朱記餡餅台大醫院店');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('182158779','jnjdining.blogspot.com/2025/04/blog-post','世界豆漿大王永和本店');
+jnjRef('181529718','jnjdining.blogspot.com/2024/12/blog-post','福華香蘭葉蛋糕、蘋果酥捲');
+jnjRef('181882001','jnjdining.blogspot.com/2025/02/blog-post','蘇杭小館（台大校友會館）');
+jnjRef('182864159','jnjdining.blogspot.com/2025/07/blog-post','新城老街、半天紅麻辣館');
+jnjRef('183367452','jnjdining.blogspot.com/2025/09/blog-post','石研室爆炒石頭火鍋');
+jnjRefList += '</ul></p></td></tr></table>';

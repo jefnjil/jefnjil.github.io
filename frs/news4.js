@@ -1,0 +1,18 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('642','jnjtalks.blogspot.com/2025/05/blog-post_14','一把糖狠招震懾');
+jnjRef('660','jnjtalks.blogspot.com/2025/10/cos','日女Cos「庫巴姬」惹議');
+jnjRef('649','jnjtalks.blogspot.com/2025/05/blog-post_27','陸配直播妨害秘密');
+jnjRef('671','jnjtalks.blogspot.com/2026/01/blog-post','沈政男臉書突遭刪號');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('140','jnjtalks.blogspot.com/2024/01/blog-post_18','柯文哲否認民調作假');
+jnjRef('627','jnjtalks.blogspot.com/2025/02/blog-post','DeepSeek 洩漏國家機密');
+jnjRef('144','jnjtalks.blogspot.com/2020/10/blog-post','人氣店用餐不想等…使出這招');
+jnjRef('143','jnjtalks.blogspot.com/2020/12/blog-post_31','振興三倍券和那堆花花券');
+jnjRef('149','jnjtalks.blogspot.com/2022/01/blog-post','台灣員工忠誠度不如日本');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('177373760','jnjtalks.blogspot.com/2022/11/blog-post','莫以為梨泰院事故不會發生在台灣');
+jnjRef('183092202','jnjtech.blogspot.com/2025/07/blog-post','黃仁勳：軟體工程師無法再混');
+jnjRef('669','jnjtalks.blogspot.com/2025/11/500','台大雞排事件500人撲空');
+jnjRef('670','jnjtalks.blogspot.com/2025/12/blog-post','京都也拾獲台大學生證');
+jnjRef('674','jnjtalks.blogspot.com/2026/01/blog-post_26','【新聞】北海道早餐店播台灣電視台被出征');
+jnjRefList += '</ul></p></td></tr></table>';
