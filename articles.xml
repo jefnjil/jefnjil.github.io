@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Articles PseudoUID="675">
+<Articles PseudoUID="676">
   <Article id="100" Title="惡夜性追緝、尬電殺手、生死交戰、明日戰爭、迴路追殺令、綠騎士" bURL="jnjmvtv.blogspot.com/2021/12/blog-post.html" woman="" bID="1761265318904937491" reg="action2" />
   <Article id="101" Title="黑羅蘋、Clarice、勿下錯招、青年神探維蘭德、破綻" bURL="jnjmvtv.blogspot.com/2021/12/clarice.html" woman="" bID="1998837180476543073" reg="crime3" />
   <Article id="102" Title="黑魔女2、太陽召喚、雅信傳、血色天劫、莉西的人生異旅、惡靈偵探" bURL="jnjmvtv.blogspot.com/2021/12/2.html" woman="" bID="4150961033916267771" reg="fantacy1" />
@@ -550,6 +550,7 @@
   <Article id="672" Title="怪奇物語5、巨洪、別相信任何人" bURL="jnjmvtv.blogspot.com/2026/01/5" woman="" bID="3097007052916425126" reg="fantacy3" />
   <Article id="673" Title="誠品南西‧美食街" bURL="jnjdining.blogspot.com/2025/10/blog-post" woman="" bID="3737949720120160424" reg="snack5" />
   <Article id="674" Title="【新聞】北海道早餐店播台灣電視台被出征" bURL="jnjtalks.blogspot.com/2026/01/blog-post_26" woman="" bID="1181947471434316297" reg="news4" />
+  <Article id="675" Title="【新聞】台64線丟包案 汪怡昕：非過失這是謀殺" bURL="jnjtalks.blogspot.com/2026/01/64" woman="" bID="2614243229684766975" reg="news4" />
   <Article id="152999" bURL="jnjhome.blogspot.com/2006/01/elaine" Title="Elaine的聖誕老公公" reg="elaine" bID="8374307011099297544" />
   <Article id="153006" bURL="jnjfoorprint.blogspot.com/2006/01/blog-post_17" Title="溫尼格機場狂奔" reg="crm" bID="2327424913350910448" udn="2006.2.6" />
   <Article id="153639" bURL="jnjhome.blogspot.com/2006/01/blog-post_76" Title="水蛇與蛋" reg="elaine" bID="4652883769753736804" />
@@ -2396,4 +2397,6 @@
   <Article id="185248301" Title="暴蜂尼亞、當地球停止轉動 ─ 誰是星球禍害" bURL="jnjmvtv.blogspot.com/2026/01/blog-post" woman="" bID="5143779262350196" reg="sf5" />
   <Article id="185608047" Title="坪林茶葉博物館、深坑老街" bURL="jnjfoorprint.blogspot.com/2026/01/blog-post" woman="" bID="268254663913797851" reg="ntc2" />
   <Article id="185794753" Title="朱記餡餅台大醫院店" bURL="jnjdining.blogspot.com/2026/01/blog-post_27" woman="" bID="1583302343675236799" reg="snack5" />
+  <Article id="186117787" Title="第一次要 AI 寫程式" bURL="jnjtech.blogspot.com/2026/02/ai" woman="" bID="835837494158536098" reg="tech2" />
+  <Article id="186244982" Title="雅聞峇里海岸（雲林斗六）" bURL="jnjfoorprint.blogspot.com/2026/02/blog-post" woman="" bID="6585012977923751615" reg="yunlin" />
 </Articles>
