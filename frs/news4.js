@@ -9,10 +9,11 @@ jnjRef('627','jnjtalks.blogspot.com/2025/02/blog-post','DeepSeek 洩漏國家機
 jnjRef('144','jnjtalks.blogspot.com/2020/10/blog-post','人氣店用餐不想等…使出這招');
 jnjRef('143','jnjtalks.blogspot.com/2020/12/blog-post_31','振興三倍券和那堆花花券');
 jnjRef('149','jnjtalks.blogspot.com/2022/01/blog-post','台灣員工忠誠度不如日本');
+jnjRef('675','jnjtalks.blogspot.com/2026/01/64','台64線丟包案非過失');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('177373760','jnjtalks.blogspot.com/2022/11/blog-post','莫以為梨泰院事故不會發生在台灣');
 jnjRef('183092202','jnjtech.blogspot.com/2025/07/blog-post','黃仁勳：軟體工程師無法再混');
 jnjRef('669','jnjtalks.blogspot.com/2025/11/500','台大雞排事件500人撲空');
 jnjRef('670','jnjtalks.blogspot.com/2025/12/blog-post','京都也拾獲台大學生證');
-jnjRef('674','jnjtalks.blogspot.com/2026/01/blog-post_26','【新聞】北海道早餐店播台灣電視台被出征');
+jnjRef('674','jnjtalks.blogspot.com/2026/01/blog-post_26','北海道早餐店播台灣電視台被出征');
 jnjRefList += '</ul></p></td></tr></table>';
