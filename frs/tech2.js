@@ -1,15 +1,16 @@
 jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
-jnjRef('165979567','jnjtech.blogspot.com/2021/07/line','解鎖舊版 Line 聊天室備份');
 jnjRef('180615350','jnjtech.blogspot.com/2024/05/z80-cpu','Z80 CPU 年近半百謝幕');
 jnjRef('181732568','jnjtech.blogspot.com/2025/02/blog-post','「真的是儲存按鈕！」');
 jnjRef('668','jnjtech.blogspot.com/2025/11/blog-post','原始碼讓你掃描？');
+jnjRef('186492345','jnjtech.blogspot.com/2026/02/ai_074532710','AI 偷懶摸魚');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
-jnjRef('575','jnjtech.blogspot.com/2013/11/blog-post_22','由影像擷取裝置取得資料流');
+jnjRef('165979567','jnjtech.blogspot.com/2021/07/line','解鎖舊版 Line 聊天室備份');
 jnjRef('153','jnjtech.blogspot.com/2013/07/blog-post_24','密碼破解的暴力法和字典法');
 jnjRef('181732568','jnjtech.blogspot.com/2025/02/blog-post','憶早年個人電腦儲存裝置');
 jnjRef('662','jnjtalks.blogspot.com/2025/10/ai','AI假醫師，害了真性命');
 jnjRef('186117787','jnjtech.blogspot.com/2026/02/ai','第一次要 AI 寫程式');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('575','jnjtech.blogspot.com/2013/11/blog-post_22','由影像擷取裝置取得資料流');
 jnjRef('180250389','jnjtech.blogspot.com/2024/01/c-webview2-webbrowser','C# 以 WebView2 代替 WebBrowser 的簡單筆記');
 jnjRef('181139848','jnjtech.blogspot.com/2024/10/jdownloader-2-captchasolver','JDownloader 2 驗證碼解算器 CaptchaSolver');
 jnjRef('151','jnjtech.blogspot.com/2022/02/fragmentsgarbage-collection','記憶體空洞與資源回收');
