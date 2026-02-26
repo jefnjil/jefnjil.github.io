@@ -24,4 +24,5 @@ switch(docID)
 	case "2290350781538221421" :	reg="snack3";	break;
 	case "4669615971997794521" :	reg="hualien1";	ufp="2025.6.19";	break;
 	case "6727337080637555121" :	reg="trump";	break;
+	case "8701201411911806721" :	reg="expo2";	break;
 }
