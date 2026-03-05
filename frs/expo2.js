@@ -5,6 +5,7 @@ jnjRef('131829187','jnjexpo.blogspot.com/2020/02/blog-post','台灣燈會快閃'
 jnjRef('178612402','jnjexpo.blogspot.com/2023/03/2023_15','台灣燈會光源展區');
 jnjRef('178640825','jnjexpo.blogspot.com/2023/04/2023','台灣燈會中央展區');
 jnjRef('124616572','jnjexpo.blogspot.com/2019/02/luminarie','Luminarie光雕展');
+jnjRef('186873924','jnjdining.blogspot.com/2026/03/blog-post','花蓮燈節、東大門');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('127577192','jnjexpo.blogspot.com/2019/06/blog-post','板橋‧地景花海');
 jnjRef('129416804','jnjexpo.blogspot.com/2019/09/blog-post','桃園地景藝術節');
