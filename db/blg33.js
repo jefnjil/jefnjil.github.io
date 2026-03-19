@@ -23,4 +23,5 @@ switch(docID)
 	case "3376300661644228333" :	reg="polemics";	break;
 	case "4030303264573153833" :	reg="identity";	break;
 	case "8915914583121708233" :	reg="sf4";	break;
+	case "8493400176405064933" :	reg="yunlin";	break;
 }

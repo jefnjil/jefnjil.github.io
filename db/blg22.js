@@ -24,4 +24,5 @@ switch(docID)
 	case "6510220916216559722" :	reg="energy";	break;
 	case "8294953121544184522" :	reg="taichung";	break;
 	case "362139153695593122" :	reg="thriller3";	break;
+	case "3806835039824513922" :	reg="yunlin";	break;
 }

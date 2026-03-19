@@ -1,11 +1,11 @@
 jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
-jnjRef('8469883','jnjfoorprint.blogspot.com/2013/09/blog-post_97','劍湖山王子飯店');
 jnjRef('111082860','jnjfoorprint.blogspot.com/2018/03/blog-post_91','北港朝天宮');
-jnjRef('140370713','jnjfoorprint.blogspot.com/2020/06/blog-post','鹿港天后宮');
-jnjRef('142146230','jnjfoorprint.blogspot.com/2020/07/blog-post','鹿港老街');
-jnjRef('143076646','jnjfoorprint.blogspot.com/2020/07/blog-post_15','鹿港龍山寺');
+jnjRef('187265517','jnjdining.blogspot.com/2026/03/blog-post_13','北港朝天宮老街');
+jnjRef('187265517','jnjdining.blogspot.com/2026/03/blog-post_13','虎尾撲鼻眷村店');
 jnjRef('186244982','jnjfoorprint.blogspot.com/2026/02/blog-post','雅聞峇里海岸');
-jnjRef('187265517','jnjdining.blogspot.com/2026/03/blog-post_13','北港朝天宮老街、虎尾撲鼻眷村店');
+jnjRef('680','jnjfoorprint.blogspot.com/2026/03/blog-post','寧濟御庭園林山水');
+jnjRef('681','jnjfoorprint.blogspot.com/2026/03/blog-post_18','大同醬油黑金釀造館');
+jnjRef('682','jnjfoorprint.blogspot.com/2026/03/touched','塔吉特千層蛋糕');
 jnjRefList += '</ul></p><p><ul><b>南投</b>';
 jnjRef('17453515','jnjfoorprint.blogspot.com/2014/09/blog-post_21','日月潭');
 jnjRef('17453598','jnjfoorprint.blogspot.com/2014/09/blog-post_20','向山遊客中心');
