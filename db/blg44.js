@@ -20,4 +20,6 @@ switch(docID)
 	case "4956003922859771644" :	reg="copyright";	break;
 	case "350015854351049744" :	reg="politics";	break;
 	case "2487148277492044244" :	reg="citynews";	break;
+	case "2553788224531615744" :	reg="yunlin";	break;
+	case "9066748732557070944" :	reg="yilan";	break;
 }
