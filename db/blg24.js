@@ -39,4 +39,5 @@ switch(docID)
 	case "7721102457898663324" :	reg="sf5";	break;
 	case "3737949720120160424" :	reg="snack5";	break;
 	case "920599143682185124" :	reg="expo2";	break;
+	case "6608790039021092024" :	reg="feast2";	break;
 }
