@@ -1,0 +1,17 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul>';
+jnjRef('182588029','jnjfoorprint.blogspot.com/2025/05/blog-post_26','雲山水');
+jnjRef('182699362','jnjfoorprint.blogspot.com/2025/06/blog-post_09','嘉德花田');
+jnjRef('182864127','jnjfoorprint.blogspot.com/2025/06/blog-post_30','七星潭');
+jnjRef('187628755','jnjfoorprint.blogspot.com/2026/03/blog-post_26','鯉魚潭');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('151911760','jnjfoorprint.blogspot.com/2020/10/blog-post_26','六十石山金針花季');
+jnjRef('154446830','jnjfoorprint.blogspot.com/2020/12/11','台11線海岸（北回歸線）');
+jnjRef('154985067','jnjfoorprint.blogspot.com/2020/12/blog-post_31','花東縱谷隨手拍');
+jnjRef('182801654','jnjfoorprint.blogspot.com/2025/06/blog-post_23','向日廣場、賞鯨碼頭');
+jnjRef('186873924','jnjdining.blogspot.com/2026/03/blog-post','花蓮燈節、東大門');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('182523534','jnjfoorprint.blogspot.com/2025/05/blog-post_19','花蓮鐵道文化園區');
+jnjRef('182652443','jnjfoorprint.blogspot.com/2025/06/blog-post','東華大學、東大門');
+jnjRef('182749253','jnjfoorprint.blogspot.com/2025/06/d-park','D Park台肥海洋深層水園區');
+jnjRef('182864159','jnjdining.blogspot.com/2025/07/blog-post','新城老街、半天紅麻辣館');
+jnjRefList += '</ul></p></td></tr></table>';
