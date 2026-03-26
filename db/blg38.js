@@ -27,4 +27,5 @@ switch(docID)
 	case "4791894123054649338" :	reg="japfood1";	break;
 	case "6283569644926506438" :	reg="sf5";	break;
 	case "1560189674041340838" :	reg="thriller4";	break;
+	case "7939493812423396138" :	reg="news5";	break;
 }

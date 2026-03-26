@@ -10,6 +10,7 @@ jnjRef('149','jnjtalks.blogspot.com/2022/01/blog-post','台灣員工忠誠度不
 jnjRef('674','jnjtalks.blogspot.com/2026/01/blog-post_26','北海道早餐店被出征');
 jnjRef('675','jnjtalks.blogspot.com/2026/01/64','台64線丟包案非過失');
 jnjRef('679','jnjtalks.blogspot.com/2026/02/5-15','找不到國5北返隊伍尾端');
+jnjRef('684','jnjtalks.blogspot.com/2026/03/202665','65歲才領年金吃虧了');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('177373760','jnjtalks.blogspot.com/2022/11/blog-post','莫以為梨泰院事故不會發生在台灣');
 jnjRef('183092202','jnjtech.blogspot.com/2025/07/blog-post','黃仁勳：軟體工程師無法再混');
