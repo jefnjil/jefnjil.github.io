@@ -15,5 +15,5 @@ switch(docID)
 	case "5046117": 	reg="italy";	uss="310490";	udn="2011.4.18";	break;
 	case "65529117": 	reg="tpe";	uss="545248";	break;
 	case "182670617" :	reg="mv5";	break;
-	case "187265517" :	reg="yunlin";	break;
+	case "187265517" :	reg="yunlin";	ufp="2026.3.26";	break;
 }
