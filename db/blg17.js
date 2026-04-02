@@ -30,4 +30,5 @@ switch(docID)
 	case "3543242823304991817" :	reg="japfood1";	break;
 	case "1172295546372628217" :	reg="comment2";	break;
 	case "1801072943185075117" :	reg="yilan";	break;
+	case "2087034503816464817" :	reg="chiayi";	break;
 }
