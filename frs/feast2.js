@@ -4,6 +4,7 @@ jnjRef('178934446','jnjdining.blogspot.com/2023/04/blog-post_17','敦南會館')
 jnjRef('131552608','jnjdining.blogspot.com/2020/01/blog-post_16','真的好海鮮餐廳');
 jnjRef('180308233','jnjdining.blogspot.com/2024/02/blog-post','艾麗酒店');
 jnjRef('183207535','jnjdining.blogspot.com/2025/08/blog-post','豪鼎喜宴');
+jnjRef('187994418','jnjdining.blogspot.com/2026/04/2026','尾牙 2026');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('155976756','jnjdining.blogspot.com/2021/02/blog-post','彭園會館聚餐');
 jnjRef('180210742','jnjdining.blogspot.com/2024/01/blog-post','彭園會館小尾牙');
