@@ -23,4 +23,5 @@ switch(docID)
 	case "2746252969792062457" :	reg="short_comments";	break;
 	case "7665301316948764657" :	reg="trump";	break;
 	case "4148537319245902957" :	reg="hualien1";	break;
+	case "4309052174161290357" :	reg="taichung";	break;
 }

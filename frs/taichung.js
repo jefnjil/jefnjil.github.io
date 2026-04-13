@@ -14,6 +14,7 @@ jnjRef('21001818','jnjfoorprint.blogspot.com/2015/02/blog-post_16','東勢林場
 jnjRef('21001863','jnjfoorprint.blogspot.com/2015/02/blog-post','東勢林場森林浴');
 jnjRef('3122402','jnjfoorprint.blogspot.com/2009/07/blog-post_10','合歡山越嶺');
 jnjRef('3122366','jnjfoorprint.blogspot.com/2009/07/blog-post','台灣公路最高點');
+jnjRef('188051022','jnjfoorprint.blogspot.com/2026/04/blog-post_13','東豐自行車綠廊');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('21253776','jnjfoorprint.blogspot.com/2015/03/blog-post','武陵櫻花季一日遊');
 jnjRef('22471987','jnjfoorprint.blogspot.com/2015/04/blog-post','七家灣溪觀魚台');
