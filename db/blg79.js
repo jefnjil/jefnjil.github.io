@@ -23,4 +23,5 @@ switch(docID)
 	case "7666359277267097479" :	reg="wind";	break;
 	case "1277993568535305479" :	reg="chiayi";	break;
 	case "870510030589125479" :	reg="buffet3";	break;
+	case "1340986651591086179" :	reg="snack5";	break;
 }
