@@ -3,6 +3,7 @@ jnjRef('180615350','jnjtech.blogspot.com/2024/05/z80-cpu','Z80 CPU 年近半百�
 jnjRef('181732568','jnjtech.blogspot.com/2025/02/blog-post','「真的是儲存按鈕！」');
 jnjRef('668','jnjtech.blogspot.com/2025/11/blog-post','原始碼讓你掃描？');
 jnjRef('186492345','jnjtech.blogspot.com/2026/02/ai_074532710','AI 偷懶摸魚');
+jnjRef('685','jnjtech.blogspot.com/2026/04/com-port','COM Port 滑鼠');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('165979567','jnjtech.blogspot.com/2021/07/line','解鎖舊版 Line 聊天室備份');
 jnjRef('153','jnjtech.blogspot.com/2013/07/blog-post_24','密碼破解的暴力法和字典法');
