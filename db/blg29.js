@@ -16,4 +16,5 @@ switch(docID)
 	case "2120650799689625529" :	reg="mv4";	break;
 	case "5201415611818625129" :	reg="taichung";	break;
 	case "5302575687567631629" :	reg="yilan";	break;
+	case "28905470031475029" :	reg="hualien2";	break;
 }
