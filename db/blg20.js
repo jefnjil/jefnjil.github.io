@@ -26,4 +26,5 @@ switch(docID)
 	case "2928673578659352420" :	reg="politics1";	break;
 	case "5494558818391695120" :	reg="ntc2";	break;
 	case "7717382649186613820" :	reg="chiayi";	break;
+	case "6824731721469928720" :	reg="ntc3";	break;
 }

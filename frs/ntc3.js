@@ -1,0 +1,17 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('178429420','jnjfoorprint.blogspot.com/2023/02/blog-post_21','新北大都會公園');
+jnjRef('179526234','jnjfoorprint.blogspot.com/2023/07/blog-post','老梅海灘綠石槽');
+jnjRef('180421057','jnjfoorprint.blogspot.com/2024/03/2024','三峽行修宮 2024');
+jnjRef('181748752','jnjexpo.blogspot.com/2025/02/2025','春遊行修宮');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('179017419','jnjfoorprint.blogspot.com/2023/04/blog-post_24','滿月圓森林遊樂區');
+jnjRef('180090369','jnjfoorprint.blogspot.com/2023/11/blog-post','新店誠品裕隆城');
+jnjRef('180162238','jnjfoorprint.blogspot.com/2023/12/blog-post','福隆舊草嶺隧道鐵馬遊');
+jnjRef('687','jnjfoorprint.blogspot.com/2026/04/blog-post_27','三峽白雞行修宮走春');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('180343148','jnjfoorprint.blogspot.com/2024/02/blog-post','淡水天元宮後山櫻花園區');
+jnjRef('185608047','jnjfoorprint.blogspot.com/2026/01/blog-post','坪林茶葉博物館、深坑老街');
+jnjRef('179602174','jnjfoorprint.blogspot.com/2023/07/blog-post_17','富貴角燈塔、老梅迷宮、風剪樹');
+jnjRef('179956019','jnjfoorprint.blogspot.com/2023/10/blog-post','瑞猴自行車道．猴硐貓村');
+jnjRef('179992315','jnjfoorprint.blogspot.com/2023/10/blog-post_23','瑞芳老街、華記龍鳳腿');
+jnjRefList += '</ul></p></td></tr></table>';
