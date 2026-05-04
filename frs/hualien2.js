@@ -3,6 +3,7 @@ jnjRef('182588029','jnjfoorprint.blogspot.com/2025/05/blog-post_26','雲山水')
 jnjRef('182699362','jnjfoorprint.blogspot.com/2025/06/blog-post_09','嘉德花田');
 jnjRef('182864127','jnjfoorprint.blogspot.com/2025/06/blog-post_30','七星潭');
 jnjRef('187628755','jnjfoorprint.blogspot.com/2026/03/blog-post_26','鯉魚潭');
+jnjRef('188406594','jnjfoorprint.blogspot.com/2026/05/blog-post','吉安慶修院');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('151911760','jnjfoorprint.blogspot.com/2020/10/blog-post_26','六十石山金針花季');
 jnjRef('154985067','jnjfoorprint.blogspot.com/2020/12/blog-post_31','花東縱谷隨手拍');

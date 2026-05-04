@@ -16,4 +16,5 @@ switch(docID)
 	case "869394" :	reg="humanrights";	break;
 	case "896194": 	reg="book";	break;
 	case "182398094" :	reg="tainan1";	break;
+	case "188406594" :	reg="hualien2";	break;
 }
