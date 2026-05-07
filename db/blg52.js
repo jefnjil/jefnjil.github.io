@@ -26,4 +26,5 @@ switch(docID)
 	case "214117101123498952" :	reg="tech1";	break;
 	case "6297938779415710152" :	reg="trump";	break;
 	case "5594313095802704452" :	reg="buffet3";	break;
+	case "8063990599899863152" :	reg="yilan";	break;
 }
