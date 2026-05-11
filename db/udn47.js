@@ -18,4 +18,5 @@ switch(docID)
 	case "180451247" :	reg="crime4";	woman="123164/7830859";	break;
 	case "181687547" :	reg="hotel_tww";	break;
 	case "185608047" :	reg="ntc2";	break;
+	case "188530747" :	reg="snack5";	break;
 }
