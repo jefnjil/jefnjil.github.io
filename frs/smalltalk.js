@@ -12,6 +12,7 @@ jnjRef('613','jnjhome.blogspot.com/2006/11/blog-post_20','雪雪雪雪雪雪雪'
 jnjRef('607','jnjhome.blogspot.com/2008/05/blog-post_31','秋葉原大人の店');
 jnjRef('636','jnjliterature.blogspot.com/2024/11/blog-post','咎字新解博一笑');
 jnjRef('640','jnjtalks.blogspot.com/2025/04/blog-post_18','有點詭異的海報');
+jnjRef('688','jnjtalks.blogspot.com/2026/05/blog-post','陶朱隱園．筆墨紙硯');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('609','jnjhome.blogspot.com/2008/07/blog-post','我的仇人是魷魚');
 jnjRef('614','jnjhome.blogspot.com/2007/01/blog-post_3','有沒有心學習關鍵');
