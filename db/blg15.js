@@ -20,4 +20,5 @@ switch(docID)
 	case "7125727737042075715" :	reg="smalltalk";	break;
 	case "3952890696088995615" :	reg="buffet2";	break;
 	case "6585012977923751615" :	reg="yunlin";	break;
+	case "6232247935606003415" :	reg="feast2";	break;
 }
