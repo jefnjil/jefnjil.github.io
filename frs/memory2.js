@@ -5,6 +5,7 @@ jnjRef('153808047','jnjtech.blogspot.com/2020/11/blog-post','程式匠雜談一�
 jnjRef('170256251','jnjhome.blogspot.com/2021/11/80','80年代京都');
 jnjRef('296','jnjhome.blogspot.com/2016/08/1','全球最長壽電腦');
 jnjRef('323','jnjhome.blogspot.com/2006/10/blog-post_3','有料電視轉不停');
+jnjRef('689','jnjmvtv.blogspot.com/2026/05/blog-post','紐約街頭日本市招');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('289','jnjhome.blogspot.com/2021/06/blog-post','「好萊塢巨星」瞠目不識');
 jnjRef('292','jnjhome.blogspot.com/2020/02/blog-post','信義商圈大樓群舊照');
