@@ -4,6 +4,7 @@ jnjRef('183437954','jnjdining.blogspot.com/2025/09/blog-post_08','雞湯大叔')
 jnjRef('184268642','jnjfoorprint.blogspot.com/2025/11/blog-post_94','阿芬鮮魚湯');
 jnjRef('187720655','jnjdining.blogspot.com/2026/03/blog-post_30','和民手作廚房');
 jnjRef('188530747','jnjdining.blogspot.com/2026/05/blog-post','有麵煮私房小吃');
+jnjRef('189550097','jnjdining.blogspot.com/2026/06/blog-post','金春喜韓廚');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('182360326','jnjdining.blogspot.com/2025/05/blog-post','嘉義文化雞肉飯');
 jnjRef('183003895','jnjdining.blogspot.com/2025/07/elaine','悅上海、Elaine 生日');
