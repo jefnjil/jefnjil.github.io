@@ -15,4 +15,5 @@ jnjRef('185608047','jnjfoorprint.blogspot.com/2026/01/blog-post','坪林茶葉�
 jnjRef('179602174','jnjfoorprint.blogspot.com/2023/07/blog-post_17','富貴角燈塔、老梅迷宮、風剪樹');
 jnjRef('179956019','jnjfoorprint.blogspot.com/2023/10/blog-post','瑞猴自行車道．猴硐貓村');
 jnjRef('179992315','jnjfoorprint.blogspot.com/2023/10/blog-post_23','瑞芳老街、華記龍鳳腿');
+jnjRef('189676284','jnjfoorprint.blogspot.com/2026/06/blog-post','下罟子漁港‧八里左岸港濱段');
 jnjRefList += '</ul></p></td></tr></table>';
