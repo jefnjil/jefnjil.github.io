@@ -31,4 +31,5 @@ switch(docID)
 	case "9186470582669873583" :	reg="taoyuan";	break;
 	case "3932202330830456183" :	reg="action2";	break;
 	case "2379793300404593383" :	reg="news3";	break;
+	case "9176836101600773583" :	reg="hsinchu";	break;
 }

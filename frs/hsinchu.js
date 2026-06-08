@@ -1,10 +1,11 @@
 jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
-jnjRef('111664814','jnjhome.blogspot.com/2018/04/blog-post','水木清華‧思竹交通');
 jnjRef('7756826','jnjfoorprint.blogspot.com/2013/06/blog-post_13','六福村水陸雙樂園');
 jnjRef('7764141','jnjfoorprint.blogspot.com/2013/06/blog-post_57','關西六福莊');
 jnjRef('934107','jnjfoorprint.blogspot.com/2007/05/blog-post','煙波湖畔雨瀟瀟');
 jnjRef('177180886','jnjfoorprint.blogspot.com/2022/09/2300','煙波新竹湖濱館');
+jnjRef('189889716','jnjfoorprint.blogspot.com/2026/06/blog-post_08','竹科靜心湖');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('111664814','jnjhome.blogspot.com/2018/04/blog-post','水木清華‧思竹交通');
 jnjRef('177210782','jnjfoorprint.blogspot.com/2022/09/blog-post','青草湖、于飛島');
 jnjRef('177253651','jnjfoorprint.blogspot.com/2022/10/blog-post','北埔老街、鄧南光影像紀念館');
 jnjRef('177303472','jnjfoorprint.blogspot.com/2022/10/blog-post_20','所謂愛情 ─ 合興車站景觀公園');
