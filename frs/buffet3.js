@@ -3,6 +3,7 @@ jnjRef('179930823','jnjdining.blogspot.com/2023/10/blog-post','饗食天堂收�
 jnjRef('178558537','jnjdining.blogspot.com/2023/03/blog-post','旭集和食集錦');
 jnjRef('179205518','jnjdining.blogspot.com/2023/05/blog-post_18','萬國美食百匯');
 jnjRef('182275857','jnjdining.blogspot.com/2025/04/palette','美福彩匯 palette 自助餐');
+jnjRef('190061516','jnjdining.blogspot.com/2026/06/sunrise','旭集和食集錦 SUNRISE');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('178672042','jnjdining.blogspot.com/2023/03/blog-post_23','晶華栢麗廳午餐');
 jnjRef('154665345','jnjdining.blogspot.com/2020/12/mola-mola','花蓮煙波慕拉MOLA');
