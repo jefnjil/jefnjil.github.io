@@ -6,12 +6,12 @@ jnjRef('187720655','jnjdining.blogspot.com/2026/03/blog-post_30','和民手作�
 jnjRef('188530747','jnjdining.blogspot.com/2026/05/blog-post','有麵煮私房小吃');
 jnjRef('189550097','jnjdining.blogspot.com/2026/06/blog-post','金春喜韓廚');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
-jnjRef('182360326','jnjdining.blogspot.com/2025/05/blog-post','嘉義文化雞肉飯');
 jnjRef('183003895','jnjdining.blogspot.com/2025/07/elaine','悅上海、Elaine 生日');
 jnjRef('184961469','jnjdining.blogspot.com/2026/01/blog-post','四海一家慶雙十');
 jnjRef('673','jnjdining.blogspot.com/2025/10/blog-post','誠品南西‧美食街');
 jnjRef('185794753','jnjdining.blogspot.com/2026/01/blog-post_27','朱記餡餅台大醫院店');
 jnjRef('686','jnjdining.blogspot.com/2026/04/blog-post_24','高速公路服務區美食街');
+jnjRef('190260178','jnjdining.blogspot.com/2026/06/blog-post_15','宮原眼科‧鮭の大助');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('182158779','jnjdining.blogspot.com/2025/04/blog-post','世界豆漿大王永和本店');
 jnjRef('181529718','jnjdining.blogspot.com/2024/12/blog-post','福華香蘭葉蛋糕、蘋果酥捲');
