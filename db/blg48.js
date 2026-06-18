@@ -29,4 +29,5 @@ switch(docID)
 	case "7265903776332109948" :	reg="nantou1";	udn="2025.1.24";	ufp="2025.1.24";	break;
 	case "5850018498091802448" :	reg="memory2";	break;
 	case "2944913674282772548" :	reg="blog1";	break;
+	case "3459400018335161548" :	reg="changhua";	break;
 }
