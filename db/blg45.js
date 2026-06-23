@@ -17,4 +17,5 @@ switch(docID)
 	case "4519783131662876145" :	reg="fraud";	break;
 	case "6840379661049934545" :	reg="economic";	break;
 	case "8190190460166893445" :	reg="identity";	break;
+	case "3307057255145056545" :	reg="crime5";	break;
 }
