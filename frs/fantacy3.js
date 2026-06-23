@@ -17,4 +17,5 @@ jnjRef('177955072','jnjliterature.blogspot.com/2022/12/wednesday-paint-it-black'
 jnjRef('178034639','jnjmvtv.blogspot.com/2023/01/blog-post','獵魔士：血緣與政治正確');
 jnjRef('178732540','jnjmvtv.blogspot.com/2023/03/blog-post','洛克靈異偵探社');
 jnjRef('631','jnjmvtv.blogspot.com/2024/11/x2','陰間大法師x2');
+jnjRef('691','jnjmvtv.blogspot.com/2025/12/blog-post_30','哪吒之魔童降世、魔童鬧海');
 jnjRefList += '</ul></p></td></tr></table>';

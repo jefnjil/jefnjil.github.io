@@ -18,4 +18,5 @@ switch(docID)
 	case "8806687663507743414" :	reg="collect2";	break;
 	case "8840736928131135214" :	reg="tale";	break;
 	case "6532033887139303014" :	reg="taichung";	break;
+	case "7274712836022218214" :	reg="western";	break;
 }
