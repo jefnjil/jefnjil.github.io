@@ -23,4 +23,5 @@ switch(docID)
 	case "8902868059662994206" :	reg="economic";	break;
 	case "8430484471534447606" :	reg="hotel_twe";	break;
 	case "3001362010373968906" :	reg="tech2";	break;
+	case "2980930637256985806" :	reg="sf6";	break;
 }

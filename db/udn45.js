@@ -11,4 +11,5 @@ switch(docID)
 	case "7764145": 	reg="ntc";	uss="411430";	break;
 	case "180281345" :	reg="tpe4";	break;
 	case "186492345" :	reg="tech2";	break;
+	case "190830145" :	reg="sf6";	break;
 }

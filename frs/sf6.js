@@ -1,0 +1,18 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('182543036','jnjmvtv.blogspot.com/2025/05/blog-post_29','禁谷');
+jnjRef('672','jnjmvtv.blogspot.com/2026/01/5','巨洪');
+jnjRef('182553372','jnjmvtv.blogspot.com/2025/05/2','安道爾2');
+jnjRef('183525082','jnjfoundation.blogspot.com/2025/09/foundation','基地3');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('667','jnjmvtv.blogspot.com/2025/10/2','人生切割術2');
+jnjRef('630','jnjmvtv.blogspot.com/2024/12/blog-post_8','照明商店');
+jnjRef('185248301','jnjmvtv.blogspot.com/2026/01/blog-post','暴蜂尼亞');
+jnjRef('183681280','jnjmvtv.blogspot.com/2025/09/black-rabbit-alien-earth','異形地球');
+jnjRef('693','jnjmvtv.blogspot.com/2026/03/the-beauty','美麗毒素');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('180482924','jnjmvtv.blogspot.com/2024/04/vs-netflix-3-body-problem','三体 vs. 3 Body Problem');
+jnjRef('180699784','jnjmvtv.blogspot.com/2024/06/blog-post','哥吉拉與金剛：新帝國');
+jnjRef('180823272','jnjmvtv.blogspot.com/2024/07/in-time','鐘點戰 ─ 科幻版「占領華爾街」');
+jnjRef('632','jnjmvtv.blogspot.com/2024/12/blog-post_15','異形：羅穆路斯');
+jnjRef('190830145','jnjmvtv.blogspot.com/2026/06/star-cityfor-all-mankind','星城、太空使命5');
+jnjRefList += '</ul></p></td></tr></table>';
