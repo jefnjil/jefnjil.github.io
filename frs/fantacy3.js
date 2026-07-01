@@ -4,6 +4,7 @@ jnjRef('224445','jnjfoorprint.blogspot.com/2006/04/imax','深海異形');
 jnjRef('105','jnjmvtv.blogspot.com/2023/06/yellowjacketsfrom','新風雲際會');
 jnjRef('630','jnjmvtv.blogspot.com/2024/12/blog-post_8','力量之戒');
 jnjRef('632','jnjmvtv.blogspot.com/2024/12/blog-post_15','七夕之國');
+jnjRef('695','jnjmvtv.blogspot.com/2026/05/the-boroughs','乩身');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('16762422','jnjmvtv.blogspot.com/2014/08/lucy','盧貝松的露西 Lucy');
 jnjRef('15868637','jnjmvtv.blogspot.com/2014/08/in-flesh','復生 In the Flesh');

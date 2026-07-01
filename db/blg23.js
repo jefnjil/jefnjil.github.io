@@ -19,4 +19,5 @@ switch(docID)
 	case "3285394377126330823" :	reg="elite100";	break;
 	case "6685558273374161623": 	reg="salzburg";	uss="500618";	break;
 	case "7858766102720043423" :	reg="copyright";	break;
+	case "5626611300901484523" :	reg="sf6";	break;
 }
