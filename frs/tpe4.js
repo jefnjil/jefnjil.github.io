@@ -13,4 +13,5 @@ jnjRef('154785603','jnjfoorprint.blogspot.com/2020/12/blog-post_21','逸仙公�
 jnjRef('155057986','jnjfoorprint.blogspot.com/2021/01/blog-post','鐵道部園區 ─ 廳舍');
 jnjRef('19512360','jnjfoorprint.blogspot.com/2014/12/blog-post_6','台北賓館官邸篇');
 jnjRef('19512410','jnjfoorprint.blogspot.com/2014/12/blog-post','台北賓館庭園篇');
+jnjRef('190895149','jnjfoorprint.blogspot.com/2026/07/blog-post','剝皮寮歷史街區');
 jnjRefList += '</ul></p></td></tr></table>';
