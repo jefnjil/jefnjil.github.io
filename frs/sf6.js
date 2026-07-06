@@ -3,6 +3,7 @@ jnjRef('182543036','jnjmvtv.blogspot.com/2025/05/blog-post_29','禁谷');
 jnjRef('672','jnjmvtv.blogspot.com/2026/01/5','巨洪');
 jnjRef('182553372','jnjmvtv.blogspot.com/2025/05/2','安道爾2');
 jnjRef('183525082','jnjfoundation.blogspot.com/2025/09/foundation','基地3');
+jnjRef('191072538','jnjmvtv.blogspot.com/2026/07/frankensteinthe-bride','科學怪人');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('667','jnjmvtv.blogspot.com/2025/10/2','人生切割術2');
 jnjRef('630','jnjmvtv.blogspot.com/2024/12/blog-post_8','照明商店');
