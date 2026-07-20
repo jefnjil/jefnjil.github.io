@@ -15,4 +15,5 @@ switch(docID)
 	case "180221995" :	reg="sf3";	break;
 	case "181415595" :	reg="lookforjob";	break;
 	case "183003895" :	reg="snack4";	break;
+	case "191452895" :	reg="tpe4";	break;
 }
