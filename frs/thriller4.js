@@ -3,6 +3,7 @@ jnjRef('587','jnjmvtv.blogspot.com/2020/09/blog-post','陌生人');
 jnjRef('180590246','jnjmvtv.blogspot.com/2024/05/blog-post','安眠醫生');
 jnjRef('181121915','jnjmvtv.blogspot.com/2024/10/blog-post','衝擊真相');
 jnjRef('650','jnjmvtv.blogspot.com/2025/06/2','賢妻復仇記2');
+jnjRef('191524426','jnjmvtv.blogspot.com/2026/07/blog-post_23','人骨聖殿');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('634','jnjmvtv.blogspot.com/2025/01/blog-post_19','魷魚遊戲二');
 jnjRef('635','jnjmvtv.blogspot.com/2025/02/blog-post_1','千萬別放手');
