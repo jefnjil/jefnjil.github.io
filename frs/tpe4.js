@@ -9,11 +9,12 @@ jnjRef('44958753','jnjexpo.blogspot.com/2016/01/blog-post_27','華山文創1914'
 jnjRef('65529117','jnjfoorprint.blogspot.com/2016/07/blog-post','植物園荷花池');
 jnjRef('104388772','jnjfoorprint.blogspot.com/2017/08/blog-post_5','南門町三二三');
 jnjRef('191210587','jnjfoorprint.blogspot.com/2026/07/blog-post_09','艋舺龍山寺');
+jnjRef('190895149','jnjfoorprint.blogspot.com/2026/07/blog-post','剝皮寮歷史街區');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('154785603','jnjfoorprint.blogspot.com/2020/12/blog-post_21','逸仙公園史蹟紀念館');
 jnjRef('155057986','jnjfoorprint.blogspot.com/2021/01/blog-post','鐵道部園區 ─ 廳舍');
 jnjRef('19512360','jnjfoorprint.blogspot.com/2014/12/blog-post_6','台北賓館官邸篇');
 jnjRef('19512410','jnjfoorprint.blogspot.com/2014/12/blog-post','台北賓館庭園篇');
-jnjRef('190895149','jnjfoorprint.blogspot.com/2026/07/blog-post','剝皮寮歷史街區');
 jnjRef('191452895','jnjfoorprint.blogspot.com/2026/07/blog-post_20','林安泰古厝映月大池');
+jnjRef('191657041','jnjfoorprint.blogspot.com/2026/07/blog-post_27','  顧渚茗山');
 jnjRefList += '</ul></p></td></tr></table>';
