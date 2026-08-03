@@ -23,4 +23,5 @@ switch(docID)
 	case "1264667747862531916" :	reg="crime4";	woman="123164/7830859";	break;
 	case "3760487410965940016" :	reg="nantou1";	break;
 	case "2309691598402852716" :	reg="thriller4";	break;
+	case "4900170259894095916" :	reg="lookforjob";	break;
 }
