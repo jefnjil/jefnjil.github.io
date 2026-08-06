@@ -4,6 +4,7 @@ jnjRef('69394538','jnjmvtv.blogspot.com/2016/09/sicario','怒火邊界');
 jnjRef('182129444','jnjmvtv.blogspot.com/2025/03/52','鬼城殺');
 jnjRef('182543036','jnjmvtv.blogspot.com/2025/05/blog-post_29','毒劫');
 jnjRef('666','jnjmvtv.blogspot.com/2025/10/33','復仇芭蕾');
+jnjRef('191896947','jnjmvtv.blogspot.com/2026/08/blog-post','鐵拳教育');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('21361513','jnjmvtv.blogspot.com/2015/03/3the-equalizer-john-wick-taken-3','即刻救援3');
 jnjRef('21361513','jnjmvtv.blogspot.com/2015/03/3the-equalizer-john-wick-taken-3','捍衛任務');
