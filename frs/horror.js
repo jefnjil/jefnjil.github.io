@@ -5,6 +5,7 @@ jnjRef('590','jnjmvtv.blogspot.com/2006/01/the-village','陰森林');
 jnjRef('180456822','jnjmvtv.blogspot.com/2024/04/one-life','兇鏡');
 jnjRef('180590246','jnjmvtv.blogspot.com/2024/05/blog-post','破墓');
 jnjRef('191329909','jnjmvtv.blogspot.com/2026/07/blog-post_16','黑看');
+jnjRef('192002162','jnjmvtv.blogspot.com/2026/08/blog-post_10','聰明鎮');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('112','jnjmvtv.blogspot.com/2023/10/23q3-2x','奪魂鋸X');
 jnjRef('102','jnjmvtv.blogspot.com/2021/12/2','血色天劫');
