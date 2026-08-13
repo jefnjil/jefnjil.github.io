@@ -29,4 +29,5 @@ switch(docID)
 	case "3057467121309830678" :	reg="news3";	break;
 	case "5543721583112679978" :	reg="feast2";	break;
 	case "5723487161268940778" :	reg="memory2";	break;
+	case "6472364371648300178" :	reg="trump1";	break;
 }
