@@ -1,0 +1,15 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('184268642','jnjfoorprint.blogspot.com/2025/11/blog-post_94','阿芬鮮魚湯');
+jnjRef('189550097','jnjdining.blogspot.com/2026/06/blog-post','金春喜韓廚');
+jnjRef('190640978','jnjdining.blogspot.com/2026/06/blog-post_25','湘民小館');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('187720655','jnjdining.blogspot.com/2026/03/blog-post_30','和民手作廚房');
+jnjRef('192052735','jnjdining.blogspot.com/2026/08/blog-post','四海一家三人行');
+jnjRef('185794753','jnjdining.blogspot.com/2026/01/blog-post_27','朱記餡餅台大醫院店');
+jnjRef('188530747','jnjdining.blogspot.com/2026/05/blog-post','有麵煮私房小吃');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('182158779','jnjdining.blogspot.com/2025/04/blog-post','世界豆漿大王永和本店');
+jnjRef('183367452','jnjdining.blogspot.com/2025/09/blog-post','石研室爆炒石頭火鍋');
+jnjRef('188136809','jnjdining.blogspot.com/2026/04/blog-post','光復糖廠、滿妹豬腳');
+jnjRef('190260178','jnjdining.blogspot.com/2026/06/blog-post_15','宮原眼科‧鮭の大助');
+jnjRefList += '</ul></p></td></tr></table>';
