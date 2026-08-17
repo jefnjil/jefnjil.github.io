@@ -10,6 +10,7 @@ jnjRef('180101142','jnjmvtv.blogspot.com/2023/11/blog-post_27','唐山大地震'
 jnjRef('182129444','jnjmvtv.blogspot.com/2025/03/52','52赫茲的鯨魚們');
 jnjRef('667','jnjmvtv.blogspot.com/2025/10/2','外傷重症中心');
 jnjRef('191329909','jnjmvtv.blogspot.com/2026/07/blog-post_16','旅與日子');
+jnjRef('192101060','jnjmvtv.blogspot.com/2026/08/blog-post_17','無光歲月');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('180677185','jnjmvtv.blogspot.com/2024/06/civil-war','帝國浩劫：美國內戰');
 jnjRef('517','jnjtalks.blogspot.com/2007/09/blog-post_30','也談色戒的三點全露');

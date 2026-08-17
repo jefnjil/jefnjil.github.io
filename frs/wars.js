@@ -12,6 +12,7 @@ jnjRef('7471594','jnjmvtv.blogspot.com/2013/04/lincolngods-and-generals','林肯
 jnjRef('180129159','jnjmvtv.blogspot.com/2023/12/u-571-300-2012','U-571');
 jnjRef('180129159','jnjmvtv.blogspot.com/2023/12/u-571-300-2012','300');
 jnjRef('180615264','jnjhome.blogspot.com/2024/05/blog-post','五百年前朝日海戰');
+jnjRef('192101060','jnjmvtv.blogspot.com/2026/08/blog-post_17','類人猿行動');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('17666870','jnjmvtv.blogspot.com/2014/09/633-vikings','633轟炸大隊與維京傳奇');
 jnjRef('335340','jnjmvtv.blogspot.com/2006/07/kingdom-of-heaven','王者天下、天國王朝');

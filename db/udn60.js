@@ -26,4 +26,5 @@ switch(docID)
 	case "180031660" :	reg="crime2";	break;
 	case "181609160" :	reg="nantou1";	udn="2025.1.24";	ufp="2025.1.24";	break;
 	case "181728160" :	reg="action2";	break;
+	case "192101060" :	reg="wars";	break;
 }
