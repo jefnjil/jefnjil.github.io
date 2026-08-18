@@ -34,4 +34,5 @@ switch(docID)
 	case "9119445752800484047" :	reg="short_comments";	break;
 	case "5026298355192463447" :	reg="nantou1";	break;
 	case "5027069156328506447" :	reg="yilan";	ufp="2025.11.4";	break;
+	case "6506304532509636347" :	reg="news5";	break;
 }
