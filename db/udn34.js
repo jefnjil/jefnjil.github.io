@@ -23,4 +23,5 @@ switch(docID)
 	case "180757234" :	reg="snack2";	break;
 	case "182523534" :	reg="hualien1";	break;
 	case "187585334" :	reg="feast2";	break;
+	case "192242834" :	reg="western";	break;
 }
