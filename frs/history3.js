@@ -1,0 +1,16 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('180605463','jnjmvtv.blogspot.com/2024/02/deep-end','拿破崙');
+jnjRef('180505957','jnjmvtv.blogspot.com/2024/04/blog-post','幕府將軍');
+jnjRef('180456822','jnjmvtv.blogspot.com/2024/04/one-life','倖存者列車');
+jnjRef('633','jnjmvtv.blogspot.com/2025/01/blog-post','神鬼戰士Ⅱ');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('180225093','jnjmvtv.blogspot.com/2024/01/bastarden-promised-land','惡棍, 應許之地');
+jnjRef('182129444','jnjmvtv.blogspot.com/2025/03/52','十一人の賊軍');
+jnjRef('180721381','jnjmvtv.blogspot.com/2024/06/limbo-high-ground','「地獄邊緣」的「高地」');
+jnjRef('690','jnjmvtv.blogspot.com/2025/12/blog-post','哈爾濱 — 刺殺伊藤博文');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('180768713','jnjmvtv.blogspot.com/2024/07/blog-post','由「首（くび）」到「清須会議」 ');
+jnjRef('180979237','jnjmvtv.blogspot.com/2024/09/those-about-to-die','將死之人 ─ 帝國、黑幫與鬥獸場海戰');
+jnjRef('183591114','jnjmvtv.blogspot.com/2025/09/chief-of-war','戰酋  ─ 夏威夷統一前傳');
+jnjRef('192369921','jnjmvtv.blogspot.com/2026/08/blog-post_31','太平年 ─ 五代十國亂世想望');
+jnjRefList += '</ul></p></td></tr></table>';
