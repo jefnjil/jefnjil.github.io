@@ -33,4 +33,5 @@ switch(docID)
 	case "4667168320805351201" :	reg="tpe2";	break;
 	case "8790340865712308001" :	reg="hualien2";	break;
 	case "809912948686734401" :	reg="fantacy3";	break;
+	case "4924895348877840601" :	reg="news5";	break;
 }

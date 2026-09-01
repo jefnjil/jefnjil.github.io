@@ -2,6 +2,7 @@ jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱
 jnjRef('660','jnjtalks.blogspot.com/2025/10/cos','日女Cos「庫巴姬」惹議');
 jnjRef('649','jnjtalks.blogspot.com/2025/05/blog-post_27','陸配直播妨害秘密');
 jnjRef('674','jnjtalks.blogspot.com/2026/01/blog-post_26','北海道早餐店被出征');
+jnjRef('702','jnjhome.blogspot.com/2026/09/blog-post','林益世考上牙醫');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('675','jnjtalks.blogspot.com/2026/01/64','台64線丟包案非過失');
 jnjRef('679','jnjtalks.blogspot.com/2026/02/5-15','找不到國5北返隊伍尾端');
