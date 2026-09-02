@@ -1,0 +1,16 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('702','jnjhome.blogspot.com/2026/09/blog-post','林益世考上牙醫');
+jnjRef('698','jnjtalks.blogspot.com/2026/08/blog-post','川普瞞天過海躲暗殺');
+jnjRef('703','jnjtalks.blogspot.com/2026/09/blog-post','《雞雞》與《咪咪》');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('699','jnjtalks.blogspot.com/2026/08/blog-post_18','立法院展示踹倒機器狗');
+jnjRef('700','jnjliterature.blogspot.com/2026/08/blog-post','「牛來」與「台北物語」');
+jnjRef('697','jnjtalks.blogspot.com/2026/08/1348','演習途中滾落48顆砲彈');
+jnjRef('701','jnjtalks.blogspot.com/2026/08/blog-post_26','五熊被移送 日媒公開個資');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('178401113','jnjblogbiz.blogspot.com/2023/02/1600','點閱人氣四千萬暨發文1600篇紀念');
+jnjRef('183032186','jnjmvtv.blogspot.com/2025/05/4','愛死機4、深空永航 ─ 慶點閱破八百萬');
+jnjRef('630','jnjblogbiz.blogspot.com/2025/03/youtube','已讀不回，對方說你沒有禮貌');
+jnjRef('184545954','jnjblogbiz.blogspot.com/2025/12/blog-post','我是不是被風颱尾掃到？');
+jnjRef('696','jnjtech.blogspot.com/2026/08/c-15','試用期寫不出C語言程式被炒');
+jnjRefList += '</ul></p></td></tr></table>';

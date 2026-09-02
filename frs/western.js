@@ -11,5 +11,5 @@ jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('3613011','jnjmvtv.blogspot.com/2009/12/blog-post','西部槍手附體');
 jnjRef('177683516','jnjmvtv.blogspot.com/2022/12/english','英格蘭人 (The English)');
 jnjRef('180349099','jnjmvtv.blogspot.com/2024/01/true-grit','真實的勇氣 (True Grit)');
-jnjRef('692','jnjmvtv.blogspot.com/2025/12/1923-american-primeval','1923、馴荒記');
+jnjRef('192242834','jnjmvtv.blogspot.com/2025/12/1923-american-primeval','1923、馴荒記');
 jnjRefList += '</ul></p></td></tr></table>';

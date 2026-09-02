@@ -12,7 +12,7 @@ jnjRef('588','jnjmvtv.blogspot.com/2019/05/3','異星空間');
 jnjRef('630','jnjmvtv.blogspot.com/2024/12/blog-post_8','照明商店');
 jnjRef('185248301','jnjmvtv.blogspot.com/2026/01/blog-post','暴蜂尼亞');
 jnjRef('183681280','jnjmvtv.blogspot.com/2025/09/black-rabbit-alien-earth','異形地球');
-jnjRef('693','jnjmvtv.blogspot.com/2026/03/the-beauty','美麗毒素');
+jnjRef('192268483','jnjmvtv.blogspot.com/2026/03/the-beauty','美麗毒素（The Beauty）');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('103','jnjmvtv.blogspot.com/2021/12/ii','駭客任務復活');
 jnjRef('183525082','jnjfoundation.blogspot.com/2025/09/foundation','基地（Foundation）三');
