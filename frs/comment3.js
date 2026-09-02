@@ -1,0 +1,16 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('163060618','jnjhome.blogspot.com/2021/05/blog-post','居家上班第一週記');
+jnjRef('541','jnjtalks.blogspot.com/2006/09/blog-post_93','律師與蟑螂');
+jnjRef('182205928','jnjtalks.blogspot.com/2025/04/blog-post','烽火戲諸侯現代版');
+jnjRef('703','jnjtalks.blogspot.com/2026/09/blog-post','《雞雞》與《咪咪》');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('180213768','jnjtalks.blogspot.com/2024/01/blog-post','民調封關談總統大選');
+jnjRef('180615264','jnjhome.blogspot.com/2024/05/blog-post','日本通不通日文');
+jnjRef('622','jnjtalks.blogspot.com/2024/07/blog-post','「零日攻擊」預告雜感');
+jnjRef('664','jnjtalks.blogspot.com/2025/11/blog-post_12','徵召沈伯洋選北市長');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('475','jnjtalks.blogspot.com/2012/05/blog-post_22','我們確實知道真相是什麼嗎？');
+jnjRef('119','jnjtalks.blogspot.com/2023/07/blog-post','網路討拍公審，媒體推波助瀾');
+jnjRef('180834046','jnjhome.blogspot.com/2024/07/blog-post','松鼠肆虐。一日跳電四回');
+jnjRef('623','jnjtalks.blogspot.com/2024/08/blog-post','俄烏戰爭回應：圍魏救趙？');
+jnjRefList += '</ul></p></td></tr></table>';
