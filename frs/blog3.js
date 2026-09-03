@@ -7,6 +7,7 @@ jnjRef('699','jnjtalks.blogspot.com/2026/08/blog-post_18','立法院展示踹倒
 jnjRef('700','jnjliterature.blogspot.com/2026/08/blog-post','「牛來」與「台北物語」');
 jnjRef('697','jnjtalks.blogspot.com/2026/08/1348','演習途中滾落48顆砲彈');
 jnjRef('701','jnjtalks.blogspot.com/2026/08/blog-post_26','五熊被移送 日媒公開個資');
+jnjRef('192405687','jnjblogbiz.blogspot.com/2026/09/1900','閒聊兼發文1900篇紀念');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('178401113','jnjblogbiz.blogspot.com/2023/02/1600','點閱人氣四千萬暨發文1600篇紀念');
 jnjRef('183032186','jnjmvtv.blogspot.com/2025/05/4','愛死機4、深空永航 ─ 慶點閱破八百萬');
