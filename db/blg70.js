@@ -21,4 +21,5 @@ switch(docID)
 	case "2548381477017481270" :	reg="3C1";	break;
 	case "7381324700837536370" :	reg="campus";	break;
 	case "8626231400522374570" :	reg="action3";	break;
+	case "7242342445009298270" :	reg="comment3";	break;
 }

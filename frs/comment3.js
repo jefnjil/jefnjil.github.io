@@ -13,4 +13,5 @@ jnjRef('475','jnjtalks.blogspot.com/2012/05/blog-post_22','我們確實知道真
 jnjRef('119','jnjtalks.blogspot.com/2023/07/blog-post','網路討拍公審，媒體推波助瀾');
 jnjRef('180834046','jnjhome.blogspot.com/2024/07/blog-post','松鼠肆虐。一日跳電四回');
 jnjRef('623','jnjtalks.blogspot.com/2024/08/blog-post','俄烏戰爭回應：圍魏救趙？');
+jnjRef('704','jnjtalks.blogspot.com/2026/09/blog-post_04','半邊胸部曝光 他遭控性騷擾');
 jnjRefList += '</ul></p></td></tr></table>';
