@@ -27,4 +27,5 @@ switch(docID)
 	case "6051783424556455004" :	reg="tech1";	break;
 	case "7391853761926448404" :	reg="yilan";	udn="2025.12.8";	break;
 	case "9098025236896053404" :	reg="history2";	break;
+	case "2678608413434651504" :	reg="trump1";	break;
 }

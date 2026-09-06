@@ -12,4 +12,5 @@ jnjRef('641','jnjtalks.blogspot.com/2025/05/blog-post','說話如同放屁‧內
 jnjRef('652','jnjtalks.blogspot.com/2025/06/blog-post_16','無王日，無人為懂王慶生');
 jnjRef('658','jnjtalks.blogspot.com/2025/10/blog-post_14','經濟學 靠港費 和平獎');
 jnjRef('698','jnjtalks.blogspot.com/2026/08/blog-post','華郵曝川普瞞天過海躲暗殺威脅！');
+jnjRef('705','jnjtalks.blogspot.com/2026/09/blog-post_06','聯合國表決換世界地圖');
 jnjRefList += '</ul></p></td></tr></table>';
