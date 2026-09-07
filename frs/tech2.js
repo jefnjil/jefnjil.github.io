@@ -10,6 +10,7 @@ jnjRef('153','jnjtech.blogspot.com/2013/07/blog-post_24','密碼破解的暴力�
 jnjRef('181732568','jnjtech.blogspot.com/2025/02/blog-post','憶早年個人電腦儲存裝置');
 jnjRef('662','jnjtalks.blogspot.com/2025/10/ai','AI假醫師，害了真性命');
 jnjRef('186117787','jnjtech.blogspot.com/2026/02/ai','第一次要 AI 寫程式');
+jnjRef('706','jnjtech.blogspot.com/2026/09/blog-post','遙想當年，疑作盜版幫兇');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('575','jnjtech.blogspot.com/2013/11/blog-post_22','由影像擷取裝置取得資料流');
 jnjRef('180250389','jnjtech.blogspot.com/2024/01/c-webview2-webbrowser','C# 以 WebView2 代替 WebBrowser 的簡單筆記');
