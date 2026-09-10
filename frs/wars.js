@@ -20,4 +20,5 @@ jnjRef('7259606','jnjmvtv.blogspot.com/2013/01/spartacus-war-of-damned','第三�
 jnjRef('64552933','jnjmvtv.blogspot.com/2016/07/eye-in-sky','天眼行動、飛彈與狗');
 jnjRef('181822961','jnjmvtv.blogspot.com/2025/02/4','王者天下4：大將軍的歸來');
 jnjRef('183824956','jnjmvtv.blogspot.com/2025/10/blog-post','大決戰之遼瀋、准海、平津戰役');
+jnjRef('192495125','jnjmvtv.blogspot.com/2026/09/blog-post','歡迎來龍餐館 ── 被統戰了');
 jnjRefList += '</ul></p></td></tr></table>';
