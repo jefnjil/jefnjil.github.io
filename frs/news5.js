@@ -9,6 +9,7 @@ jnjRef('679','jnjtalks.blogspot.com/2026/02/5-15','找不到國5北返隊伍尾�
 jnjRef('684','jnjtalks.blogspot.com/2026/03/202665','65歲才領年金吃虧了');
 jnjRef('699','jnjtalks.blogspot.com/2026/08/blog-post_18','立法院展示踹倒機器狗');
 jnjRef('700','jnjliterature.blogspot.com/2026/08/blog-post','「牛來」與「台北物語」');
+jnjRef('708','jnjtalks.blogspot.com/2026/09/blog-post_17','「離婚要到民政局領證」 ');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('669','jnjtalks.blogspot.com/2025/11/500','台大雞排事件500人撲空');
 jnjRef('676','jnjtalks.blogspot.com/2026/02/blog-post','挨告抄襲萊爾校長團隊反酸');
