@@ -10,8 +10,8 @@ jnjRef('701','jnjtalks.blogspot.com/2026/08/blog-post_26','五熊被移送 日�
 jnjRef('192405687','jnjblogbiz.blogspot.com/2026/09/1900','閒聊兼發文1900篇紀念');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('178401113','jnjblogbiz.blogspot.com/2023/02/1600','點閱人氣四千萬暨發文1600篇紀念');
-jnjRef('183032186','jnjmvtv.blogspot.com/2025/05/4','愛死機4、深空永航 ─ 慶點閱破八百萬');
 jnjRef('630','jnjblogbiz.blogspot.com/2025/03/youtube','已讀不回，對方說你沒有禮貌');
 jnjRef('184545954','jnjblogbiz.blogspot.com/2025/12/blog-post','我是不是被風颱尾掃到？');
 jnjRef('696','jnjtech.blogspot.com/2026/08/c-15','試用期寫不出C語言程式被炒');
+jnjRef('707','jnjblogbiz.blogspot.com/2026/09/ai','AI 末日前，臉書先自己胡整一通');
 jnjRefList += '</ul></p></td></tr></table>';
