@@ -8,6 +8,7 @@ jnjRef('105','jnjmvtv.blogspot.com/2023/06/yellowjacketsfrom','新風雲際會')
 jnjRef('672','jnjmvtv.blogspot.com/2026/01/5','怪奇物語5');
 jnjRef('191072538','jnjmvtv.blogspot.com/2026/07/frankensteinthe-bride','科學新娘！');
 jnjRef('192160321','jnjmvtv.blogspot.com/2026/08/3','龍族前傳3');
+jnjRef('192544678','jnjmvtv.blogspot.com/2026/09/blog-post_23','橡樹街末日');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('123','jnjmvtv.blogspot.com/2022/12/11','媽的多重宇宙');
 jnjRef('131391167','jnjmvtv.blogspot.com/2019/12/see','末日光明（See）');
