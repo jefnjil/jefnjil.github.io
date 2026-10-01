@@ -2,6 +2,7 @@ jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱
 jnjRef('587','jnjmvtv.blogspot.com/2020/09/blog-post','陌生人');
 jnjRef('191524426','jnjmvtv.blogspot.com/2026/07/blog-post_23','人骨聖殿');
 jnjRef('192160321','jnjmvtv.blogspot.com/2026/08/3','八面埋伏');
+jnjRef('192569813','jnjmvtv.blogspot.com/2026/10/blog-post','爆彈');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('182335425','jnjmvtv.blogspot.com/2025/04/conclave-prime-target','關鍵暗算');
 jnjRef('182780625','jnjmvtv.blogspot.com/2025/06/blog-post_19','玻璃謎城');
