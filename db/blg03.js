@@ -29,4 +29,5 @@ switch(docID)
 	case "3253236001950914703" :	reg="citynews";	break;
 	case "2924286890382683403" :	reg="politics";	break;
 	case "460599118079252003" :	reg="economic";	break;
+	case "2759212276997336503" :	reg="news5";	break;
 }

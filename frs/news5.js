@@ -16,4 +16,5 @@ jnjRef('676','jnjtalks.blogspot.com/2026/02/blog-post','挨告抄襲萊爾校長
 jnjRef('678','jnjtalks.blogspot.com/2026/02/blog-post_21','花蓮燈會主燈被譏「像鹹魚」');
 jnjRef('697','jnjtalks.blogspot.com/2026/08/1348','演習途中滾落48顆砲彈');
 jnjRef('701','jnjtalks.blogspot.com/2026/08/blog-post_26','五熊被移送 日媒公開個資');
+jnjRef('710','jnjtalks.blogspot.com/2026/10/14','要理解徐佳青是一個母親');
 jnjRefList += '</ul></p></td></tr></table>';
