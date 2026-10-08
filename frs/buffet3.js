@@ -10,6 +10,7 @@ jnjRef('154665345','jnjdining.blogspot.com/2020/12/mola-mola','花蓮煙波慕�
 jnjRef('177224914','jnjdining.blogspot.com/2022/09/blog-post_30','莫內西餐廳早餐');
 jnjRef('184144815','jnjdining.blogspot.com/2025/11/blog-post','煙波蘇澳 黑饌之巔');
 jnjRef('184232177','jnjdining.blogspot.com/2025/11/blog-post_17','煙波蘇澳 韓式蔬菜飯');
+jnjRef('192598023','jnjdining.blogspot.com/2026/10/blog-post','石研室爆炒火鍋');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('174972704','jnjdining.blogspot.com/2022/06/blog-post','漢來海港天母店午餐');
 jnjRef('180812048','jnjdining.blogspot.com/2024/07/2024','漢來海港敦化店午餐');

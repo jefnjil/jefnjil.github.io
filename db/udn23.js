@@ -16,4 +16,5 @@ switch(docID)
 	case "179930823" :	reg="buffet2";	break;
 	case "180308223" :	reg="feast2";	woman="123162/7846547";	break;
 	case "181650923" :	reg="nantou1";	break;
+	case "192598023" :	reg="buffet3";	break;
 }
