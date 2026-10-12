@@ -1,0 +1,14 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('616','jnjhome.blogspot.com/2006/01/blog-post_8','說夢話');
+jnjRef('615','jnjhome.blogspot.com/2022/12/blog-post','夢的記錄');
+jnjRef('192509198','jnjtech.blogspot.com/2026/09/blog-post_14','職場霸凌古事');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('165444598','jnjhome.blogspot.com/2021/07/blog-post','古早時國外住宿：日本');
+jnjRef('689','jnjmvtv.blogspot.com/2026/05/blog-post','紐約街頭日本市招');
+jnjRef('192616484','jnjhome.blogspot.com/2026/10/blog-post','由一封僑批說起');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('165822068','jnjhome.blogspot.com/2021/07/blog-post_28','古早時國外住宿：美國、夏威夷');
+jnjRef('166891129','jnjfoorprint.blogspot.com/2021/08/80-african-safari','80年代的九州自然動物園');
+jnjRef('180309124','jnjhome.blogspot.com/2022/02/blog-post_15','半個多世紀老帳本兒──違建的養成');
+jnjRef('181732568','jnjtech.blogspot.com/2025/02/blog-post','憶早年個人電腦儲存裝置');
+jnjRefList += '</ul></p></td></tr></table>';
