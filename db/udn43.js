@@ -18,4 +18,5 @@ switch(docID)
 	case "181011943" :	reg="buffet2";	break;
 	case "182652443" :	reg="hualien1";	break;
 	case "189178943" :	reg="feast2";	break;
+	case "192627943" :	reg="changhua";	break;
 }

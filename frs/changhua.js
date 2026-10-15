@@ -10,11 +10,11 @@ jnjRef('174000314','jnjfoorprint.blogspot.com/2022/05/blog-post','鹿港民俗�
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('179369397','jnjfoorprint.blogspot.com/2023/06/blog-post_12','八卦山大佛風景區');
 jnjRef('190411715','jnjfoorprint.blogspot.com/2026/06/blog-post_18','貝林古堡菲尼克斯教堂');
+jnjRef('192627943','jnjfoorprint.blogspot.com/2026/10/blog-post','彰化扇形車庫、戶羽機關車園區');
 jnjRefList += '</ul><ul><b>南投</b>';
 jnjRef('17453598','jnjfoorprint.blogspot.com/2014/09/blog-post_20','向山遊客中心');
 jnjRef('17453515','jnjfoorprint.blogspot.com/2014/09/blog-post_21','日月潭自行車道');
 jnjRef('3923836','jnjfoorprint.blogspot.com/2010/04/blog-post_8','日月纜車騰雲霧');
-jnjRef('3122361','jnjfoorprint.blogspot.com/2009/07/blog-post_99','埔里酒廠八方民宿');
 jnjRef('18367527','jnjfoorprint.blogspot.com/2014/10/blog-post_72','亞洲大學‧現代美術館');
 jnjRefList += '</ul></p></td><td valign=top><p><ul><b>台中</b>';
 jnjRef('100401164','jnjfoorprint.blogspot.com/2017/05/blog-post_11','國家歌劇院');
