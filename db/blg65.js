@@ -24,4 +24,5 @@ switch(docID)
 	case "6561035127499150365" :	reg="memory2";	break;
 	case "7510366018940294865" :	reg="horror";	break;
 	case "894285108589867265" :	reg="westfood1";	break;
+	case "937728734066491365" :	reg="book1";	break;
 }

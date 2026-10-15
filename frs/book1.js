@@ -1,0 +1,15 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('3641570','jnjliterature.blogspot.com/2009/12/war-trash','戰廢品');
+jnjRef('3978552','jnjliterature.blogspot.com/2010/04/f','全部成為F');
+jnjRef('177','jnjhome.blogspot.com/2006/08/aa','『從A到A+』');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('29604992','jnjmvtv.blogspot.com/2015/09/blog-post','時間的女兒');
+jnjRef('6170821','jnjhome.blogspot.com/2012/03/blog-post','金庸小說二三事');
+jnjRef('186','jnjliterature.blogspot.com/2017/02/blog-post','讀「重讀鎖國」');
+jnjRef('711','jnjliterature.blogspot.com/2026/10/china',' 中國、China 與支那');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('167548892','jnjfoundation.blogspot.com/2020/12/blog-post','艾西莫夫基地三部曲與我的緣份');
+jnjRef('150','jnjliterature.blogspot.com/2017/01/blog-post_2','「灣生回家」作者坦承身分造假');
+jnjRef('187','jnjliterature.blogspot.com/2013/05/not-dead-enough',' 《一句話書評 》 三重死亡');
+jnjRef('188','jnjliterature.blogspot.com/2011/09/19451949','郝柏村解讀蔣公日記 1945~1949');
+jnjRefList += '</ul></p></td></tr></table>';
