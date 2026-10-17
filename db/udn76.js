@@ -16,5 +16,5 @@ switch(docID)
 	case "178981276" :	reg="mv2";	woman="123164/7388657";	break;
 	case "180887476" :	reg="music";	break;
 	case "182429676" :	reg="mv4";	break;
-	case "184698676" :	reg="yilan";	break;
+	case "184698676" :	reg="yilan";	ufp="2026.10.12";	break;
 }
