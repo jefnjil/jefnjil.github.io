@@ -8,6 +8,7 @@ jnjRef('180213768','jnjtalks.blogspot.com/2024/01/blog-post','民調封關談總
 jnjRef('180615264','jnjhome.blogspot.com/2024/05/blog-post','日本通不通日文');
 jnjRef('622','jnjtalks.blogspot.com/2024/07/blog-post','「零日攻擊」預告雜感');
 jnjRef('664','jnjtalks.blogspot.com/2025/11/blog-post_12','徵召沈伯洋選北市長');
+jnjRef('713','jnjtalks.blogspot.com/2026/10/blog-post_19','評「台灣怎麼了」');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('475','jnjtalks.blogspot.com/2012/05/blog-post_22','我們確實知道真相是什麼嗎？');
 jnjRef('119','jnjtalks.blogspot.com/2023/07/blog-post','網路討拍公審，媒體推波助瀾');

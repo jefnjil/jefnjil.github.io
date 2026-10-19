@@ -21,4 +21,5 @@ switch(docID)
 	case "5474738784377842491" :	reg="politics1";	break;
 	case "1266971253679156891" :	reg="horror";	break;
 	case "6570934799517612491" :	reg="smalltalk";	break;
+	case "6166428455806900091" :	reg="news5";	break;
 }

@@ -30,4 +30,5 @@ switch(docID)
 	case "5381264562738948800" :	reg="hualien1";	break;
 	case "5601578185077664900" :	reg="politics1";	break;
 	case "1784184968789918700" :	reg="wars";	break;
+	case "8383379129077425700" :	reg="comment3";	break;
 }

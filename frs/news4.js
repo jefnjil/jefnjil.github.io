@@ -4,6 +4,7 @@ jnjRef('660','jnjtalks.blogspot.com/2025/10/cos','日女Cos「庫巴姬」惹議
 jnjRef('649','jnjtalks.blogspot.com/2025/05/blog-post_27','陸配直播妨害秘密');
 jnjRef('671','jnjtalks.blogspot.com/2026/01/blog-post','沈政男臉書突遭刪號');
 jnjRef('677','jnjtalks.blogspot.com/2026/02/blog-post_20','鯉魚潭翻船憾事');
+jnjRef('712','jnjtalks.blogspot.com/2026/10/blog-post','外交部資安出大包');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('140','jnjtalks.blogspot.com/2024/01/blog-post_18','柯文哲否認民調作假');
 jnjRef('627','jnjtalks.blogspot.com/2025/02/blog-post','DeepSeek 洩漏國家機密');
