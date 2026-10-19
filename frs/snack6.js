@@ -2,6 +2,7 @@ jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱
 jnjRef('184268642','jnjfoorprint.blogspot.com/2025/11/blog-post_94','阿芬鮮魚湯');
 jnjRef('189550097','jnjdining.blogspot.com/2026/06/blog-post','金春喜韓廚');
 jnjRef('190640978','jnjdining.blogspot.com/2026/06/blog-post_25','湘民小館');
+jnjRef('192637478','jnjdining.blogspot.com/2026/10/blog-post_19','彰化阿三肉圓');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('187720655','jnjdining.blogspot.com/2026/03/blog-post_30','和民手作廚房');
 jnjRef('192052735','jnjdining.blogspot.com/2026/08/blog-post','四海一家三人行');
