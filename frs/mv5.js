@@ -4,6 +4,7 @@ jnjRef('630','jnjmvtv.blogspot.com/2024/12/blog-post_8','朝歌風雲');
 jnjRef('182335425','jnjmvtv.blogspot.com/2025/04/conclave-prime-target','秘密會議');
 jnjRef('182543036','jnjmvtv.blogspot.com/2025/05/blog-post_29','老槍');
 jnjRef('191329703','jnjmvtv.blogspot.com/2026/07/blog-post','紐倫堡');
+jnjRef('714','jnjtalks.blogspot.com/2026/10/5','選情告急');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('180505957','jnjmvtv.blogspot.com/2024/04/blog-post','黃昏清兵衛');
 jnjRef('180101142','jnjmvtv.blogspot.com/2023/11/blog-post_27','唐山大地震');

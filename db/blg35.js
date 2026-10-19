@@ -32,4 +32,5 @@ switch(docID)
 	case "740125692567344035" :	reg="economic";	break;
 	case "1973068732300296035" :	reg="feast2";	break;
 	case "8149728764993277235" :	reg="starwars";	break;
+	case "1874099844968392735" :	reg="trump1";	break;
 }
