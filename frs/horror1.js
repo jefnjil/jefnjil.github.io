@@ -1,0 +1,15 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('587','jnjmvtv.blogspot.com/2020/09/blog-post','搞鬼');
+jnjRef('191329909','jnjmvtv.blogspot.com/2026/07/blog-post_16','黑看');
+jnjRef('192002162','jnjmvtv.blogspot.com/2026/08/blog-post_10','聰明鎮');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('590','jnjmvtv.blogspot.com/2006/01/the-village','陰森林');
+jnjRef('180745825','jnjmvtv.blogspot.com/2024/06/abigail','噬血芭蕾');
+jnjRef('181121915','jnjmvtv.blogspot.com/2024/10/blog-post','四谷怪談');
+jnjRef('191743544','jnjmvtv.blogspot.com/2026/07/blog-post_30','鬼謎東宮');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('588','jnjmvtv.blogspot.com/2019/05/3','剛毅島奇案3');
+jnjRef('180332516','jnjmvtv.blogspot.com/2024/02/the-ninth-gate','第九道門，鬼上門');
+jnjRef('180730040','jnjmvtv.blogspot.com/2024/06/first-omen-servant','天魔：惡之初、靈異女僕');
+jnjRef('715','jnjmvtv.blogspot.com/2026/10/7213','美國恐怖故事13');
+jnjRefList += '</ul></p></td></tr></table>';

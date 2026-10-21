@@ -15,4 +15,5 @@ jnjRef('173604533','jnjmvtv.blogspot.com/2022/04/slow-horses','腐肉屋的一�
 jnjRef('628','jnjmvtv.blogspot.com/2024/09/blog-post_20','今際之國的闖關者');
 jnjRef('665','jnjmvtv.blogspot.com/2025/11/5310','外放特務組');
 jnjRef('694','jnjmvtv.blogspot.com/2026/04/scarpettawar-machine','侵略機器');
+jnjRef('715','jnjmvtv.blogspot.com/2026/10/7213','72小時即刻救援');
 jnjRefList += '</ul></p></td></tr></table>';
