@@ -8,6 +8,7 @@ jnjRef('182335425','jnjmvtv.blogspot.com/2025/04/conclave-prime-target','關鍵�
 jnjRef('182780625','jnjmvtv.blogspot.com/2025/06/blog-post_19','玻璃謎城');
 jnjRef('650','jnjmvtv.blogspot.com/2025/06/2','賢妻復仇記2');
 jnjRef('666','jnjmvtv.blogspot.com/2025/10/33','魷魚遊戲3');
+jnjRef('192643419','jnjmvtv.blogspot.com/2026/10/crow-girl','烏鴉女孩');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('182011711','jnjmvtv.blogspot.com/2025/03/paradise','極樂凶間 Paradise');
 jnjRef('643','jnjmvtv.blogspot.com/2025/05/gannibal','噬亡村 (Gannibal)');
