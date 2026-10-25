@@ -36,4 +36,5 @@ switch(docID)
 	case "1144495517902127242" :	reg="politics";	break;
 	case "429536084572439842" :	reg="short_comments";	break;
 	case "7282615197153837842" :	reg="changhua";	break;
+	case "6673490800077278342" :	reg="thriller4";	break;
 }
