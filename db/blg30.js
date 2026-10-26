@@ -20,4 +20,5 @@ switch(docID)
 	case "7938254187445390330" :	reg="elaine1";	break;
 	case "8685261438789386730" :	reg="buffet2";	break;
 	case "2268935493230613630" :	reg="buffet3";	break;
+	case "5688674542161658230" :	reg="blog3";	break;
 }
