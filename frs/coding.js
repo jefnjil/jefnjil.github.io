@@ -1,0 +1,15 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('668','jnjtech.blogspot.com/2025/11/blog-post','原始碼讓你掃描？');
+jnjRef('186492345','jnjtech.blogspot.com/2026/02/ai_074532710','AI 偷懶摸魚');
+jnjRef('153808047','jnjtech.blogspot.com/2020/11/blog-post','程式匠雜談一二');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('165979567','jnjtech.blogspot.com/2021/07/line','解鎖舊版 Line 聊天室備份');
+jnjRef('186117787','jnjtech.blogspot.com/2026/02/ai','第一次要 AI 寫程式');
+jnjRef('706','jnjtech.blogspot.com/2026/09/blog-post','遙想當年，疑作盜版幫兇');
+jnjRef('721','jnjtech.blogspot.com/2026/10/ai_01945974087','AI 時代生產力指標');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('575','jnjtech.blogspot.com/2013/11/blog-post_22','由影像擷取裝置取得資料流');
+jnjRef('180250389','jnjtech.blogspot.com/2024/01/c-webview2-webbrowser','C# 以 WebView2 代替 WebBrowser 的簡單筆記');
+jnjRef('181139848','jnjtech.blogspot.com/2024/10/jdownloader-2-captchasolver','JDownloader 2 驗證碼解算器 CaptchaSolver');
+jnjRef('151','jnjtech.blogspot.com/2022/02/fragmentsgarbage-collection','記憶體空洞與資源回收');
+jnjRefList += '</ul></p></td></tr></table>';
