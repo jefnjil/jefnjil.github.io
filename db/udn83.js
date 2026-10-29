@@ -27,4 +27,5 @@ switch(docID)
 	case "179531583" :	reg="memory1";	break;
 	case "187737883" :	reg="chiayi";	break;
 	case "192268483" :	reg="sf6";	break;
+	case "192669583" :	reg="horror1";	break;
 }
