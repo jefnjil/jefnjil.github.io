@@ -1,0 +1,14 @@
+jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
+jnjRef('570','jnjtech.blogspot.com/2015/12/blog-post','保護、專利加減要做');
+jnjRef('181415595','jnjtech.blogspot.com/2024/11/900','超混幽靈工程師');
+jnjRef('192509198','jnjtech.blogspot.com/2026/09/blog-post_14','職場霸凌古事');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('180615350','jnjtech.blogspot.com/2024/05/z80-cpu','蘋果入社測驗畫一條線');
+jnjRef('566','jnjtech.blogspot.com/2018/03/blog-post','如何替軟體工程師打考績');
+jnjRef('696','jnjtech.blogspot.com/2026/08/c-15','試用期寫不出C語言程式被炒');
+jnjRef('722','jnjhome.blogspot.com/2022/06/blog-post_01','見加薪金額覺被公司污辱');
+jnjRefList += '</ul></p></td><td valign=top><p><ul>';
+jnjRef('170818641','jnjtech.blogspot.com/2021/12/blog-post','評「華碩主管羞辱人？台大生面試遭冷嘲熱諷」');
+jnjRef('568','jnjtech.blogspot.com/2016/05/blog-post','千萬不要因為沒學過，而不敢來應徵');
+jnjRef('180477966','jnjhome.blogspot.com/2024/04/blog-post','人性化管理與準時上下班');
+jnjRefList += '</ul></p></td></tr></table>';

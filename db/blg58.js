@@ -25,4 +25,5 @@ switch(docID)
 	case "5132044644395743858" :	reg="deathpenalty";	break;
 	case "3114034519402285458" :	reg="mv4";	break;
 	case "2495503376067543258" :	reg="fantacy3";	break;
+	case "4384356538296971158" :	reg="lookforjob1";	break;
 }
