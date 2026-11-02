@@ -9,6 +9,7 @@ jnjRef('180090369','jnjfoorprint.blogspot.com/2023/11/blog-post','新店誠品�
 jnjRef('180162238','jnjfoorprint.blogspot.com/2023/12/blog-post','福隆舊草嶺隧道鐵馬遊');
 jnjRef('687','jnjfoorprint.blogspot.com/2026/04/blog-post_27','三峽白雞行修宮走春');
 jnjRef('189312492','jnjfoorprint.blogspot.com/2026/05/blog-post_28','野柳地質公園');
+jnjRef('192682310','jnjfoorprint.blogspot.com/2026/11/blog-post','三貂嶺生態友善隧道');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('180343148','jnjfoorprint.blogspot.com/2024/02/blog-post','淡水天元宮後山櫻花園區');
 jnjRef('185608047','jnjfoorprint.blogspot.com/2026/01/blog-post','坪林茶葉博物館、深坑老街');

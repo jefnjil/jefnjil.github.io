@@ -19,4 +19,5 @@ switch(docID)
 	case "995291444144564185" :	reg="wars";	break;
 	case "5242375668155134285" :	reg="miaoli";	break;
 	case "7924131424479155385" :	reg="news5";	break;
+	case "7565378565250186685" :	reg="ntc3";	break;
 }
