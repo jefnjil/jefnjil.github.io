@@ -23,4 +23,5 @@ switch(docID)
 	case "1758328625467637834" :	reg="3C1";	break;
 	case "3480954371195446334" :	reg="wars";	break;
 	case "4440799613584741434" :	reg="hualien2";	udn="2026.6.15";	break;
+	case "3170270910386143734" :	reg="sf6";	break;
 }

@@ -19,4 +19,5 @@ jnjRef('180823272','jnjmvtv.blogspot.com/2024/07/in-time','鐘點戰 ─ 科幻�
 jnjRef('632','jnjmvtv.blogspot.com/2024/12/blog-post_15','異形：羅穆路斯');
 jnjRef('190830145','jnjmvtv.blogspot.com/2026/06/star-cityfor-all-mankind','星城、太空使命5');
 jnjRef('191329909','jnjmvtv.blogspot.com/2026/07/blog-post_16','氣體人第一號');
+jnjRef('192688425','jnjmvtv.blogspot.com/2026/11/blog-post','希望：末日血戰');
 jnjRefList += '</ul></p></td></tr></table>';
