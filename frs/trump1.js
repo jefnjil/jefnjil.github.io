@@ -2,6 +2,7 @@ jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱
 jnjRef('159','jnjtalks.blogspot.com/2020/12/blog-post_30','川普2020');
 jnjRef('663','jnjtalks.blogspot.com/2025/11/blog-post','聖人還是罪人？');
 jnjRef('183724377','jnjtalks.blogspot.com/2025/10/blog-post','烽火戲眾將');
+jnjRef('724','jnjtalks.blogspot.com/2026/11/blog-post_05','看開票癱瘓失聲');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('651','jnjtalks.blogspot.com/2025/06/blog-post','此門為錢開 無財莫進來');
 jnjRef('683','jnjtalks.blogspot.com/2026/03/blog-post','舉杯邀明月 對影成三人');
