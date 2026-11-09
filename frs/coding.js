@@ -6,7 +6,7 @@ jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('165979567','jnjtech.blogspot.com/2021/07/line','解鎖舊版 Line 聊天室備份');
 jnjRef('186117787','jnjtech.blogspot.com/2026/02/ai','第一次要 AI 寫程式');
 jnjRef('706','jnjtech.blogspot.com/2026/09/blog-post','遙想當年，疑作盜版幫兇');
-jnjRef('721','jnjtech.blogspot.com/2026/10/ai_01945974087','AI 時代生產力指標');
+jnjRef('192716054','jnjtech.blogspot.com/2026/10/ai_01945974087','AI 時代生產力指標');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('575','jnjtech.blogspot.com/2013/11/blog-post_22','由影像擷取裝置取得資料流');
 jnjRef('180250389','jnjtech.blogspot.com/2024/01/c-webview2-webbrowser','C# 以 WebView2 代替 WebBrowser 的簡單筆記');
