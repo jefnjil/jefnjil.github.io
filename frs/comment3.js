@@ -3,6 +3,7 @@ jnjRef('163060618','jnjhome.blogspot.com/2021/05/blog-post','居家上班第一�
 jnjRef('541','jnjtalks.blogspot.com/2006/09/blog-post_93','律師與蟑螂');
 jnjRef('182205928','jnjtalks.blogspot.com/2025/04/blog-post','烽火戲諸侯現代版');
 jnjRef('703','jnjtalks.blogspot.com/2026/09/blog-post','《雞雞》與《咪咪》');
+jnjRef('728','jnjtalks.blogspot.com/2026/11/blog-post_12','所謂「金句」');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('180213768','jnjtalks.blogspot.com/2024/01/blog-post','民調封關談總統大選');
 jnjRef('180615264','jnjhome.blogspot.com/2024/05/blog-post','日本通不通日文');

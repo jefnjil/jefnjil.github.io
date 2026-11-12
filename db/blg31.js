@@ -25,4 +25,5 @@ switch(docID)
 	case "9160875277890585831" :	reg="identity";	break;
 	case "2909356332583409231" :	reg="draw";	break;
 	case "6122496877314192931" :	reg="family";	break;
+	case "4047626373664590831" :	reg="blog3";	break;
 }

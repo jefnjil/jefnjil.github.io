@@ -32,4 +32,5 @@ switch(docID)
 	case "8845689630174012287" :	reg="tech1";	break;
 	case "2617356056166993087" :	reg="news2";	break;
 	case "2359234121656379287" :	reg="trump";	break;
+	case "914000415692136887" :	reg="comment3";	break;
 }

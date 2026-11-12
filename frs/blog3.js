@@ -10,6 +10,7 @@ jnjRef('700','jnjliterature.blogspot.com/2026/08/blog-post','「牛來」與「�
 jnjRef('697','jnjtalks.blogspot.com/2026/08/1348','演習途中滾落48顆砲彈');
 jnjRef('192405687','jnjblogbiz.blogspot.com/2026/09/1900','閒聊兼發文1900篇紀念');
 jnjRef('719','jnjblogbiz.blogspot.com/2024/05/netflix3-body-problem','我參加三體演出');
+jnjRef('727','jnjblogbiz.blogspot.com/2026/11/blog-post','碎念臉書追蹤');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('178401113','jnjblogbiz.blogspot.com/2023/02/1600','點閱人氣四千萬暨發文1600篇紀念');
 jnjRef('630','jnjblogbiz.blogspot.com/2025/03/youtube','已讀不回，對方說你沒有禮貌');
