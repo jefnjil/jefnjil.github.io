@@ -31,4 +31,5 @@ switch(docID)
 	case "460599118079252003" :	reg="economic";	break;
 	case "2759212276997336503" :	reg="news5";	break;
 	case "3187644714320567503" :	reg="trump1";	break;
+	case "8421222178187057103" :	reg="crime5";	break;
 }
