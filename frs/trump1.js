@@ -15,4 +15,5 @@ jnjRef('652','jnjtalks.blogspot.com/2025/06/blog-post_16','無王日，無人為
 jnjRef('658','jnjtalks.blogspot.com/2025/10/blog-post_14','經濟學 靠港費 和平獎');
 jnjRef('698','jnjtalks.blogspot.com/2026/08/blog-post','華郵曝川普瞞天過海躲暗殺威脅！');
 jnjRef('714','jnjtalks.blogspot.com/2026/10/5','白宮新發言人上任5天就被開除');
+jnjRef('729','jnjtalks.blogspot.com/2026/11/blog-post_19','川普做到一件事就算勝利');
 jnjRefList += '</ul></p></td></tr></table>';
