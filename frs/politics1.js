@@ -5,6 +5,7 @@ jnjRef('507','jnjtalks.blogspot.com/2007/12/blog-post_30','愛國不等於愛這
 jnjRef('538','jnjtalks.blogspot.com/2006/09/blog-post_17','有云施明德可競選總統');
 jnjRef('644','jnjtalks.blogspot.com/2025/05/blog-post_19','林昶佐將出任駐芬蘭代表');
 jnjRef('183108137','jnjmvtv.blogspot.com/2025/07/zero-day','零日風暴 (Zero Day) 雜感');
+jnjRef('192888001','jnjliterature.blogspot.com/2026/11/blog-post','羅大佑 《鹿港小鎮》與飛碟專訪');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('539','jnjtalks.blogspot.com/2006/09/blog-post_3','政府高層叫人移民中美洲');
 jnjRef('543','jnjtalks.blogspot.com/2012/05/blog-post_78','同理心看待群眾運動');
