@@ -15,4 +15,5 @@ jnjRef('181822961','jnjmvtv.blogspot.com/2025/02/4','王者天下4：大將軍�
 jnjRef('183824956','jnjmvtv.blogspot.com/2025/10/blog-post','大決戰之遼瀋、准海、平津戰役');
 jnjRef('192495125','jnjmvtv.blogspot.com/2026/09/blog-post','歡迎來龍餐館 ── 被統戰了');
 jnjRef('192575395','jnjmvtv.blogspot.com/2026/10/band-of-brothers','Band of Brothers 廿五週年');
+jnjRef('192936679','jnjmvtv.blogspot.com/2026/11/blog-post_19','一八九四·甲午大海戰');
 jnjRefList += '</ul></p></td></tr></table>';
