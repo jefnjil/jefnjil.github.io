@@ -14,4 +14,5 @@ jnjRef('694','jnjmvtv.blogspot.com/2026/04/scarpettawar-machine','獵殺史卡�
 jnjRef('175631913','jnjmvtv.blogspot.com/2022/07/under-banner-of-heaven','天堂的旗幟下');
 jnjRef('174294119','jnjmvtv.blogspot.com/2022/05/why-didnt-they-ask-evans','克莉絲蒂「懸崖下謀殺案」');
 jnjRef('629','jnjmvtv.blogspot.com/2024/12/blog-post','積雪下的孤寂靈魂');
+jnjRef('193093937','jnjmvtv.blogspot.com/2026/11/chiaroscuro','明暗謎案錄');
 jnjRefList += '</ul></p></td></tr></table>';
