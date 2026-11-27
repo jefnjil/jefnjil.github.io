@@ -1,6 +1,6 @@
 jnjRefList += '<table border=0 width=100%><tr><td valign=top><p><ul><b>延伸閱讀</b>';
-jnjRef('660','jnjtalks.blogspot.com/2025/10/cos','日女Cos「庫巴姬」惹議');
 jnjRef('674','jnjtalks.blogspot.com/2026/01/blog-post_26','北海道早餐店被出征');
+jnjRef('684','jnjtalks.blogspot.com/2026/03/202665','65歲才領年金吃虧了');
 jnjRef('702','jnjhome.blogspot.com/2026/09/blog-post','林益世考上牙醫');
 jnjRef('712','jnjtalks.blogspot.com/2026/10/blog-post','高市早苗說重話');
 jnjRef('723','jnjtalks.blogspot.com/2026/11/blog-post','拋棄繼承找律師追討');
@@ -8,17 +8,16 @@ jnjRef('730','jnjtalks.blogspot.com/2026/11/blog-post_20','高市訪中遭冷遇
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
 jnjRef('675','jnjtalks.blogspot.com/2026/01/64','台64線丟包案非過失');
 jnjRef('679','jnjtalks.blogspot.com/2026/02/5-15','找不到國5北返隊伍尾端');
-jnjRef('684','jnjtalks.blogspot.com/2026/03/202665','65歲才領年金吃虧了');
 jnjRef('699','jnjtalks.blogspot.com/2026/08/blog-post_18','立法院展示踹倒機器狗');
 jnjRef('700','jnjliterature.blogspot.com/2026/08/blog-post','「牛來」與「台北物語」');
 jnjRef('708','jnjtalks.blogspot.com/2026/09/blog-post_17','「離婚要到民政局領證」 ');
 jnjRef('717','jnjtalks.blogspot.com/2026/10/blog-post_22','林飛帆赴國防大學演講');
 jnjRefList += '</ul></p></td><td valign=top><p><ul>';
-jnjRef('669','jnjtalks.blogspot.com/2025/11/500','台大雞排事件500人撲空');
 jnjRef('676','jnjtalks.blogspot.com/2026/02/blog-post','挨告抄襲萊爾校長團隊反酸');
 jnjRef('678','jnjtalks.blogspot.com/2026/02/blog-post_21','花蓮燈會主燈被譏「像鹹魚」');
 jnjRef('697','jnjtalks.blogspot.com/2026/08/1348','演習途中滾落48顆砲彈');
 jnjRef('701','jnjtalks.blogspot.com/2026/08/blog-post_26','五熊被移送 日媒公開個資');
 jnjRef('710','jnjtalks.blogspot.com/2026/10/14','要理解徐佳青是一個母親');
 jnjRef('716','jnjtalks.blogspot.com/2026/10/15','勞保年資未滿15年也能領年金？');
+jnjRef('731','jnjtalks.blogspot.com/2026/11/blog-post_27','連鎖早餐店遭疑播放義勇軍進行曲');
 jnjRefList += '</ul></p></td></tr></table>';
